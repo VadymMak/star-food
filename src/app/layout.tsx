@@ -4,6 +4,7 @@ import { LanguageProvider } from "@/context/LanguageContext";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
+import Analytics from "@/components/Analytics/Analytics";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -21,7 +22,10 @@ const sourceSans = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-  title: "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",
+  title: {
+    default: "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",
+    template: "%s | Star Food",
+  },
   description:
     "Star Food by UB Market LTD — EU-registered food trading company based in Bulgaria. Wholesale sunflower oil, sugar, dairy products. Export & import across Europe.",
   keywords: [
@@ -31,6 +35,10 @@ export const metadata: Metadata = {
     "vegetable oil supplier EU",
     "Star Food",
     "UB Market LTD",
+    "refined sunflower oil",
+    "crude sunflower oil bulk",
+    "food export import Europe",
+    "wholesale food products",
   ],
   authors: [{ name: "UB Market LTD" }],
   openGraph: {
@@ -60,8 +68,18 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
   metadataBase: new URL("https://ub-market.com"),
+  alternates: {
+    canonical: "https://ub-market.com",
+  },
 };
 
 const jsonLd = {
@@ -109,6 +127,7 @@ export default function RootLayout({
         />
       </head>
       <body className={sourceSans.className}>
+        <Analytics />
         <LanguageProvider>
           <div className="pageWrapper">
             <Header />
