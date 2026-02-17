@@ -4,36 +4,36 @@ import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { FaBars, FaTimes } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
+import LanguageSwitcher from "@/components/LanguageSwitcher/LanguageSwitcher";
 import styles from "./Header.module.css";
 
-const navLinks = [
-  { href: "/", label: "Home" },
-  { href: "/about", label: "About" },
-  { href: "/products", label: "Products" },
-  { href: "/blog", label: "Blog" },
-  { href: "/contacts", label: "Contacts" },
-];
-
 export default function Header() {
+  const { t } = useLanguage();
   const [menuOpen, setMenuOpen] = useState(false);
   const [hidden, setHidden] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const lastScrollY = useRef(0);
 
+  const navLinks = [
+    { href: "/", label: t.nav.home },
+    { href: "/about", label: t.nav.about },
+    { href: "/products", label: t.nav.products },
+    { href: "/blog", label: t.nav.blog },
+    { href: "/contacts", label: t.nav.contacts },
+  ];
+
   useEffect(() => {
     const handleScroll = () => {
       const currentY = window.scrollY;
 
-      // Hide on scroll down, show on scroll up
       if (currentY > lastScrollY.current && currentY > 100) {
         setHidden(true);
       } else {
         setHidden(false);
       }
 
-      // Add background opacity after scrolling past hero
       setScrolled(currentY > 50);
-
       lastScrollY.current = currentY;
     };
 
@@ -50,7 +50,6 @@ export default function Header() {
   return (
     <header className={headerClass}>
       <div className={styles.inner}>
-        {/* Logo */}
         <Link href="/" className={styles.logoBox}>
           <Image
             src="/icons/logo.webp"
@@ -62,7 +61,6 @@ export default function Header() {
           />
         </Link>
 
-        {/* Desktop Nav */}
         <nav className={styles.desktopNav}>
           {navLinks.map((link) => (
             <Link key={link.href} href={link.href} className={styles.navLink}>
@@ -71,12 +69,8 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* Language Switcher (placeholder) */}
-        <div className={styles.langSwitch}>
-          🇬🇧 EN
-        </div>
+        <LanguageSwitcher />
 
-        {/* Mobile Hamburger */}
         <button
           className={styles.hamburger}
           onClick={() => setMenuOpen(!menuOpen)}
@@ -86,7 +80,6 @@ export default function Header() {
         </button>
       </div>
 
-      {/* Mobile Menu Overlay */}
       <div className={`${styles.mobileMenu} ${menuOpen ? styles.mobileMenuOpen : ""}`}>
         <nav className={styles.mobileNav}>
           {navLinks.map((link) => (
@@ -101,7 +94,7 @@ export default function Header() {
           ))}
         </nav>
         <div className={styles.mobileLang}>
-          🇬🇧 EN
+          <LanguageSwitcher />
         </div>
       </div>
     </header>

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Source_Sans_3 } from "next/font/google";
+import { LanguageProvider } from "@/context/LanguageContext";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
@@ -108,12 +109,14 @@ export default function RootLayout({
         />
       </head>
       <body className={sourceSans.className}>
-        <div className="pageWrapper">
-          <Header />
-          <main>{children}</main>
-          <Footer />
-        </div>
-        <WhatsAppButton />
+        <LanguageProvider>
+          <div className="pageWrapper">
+            <Header />
+            <main>{children}</main>
+            <Footer />
+          </div>
+          <WhatsAppButton />
+        </LanguageProvider>
       </body>
     </html>
   );

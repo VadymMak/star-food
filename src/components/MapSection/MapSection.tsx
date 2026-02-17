@@ -1,15 +1,17 @@
+"use client";
+
+import { useLanguage } from "@/context/LanguageContext";
 import styles from "./MapSection.module.css";
 
 export default function MapSection() {
+  const { t } = useLanguage();
+
   return (
     <section className={styles.section}>
       <div className={styles.inner}>
-        <span className="section-label">Our Location</span>
-        <h2
-          className="section-title"
-          style={{ fontFamily: "var(--font-display)" }}
-        >
-          Find Us in Varna, Bulgaria
+        <span className="section-label">{t.contact.mapLabel}</span>
+        <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+          {t.contact.mapTitle}
         </h2>
         <iframe
           className={styles.map}

@@ -1,7 +1,12 @@
+"use client";
+
 import Link from "next/link";
 import { FaHome } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
 
 export default function NotFound() {
+  const { t } = useLanguage();
+
   return (
     <section
       style={{
@@ -33,7 +38,7 @@ export default function NotFound() {
           marginBottom: "12px",
         }}
       >
-        Page Not Found
+        {t.notFound.title}
       </h1>
       <p
         style={{
@@ -43,10 +48,10 @@ export default function NotFound() {
           maxWidth: "400px",
         }}
       >
-        The page you&apos;re looking for doesn&apos;t exist or has been moved.
+        {t.notFound.text}
       </p>
       <Link href="/" className="btn btn-primary">
-        <FaHome /> Back to Home
+        <FaHome /> {t.notFound.cta}
       </Link>
     </section>
   );

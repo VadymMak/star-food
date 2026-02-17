@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "blog": "Blog",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "badge": "International Food Trading",
+    "title1": "Premium",
+    "titleHighlight": "Sunflower Oil",
+    "title2": "& Food Products for Europe",
+    "subtitle": "UB Market LTD connects leading manufacturers with wholesale buyers across Europe. Reliable supply, competitive prices, road transport delivery.",
+    "cta1": "Request a Quote",
+    "cta2": "View Products"
+  },
+  "trust": {
+    "years": "Years in Business",
+    "countries": "Countries Served",
+    "tons": "Tons Delivered",
+    "partners": "Partner Companies"
+  },
+  "aboutPreview": {
+    "label": "About Us",
+    "title": "Your Trusted Partner in Food Export & Import",
+    "p1": "UB MARKET LTD is an international trading company specializing in the export and import of food products. We act as a responsible intermediary, connecting leading product manufacturers with wholesale buyers across Europe.",
+    "p2": "Our main specialization is international trade in sunflower oil — refined, crude, and high-oleic varieties, available in bottles and bulk tankers.",
+    "features": [
+      "Refined & Crude Oils",
+      "Road Transport (EU)",
+      "PET Bottles & Bulk",
+      "Competitive Pricing",
+      "Quality Certified",
+      "Multilingual Support"
+    ],
+    "cta": "Learn More"
+  },
+  "products": {
+    "label": "Our Products",
+    "title": "What We Supply",
+    "subtitle": "We source high-quality food products directly from reliable manufacturers and deliver them to wholesale buyers across Europe.",
+    "cta": "View All Products",
+    "requestPrice": "Request Price",
+    "items": {
+      "sunflower-oil": {
+        "name": "Sunflower Oil",
+        "description": "Refined, deodorized, winterized. PET bottles (0.5–10L) and bulk tank trucks."
+      },
+      "frying-oil": {
+        "name": "Frying Oil",
+        "description": "High-stability oil for professional food service and industrial frying applications."
+      },
+      "sugar": {
+        "name": "Beet Sugar",
+        "description": "Premium white beet sugar. Available in 25kg, 50kg bags and big bags."
+      },
+      "high-oleic": {
+        "name": "High-Oleic Sunflower Oil",
+        "description": "Refined high-oleic variety — bottled and bulk. Ideal for health-conscious markets."
+      },
+      "dairy": {
+        "name": "Dairy Products",
+        "description": "Milk, butter, and dairy derivatives from certified European producers."
+      },
+      "mayonnaise": {
+        "name": "Mayonnaise & Condiments",
+        "description": "Traditional and industrial mayonnaise, sauces, and condiment products."
+      }
+    }
+  },
+  "howWeWork": {
+    "label": "How We Work",
+    "title": "Simple Process, Reliable Results",
+    "subtitle": "From first contact to delivery — we handle everything to ensure a smooth trading experience.",
+    "steps": [
+      {
+        "title": "Contact & Inquiry",
+        "text": "Tell us what you need — product type, volume, delivery destination. We'll respond within 24 hours."
+      },
+      {
+        "title": "Quote & Agreement",
+        "text": "We provide competitive pricing, arrange product samples if needed, and finalize the contract terms."
+      },
+      {
+        "title": "Delivery & Support",
+        "text": "Products are shipped via road transport with full documentation. We ensure on-time delivery and ongoing support."
+      }
+    ]
+  },
+  "logistics": {
+    "label": "Logistics & Quality",
+    "title": "Built for B2B Trading",
+    "delivery": "Delivery Options",
+    "quality": "Quality Standards",
+    "deliveryItems": [
+      "Road Transport (EU)",
+      "PET Bottles (0.5–10L)",
+      "Bulk Tank Trucks",
+      "Palletized Cargo",
+      "FOB / CIF / DAP",
+      "Pan-European Delivery"
+    ],
+    "qualityItems": [
+      "ISO Certified Suppliers",
+      "HACCP Compliance",
+      "Non-GMO Available",
+      "Full Documentation",
+      "Lab Test Reports",
+      "EU Food Safety Standards"
+    ]
+  },
+  "cta": {
+    "label": "Let's Work Together",
+    "title": "Ready to Source Quality Food Products?",
+    "subtitle": "Get a competitive quote for sunflower oil, sugar, dairy, and more. We respond within 24 hours.",
+    "cta1": "Request a Quote",
+    "cta2": "Call Us Now"
+  },
+  "contact": {
+    "address": "Address",
+    "addressValue": "Bulgaria, Varna 9010\nSirma Voivoda St., b.1, ap. 21",
+    "email": "Email",
+    "phone": "Phone",
+    "hours": "Office Hours",
+    "hoursValue": "Mon–Fri: 9:00–17:00\nSat: 10:00–14:00\nSun: Closed",
+    "social": "Follow Us",
+    "socialTitle": "Connect on Social Media",
+    "mapLabel": "Our Location",
+    "mapTitle": "Find Us in Varna, Bulgaria"
+  },
+  "footer": {
+    "copyright": "UB Market LTD. All rights reserved."
+  },
+  "aboutPage": {
+    "label": "About Us",
+    "heroTitle": "Your Trusted Partner in European Food Trading",
+    "whoWeAre": "Who We Are",
+    "whoP1": "UB MARKET LTD is an EU-registered international trading company based in Varna, Bulgaria. We specialize in the export and import of food products, acting as a responsible intermediary between leading manufacturers and wholesale buyers across Europe.",
+    "whoP2": "Our main specialization is international trade in sunflower oil. We supply a wide range of products — refined, crude, and high-oleic varieties — available in PET bottles (0.5–10 liters) and bulk tank trucks.",
+    "whoP3": "We source products directly from verified producers and handle everything from pricing negotiation to logistics and documentation, ensuring a smooth and transparent trading experience for every client.",
+    "whyLabel": "Why Choose Us",
+    "whyTitle": "What Sets Us Apart",
+    "values": [
+      { "title": "European Reach", "text": "We deliver across 12+ EU countries, connecting Eastern European producers with Western buyers." },
+      { "title": "Trusted Partnerships", "text": "Long-term relationships with verified manufacturers ensure consistent quality and supply." },
+      { "title": "Reliable Logistics", "text": "Full road transport coverage across Europe with flexible delivery terms — FOB, CIF, DAP." },
+      { "title": "Quality Assured", "text": "All products meet EU food safety standards with full documentation and lab test reports." }
+    ],
+    "rangeLabel": "What We Trade",
+    "rangeTitle": "Our Product Range",
+    "rangeSubtitle": "We supply a wide range of food products directly from reliable manufacturers across Eastern Europe.",
+    "productList": [
+      "Sunflower oil (refined, deodorized, winterized)",
+      "Sunflower oil (unrefined, crude) — bulk",
+      "High-oleic sunflower oil (refined)",
+      "Frying oil for food service",
+      "Beet sugar (25kg, 50kg bags)",
+      "Dairy products (milk, butter)",
+      "Mayonnaise and condiments",
+      "Other vegetable oils (olive, soybean, rapeseed)"
+    ],
+    "ctaTitle": "Ready to Start Trading?",
+    "ctaText": "Contact us today for competitive pricing and reliable supply.",
+    "ctaCta": "Get in Touch"
+  },
+  "productsPage": {
+    "label": "Product Catalog",
+    "heroTitle": "Our Products",
+    "heroSubtitle": "High-quality food products sourced from verified Eastern European producers for wholesale buyers across the EU."
+  },
+  "contactsPage": {
+    "label": "Get in Touch",
+    "heroTitle": "Contact Us",
+    "heroSubtitle": "We respond within 24 hours. Reach out for pricing, samples, or partnership inquiries."
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "News & Insights",
+    "subtitle": "Market updates, industry trends, and stories from the world of food trading.",
+    "comingTitle": "Blog is Coming Soon",
+    "comingText": "We're preparing our first articles about sunflower oil markets, food industry trends, and behind-the-scenes stories. Stay tuned!",
+    "backHome": "Back to Home"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "text": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to Home"
+  }
+}

@@ -1,13 +1,18 @@
+"use client";
+
+import { useLanguage } from "@/context/LanguageContext";
 import styles from "./TrustNumbers.module.css";
 
-const stats = [
-  { number: "3+", label: "Years in Business" },
-  { number: "12+", label: "Countries Served" },
-  { number: "500+", label: "Tons Delivered" },
-  { number: "50+", label: "Partner Companies" },
-];
-
 export default function TrustNumbers() {
+  const { t } = useLanguage();
+
+  const stats = [
+    { number: "3+", label: t.trust.years },
+    { number: "12+", label: t.trust.countries },
+    { number: "500+", label: t.trust.tons },
+    { number: "50+", label: t.trust.partners },
+  ];
+
   return (
     <section className={styles.trust}>
       <div className={styles.grid}>

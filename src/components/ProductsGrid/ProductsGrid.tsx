@@ -1,50 +1,57 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
 import { products } from "@/data/products";
+import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ProductsGrid.module.css";
 
 export default function ProductsGrid() {
+  const { t } = useLanguage();
+
   return (
     <section className={styles.section}>
       <div className={styles.inner}>
         <div className={styles.header}>
-          <span className="section-label">Our Products</span>
+          <span className="section-label">{t.products.label}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            What We Supply
+            {t.products.title}
           </h2>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
-            We source high-quality food products directly from reliable
-            manufacturers and deliver them to wholesale buyers across Europe.
+            {t.products.subtitle}
           </p>
         </div>
 
         <div className={styles.grid}>
-          {products.map((product) => (
-            <div key={product.id} className={styles.card}>
-              {product.tag && (
-                <span className={styles.tag}>{product.tag}</span>
-              )}
-              <div className={styles.imageWrap}>
-                <Image
-                  src={product.image}
-                  alt={product.name}
-                  fill
-                  sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
-                  style={{ objectFit: "cover" }}
-                />
+          {products.map((product) => {
+            const translated = t.products.items[product.id as keyof typeof t.products.items];
+            return (
+              <div key={product.id} className={styles.card}>
+                {product.tag && (
+                  <span className={styles.tag}>{product.tag}</span>
+                )}
+                <div className={styles.imageWrap}>
+                  <Image
+                    src={product.image}
+                    alt={translated?.name || product.name}
+                    fill
+                    sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
+                    style={{ objectFit: "cover" }}
+                  />
+                </div>
+                <div className={styles.body}>
+                  <h3 className={styles.name}>{translated?.name || product.name}</h3>
+                  <p className={styles.desc}>{translated?.description || product.description}</p>
+                </div>
               </div>
-              <div className={styles.body}>
-                <h3 className={styles.name}>{product.name}</h3>
-                <p className={styles.desc}>{product.description}</p>
-              </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
 
         <div className={styles.cta}>
           <Link href="/products" className="btn btn-outline">
-            View All Products <FaArrowRight />
+            {t.products.cta} <FaArrowRight />
           </Link>
         </div>
       </div>

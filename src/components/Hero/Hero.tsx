@@ -2,29 +2,29 @@
 
 import Link from "next/link";
 import { FaEnvelope, FaBoxOpen } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
 import styles from "./Hero.module.css";
 
 export default function Hero() {
+  const { t } = useLanguage();
+
   return (
     <section className={styles.hero}>
       <div className={styles.overlay} />
       <div className={styles.content}>
-        <span className={styles.badge}>International Food Trading</span>
+        <span className={styles.badge}>{t.hero.badge}</span>
         <h1 className={styles.title}>
-          Premium <span className={styles.gold}>Sunflower Oil</span> &amp; Food
-          Products for Europe
+          {t.hero.title1}{" "}
+          <span className={styles.gold}>{t.hero.titleHighlight}</span>{" "}
+          {t.hero.title2}
         </h1>
-        <p className={styles.subtitle}>
-          UB Market LTD connects leading manufacturers with wholesale buyers
-          across Europe. Reliable supply, competitive prices, road transport
-          delivery.
-        </p>
+        <p className={styles.subtitle}>{t.hero.subtitle}</p>
         <div className="btn-group" style={{ justifyContent: "center" }}>
           <Link href="/contacts" className="btn btn-primary">
-            <FaEnvelope /> Request a Quote
+            <FaEnvelope /> {t.hero.cta1}
           </Link>
           <Link href="/products" className="btn btn-outline">
-            <FaBoxOpen /> View Products
+            <FaBoxOpen /> {t.hero.cta2}
           </Link>
         </div>
       </div>
