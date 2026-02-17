@@ -1,0 +1,93 @@
+.section {
+  background: var(--dark);
+}
+
+.inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 100px 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+/* ===== GRID ===== */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+}
+
+/* ===== BOX ===== */
+.boxTitle {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  margin-bottom: 24px;
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.boxIcon {
+  color: var(--gold);
+  font-size: 1.3rem;
+}
+
+/* ===== TAGS ===== */
+.tagList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.tag {
+  background: rgba(212, 168, 67, 0.08);
+  border: 1px solid rgba(212, 168, 67, 0.2);
+  color: var(--gold-light);
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all var(--transition);
+}
+
+.tag:hover {
+  background: rgba(212, 168, 67, 0.15);
+  border-color: rgba(212, 168, 67, 0.4);
+}
+
+.tagIcon {
+  color: var(--gold);
+  font-size: 1rem;
+  display: flex;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .inner {
+    padding: 60px 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .inner {
+    padding: 50px 16px;
+  }
+
+  .tag {
+    padding: 8px 14px;
+    font-size: 0.8rem;
+  }
+}

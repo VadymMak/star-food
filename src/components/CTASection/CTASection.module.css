@@ -1,0 +1,41 @@
+.cta {
+  position: relative;
+  padding: 120px 20px;
+  text-align: center;
+  background: url("/images/contact-us.webp") center / cover no-repeat;
+  overflow: hidden;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.82);
+  z-index: 1;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+}
+
+.text {
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.7;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 600px) {
+  .cta {
+    padding: 80px 16px;
+  }
+
+  .text {
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
+}

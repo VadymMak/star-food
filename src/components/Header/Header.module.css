@@ -7,10 +7,21 @@
   width: 100%;
   max-width: var(--max-w-wide);
   z-index: 1000;
-  background: rgba(10, 10, 10, 0.92);
+  background: rgba(10, 10, 10, 0.7);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(212, 168, 67, 0.15);
+  transition: transform 0.35s ease, background 0.35s ease;
+}
+
+/* Hide on scroll down */
+.headerHidden {
+  transform: translateX(-50%) translateY(-100%);
+}
+
+/* Solid background after scroll */
+.headerScrolled {
+  background: rgba(10, 10, 10, 0.95);
 }
 
 .inner {

@@ -146,6 +146,18 @@ ul, ol {
   flex-wrap: wrap;
 }
 
+/* ===== ADD THIS TO THE END OF globals.css ===== */
+
+/* ===== PAGE WRAPPER ===== */
+.pageWrapper {
+  max-width: var(--max-w-wide);
+  margin: 0 auto;
+  overflow-x: hidden;
+  position: relative;
+  background: var(--dark);
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.5);
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 900px) {
   .section-title {

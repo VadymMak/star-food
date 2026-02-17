@@ -107,9 +107,11 @@ export default function RootLayout({
         />
       </head>
       <body className={sourceSans.className}>
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        <div className="pageWrapper">
+          <Header />
+          <main>{children}</main>
+          <Footer />
+        </div>
       </body>
     </html>
   );
