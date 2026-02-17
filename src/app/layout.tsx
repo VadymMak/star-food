@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Playfair_Display, Source_Sans_3 } from "next/font/google";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -112,6 +113,7 @@ export default function RootLayout({
           <main>{children}</main>
           <Footer />
         </div>
+        <WhatsAppButton />
       </body>
     </html>
   );

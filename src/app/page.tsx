@@ -5,6 +5,8 @@ import ProductsGrid from "@/components/ProductsGrid/ProductsGrid";
 import HowWeWork from "@/components/HowWeWork/HowWeWork";
 import Logistics from "@/components/Logistics/Logistics";
 import CTASection from "@/components/CTASection/CTASection";
+import ContactStrip from "@/components/ContactStrip/ContactStrip";
+import MapSection from "@/components/MapSection/MapSection";
 
 export default function Home() {
   return (
@@ -16,6 +18,8 @@ export default function Home() {
       <HowWeWork />
       <Logistics />
       <CTASection />
+      <ContactStrip />
+      <MapSection />
     </>
   );
 }
