@@ -186,5 +186,27 @@
     "title": "Page Not Found",
     "text": "The page you're looking for doesn't exist or has been moved.",
     "cta": "Back to Home"
+  },
+   "contactForm": {
+    "title": "Send Us a Message",
+    "subtitle": "Fill out the form and we'll get back to you within 24 hours.",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+1 234 567 890",
+    "subject": "Subject",
+    "subjectDefault": "Select a topic...",
+    "subjects": ["Price Inquiry", "Product Samples", "Logistics & Delivery", "Partnership", "Other"],
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your needs — products, volumes, delivery destination...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message Sent!",
+    "successText": "Thank you for your inquiry. We'll respond within 24 hours.",
+    "sendAnother": "Send Another Message",
+    "errorText": "Something went wrong. Please try again or email us directly.",
+    "emailDirect": "Send email directly to ubmarket2022@gmail.com"
   }
 }

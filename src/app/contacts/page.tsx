@@ -10,6 +10,7 @@ import {
   FaWhatsapp,
 } from "react-icons/fa";
 import { useLanguage } from "@/context/LanguageContext";
+import ContactForm from "@/components/ContactForm/ContactForm";
 import styles from "./contacts.module.css";
 
 export default function ContactsPage() {
@@ -68,6 +69,7 @@ export default function ContactsPage() {
         </div>
       </section>
 
+      {/* Contact Cards */}
       <section className={styles.section}>
         <div className={styles.grid}>
           {contactItems.map((item) => (
@@ -93,6 +95,12 @@ export default function ContactsPage() {
         </div>
       </section>
 
+      {/* Contact Form */}
+      <section className={styles.formSection}>
+        <ContactForm />
+      </section>
+
+      {/* Social Links */}
       <section className={styles.socialSection}>
         <div className={styles.socialInner}>
           <span className="section-label">{c.social}</span>
@@ -116,6 +124,7 @@ export default function ContactsPage() {
         </div>
       </section>
 
+      {/* Map */}
       <section className={styles.mapSection}>
         <div className={styles.mapInner}>
           <span className="section-label">{c.mapLabel}</span>
