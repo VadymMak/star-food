@@ -6,25 +6,26 @@ import { useLanguage } from "@/context/LanguageContext";
 import styles from "./Hero.module.css";
 
 export default function Hero() {
-  const { t } = useLanguage();
+  const { locale, t } = useLanguage();
+  const h = t?.hero || {};
 
   return (
     <section className={styles.hero}>
       <div className={styles.overlay} />
       <div className={styles.content}>
-        <span className={styles.badge}>{t.hero.badge}</span>
+        <span className={styles.badge}>{h.badge || "International Food Trading"}</span>
         <h1 className={styles.title}>
-          {t.hero.title1}{" "}
-          <span className={styles.gold}>{t.hero.titleHighlight}</span>{" "}
-          {t.hero.title2}
+          {h.title1 || "Premium"}{" "}
+          <span className={styles.gold}>{h.titleHighlight || "Sunflower Oil"}</span>{" "}
+          {h.title2 || "& Food Products for Europe"}
         </h1>
-        <p className={styles.subtitle}>{t.hero.subtitle}</p>
+        <p className={styles.subtitle}>{h.subtitle}</p>
         <div className="btn-group" style={{ justifyContent: "center" }}>
-          <Link href="/contacts" className="btn btn-primary">
-            <FaEnvelope /> {t.hero.cta1}
+          <Link href={`/${locale}/contacts`} className="btn btn-primary">
+            <FaEnvelope /> {h.cta1 || "Request a Quote"}
           </Link>
-          <Link href="/products" className="btn btn-outline">
-            <FaBoxOpen /> {t.hero.cta2}
+          <Link href={`/${locale}/products`} className="btn btn-outline">
+            <FaBoxOpen /> {h.cta2 || "View Products"}
           </Link>
         </div>
       </div>

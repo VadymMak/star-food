@@ -16,20 +16,20 @@ import styles from "./about.module.css";
 const valueIcons = [FaGlobeEurope, FaHandshake, FaTruck, FaShieldAlt];
 
 export default function AboutPage() {
-  const { t } = useLanguage();
-  const ap = t.aboutPage;
+  const { locale, t } = useLanguage();
+  const ap = t?.aboutPage || {};
 
   return (
     <>
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
-          <span className="section-label">{ap.label}</span>
+          <span className="section-label">{ap.label || "About Us"}</span>
           <h1
             className="section-title"
             style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
           >
-            {ap.heroTitle}
+            {ap.heroTitle || "Your Trusted Partner in European Food Trading"}
           </h1>
         </div>
       </section>
@@ -47,7 +47,7 @@ export default function AboutPage() {
           </div>
           <div>
             <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-              {ap.whoWeAre}
+              {ap.whoWeAre || "Who We Are"}
             </h2>
             <p className={styles.text}>{ap.whoP1}</p>
             <p className={styles.text}>{ap.whoP2}</p>
@@ -59,13 +59,13 @@ export default function AboutPage() {
       <section className={styles.sectionDark}>
         <div className={styles.inner}>
           <div className={styles.headerCenter}>
-            <span className="section-label">{ap.whyLabel}</span>
+            <span className="section-label">{ap.whyLabel || "Why Choose Us"}</span>
             <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-              {ap.whyTitle}
+              {ap.whyTitle || "What Sets Us Apart"}
             </h2>
           </div>
           <div className={styles.grid4col}>
-            {ap.values.map((v: { title: string; text: string }, i: number) => {
+            {(ap.values || []).map((v: { title: string; text: string }, i: number) => {
               const Icon = valueIcons[i];
               return (
                 <div key={v.title} className={styles.valueCard}>
@@ -81,16 +81,16 @@ export default function AboutPage() {
 
       <section className={styles.section}>
         <div className={styles.headerCenter}>
-          <span className="section-label">{ap.rangeLabel}</span>
+          <span className="section-label">{ap.rangeLabel || "What We Trade"}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {ap.rangeTitle}
+            {ap.rangeTitle || "Our Product Range"}
           </h2>
           <p className="section-subtitle" style={{ margin: "0 auto 40px" }}>
             {ap.rangeSubtitle}
           </p>
         </div>
         <div className={styles.productList}>
-          {ap.productList.map((p: string) => (
+          {(ap.productList || []).map((p: string) => (
             <div key={p} className={styles.productItem}>
               <FaCheckCircle className={styles.checkIcon} />
               <span>{p}</span>
@@ -103,11 +103,11 @@ export default function AboutPage() {
         <div className={styles.ctaOverlay} />
         <div className={styles.ctaContent}>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {ap.ctaTitle}
+            {ap.ctaTitle || "Ready to Start Trading?"}
           </h2>
           <p className={styles.ctaText}>{ap.ctaText}</p>
-          <Link href="/contacts" className="btn btn-primary">
-            <FaEnvelope /> {ap.ctaCta}
+          <Link href={`/${locale}/contacts`} className="btn btn-primary">
+            <FaEnvelope /> {ap.ctaCta || "Get in Touch"}
           </Link>
         </div>
       </section>

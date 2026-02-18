@@ -1,0 +1,967 @@
+============================================================
+FILE: src/app/[locale]/page.tsx
+============================================================
+// src/app/[locale]/page.tsx — Homepage (locale-aware)
+import Hero from "@/components/Hero/Hero";
+import TrustNumbers from "@/components/TrustNumbers/TrustNumbers";
+import AboutPreview from "@/components/AboutPreview/AboutPreview";
+import ProductsGrid from "@/components/ProductsGrid/ProductsGrid";
+import HowWeWork from "@/components/HowWeWork/HowWeWork";
+import Logistics from "@/components/Logistics/Logistics";
+import CTASection from "@/components/CTASection/CTASection";
+import ContactStrip from "@/components/ContactStrip/ContactStrip";
+import MapSection from "@/components/MapSection/MapSection";
+
+export default function HomePage() {
+  return (
+    <>
+      <Hero />
+      <TrustNumbers />
+      <AboutPreview />
+      <ProductsGrid />
+      <HowWeWork />
+      <Logistics />
+      <CTASection />
+      <ContactStrip />
+      <MapSection />
+    </>
+  );
+}
+
+
+============================================================
+FILE: src/app/[locale]/about/page.tsx
+============================================================
+"use client";
+
+import Image from "next/image";
+import Link from "next/link";
+import {
+  FaCheckCircle,
+  FaGlobeEurope,
+  FaHandshake,
+  FaTruck,
+  FaShieldAlt,
+  FaEnvelope,
+} from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
+import styles from "./about.module.css";
+
+const valueIcons = [FaGlobeEurope, FaHandshake, FaTruck, FaShieldAlt];
+
+export default function AboutPage() {
+  const { t } = useLanguage();
+  const ap = t.aboutPage;
+
+  return (
+    <>
+      <section className={styles.hero}>
+        <div className={styles.heroOverlay} />
+        <div className={styles.heroContent}>
+          <span className="section-label">{ap.label}</span>
+          <h1
+            className="section-title"
+            style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
+          >
+            {ap.heroTitle}
+          </h1>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <div className={styles.grid2col}>
+          <div className={styles.imageWrap}>
+            <Image
+              src="/images/about-us.webp"
+              alt="UB Market warehouse and operations"
+              fill
+              sizes="(max-width: 900px) 100vw, 50vw"
+              style={{ objectFit: "cover" }}
+            />
+          </div>
+          <div>
+            <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+              {ap.whoWeAre}
+            </h2>
+            <p className={styles.text}>{ap.whoP1}</p>
+            <p className={styles.text}>{ap.whoP2}</p>
+            <p className={styles.text}>{ap.whoP3}</p>
+          </div>
+        </div>
+      </section>
+
+      <section className={styles.sectionDark}>
+        <div className={styles.inner}>
+          <div className={styles.headerCenter}>
+            <span className="section-label">{ap.whyLabel}</span>
+            <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+              {ap.whyTitle}
+            </h2>
+          </div>
+          <div className={styles.grid4col}>
+            {ap.values.map((v: { title: string; text: string }, i: number) => {
+              const Icon = valueIcons[i];
+              return (
+                <div key={v.title} className={styles.valueCard}>
+                  <div className={styles.valueIcon}><Icon /></div>
+                  <h3 className={styles.valueTitle}>{v.title}</h3>
+                  <p className={styles.valueText}>{v.text}</p>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <div className={styles.headerCenter}>
+          <span className="section-label">{ap.rangeLabel}</span>
+          <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+            {ap.rangeTitle}
+          </h2>
+          <p className="section-subtitle" style={{ margin: "0 auto 40px" }}>
+            {ap.rangeSubtitle}
+          </p>
+        </div>
+        <div className={styles.productList}>
+          {ap.productList.map((p: string) => (
+            <div key={p} className={styles.productItem}>
+              <FaCheckCircle className={styles.checkIcon} />
+              <span>{p}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className={styles.cta}>
+        <div className={styles.ctaOverlay} />
+        <div className={styles.ctaContent}>
+          <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+            {ap.ctaTitle}
+          </h2>
+          <p className={styles.ctaText}>{ap.ctaText}</p>
+          <Link href="/contacts" className="btn btn-primary">
+            <FaEnvelope /> {ap.ctaCta}
+          </Link>
+        </div>
+      </section>
+    </>
+  );
+}
+
+============================================================
+FILE: src/app/[locale]/products/page.tsx
+============================================================
+"use client";
+
+import Image from "next/image";
+import { FaEnvelope } from "react-icons/fa";
+import { products } from "@/data/products";
+import { useLanguage } from "@/context/LanguageContext";
+import styles from "./products.module.css";
+
+export default function ProductsPage() {
+  const { t } = useLanguage();
+  const pp = t.productsPage;
+
+  return (
+    <>
+      <section className={styles.hero}>
+        <div className={styles.heroOverlay} />
+        <div className={styles.heroContent}>
+          <span className="section-label">{pp.label}</span>
+          <h1
+            className="section-title"
+            style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
+          >
+            {pp.heroTitle}
+          </h1>
+          <p className="section-subtitle" style={{ margin: "0 auto" }}>
+            {pp.heroSubtitle}
+          </p>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <div className={styles.grid}>
+          {products.map((product) => {
+            const translated = t.products.items[product.id as keyof typeof t.products.items];
+            return (
+              <div key={product.id} className={styles.card}>
+                {product.tag && (
+                  <span className={styles.tag}>{product.tag}</span>
+                )}
+                <div className={styles.imageWrap}>
+                  <Image
+                    src={product.image}
+                    alt={translated?.name || product.name}
+                    fill
+                    sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
+                    style={{ objectFit: "cover" }}
+                  />
+                </div>
+                <div className={styles.body}>
+                  <h2 className={styles.name}>{translated?.name || product.name}</h2>
+                  <p className={styles.desc}>{translated?.description || product.description}</p>
+                  <a
+                    href={`mailto:ubmarket2022@gmail.com?subject=Price inquiry: ${product.name}`}
+                    className="btn btn-primary"
+                    style={{ marginTop: "16px", fontSize: "0.8rem", padding: "12px 24px" }}
+                  >
+                    <FaEnvelope /> {t.products.requestPrice}
+                  </a>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+    </>
+  );
+}
+
+============================================================
+FILE: src/app/[locale]/contacts/page.tsx
+============================================================
+"use client";
+
+import {
+  FaMapMarkerAlt,
+  FaEnvelope,
+  FaPhone,
+  FaClock,
+  FaInstagram,
+  FaTelegram,
+  FaWhatsapp,
+} from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
+import ContactForm from "@/components/ContactForm/ContactForm";
+import styles from "./contacts.module.css";
+
+export default function ContactsPage() {
+  const { t } = useLanguage();
+  const cp = t.contactsPage;
+  const c = t.contact;
+
+  const contactItems = [
+    {
+      icon: <FaMapMarkerAlt />,
+      label: c.address,
+      value: c.addressValue,
+      href: undefined as string | undefined,
+    },
+    {
+      icon: <FaEnvelope />,
+      label: c.email,
+      value: "ubmarket2022@gmail.com",
+      href: "mailto:ubmarket2022@gmail.com",
+    },
+    {
+      icon: <FaPhone />,
+      label: c.phone,
+      value: "+359 8844 69860",
+      href: "tel:+359884469860",
+    },
+    {
+      icon: <FaClock />,
+      label: c.hours,
+      value: c.hoursValue,
+      href: undefined as string | undefined,
+    },
+  ];
+
+  const socials = [
+    { icon: <FaInstagram />, label: "Instagram", href: "https://www.instagram.com/ub_market_ltd" },
+    { icon: <FaTelegram />, label: "Telegram", href: "https://t.me/ub_market_ltd" },
+    { icon: <FaWhatsapp />, label: "WhatsApp", href: "https://wa.me/+359884469860" },
+  ];
+
+  return (
+    <>
+      <section className={styles.hero}>
+        <div className={styles.heroOverlay} />
+        <div className={styles.heroContent}>
+          <span className="section-label">{cp.label}</span>
+          <h1
+            className="section-title"
+            style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
+          >
+            {cp.heroTitle}
+          </h1>
+          <p className="section-subtitle" style={{ margin: "0 auto" }}>
+            {cp.heroSubtitle}
+          </p>
+        </div>
+      </section>
+
+      {/* Contact Cards */}
+      <section className={styles.section}>
+        <div className={styles.grid}>
+          {contactItems.map((item) => (
+            <div key={item.label} className={styles.card}>
+              <div className={styles.cardIcon}>{item.icon}</div>
+              <h3 className={styles.cardLabel}>{item.label}</h3>
+              {item.href ? (
+                <a href={item.href} className={styles.cardLink}>
+                  {item.value}
+                </a>
+              ) : (
+                <p className={styles.cardText}>
+                  {item.value.split("\n").map((line: string, i: number) => (
+                    <span key={i}>
+                      {line}
+                      {i < item.value.split("\n").length - 1 && <br />}
+                    </span>
+                  ))}
+                </p>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Contact Form */}
+      <section className={styles.formSection}>
+        <ContactForm />
+      </section>
+
+      {/* Social Links */}
+      <section className={styles.socialSection}>
+        <div className={styles.socialInner}>
+          <span className="section-label">{c.social}</span>
+          <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+            {c.socialTitle}
+          </h2>
+          <div className={styles.socialGrid}>
+            {socials.map((s) => (
+              <a
+                key={s.label}
+                href={s.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.socialCard}
+              >
+                <span className={styles.socialIcon}>{s.icon}</span>
+                <span>{s.label}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Map */}
+      <section className={styles.mapSection}>
+        <div className={styles.mapInner}>
+          <span className="section-label">{c.mapLabel}</span>
+          <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+            {c.mapTitle}
+          </h2>
+          <iframe
+            className={styles.map}
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d93031.0181942096!2d27.78026205034398!3d43.2258611704557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40a45439205714b3%3A0x99c4e0902fa8939b!2s9010%20Varna%2C%20Bulgaria!5e0!3m2!1sen!2spl!4v1729407709833!5m2!1sen!2spl"
+            allowFullScreen
+            loading="lazy"
+            title="UB Market Location — Varna, Bulgaria"
+            referrerPolicy="no-referrer-when-downgrade"
+          />
+        </div>
+      </section>
+    </>
+  );
+}
+
+============================================================
+FILE: src/app/[locale]/blog/page.tsx
+============================================================
+"use client";
+
+import Link from "next/link";
+import { FaArrowLeft } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
+import styles from "./blog.module.css";
+
+const upcomingPosts = [
+  { titleKey: "How We Created the Star Food Label Design", category: "Brand Story" },
+  { titleKey: "Sunflower Oil Market Trends in 2026", category: "Market Analysis" },
+  { titleKey: "From Farm to Your Table — Our Supply Chain", category: "Behind the Scenes" },
+];
+
+export default function BlogPage() {
+  const { t } = useLanguage();
+  const b = t.blog;
+
+  return (
+    <>
+      <section className={styles.hero}>
+        <div className={styles.heroOverlay} />
+        <div className={styles.heroContent}>
+          <span className="section-label">{b.label}</span>
+          <h1
+            className="section-title"
+            style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
+          >
+            {b.title}
+          </h1>
+          <p className="section-subtitle" style={{ margin: "0 auto" }}>
+            {b.subtitle}
+          </p>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <div className={styles.comingSoon}>
+          <h2 className={styles.comingTitle}>{b.comingTitle}</h2>
+          <p className={styles.comingText}>{b.comingText}</p>
+        </div>
+
+        <div className={styles.grid}>
+          {upcomingPosts.map((post) => (
+            <div key={post.titleKey} className={styles.card}>
+              <div className={styles.cardTop}>
+                <span className={styles.category}>{post.category}</span>
+                <span className={styles.date}>Coming Soon</span>
+              </div>
+              <h3 className={styles.cardTitle}>{post.titleKey}</h3>
+            </div>
+          ))}
+        </div>
+
+        <div className={styles.back}>
+          <Link href="/" className="btn btn-outline">
+            <FaArrowLeft /> {b.backHome}
+          </Link>
+        </div>
+      </section>
+    </>
+  );
+}
+
+============================================================
+MISSING: src/app/[locale]/not-found.tsx
+============================================================
+
+============================================================
+FILE: src/app/[locale]/layout.tsx
+============================================================
+// src/app/[locale]/layout.tsx — Locale layout with Header/Footer/WhatsApp
+import { notFound } from "next/navigation";
+import { locales, hreflangCodes, isValidLocale } from "@/lib/locale";
+import { LanguageProvider } from "@/context/LanguageContext";
+import Header from "@/components/Header/Header";
+import Footer from "@/components/Footer/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
+import type { Locale } from "@/lib/locale";
+
+// Generate static params for all locales (build time)
+export function generateStaticParams() {
+  return locales.map((locale) => ({ locale }));
+}
+
+// Dynamic metadata with hreflang
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  const baseUrl = "https://ub-market.com";
+
+  const languages: Record<string, string> = {};
+  for (const loc of locales) {
+    languages[hreflangCodes[loc]] = `${baseUrl}/${loc}`;
+  }
+
+  return {
+    alternates: {
+      canonical: `${baseUrl}/${locale}`,
+      languages,
+    },
+  };
+}
+
+export default async function LocaleLayout({
+  children,
+  params,
+}: {
+  children: React.ReactNode;
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+
+  if (!isValidLocale(locale)) {
+    notFound();
+  }
+
+  return (
+    <LanguageProvider locale={locale as Locale}>
+      <div className="pageWrapper">
+        <Header />
+        <main>{children}</main>
+        <Footer />
+      </div>
+      <WhatsAppButton />
+    </LanguageProvider>
+  );
+}
+
+
+============================================================
+FILE: src/app/layout.tsx
+============================================================
+// src/app/layout.tsx — Root layout (fonts + metadata only)
+// Header, Footer, WhatsApp are in [locale]/layout.tsx (needs LanguageProvider)
+import type { Metadata } from "next";
+import { Playfair_Display, Source_Sans_3 } from "next/font/google";
+import "./globals.css";
+
+const playfair = Playfair_Display({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  variable: "--font-display",
+  display: "swap",
+});
+
+const sourceSans = Source_Sans_3({
+  subsets: ["latin", "cyrillic"],
+  weight: ["300", "400", "600", "700"],
+  variable: "--font-body",
+  display: "swap",
+});
+
+export const metadata: Metadata = {
+  title: {
+    default: "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",
+    template: "%s | Star Food",
+  },
+  description:
+    "Star Food by UB Market LTD — EU-registered food trading company based in Bulgaria. Wholesale sunflower oil, sugar, dairy products. Export & import across Europe.",
+  keywords: [
+    "sunflower oil wholesale",
+    "bulk sunflower oil Europe",
+    "food trading company Bulgaria",
+    "vegetable oil supplier EU",
+    "Star Food",
+    "UB Market LTD",
+  ],
+  authors: [{ name: "UB Market LTD" }],
+  openGraph: {
+    type: "website",
+    title: "Star Food | Premium Sunflower Oil & Food Products",
+    description:
+      "EU-registered food trading company. Wholesale sunflower oil, sugar, dairy products across Europe.",
+    url: "https://ub-market.com",
+    siteName: "Star Food by UB Market LTD",
+    locale: "en_US",
+    images: [
+      {
+        url: "https://ub-market.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Star Food — Sunflower Oil Trading",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Star Food | Premium Sunflower Oil & Food Products",
+    description:
+      "EU-registered food trading company. Wholesale sunflower oil, sugar, dairy products across Europe.",
+    images: ["https://ub-market.com/og-image.jpg"],
+  },
+  robots: { index: true, follow: true },
+  metadataBase: new URL("https://ub-market.com"),
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "UB Market LTD",
+  alternateName: "Star Food",
+  url: "https://ub-market.com",
+  logo: "https://ub-market.com/icons/logo.webp",
+  description:
+    "EU-registered international food trading company specializing in sunflower oil export and import.",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Sirma Voivoda St., b.1, ap. 21",
+    addressLocality: "Varna",
+    postalCode: "9010",
+    addressCountry: "BG",
+  },
+  contactPoint: {
+    "@type": "ContactPoint",
+    telephone: "+359-8844-69860",
+    contactType: "sales",
+    email: "ubmarket2022@gmail.com",
+    availableLanguage: ["English", "Bulgarian", "Ukrainian", "Turkish", "Romanian", "German"],
+  },
+  sameAs: [
+    "https://www.instagram.com/ub_market_ltd",
+    "https://t.me/ub_market_ltd",
+  ],
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en" className={`${playfair.variable} ${sourceSans.variable}`}>
+      <head>
+        <meta name="theme-color" content="#0a0a0a" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
+      <body className={sourceSans.className}>
+        {children}
+      </body>
+    </html>
+  );
+}
+
+
+============================================================
+FILE: src/context/LanguageContext.tsx
+============================================================
+// src/context/LanguageContext.tsx — URL-based locale routing
+// t = translations OBJECT (backward compatible: t.hero.badge works)
+"use client";
+
+import {
+  createContext,
+  useContext,
+  useState,
+  useEffect,
+  useCallback,
+} from "react";
+import { useRouter, usePathname } from "next/navigation";
+import type { Locale } from "@/lib/locale";
+import { locales, defaultLocale } from "@/lib/locale";
+import enTranslations from "@/i18n/en.json";
+
+/* eslint-disable @typescript-eslint/no-explicit-any */
+type Translations = Record<string, any>;
+
+interface LanguageContextType {
+  locale: Locale;
+  t: Translations;
+  translate: (key: string) => string;
+  switchLocale: (newLocale: Locale) => void;
+  availableLocales: readonly Locale[];
+}
+
+const LanguageContext = createContext<LanguageContextType | null>(null);
+
+const translationCache: Partial<Record<Locale, Translations>> = {};
+
+async function loadTranslations(locale: Locale): Promise<Translations> {
+  if (translationCache[locale]) {
+    return translationCache[locale]!;
+  }
+  try {
+    const module = await import(`@/i18n/${locale}.json`);
+    translationCache[locale] = module.default;
+    return module.default;
+  } catch {
+    if (locale !== defaultLocale) {
+      return loadTranslations(defaultLocale);
+    }
+    return enTranslations;
+  }
+}
+
+export function LanguageProvider({
+  children,
+  locale,
+}: {
+  children: React.ReactNode;
+  locale: Locale;
+}) {
+  const router = useRouter();
+  const pathname = usePathname();
+  // Default to English translations — prevents t.hero.badge crash on first render
+  const [translations, setTranslations] =
+    useState<Translations>(enTranslations);
+  const [availableLocales, setAvailableLocales] =
+    useState<readonly Locale[]>(locales);
+
+  useEffect(() => {
+    loadTranslations(locale).then(setTranslations);
+  }, [locale]);
+
+  useEffect(() => {
+    async function checkGeo() {
+      try {
+        const res = await fetch("https://ipapi.co/json/", {
+          cache: "force-cache",
+        });
+        const data = await res.json();
+        if (data.country_code === "UA") {
+          setAvailableLocales(locales);
+        } else {
+          setAvailableLocales(locales.filter((l) => l !== "ua"));
+        }
+      } catch {
+        setAvailableLocales(locales.filter((l) => l !== "ua"));
+      }
+    }
+    checkGeo();
+  }, []);
+
+  const translate = useCallback(
+    (key: string): string => {
+      const keys = key.split(".");
+      let value: unknown = translations;
+      for (const k of keys) {
+        if (value && typeof value === "object" && k in value) {
+          value = (value as Record<string, unknown>)[k];
+        } else {
+          return key;
+        }
+      }
+      return typeof value === "string" ? value : key;
+    },
+    [translations],
+  );
+
+  const switchLocale = useCallback(
+    (newLocale: Locale) => {
+      const currentLocalePrefix = `/${locale}`;
+      let newPath: string;
+      if (pathname.startsWith(currentLocalePrefix)) {
+        newPath = pathname.replace(currentLocalePrefix, `/${newLocale}`);
+      } else {
+        newPath = `/${newLocale}${pathname}`;
+      }
+      document.cookie = `NEXT_LOCALE=${newLocale};path=/;max-age=${60 * 60 * 24 * 30}`;
+      router.push(newPath);
+    },
+    [locale, pathname, router],
+  );
+
+  return (
+    <LanguageContext.Provider
+      value={{
+        locale,
+        t: translations,
+        translate,
+        switchLocale,
+        availableLocales,
+      }}
+    >
+      {children}
+    </LanguageContext.Provider>
+  );
+}
+
+export function useLanguage() {
+  const context = useContext(LanguageContext);
+  if (!context) {
+    throw new Error("useLanguage must be used within a LanguageProvider");
+  }
+  return context;
+}
+
+
+============================================================
+FILE: src/components/LanguageSwitcher/LanguageSwitcher.tsx
+============================================================
+// src/components/LanguageSwitcher/LanguageSwitcher.tsx
+"use client";
+
+import { useState, useRef, useEffect } from "react";
+import { useLanguage } from "@/context/LanguageContext";
+import { localeNames, localeFlags } from "@/lib/locale";
+import type { Locale } from "@/lib/locale";
+import styles from "./LanguageSwitcher.module.css";
+
+export default function LanguageSwitcher() {
+  const { locale, switchLocale, availableLocales } = useLanguage();
+  const [isOpen, setIsOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  // Close dropdown on outside click
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(event.target as Node)
+      ) {
+        setIsOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  const handleSelect = (newLocale: Locale) => {
+    if (newLocale !== locale) {
+      switchLocale(newLocale);
+    }
+    setIsOpen(false);
+  };
+
+  return (
+    <div className={styles.switcher} ref={dropdownRef}>
+      <button
+        className={styles.trigger}
+        onClick={() => setIsOpen(!isOpen)}
+        aria-label="Select language"
+        aria-expanded={isOpen}
+      >
+        <span className={styles.flag}>{localeFlags[locale]}</span>
+        <span className={styles.code}>{locale.toUpperCase()}</span>
+        <span className={`${styles.arrow} ${isOpen ? styles.arrowUp : ""}`}>
+          ▾
+        </span>
+      </button>
+
+      {isOpen && (
+        <div className={styles.dropdown}>
+          {availableLocales.map((loc) => (
+            <button
+              key={loc}
+              className={`${styles.option} ${
+                loc === locale ? styles.active : ""
+              }`}
+              onClick={() => handleSelect(loc)}
+            >
+              <span className={styles.flag}>{localeFlags[loc]}</span>
+              <span className={styles.langName}>{localeNames[loc]}</span>
+              <span className={styles.langCode}>{loc.toUpperCase()}</span>
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+
+============================================================
+FILE: src/components/Header/Header.tsx
+============================================================
+// src/components/Header/Header.tsx — Locale-aware routing
+"use client";
+
+import { useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { FaBars, FaTimes } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
+import LanguageSwitcher from "@/components/LanguageSwitcher/LanguageSwitcher";
+import styles from "./Header.module.css";
+
+export default function Header() {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const pathname = usePathname();
+  const { locale, t } = useLanguage();
+
+  const prefix = `/${locale}`;
+
+  const navLinks = [
+    { href: prefix, label: t?.nav?.home || "Home" },
+    { href: `${prefix}/about`, label: t?.nav?.about || "About" },
+    { href: `${prefix}/products`, label: t?.nav?.products || "Products" },
+    { href: `${prefix}/blog`, label: t?.nav?.blog || "Blog" },
+    { href: `${prefix}/contacts`, label: t?.nav?.contacts || "Contacts" },
+  ];
+
+  const isActive = (href: string) => {
+    if (href === prefix) {
+      return pathname === prefix || pathname === `${prefix}/`;
+    }
+    return pathname.startsWith(href);
+  };
+
+  return (
+    <header className={styles.header}>
+      <div className={styles.container}>
+        <Link href={prefix} className={styles.logo}>
+          <Image
+            src="/icons/logo.webp"
+            alt="UB Market — Star Food"
+            width={50}
+            height={50}
+            priority
+          />
+          <span className={styles.logoText}>
+            <strong>UB Market</strong>
+          </span>
+        </Link>
+
+        <nav className={styles.nav}>
+          {navLinks.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              className={`${styles.navLink} ${
+                isActive(link.href) ? styles.active : ""
+              }`}
+            >
+              {link.label}
+            </Link>
+          ))}
+        </nav>
+
+        <div className={styles.actions}>
+          <LanguageSwitcher />
+          <button
+            className={styles.menuToggle}
+            onClick={() => setMenuOpen(!menuOpen)}
+            aria-label="Toggle menu"
+          >
+            {menuOpen ? <FaTimes /> : <FaBars />}
+          </button>
+        </div>
+      </div>
+
+      {menuOpen && (
+        <div className={styles.mobileMenu}>
+          <nav className={styles.mobileNav}>
+            {navLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`${styles.mobileLink} ${
+                  isActive(link.href) ? styles.active : ""
+                }`}
+                onClick={() => setMenuOpen(false)}
+              >
+                {link.label}
+              </Link>
+            ))}
+          </nav>
+        </div>
+      )}
+    </header>
+  );
+}
+
+
+============================================================
+FILE: src/components/WhatsAppButton/WhatsAppButton.tsx
+============================================================
+"use client";
+
+import { FaWhatsapp } from "react-icons/fa";
+import styles from "./WhatsAppButton.module.css";
+
+export default function WhatsAppButton() {
+  return (
+    <a
+      href="https://wa.me/+359884469860?text=Hello%2C%20I%20am%20interested%20in%20your%20products."
+      target="_blank"
+      rel="noopener noreferrer"
+      className={styles.button}
+      aria-label="Contact us on WhatsApp"
+    >
+      <FaWhatsapp className={styles.icon} />
+    </a>
+  );
+}
+

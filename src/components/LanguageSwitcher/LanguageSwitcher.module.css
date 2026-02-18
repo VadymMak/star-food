@@ -1,21 +1,22 @@
-.wrapper {
+/* src/components/LanguageSwitcher/LanguageSwitcher.module.css */
+
+.switcher {
   position: relative;
-  flex-shrink: 0;
+  z-index: 100;
 }
 
 .trigger {
-  background: none;
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  color: var(--text);
-  font-size: 0.85rem;
-  padding: 6px 14px;
-  border-radius: var(--radius-sm);
-  cursor: pointer;
   display: flex;
   align-items: center;
-  gap: 8px;
-  transition: all var(--transition);
-  font-family: inherit;
+  gap: 6px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-sm);
+  padding: 6px 12px;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: var(--transition);
 }
 
 .trigger:hover {
@@ -24,24 +25,35 @@
 }
 
 .flag {
-  display: flex;
-  align-items: center;
-  border-radius: 2px;
-  overflow: hidden;
-  line-height: 0;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.code {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.arrow {
+  font-size: 0.7rem;
+  transition: transform 0.2s ease;
+}
+
+.arrowUp {
+  transform: rotate(180deg);
 }
 
 .dropdown {
   position: absolute;
   top: calc(100% + 6px);
   right: 0;
+  min-width: 180px;
   background: var(--dark-card);
   border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: var(--radius-sm);
+  border-radius: var(--radius);
   overflow: hidden;
-  z-index: 100;
-  min-width: 110px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  animation: fadeIn 0.15s ease;
 }
 
 .option {
@@ -49,23 +61,53 @@
   align-items: center;
   gap: 10px;
   width: 100%;
-  padding: 10px 16px;
-  background: none;
+  padding: 10px 14px;
+  background: transparent;
   border: none;
   color: var(--text);
-  font-size: 0.85rem;
   cursor: pointer;
-  transition: all var(--transition);
-  font-family: inherit;
+  font-size: 0.9rem;
   text-align: left;
+  transition: background 0.15s ease;
 }
 
 .option:hover {
   background: rgba(212, 168, 67, 0.1);
-  color: var(--gold);
 }
 
-.active {
+.option.active {
   color: var(--gold);
-  font-weight: 700;
+  background: rgba(212, 168, 67, 0.08);
+}
+
+.langName {
+  flex: 1;
+}
+
+.langCode {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .langName {
+    display: block;
+  }
+
+  .dropdown {
+    min-width: 160px;
+  }
 }

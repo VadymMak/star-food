@@ -15,32 +15,32 @@ import styles from "./contacts.module.css";
 
 export default function ContactsPage() {
   const { t } = useLanguage();
-  const cp = t.contactsPage;
-  const c = t.contact;
+  const cp = t?.contactsPage || {};
+  const c = t?.contact || {};
 
   const contactItems = [
     {
       icon: <FaMapMarkerAlt />,
-      label: c.address,
-      value: c.addressValue,
+      label: c.address || "Address",
+      value: c.addressValue || "",
       href: undefined as string | undefined,
     },
     {
       icon: <FaEnvelope />,
-      label: c.email,
+      label: c.email || "Email",
       value: "ubmarket2022@gmail.com",
       href: "mailto:ubmarket2022@gmail.com",
     },
     {
       icon: <FaPhone />,
-      label: c.phone,
+      label: c.phone || "Phone",
       value: "+359 8844 69860",
       href: "tel:+359884469860",
     },
     {
       icon: <FaClock />,
-      label: c.hours,
-      value: c.hoursValue,
+      label: c.hours || "Office Hours",
+      value: c.hoursValue || "",
       href: undefined as string | undefined,
     },
   ];
@@ -56,12 +56,12 @@ export default function ContactsPage() {
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
-          <span className="section-label">{cp.label}</span>
+          <span className="section-label">{cp.label || "Get in Touch"}</span>
           <h1
             className="section-title"
             style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
           >
-            {cp.heroTitle}
+            {cp.heroTitle || "Contact Us"}
           </h1>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
             {cp.heroSubtitle}
@@ -82,10 +82,10 @@ export default function ContactsPage() {
                 </a>
               ) : (
                 <p className={styles.cardText}>
-                  {item.value.split("\n").map((line: string, i: number) => (
+                  {(item.value || "").split("\n").map((line: string, i: number) => (
                     <span key={i}>
                       {line}
-                      {i < item.value.split("\n").length - 1 && <br />}
+                      {i < (item.value || "").split("\n").length - 1 && <br />}
                     </span>
                   ))}
                 </p>
@@ -103,9 +103,9 @@ export default function ContactsPage() {
       {/* Social Links */}
       <section className={styles.socialSection}>
         <div className={styles.socialInner}>
-          <span className="section-label">{c.social}</span>
+          <span className="section-label">{c.social || "Follow Us"}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {c.socialTitle}
+            {c.socialTitle || "Connect on Social Media"}
           </h2>
           <div className={styles.socialGrid}>
             {socials.map((s) => (
@@ -127,9 +127,9 @@ export default function ContactsPage() {
       {/* Map */}
       <section className={styles.mapSection}>
         <div className={styles.mapInner}>
-          <span className="section-label">{c.mapLabel}</span>
+          <span className="section-label">{c.mapLabel || "Our Location"}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {c.mapTitle}
+            {c.mapTitle || "Find Us in Varna, Bulgaria"}
           </h2>
           <iframe
             className={styles.map}

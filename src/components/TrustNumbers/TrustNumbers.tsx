@@ -5,12 +5,13 @@ import styles from "./TrustNumbers.module.css";
 
 export default function TrustNumbers() {
   const { t } = useLanguage();
+  const tr = t?.trust || {};
 
   const stats = [
-    { number: "3+", label: t.trust.years },
-    { number: "12+", label: t.trust.countries },
-    { number: "500+", label: t.trust.tons },
-    { number: "50+", label: t.trust.partners },
+    { number: "3+", label: tr.years || "Years in Business" },
+    { number: "12+", label: tr.countries || "Countries Served" },
+    { number: "500+", label: tr.tons || "Tons Delivered" },
+    { number: "50+", label: tr.partners || "Partner Companies" },
   ];
 
   return (

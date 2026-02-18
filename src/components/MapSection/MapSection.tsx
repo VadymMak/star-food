@@ -5,13 +5,14 @@ import styles from "./MapSection.module.css";
 
 export default function MapSection() {
   const { t } = useLanguage();
+  const c = t?.contact || {};
 
   return (
     <section className={styles.section}>
       <div className={styles.inner}>
-        <span className="section-label">{t.contact.mapLabel}</span>
+        <span className="section-label">{c.mapLabel || "Our Location"}</span>
         <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-          {t.contact.mapTitle}
+          {c.mapTitle || "Find Us in Varna, Bulgaria"}
         </h2>
         <iframe
           className={styles.map}

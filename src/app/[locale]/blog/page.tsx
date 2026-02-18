@@ -12,20 +12,20 @@ const upcomingPosts = [
 ];
 
 export default function BlogPage() {
-  const { t } = useLanguage();
-  const b = t.blog;
+  const { locale, t } = useLanguage();
+  const b = t?.blog || {};
 
   return (
     <>
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
-          <span className="section-label">{b.label}</span>
+          <span className="section-label">{b.label || "Blog"}</span>
           <h1
             className="section-title"
             style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
           >
-            {b.title}
+            {b.title || "News & Insights"}
           </h1>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
             {b.subtitle}
@@ -35,7 +35,7 @@ export default function BlogPage() {
 
       <section className={styles.section}>
         <div className={styles.comingSoon}>
-          <h2 className={styles.comingTitle}>{b.comingTitle}</h2>
+          <h2 className={styles.comingTitle}>{b.comingTitle || "Blog is Coming Soon"}</h2>
           <p className={styles.comingText}>{b.comingText}</p>
         </div>
 
@@ -52,8 +52,8 @@ export default function BlogPage() {
         </div>
 
         <div className={styles.back}>
-          <Link href="/" className="btn btn-outline">
-            <FaArrowLeft /> {b.backHome}
+          <Link href={`/${locale}`} className="btn btn-outline">
+            <FaArrowLeft /> {b.backHome || "Back to Home"}
           </Link>
         </div>
       </section>

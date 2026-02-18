@@ -11,7 +11,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.content}>
         <p className={styles.copyright}>
-          &copy; {new Date().getFullYear()} {t.footer.copyright}
+          &copy; {new Date().getFullYear()} {t?.footer?.copyright || "UB Market LTD. All rights reserved."}
         </p>
 
         <div className={styles.social}>

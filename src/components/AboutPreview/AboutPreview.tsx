@@ -7,7 +7,8 @@ import { useLanguage } from "@/context/LanguageContext";
 import styles from "./AboutPreview.module.css";
 
 export default function AboutPreview() {
-  const { t } = useLanguage();
+  const { locale, t } = useLanguage();
+  const ap = t?.aboutPreview || {};
 
   return (
     <section className={styles.about}>
@@ -24,15 +25,15 @@ export default function AboutPreview() {
           </div>
 
           <div className={styles.text}>
-            <span className="section-label">{t.aboutPreview.label}</span>
+            <span className="section-label">{ap.label || "About Us"}</span>
             <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-              {t.aboutPreview.title}
+              {ap.title || "Your Trusted Partner in Food Export & Import"}
             </h2>
-            <p className={styles.desc}>{t.aboutPreview.p1}</p>
-            <p className={styles.desc}>{t.aboutPreview.p2}</p>
+            <p className={styles.desc}>{ap.p1}</p>
+            <p className={styles.desc}>{ap.p2}</p>
 
             <div className={styles.features}>
-              {t.aboutPreview.features.map((f: string) => (
+              {(ap.features || []).map((f: string) => (
                 <div key={f} className={styles.feature}>
                   <FaCheckCircle className={styles.featureIcon} />
                   <span>{f}</span>
@@ -40,8 +41,8 @@ export default function AboutPreview() {
               ))}
             </div>
 
-            <Link href="/about" className="btn btn-primary" style={{ marginTop: "10px" }}>
-              {t.aboutPreview.cta} <FaArrowRight />
+            <Link href={`/${locale}/about`} className="btn btn-primary" style={{ marginTop: "10px" }}>
+              {ap.cta || "Learn More"} <FaArrowRight />
             </Link>
           </div>
         </div>

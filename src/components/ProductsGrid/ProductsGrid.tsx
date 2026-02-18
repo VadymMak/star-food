@@ -8,24 +8,25 @@ import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ProductsGrid.module.css";
 
 export default function ProductsGrid() {
-  const { t } = useLanguage();
+  const { locale, t } = useLanguage();
+  const p = t?.products || {};
 
   return (
     <section className={styles.section}>
       <div className={styles.inner}>
         <div className={styles.header}>
-          <span className="section-label">{t.products.label}</span>
+          <span className="section-label">{p.label || "Our Products"}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {t.products.title}
+            {p.title || "What We Supply"}
           </h2>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
-            {t.products.subtitle}
+            {p.subtitle}
           </p>
         </div>
 
         <div className={styles.grid}>
           {products.map((product) => {
-            const translated = t.products.items[product.id as keyof typeof t.products.items];
+            const translated = p?.items?.[product.id as keyof typeof p.items];
             return (
               <div key={product.id} className={styles.card}>
                 {product.tag && (
@@ -50,8 +51,8 @@ export default function ProductsGrid() {
         </div>
 
         <div className={styles.cta}>
-          <Link href="/products" className="btn btn-outline">
-            {t.products.cta} <FaArrowRight />
+          <Link href={`/${locale}/products`} className="btn btn-outline">
+            {p.cta || "View All Products"} <FaArrowRight />
           </Link>
         </div>
       </div>

@@ -1,116 +1,138 @@
+// src/context/LanguageContext.tsx — URL-based locale routing
+// t = translations OBJECT (backward compatible: t.hero.badge works)
 "use client";
 
-import { createContext, useContext, useState, useCallback, useEffect, useRef, ReactNode } from "react";
+import {
+  createContext,
+  useContext,
+  useState,
+  useEffect,
+  useCallback,
+} from "react";
+import { useRouter, usePathname } from "next/navigation";
+import type { Locale } from "@/lib/locale";
+import { locales, defaultLocale } from "@/lib/locale";
+import enTranslations from "@/i18n/en.json";
 
-import en from "@/i18n/en.json";
-import bg from "@/i18n/bg.json";
-import ua from "@/i18n/ua.json";
-
-export type Lang = "en" | "bg" | "ua";
-
-const translations: Record<Lang, typeof en> = { en, bg, ua };
-
-export const langLabels: Record<Lang, { label: string }> = {
-  en: { label: "EN" },
-  bg: { label: "BG" },
-  ua: { label: "UA" },
-};
+/* eslint-disable @typescript-eslint/no-explicit-any */
+type Translations = Record<string, any>;
 
 interface LanguageContextType {
-  lang: Lang;
-  setLang: (l: Lang) => void;
-  t: typeof en;
-  availableLangs: Lang[];
+  locale: Locale;
+  t: Translations;
+  translate: (key: string) => string;
+  switchLocale: (newLocale: Locale) => void;
+  availableLocales: readonly Locale[];
 }
 
-const LanguageContext = createContext<LanguageContextType>({
-  lang: "en",
-  setLang: () => {},
-  t: en,
-  availableLangs: ["en", "bg"],
-});
+const LanguageContext = createContext<LanguageContextType | null>(null);
 
-function readSavedLang(): Lang {
-  try {
-    const saved = localStorage.getItem("lang") as Lang | null;
-    if (saved && translations[saved]) return saved;
-    const browserLang = navigator.language.slice(0, 2);
-    if (browserLang === "bg") return "bg";
-    if (browserLang === "uk") return "ua";
-  } catch {
-    // localStorage may be blocked
+const translationCache: Partial<Record<Locale, Translations>> = {};
+
+async function loadTranslations(locale: Locale): Promise<Translations> {
+  if (translationCache[locale]) {
+    return translationCache[locale]!;
   }
-  return "en";
+  try {
+    const module = await import(`@/i18n/${locale}.json`);
+    translationCache[locale] = module.default;
+    return module.default;
+  } catch {
+    if (locale !== defaultLocale) {
+      return loadTranslations(defaultLocale);
+    }
+    return enTranslations;
+  }
 }
 
-export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [lang, setLangRaw] = useState<Lang>("en");
-  const [availableLangs, setAvailableLangs] = useState<Lang[]>(["en", "bg"]);
-  const hydrated = useRef(false);
+export function LanguageProvider({
+  children,
+  locale,
+}: {
+  children: React.ReactNode;
+  locale: Locale;
+}) {
+  const router = useRouter();
+  const pathname = usePathname();
+  // Default to English translations — prevents t.hero.badge crash on first render
+  const [translations, setTranslations] =
+    useState<Translations>(enTranslations);
+  const [availableLocales, setAvailableLocales] =
+    useState<readonly Locale[]>(locales);
 
   useEffect(() => {
-    if (hydrated.current) return;
-    hydrated.current = true;
+    loadTranslations(locale).then(setTranslations);
+  }, [locale]);
 
-    // Detect country and set available languages
-    const detectCountry = async () => {
+  useEffect(() => {
+    async function checkGeo() {
       try {
-        const res = await fetch("https://ipapi.co/json/", { signal: AbortSignal.timeout(3000) });
+        const res = await fetch("https://ipapi.co/json/", {
+          cache: "force-cache",
+        });
         const data = await res.json();
-        const country = data.country_code;
-
-        if (country === "UA") {
-          // Users in Ukraine see EN, BG, UA
-          setAvailableLangs(["en", "bg", "ua"]);
+        if (data.country_code === "UA") {
+          setAvailableLocales(locales);
         } else {
-          // Rest of world sees only EN, BG
-          setAvailableLangs(["en", "bg"]);
+          setAvailableLocales(locales.filter((l) => l !== "ua"));
         }
       } catch {
-        // On error, default to EN + BG only
-        setAvailableLangs(["en", "bg"]);
+        setAvailableLocales(locales.filter((l) => l !== "ua"));
       }
-    };
-
-    // Set saved language
-    const saved = readSavedLang();
-    // If saved lang is UA but user is not in Ukraine, it will be overridden below
-    setLangRaw(saved);
-
-    detectCountry().then(() => {
-      // After geo check, if current lang is UA but not available, reset to EN
-      setLangRaw((current) => {
-        if (current === "ua") {
-          // Will be checked against availableLangs in next render
-          return current;
-        }
-        return current;
-      });
-    });
-  }, []);
-
-  // If lang is not in available list, reset to EN
-  useEffect(() => {
-    if (!availableLangs.includes(lang)) {
-      setLangRaw("en");
-      try { localStorage.setItem("lang", "en"); } catch { /* ignore */ }
     }
-  }, [availableLangs, lang]);
-
-  const setLang = useCallback((l: Lang) => {
-    setLangRaw(l);
-    try { localStorage.setItem("lang", l); } catch { /* ignore */ }
+    checkGeo();
   }, []);
 
-  const t = translations[lang] || en;
+  const translate = useCallback(
+    (key: string): string => {
+      const keys = key.split(".");
+      let value: unknown = translations;
+      for (const k of keys) {
+        if (value && typeof value === "object" && k in value) {
+          value = (value as Record<string, unknown>)[k];
+        } else {
+          return key;
+        }
+      }
+      return typeof value === "string" ? value : key;
+    },
+    [translations],
+  );
+
+  const switchLocale = useCallback(
+    (newLocale: Locale) => {
+      const currentLocalePrefix = `/${locale}`;
+      let newPath: string;
+      if (pathname.startsWith(currentLocalePrefix)) {
+        newPath = pathname.replace(currentLocalePrefix, `/${newLocale}`);
+      } else {
+        newPath = `/${newLocale}${pathname}`;
+      }
+      document.cookie = `NEXT_LOCALE=${newLocale};path=/;max-age=${60 * 60 * 24 * 30}`;
+      router.push(newPath);
+    },
+    [locale, pathname, router],
+  );
 
   return (
-    <LanguageContext.Provider value={{ lang, setLang, t, availableLangs }}>
+    <LanguageContext.Provider
+      value={{
+        locale,
+        t: translations,
+        translate,
+        switchLocale,
+        availableLocales,
+      }}
+    >
       {children}
     </LanguageContext.Provider>
   );
 }
 
 export function useLanguage() {
-  return useContext(LanguageContext);
+  const context = useContext(LanguageContext);
+  if (!context) {
+    throw new Error("useLanguage must be used within a LanguageProvider");
+  }
+  return context;
 }

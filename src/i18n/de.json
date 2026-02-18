@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "products": "Produkte",
+    "blog": "Blog",
+    "contacts": "Kontakt"
+  },
+  "hero": {
+    "badge": "Internationaler Lebensmittelhandel",
+    "title1": "Premium",
+    "titleHighlight": "Sonnenblumenöl",
+    "title2": "und Lebensmittel für Europa",
+    "subtitle": "UB Market LTD verbindet führende Hersteller mit Großhandelskäufern in ganz Europa. Zuverlässige Versorgung, wettbewerbsfähige Preise, Straßentransport.",
+    "cta1": "Angebot Anfordern",
+    "cta2": "Produkte Ansehen"
+  },
+  "trust": {
+    "years": "Jahre Erfahrung",
+    "countries": "Länder",
+    "tons": "Tonnen Geliefert",
+    "partners": "Partner"
+  },
+  "aboutPreview": {
+    "label": "Über Uns",
+    "title": "Ihr Zuverlässiger Partner im Lebensmittel-Export und -Import",
+    "p1": "UB MARKET LTD ist ein internationales Handelsunternehmen, spezialisiert auf den Export und Import von Lebensmitteln. Wir verbinden führende Hersteller mit Großhandelskäufern in ganz Europa.",
+    "p2": "Unsere Hauptspezialisierung ist der internationale Handel mit Sonnenblumenöl — raffiniert, roh und High-Oleic-Sorten, in Flaschen und Tanklastwagen.",
+    "features": [
+      "Raffinierte und Rohe Öle",
+      "Straßentransport (EU)",
+      "PET-Flaschen und Bulk",
+      "Wettbewerbsfähige Preise",
+      "Qualitätszertifiziert",
+      "Mehrsprachiger Support"
+    ],
+    "cta": "Mehr Erfahren"
+  },
+  "products": {
+    "label": "Unsere Produkte",
+    "title": "Was Wir Liefern",
+    "subtitle": "Wir beziehen hochwertige Lebensmittel direkt von zuverlässigen Herstellern und liefern sie an Großhandelskäufer in Europa.",
+    "cta": "Alle Produkte Ansehen",
+    "requestPrice": "Preis Anfragen",
+    "items": {
+      "sunflower-oil": {
+        "name": "Sonnenblumenöl",
+        "description": "Raffiniert, desodoriert, winterfest. PET-Flaschen (0,5–10L) und Tanklastwagen."
+      },
+      "frying-oil": {
+        "name": "Frittieröl",
+        "description": "Hochstabiles Öl für professionelle Gastronomie und industrielles Frittieren."
+      },
+      "sugar": {
+        "name": "Rübenzucker",
+        "description": "Premium weißer Rübenzucker. Verfügbar in 25kg, 50kg Säcken und Big Bags."
+      },
+      "high-oleic": {
+        "name": "High-Oleic Sonnenblumenöl",
+        "description": "Raffinierte High-Oleic-Sorte — in Flaschen und Bulk. Ideal für gesundheitsbewusste Märkte."
+      },
+      "dairy": {
+        "name": "Milchprodukte",
+        "description": "Milch, Butter und Milchderivate von zertifizierten europäischen Herstellern."
+      },
+      "mayonnaise": {
+        "name": "Mayonnaise und Gewürze",
+        "description": "Traditionelle und industrielle Mayonnaise, Soßen und Gewürzprodukte."
+      }
+    }
+  },
+  "howWeWork": {
+    "label": "Wie Wir Arbeiten",
+    "title": "Einfacher Prozess, Zuverlässige Ergebnisse",
+    "subtitle": "Vom ersten Kontakt bis zur Lieferung — wir kümmern uns um alles für eine reibungslose Handelserfahrung.",
+    "steps": [
+      {
+        "title": "Kontakt und Anfrage",
+        "text": "Teilen Sie uns mit, was Sie brauchen — Produkttyp, Menge, Lieferziel. Wir antworten innerhalb von 24 Stunden."
+      },
+      {
+        "title": "Angebot und Vereinbarung",
+        "text": "Wir bieten wettbewerbsfähige Preise, organisieren bei Bedarf Produktmuster und finalisieren die Vertragsbedingungen."
+      },
+      {
+        "title": "Lieferung und Support",
+        "text": "Produkte werden per Straßentransport mit vollständiger Dokumentation versandt. Pünktliche Lieferung und fortlaufende Unterstützung."
+      }
+    ]
+  },
+  "logistics": {
+    "label": "Logistik und Qualität",
+    "title": "Für B2B-Handel Entwickelt",
+    "delivery": "Lieferoptionen",
+    "quality": "Qualitätsstandards",
+    "deliveryItems": [
+      "Straßentransport (EU)",
+      "PET-Flaschen (0,5–10L)",
+      "Tanklastwagen",
+      "Palettierte Fracht",
+      "FOB / CIF / DAP",
+      "Europaweite Lieferung"
+    ],
+    "qualityItems": [
+      "ISO-Zertifizierte Lieferanten",
+      "HACCP-Konformität",
+      "Gentechnikfrei Verfügbar",
+      "Vollständige Dokumentation",
+      "Labortestberichte",
+      "EU-Lebensmittelsicherheitsstandards"
+    ]
+  },
+  "cta": {
+    "label": "Lassen Sie Uns Zusammenarbeiten",
+    "title": "Bereit, Hochwertige Lebensmittel zu Beschaffen?",
+    "subtitle": "Erhalten Sie ein wettbewerbsfähiges Angebot für Sonnenblumenöl, Zucker, Milchprodukte und mehr. Wir antworten innerhalb von 24 Stunden.",
+    "cta1": "Angebot Anfordern",
+    "cta2": "Jetzt Anrufen"
+  },
+  "contact": {
+    "address": "Adresse",
+    "addressValue": "Bulgarien, Varna 9010\nSirma Voivoda Str., Bl.1, Ap. 21",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "hours": "Geschäftszeiten",
+    "hoursValue": "Mo–Fr: 9:00–17:00\nSa: 10:00–14:00\nSo: Geschlossen",
+    "social": "Folgen Sie Uns",
+    "socialTitle": "Verbinden Sie Sich auf Social Media",
+    "mapLabel": "Unser Standort",
+    "mapTitle": "Finden Sie Uns in Varna, Bulgarien"
+  },
+  "footer": {
+    "copyright": "UB Market LTD. Alle Rechte vorbehalten."
+  },
+  "aboutPage": {
+    "label": "Über Uns",
+    "heroTitle": "Ihr Zuverlässiger Partner im Europäischen Lebensmittelhandel",
+    "whoWeAre": "Wer Wir Sind",
+    "whoP1": "UB MARKET LTD ist ein EU-registriertes internationales Handelsunternehmen mit Sitz in Varna, Bulgarien. Wir sind spezialisiert auf den Export und Import von Lebensmitteln und fungieren als verantwortungsvoller Vermittler zwischen Herstellern und Großhandelskäufern in Europa.",
+    "whoP2": "Unsere Hauptspezialisierung ist der internationale Handel mit Sonnenblumenöl. Wir liefern eine breite Palette — raffiniert, roh und High-Oleic — in PET-Flaschen (0,5–10 Liter) und Tanklastwagen.",
+    "whoP3": "Wir beziehen Produkte direkt von verifizierten Herstellern und kümmern uns um alles — von der Preisverhandlung bis zur Logistik und Dokumentation.",
+    "whyLabel": "Warum Uns Wählen",
+    "whyTitle": "Was Uns Auszeichnet",
+    "values": [
+      {
+        "title": "Europäische Reichweite",
+        "text": "Wir liefern in über 12 EU-Länder und verbinden osteuropäische Hersteller mit westlichen Käufern."
+      },
+      {
+        "title": "Vertrauensvolle Partnerschaften",
+        "text": "Langfristige Beziehungen mit verifizierten Herstellern gewährleisten konstante Qualität und Versorgung."
+      },
+      {
+        "title": "Zuverlässige Logistik",
+        "text": "Vollständige Straßentransportabdeckung in Europa mit flexiblen Lieferbedingungen — FOB, CIF, DAP."
+      },
+      {
+        "title": "Qualitätsgarantie",
+        "text": "Alle Produkte entsprechen EU-Lebensmittelsicherheitsstandards mit vollständiger Dokumentation und Laborberichten."
+      }
+    ],
+    "rangeLabel": "Was Wir Handeln",
+    "rangeTitle": "Unser Produktsortiment",
+    "rangeSubtitle": "Wir liefern eine breite Palette an Lebensmitteln direkt von zuverlässigen Herstellern aus Osteuropa.",
+    "productList": [
+      "Sonnenblumenöl (raffiniert, desodoriert, winterfest)",
+      "Sonnenblumenöl (unraffiniert, roh) — Bulk",
+      "High-Oleic Sonnenblumenöl (raffiniert)",
+      "Frittieröl für die Gastronomie",
+      "Rübenzucker (25kg, 50kg Säcke)",
+      "Milchprodukte (Milch, Butter)",
+      "Mayonnaise und Gewürze",
+      "Andere Pflanzenöle (Oliven, Soja, Raps)"
+    ],
+    "ctaTitle": "Bereit, mit dem Handel zu Beginnen?",
+    "ctaText": "Kontaktieren Sie uns noch heute für wettbewerbsfähige Preise und zuverlässige Versorgung.",
+    "ctaCta": "Kontaktieren Sie Uns"
+  },
+  "productsPage": {
+    "label": "Produktkatalog",
+    "heroTitle": "Unsere Produkte",
+    "heroSubtitle": "Hochwertige Lebensmittel von verifizierten osteuropäischen Herstellern für Großhandelskäufer in der EU."
+  },
+  "contactsPage": {
+    "label": "Kontaktieren Sie Uns",
+    "heroTitle": "Kontakt",
+    "heroSubtitle": "Wir antworten innerhalb von 24 Stunden. Kontaktieren Sie uns für Preise, Muster oder Partnerschaftsanfragen."
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Nachrichten und Einblicke",
+    "subtitle": "Marktaktualisierungen, Branchentrends und Geschichten aus der Welt des Lebensmittelhandels.",
+    "comingTitle": "Blog Kommt Bald",
+    "comingText": "Wir bereiten unsere ersten Artikel über Sonnenblumenölmärkte, Trends der Lebensmittelindustrie und Geschichten hinter den Kulissen vor.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "notFound": {
+    "title": "Seite Nicht Gefunden",
+    "text": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "cta": "Zurück zur Startseite"
+  },
+  "contactForm": {
+    "title": "Senden Sie Uns eine Nachricht",
+    "subtitle": "Füllen Sie das Formular aus und wir melden uns innerhalb von 24 Stunden.",
+    "name": "Name",
+    "namePlaceholder": "Ihr vollständiger Name",
+    "email": "E-Mail",
+    "emailPlaceholder": "ihre@email.de",
+    "phone": "Telefon",
+    "phonePlaceholder": "+49 170 1234567",
+    "subject": "Betreff",
+    "subjectDefault": "Wählen Sie ein Thema...",
+    "subjects": [
+      "Preisanfrage",
+      "Produktmuster",
+      "Logistik und Lieferung",
+      "Partnerschaft",
+      "Sonstiges"
+    ],
+    "message": "Nachricht",
+    "messagePlaceholder": "Teilen Sie uns Ihre Bedürfnisse mit — Produkte, Mengen, Lieferziel...",
+    "send": "Nachricht Senden",
+    "sending": "Wird gesendet...",
+    "successTitle": "Nachricht Gesendet!",
+    "successText": "Vielen Dank für Ihre Anfrage. Wir antworten innerhalb von 24 Stunden.",
+    "sendAnother": "Weitere Nachricht Senden",
+    "errorText": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder senden Sie uns direkt eine E-Mail.",
+    "emailDirect": "E-Mail direkt an ubmarket2022@gmail.com senden"
+  }
+}

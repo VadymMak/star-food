@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre Noi",
+    "products": "Produse",
+    "blog": "Blog",
+    "contacts": "Contact"
+  },
+  "hero": {
+    "badge": "Comerț Internațional cu Alimente",
+    "title1": "Ulei de",
+    "titleHighlight": "Floarea Soarelui",
+    "title2": "Premium și Produse Alimentare pentru Europa",
+    "subtitle": "UB Market LTD conectează producătorii de top cu cumpărătorii angro din toată Europa. Aprovizionare fiabilă, prețuri competitive, transport rutier.",
+    "cta1": "Solicită Ofertă",
+    "cta2": "Vezi Produsele"
+  },
+  "trust": {
+    "years": "Ani Experiență",
+    "countries": "Țări",
+    "tons": "Tone Livrate",
+    "partners": "Parteneri"
+  },
+  "aboutPreview": {
+    "label": "Despre Noi",
+    "title": "Partenerul Dvs. de Încredere în Export și Import Alimentar",
+    "p1": "UB MARKET LTD este o companie internațională de comerț specializată în exportul și importul de produse alimentare. Conectăm producătorii de top cu cumpărătorii angro din toată Europa.",
+    "p2": "Specializarea noastră principală este comerțul internațional cu ulei de floarea soarelui — rafinat, brut și varietăți cu conținut ridicat de acid oleic, în sticle și cisterne.",
+    "features": [
+      "Uleiuri Rafinate și Brute",
+      "Transport Rutier (UE)",
+      "Sticle PET și Vrac",
+      "Prețuri Competitive",
+      "Certificat de Calitate",
+      "Suport Multilingv"
+    ],
+    "cta": "Află Mai Multe"
+  },
+  "products": {
+    "label": "Produsele Noastre",
+    "title": "Ce Furnizăm",
+    "subtitle": "Furnizăm produse alimentare de înaltă calitate de la producători verificați pentru cumpărătorii angro din Europa.",
+    "cta": "Vezi Toate Produsele",
+    "requestPrice": "Solicită Preț",
+    "items": {
+      "sunflower-oil": {
+        "name": "Ulei de Floarea Soarelui",
+        "description": "Rafinat, dezodorizat, winterizat. Sticle PET (0,5–10L) și cisterne vrac."
+      },
+      "frying-oil": {
+        "name": "Ulei de Prăjit",
+        "description": "Ulei cu stabilitate ridicată pentru servicii alimentare profesionale și prăjire industrială."
+      },
+      "sugar": {
+        "name": "Zahăr din Sfeclă",
+        "description": "Zahăr alb premium din sfeclă. Disponibil în saci de 25kg, 50kg și big bags."
+      },
+      "high-oleic": {
+        "name": "Ulei de Floarea Soarelui High-Oleic",
+        "description": "Varietate rafinată high-oleic — în sticle și vrac. Ideal pentru piețele orientate spre sănătate."
+      },
+      "dairy": {
+        "name": "Produse Lactate",
+        "description": "Lapte, unt și derivate lactate de la producători europeni certificați."
+      },
+      "mayonnaise": {
+        "name": "Maioneză și Condimente",
+        "description": "Maioneză tradițională și industrială, sosuri și produse de condimentare."
+      }
+    }
+  },
+  "howWeWork": {
+    "label": "Cum Lucrăm",
+    "title": "Proces Simplu, Rezultate Fiabile",
+    "subtitle": "De la primul contact la livrare — ne ocupăm de tot pentru o experiență comercială fără probleme.",
+    "steps": [
+      {
+        "title": "Contact și Solicitare",
+        "text": "Spuneți-ne ce aveți nevoie — tip de produs, volum, destinație de livrare. Răspundem în 24 de ore."
+      },
+      {
+        "title": "Ofertă și Acord",
+        "text": "Oferim prețuri competitive, organizăm mostre dacă este necesar și finalizăm termenii contractului."
+      },
+      {
+        "title": "Livrare și Suport",
+        "text": "Produsele sunt expediate prin transport rutier cu documentație completă. Asigurăm livrare la timp și suport continuu."
+      }
+    ]
+  },
+  "logistics": {
+    "label": "Logistică și Calitate",
+    "title": "Construit pentru Comerț B2B",
+    "delivery": "Opțiuni de Livrare",
+    "quality": "Standarde de Calitate",
+    "deliveryItems": [
+      "Transport Rutier (UE)",
+      "Sticle PET (0,5–10L)",
+      "Cisterne Vrac",
+      "Marfă Paletizată",
+      "FOB / CIF / DAP",
+      "Livrare Pan-Europeană"
+    ],
+    "qualityItems": [
+      "Furnizori Certificați ISO",
+      "Conformitate HACCP",
+      "Non-GMO Disponibil",
+      "Documentație Completă",
+      "Rapoarte de Testare",
+      "Standarde UE de Siguranță Alimentară"
+    ]
+  },
+  "cta": {
+    "label": "Să Lucrăm Împreună",
+    "title": "Pregătit să Achiziționezi Produse Alimentare de Calitate?",
+    "subtitle": "Obțineți o ofertă competitivă pentru ulei de floarea soarelui, zahăr, produse lactate și altele. Răspundem în 24 de ore.",
+    "cta1": "Solicită Ofertă",
+    "cta2": "Sună-ne Acum"
+  },
+  "contact": {
+    "address": "Adresă",
+    "addressValue": "Bulgaria, Varna 9010\nStr. Sirma Voivoda, bl.1, ap. 21",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "hours": "Program",
+    "hoursValue": "Lun–Vin: 9:00–17:00\nSâm: 10:00–14:00\nDum: Închis",
+    "social": "Urmărește-ne",
+    "socialTitle": "Conectează-te pe Social Media",
+    "mapLabel": "Locația Noastră",
+    "mapTitle": "Ne Găsiți în Varna, Bulgaria"
+  },
+  "footer": {
+    "copyright": "UB Market LTD. Toate drepturile rezervate."
+  },
+  "aboutPage": {
+    "label": "Despre Noi",
+    "heroTitle": "Partenerul Dvs. de Încredere în Comerțul Alimentar European",
+    "whoWeAre": "Cine Suntem",
+    "whoP1": "UB MARKET LTD este o companie internațională de comerț înregistrată în UE, cu sediul în Varna, Bulgaria. Ne specializăm în exportul și importul de produse alimentare, acționând ca intermediar între producători și cumpărători angro din Europa.",
+    "whoP2": "Specializarea noastră principală este comerțul internațional cu ulei de floarea soarelui. Furnizăm o gamă largă — rafinat, brut și high-oleic — în sticle PET (0,5–10 litri) și cisterne vrac.",
+    "whoP3": "Achiziționăm produse direct de la producători verificați și gestionăm totul, de la negocierea prețurilor la logistică și documentație.",
+    "whyLabel": "De Ce Să Ne Alegeți",
+    "whyTitle": "Ce Ne Diferențiază",
+    "values": [
+      {
+        "title": "Acoperire Europeană",
+        "text": "Livrăm în peste 12 țări UE, conectând producătorii est-europeni cu cumpărătorii occidentali."
+      },
+      {
+        "title": "Parteneriate de Încredere",
+        "text": "Relații pe termen lung cu producători verificați asigură calitate și aprovizionare constantă."
+      },
+      {
+        "title": "Logistică Fiabilă",
+        "text": "Acoperire completă de transport rutier în Europa cu termeni flexibili — FOB, CIF, DAP."
+      },
+      {
+        "title": "Calitate Asigurată",
+        "text": "Toate produsele respectă standardele UE de siguranță alimentară cu documentație completă și rapoarte de laborator."
+      }
+    ],
+    "rangeLabel": "Ce Comercializăm",
+    "rangeTitle": "Gama Noastră de Produse",
+    "rangeSubtitle": "Furnizăm o gamă largă de produse alimentare direct de la producători fiabili din Europa de Est.",
+    "productList": [
+      "Ulei de floarea soarelui (rafinat, dezodorizat, winterizat)",
+      "Ulei de floarea soarelui (nerafinat, brut) — vrac",
+      "Ulei de floarea soarelui high-oleic (rafinat)",
+      "Ulei de prăjit pentru servicii alimentare",
+      "Zahăr din sfeclă (saci 25kg, 50kg)",
+      "Produse lactate (lapte, unt)",
+      "Maioneză și condimente",
+      "Alte uleiuri vegetale (măsline, soia, rapiță)"
+    ],
+    "ctaTitle": "Pregătit să Începeți Comercializarea?",
+    "ctaText": "Contactați-ne astăzi pentru prețuri competitive și aprovizionare fiabilă.",
+    "ctaCta": "Contactează-ne"
+  },
+  "productsPage": {
+    "label": "Catalog de Produse",
+    "heroTitle": "Produsele Noastre",
+    "heroSubtitle": "Produse alimentare de înaltă calitate de la producători est-europeni verificați pentru cumpărătorii angro din UE."
+  },
+  "contactsPage": {
+    "label": "Contactează-ne",
+    "heroTitle": "Contact",
+    "heroSubtitle": "Răspundem în 24 de ore. Contactați-ne pentru prețuri, mostre sau întrebări despre parteneriat."
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Știri și Informații",
+    "subtitle": "Actualizări de piață, tendințe din industrie și povești din lumea comerțului alimentar.",
+    "comingTitle": "Blogul Vine în Curând",
+    "comingText": "Pregătim primele articole despre piețele de ulei de floarea soarelui, tendințe din industria alimentară și povești din culise.",
+    "backHome": "Înapoi Acasă"
+  },
+  "notFound": {
+    "title": "Pagina Nu a Fost Găsită",
+    "text": "Pagina pe care o căutați nu există sau a fost mutată.",
+    "cta": "Înapoi Acasă"
+  },
+  "contactForm": {
+    "title": "Trimite-ne un Mesaj",
+    "subtitle": "Completați formularul și vă vom răspunde în 24 de ore.",
+    "name": "Nume",
+    "namePlaceholder": "Numele complet",
+    "email": "E-mail",
+    "emailPlaceholder": "email@adresa.com",
+    "phone": "Telefon",
+    "phonePlaceholder": "+40 700 123 456",
+    "subject": "Subiect",
+    "subjectDefault": "Selectați un subiect...",
+    "subjects": [
+      "Solicitare Preț",
+      "Mostre Produse",
+      "Logistică și Livrare",
+      "Parteneriat",
+      "Altele"
+    ],
+    "message": "Mesaj",
+    "messagePlaceholder": "Spuneți-ne despre nevoile dvs. — produse, volume, destinație de livrare...",
+    "send": "Trimite Mesaj",
+    "sending": "Se trimite...",
+    "successTitle": "Mesaj Trimis!",
+    "successText": "Mulțumim pentru solicitare. Vom răspunde în 24 de ore.",
+    "sendAnother": "Trimite Alt Mesaj",
+    "errorText": "Ceva nu a funcționat. Încercați din nou sau trimiteți-ne un email direct.",
+    "emailDirect": "Trimiteți email direct la ubmarket2022@gmail.com"
+  }
+}

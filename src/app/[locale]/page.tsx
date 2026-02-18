@@ -1,3 +1,4 @@
+// src/app/[locale]/page.tsx — Homepage (locale-aware)
 import Hero from "@/components/Hero/Hero";
 import TrustNumbers from "@/components/TrustNumbers/TrustNumbers";
 import AboutPreview from "@/components/AboutPreview/AboutPreview";
@@ -8,7 +9,7 @@ import CTASection from "@/components/CTASection/CTASection";
 import ContactStrip from "@/components/ContactStrip/ContactStrip";
 import MapSection from "@/components/MapSection/MapSection";
 
-export default function Home() {
+export default function HomePage() {
   return (
     <>
       <Hero />
