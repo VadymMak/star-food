@@ -226,5 +226,19 @@
     "sendAnother": "Trimite Alt Mesaj",
     "errorText": "Ceva nu a funcționat. Încercați din nou sau trimiteți-ne un email direct.",
     "emailDirect": "Trimiteți email direct la ubmarket2022@gmail.com"
+  },
+  "productPage": {
+    "specifications": "Specificații",
+    "volume": "Volum",
+    "packaging": "Ambalaj",
+    "shelfLife": "Termen de Valabilitate",
+    "origin": "Origine",
+    "certifications": "Certificări",
+    "availablePackaging": "Ambalaj Disponibil",
+    "requestPrice": "Solicită Preț",
+    "callUs": "Sună-ne",
+    "relatedProducts": "Alte Produse",
+    "backToCatalog": "Înapoi la Catalog",
+    "viewDetails": "Vezi Detalii"
   }
 }

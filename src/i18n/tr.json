@@ -226,5 +226,19 @@
     "sendAnother": "Başka Mesaj Gönder",
     "errorText": "Bir hata oluştu. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
     "emailDirect": "Doğrudan e-posta gönderin: ubmarket2022@gmail.com"
+  },
+  "productPage": {
+    "specifications": "Özellikler",
+    "volume": "Hacim",
+    "packaging": "Ambalaj",
+    "shelfLife": "Raf Ömrü",
+    "origin": "Menşei",
+    "certifications": "Sertifikalar",
+    "availablePackaging": "Mevcut Ambalaj",
+    "requestPrice": "Fiyat İste",
+    "callUs": "Bizi Arayın",
+    "relatedProducts": "Diğer Ürünler",
+    "backToCatalog": "Kataloğa Dön",
+    "viewDetails": "Detayları Gör"
   }
 }

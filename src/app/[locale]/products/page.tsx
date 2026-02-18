@@ -1,13 +1,14 @@
 "use client";
 
 import Image from "next/image";
-import { FaEnvelope } from "react-icons/fa";
+import Link from "next/link";
+import { FaArrowRight } from "react-icons/fa";
 import { products } from "@/data/products";
 import { useLanguage } from "@/context/LanguageContext";
 import styles from "./products.module.css";
 
 export default function ProductsPage() {
-  const { t } = useLanguage();
+  const { locale, t } = useLanguage();
   const pp = t?.productsPage || {};
 
   return (
@@ -33,7 +34,11 @@ export default function ProductsPage() {
           {products.map((product) => {
             const translated = t?.products?.items?.[product.id as keyof typeof t.products.items];
             return (
-              <div key={product.id} className={styles.card}>
+              <Link
+                key={product.id}
+                href={`/${locale}/products/${product.slug}`}
+                className={styles.card}
+              >
                 {product.tag && (
                   <span className={styles.tag}>{product.tag}</span>
                 )}
@@ -49,15 +54,11 @@ export default function ProductsPage() {
                 <div className={styles.body}>
                   <h2 className={styles.name}>{translated?.name || product.name}</h2>
                   <p className={styles.desc}>{translated?.description || product.description}</p>
-                  <a
-                    href={`mailto:ubmarket2022@gmail.com?subject=Price inquiry: ${product.name}`}
-                    className="btn btn-primary"
-                    style={{ marginTop: "16px", fontSize: "0.8rem", padding: "12px 24px" }}
-                  >
-                    <FaEnvelope /> {t?.products?.requestPrice || "Request Price"}
-                  </a>
+                  <span className={styles.viewMore}>
+                    {t?.productPage?.viewDetails || "View Details"} <FaArrowRight />
+                  </span>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>

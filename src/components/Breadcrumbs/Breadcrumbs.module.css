@@ -1,0 +1,35 @@
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  padding: 16px 0;
+  font-size: 0.85rem;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.separator {
+  font-size: 0.6rem;
+  color: var(--text-muted, #999);
+  margin: 0 4px;
+}
+
+.link {
+  color: var(--gold, #d4a843);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: var(--gold-light, #f0d78c);
+  text-decoration: underline;
+}
+
+.current {
+  color: var(--text-muted, #999);
+}

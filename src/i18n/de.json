@@ -226,5 +226,19 @@
     "sendAnother": "Weitere Nachricht Senden",
     "errorText": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder senden Sie uns direkt eine E-Mail.",
     "emailDirect": "E-Mail direkt an ubmarket2022@gmail.com senden"
+  },
+  "productPage": {
+    "specifications": "Spezifikationen",
+    "volume": "Volumen",
+    "packaging": "Verpackung",
+    "shelfLife": "Haltbarkeit",
+    "origin": "Herkunft",
+    "certifications": "Zertifizierungen",
+    "availablePackaging": "Verfügbare Verpackung",
+    "requestPrice": "Preis Anfragen",
+    "callUs": "Jetzt Anrufen",
+    "relatedProducts": "Andere Produkte",
+    "backToCatalog": "Zurück zum Katalog",
+    "viewDetails": "Details Ansehen"
   }
 }

@@ -112,3 +112,18 @@
     padding: 50px 16px;
   }
 }
+/* ===== VIEW MORE LINK ===== */
+.viewMore {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--gold, #d4a843);
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: 12px;
+  transition: gap 0.3s ease;
+}
+
+.card:hover .viewMore {
+  gap: 10px;
+}

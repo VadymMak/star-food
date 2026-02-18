@@ -142,10 +142,22 @@
     "whyLabel": "Why Choose Us",
     "whyTitle": "What Sets Us Apart",
     "values": [
-      { "title": "European Reach", "text": "We deliver across 12+ EU countries, connecting Eastern European producers with Western buyers." },
-      { "title": "Trusted Partnerships", "text": "Long-term relationships with verified manufacturers ensure consistent quality and supply." },
-      { "title": "Reliable Logistics", "text": "Full road transport coverage across Europe with flexible delivery terms — FOB, CIF, DAP." },
-      { "title": "Quality Assured", "text": "All products meet EU food safety standards with full documentation and lab test reports." }
+      {
+        "title": "European Reach",
+        "text": "We deliver across 12+ EU countries, connecting Eastern European producers with Western buyers."
+      },
+      {
+        "title": "Trusted Partnerships",
+        "text": "Long-term relationships with verified manufacturers ensure consistent quality and supply."
+      },
+      {
+        "title": "Reliable Logistics",
+        "text": "Full road transport coverage across Europe with flexible delivery terms — FOB, CIF, DAP."
+      },
+      {
+        "title": "Quality Assured",
+        "text": "All products meet EU food safety standards with full documentation and lab test reports."
+      }
     ],
     "rangeLabel": "What We Trade",
     "rangeTitle": "Our Product Range",
@@ -187,7 +199,7 @@
     "text": "The page you're looking for doesn't exist or has been moved.",
     "cta": "Back to Home"
   },
-   "contactForm": {
+  "contactForm": {
     "title": "Send Us a Message",
     "subtitle": "Fill out the form and we'll get back to you within 24 hours.",
     "name": "Name",
@@ -198,7 +210,13 @@
     "phonePlaceholder": "+1 234 567 890",
     "subject": "Subject",
     "subjectDefault": "Select a topic...",
-    "subjects": ["Price Inquiry", "Product Samples", "Logistics & Delivery", "Partnership", "Other"],
+    "subjects": [
+      "Price Inquiry",
+      "Product Samples",
+      "Logistics & Delivery",
+      "Partnership",
+      "Other"
+    ],
     "message": "Message",
     "messagePlaceholder": "Tell us about your needs — products, volumes, delivery destination...",
     "send": "Send Message",
@@ -208,5 +226,19 @@
     "sendAnother": "Send Another Message",
     "errorText": "Something went wrong. Please try again or email us directly.",
     "emailDirect": "Send email directly to ubmarket2022@gmail.com"
+  },
+  "productPage": {
+    "specifications": "Specifications",
+    "volume": "Volume",
+    "packaging": "Packaging",
+    "shelfLife": "Shelf Life",
+    "origin": "Origin",
+    "certifications": "Certifications",
+    "availablePackaging": "Available Packaging",
+    "requestPrice": "Request Price",
+    "callUs": "Call Us",
+    "relatedProducts": "Other Products",
+    "backToCatalog": "Back to Catalog",
+    "viewDetails": "View Details"
   }
 }

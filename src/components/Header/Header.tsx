@@ -1,7 +1,7 @@
-// src/components/Header/Header.tsx — Locale-aware routing
+// src/components/Header/Header.tsx — Locale-aware routing + scroll hide/show
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -12,8 +12,25 @@ import styles from "./Header.module.css";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [hidden, setHidden] = useState(false);
+  const lastScrollY = useRef(0);
   const pathname = usePathname();
   const { locale, t } = useLanguage();
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentY = window.scrollY;
+      if (currentY > lastScrollY.current && currentY > 80) {
+        setHidden(true); // scrolling down
+      } else {
+        setHidden(false); // scrolling up
+      }
+      lastScrollY.current = currentY;
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
   const prefix = `/${locale}`;
 
@@ -33,7 +50,7 @@ export default function Header() {
   };
 
   return (
-    <header className={styles.header}>
+    <header className={`${styles.header} ${hidden ? styles.headerHidden : ""}`}>
       <div className={styles.container}>
         <Link href={prefix} className={styles.logo}>
           <Image

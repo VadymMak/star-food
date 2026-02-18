@@ -28,7 +28,11 @@ export default function ProductsGrid() {
           {products.map((product) => {
             const translated = p?.items?.[product.id as keyof typeof p.items];
             return (
-              <div key={product.id} className={styles.card}>
+              <Link
+                key={product.id}
+                href={`/${locale}/products/${product.slug}`}
+                className={styles.card}
+              >
                 {product.tag && (
                   <span className={styles.tag}>{product.tag}</span>
                 )}
@@ -45,7 +49,7 @@ export default function ProductsGrid() {
                   <h3 className={styles.name}>{translated?.name || product.name}</h3>
                   <p className={styles.desc}>{translated?.description || product.description}</p>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>
