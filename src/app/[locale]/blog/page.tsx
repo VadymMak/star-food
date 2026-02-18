@@ -1,19 +1,22 @@
 "use client";
 
-import Link from "next/link";
-import { FaArrowLeft } from "react-icons/fa";
+import { useState } from "react";
 import { useLanguage } from "@/context/LanguageContext";
+import { blogPosts, categories } from "@/data/blog-posts";
+import BlogCard from "@/components/BlogCard/BlogCard";
 import styles from "./blog.module.css";
-
-const upcomingPosts = [
-  { titleKey: "How We Created the Star Food Label Design", category: "Brand Story" },
-  { titleKey: "Sunflower Oil Market Trends in 2026", category: "Market Analysis" },
-  { titleKey: "From Farm to Your Table — Our Supply Chain", category: "Behind the Scenes" },
-];
 
 export default function BlogPage() {
   const { locale, t } = useLanguage();
   const b = t?.blog || {};
+  const [activeCategory, setActiveCategory] = useState("all");
+
+  const filtered = activeCategory === "all"
+    ? blogPosts
+    : blogPosts.filter((p) => p.category === activeCategory);
+
+  // Only show posts that have content for current locale
+  const localized = filtered.filter((p) => p.content[locale] || p.content.en);
 
   return (
     <>
@@ -34,28 +37,45 @@ export default function BlogPage() {
       </section>
 
       <section className={styles.section}>
-        <div className={styles.comingSoon}>
-          <h2 className={styles.comingTitle}>{b.comingTitle || "Blog is Coming Soon"}</h2>
-          <p className={styles.comingText}>{b.comingText}</p>
-        </div>
-
-        <div className={styles.grid}>
-          {upcomingPosts.map((post) => (
-            <div key={post.titleKey} className={styles.card}>
-              <div className={styles.cardTop}>
-                <span className={styles.category}>{post.category}</span>
-                <span className={styles.date}>Coming Soon</span>
-              </div>
-              <h3 className={styles.cardTitle}>{post.titleKey}</h3>
-            </div>
+        {/* Category Filter */}
+        <div className={styles.filters}>
+          {categories.map((cat) => (
+            <button
+              key={cat.id}
+              className={`${styles.filterBtn} ${activeCategory === cat.id ? styles.filterActive : ""}`}
+              onClick={() => setActiveCategory(cat.id)}
+            >
+              {cat.label}
+            </button>
           ))}
         </div>
 
-        <div className={styles.back}>
-          <Link href={`/${locale}`} className="btn btn-outline">
-            <FaArrowLeft /> {b.backHome || "Back to Home"}
-          </Link>
-        </div>
+        {/* Blog Grid */}
+        {localized.length > 0 ? (
+          <div className={styles.grid}>
+            {localized.map((post) => {
+              const content = post.content[locale] || post.content.en;
+              return (
+                <BlogCard
+                  key={post.slug}
+                  slug={post.slug}
+                  title={content.title}
+                  description={content.description}
+                  image={post.image}
+                  date={post.date}
+                  readingTime={post.readingTime}
+                  category={post.category}
+                  locale={locale}
+                />
+              );
+            })}
+          </div>
+        ) : (
+          <div className={styles.comingSoon}>
+            <h2 className={styles.comingTitle}>{b.comingTitle || "More Articles Coming Soon"}</h2>
+            <p className={styles.comingText}>{b.comingText}</p>
+          </div>
+        )}
       </section>
     </>
   );

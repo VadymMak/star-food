@@ -240,5 +240,14 @@
     "relatedProducts": "Alte Produse",
     "backToCatalog": "Înapoi la Catalog",
     "viewDetails": "Vezi Detalii"
+  },
+  "blogPost": {
+    "minRead": "min citire",
+    "backToBlog": "Înapoi la Blog",
+    "notFound": "Articol Negăsit",
+    "ctaTitle": "Sunteți interesat de ulei de floarea soarelui angro?",
+    "ctaText": "Contactați UB Market pentru prețuri competitive și aprovizionare fiabilă în Europa.",
+    "ctaButton": "Solicită Ofertă",
+    "contents": "Cuprins"
   }
 }

@@ -240,5 +240,14 @@
     "relatedProducts": "Other Products",
     "backToCatalog": "Back to Catalog",
     "viewDetails": "View Details"
+  },
+  "blogPost": {
+    "minRead": "min read",
+    "backToBlog": "Back to Blog",
+    "notFound": "Article Not Found",
+    "ctaTitle": "Interested in Wholesale Sunflower Oil?",
+    "ctaText": "Contact UB Market for competitive pricing and reliable supply across Europe.",
+    "ctaButton": "Request a Quote",
+    "contents": "Contents"
   }
 }

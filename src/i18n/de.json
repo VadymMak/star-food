@@ -240,5 +240,14 @@
     "relatedProducts": "Andere Produkte",
     "backToCatalog": "Zurück zum Katalog",
     "viewDetails": "Details Ansehen"
+  },
+  "blogPost": {
+    "minRead": "Min. Lesezeit",
+    "backToBlog": "Zurück zum Blog",
+    "notFound": "Artikel Nicht Gefunden",
+    "ctaTitle": "Interessiert an Sonnenblumenöl im Großhandel?",
+    "ctaText": "Kontaktieren Sie UB Market für wettbewerbsfähige Preise und zuverlässige Lieferung in Europa.",
+    "ctaButton": "Angebot Anfordern",
+    "contents": "Inhalt"
   }
 }

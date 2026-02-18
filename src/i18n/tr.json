@@ -240,5 +240,14 @@
     "relatedProducts": "Diğer Ürünler",
     "backToCatalog": "Kataloğa Dön",
     "viewDetails": "Detayları Gör"
+  },
+  "blogPost": {
+    "minRead": "dk okuma",
+    "backToBlog": "Bloğa Dön",
+    "notFound": "Makale Bulunamadı",
+    "ctaTitle": "Toptan Ayçiçek Yağıyla İlgileniyor Musunuz?",
+    "ctaText": "Avrupa genelinde rekabetçi fiyatlar ve güvenilir tedarik için UB Market ile iletişime geçin.",
+    "ctaButton": "Teklif İste",
+    "contents": "İçindekiler"
   }
 }
