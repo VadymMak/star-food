@@ -1,58 +1,29 @@
-"use client";
-
 import Link from "next/link";
-import { FaHome } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 
 export default function NotFound() {
-  const { t } = useLanguage();
-
   return (
-    <section
+    <div
       style={{
-        minHeight: "80vh",
+        minHeight: "100vh",
         display: "flex",
         flexDirection: "column",
-        justifyContent: "center",
         alignItems: "center",
-        textAlign: "center",
-        padding: "40px 20px",
+        justifyContent: "center",
+        background: "#0a0a0a",
+        color: "#e8e8e8",
+        fontFamily: "var(--font-body)",
       }}
     >
-      <p
-        style={{
-          fontFamily: "var(--font-display)",
-          fontSize: "8rem",
-          fontWeight: 700,
-          color: "var(--gold)",
-          lineHeight: 1,
-          marginBottom: "16px",
-        }}
-      >
+      <h1 style={{ fontSize: "3rem", color: "#d4a843", marginBottom: "16px" }}>
         404
-      </p>
-      <h1
-        style={{
-          fontFamily: "var(--font-display)",
-          fontSize: "2rem",
-          marginBottom: "12px",
-        }}
-      >
-        {t.notFound.title}
       </h1>
-      <p
-        style={{
-          color: "var(--text-muted)",
-          fontSize: "1.05rem",
-          marginBottom: "30px",
-          maxWidth: "400px",
-        }}
+      <p style={{ marginBottom: "24px" }}>Page Not Found</p>
+      <Link
+        href="/en"
+        style={{ color: "#d4a843", textDecoration: "underline" }}
       >
-        {t.notFound.text}
-      </p>
-      <Link href="/" className="btn btn-primary">
-        <FaHome /> {t.notFound.cta}
+        Back to Home
       </Link>
-    </section>
+    </div>
   );
 }
