@@ -1,6 +1,7 @@
 // src/app/[locale]/page.tsx — Homepage (locale-aware)
 import Hero from "@/components/Hero/Hero";
 import TrustNumbers from "@/components/TrustNumbers/TrustNumbers";
+import TrustedBy from "@/components/TrustedBy/TrustedBy";
 import AboutPreview from "@/components/AboutPreview/AboutPreview";
 import ProductsGrid from "@/components/ProductsGrid/ProductsGrid";
 import HowWeWork from "@/components/HowWeWork/HowWeWork";
@@ -14,6 +15,7 @@ export default function HomePage() {
     <>
       <Hero />
       <TrustNumbers />
+      <TrustedBy />
       <AboutPreview />
       <ProductsGrid />
       <HowWeWork />

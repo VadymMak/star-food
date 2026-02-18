@@ -249,5 +249,59 @@
     "ctaText": "Свържете се с UB Market за конкурентни цени и надеждна доставка в Европа.",
     "ctaButton": "Поискай оферта",
     "contents": "Съдържание"
+  },
+  "trustedBy": {
+    "label": "Надеждни стандарти",
+    "title": "Сертифицирано качество, на което можете да вярвате"
+  },
+  "brandPage": {
+    "breadcrumb": "Марка Star Food",
+    "label": "Нашата марка",
+    "title": "Star Food — Качество, на което можете да вярвате",
+    "description": "Star Food е водещата марка на UB Market LTD.",
+    "ctaQuote": "Поискай ценоразпис",
+    "ctaPartner": "Стани дистрибутор",
+    "lineupLabel": "Продуктова гама",
+    "lineupTitle": "Продукти Star Food",
+    "qualityLabel": "Стандарти за качество",
+    "qualityTitle": "Нашият ангажимент към качеството",
+    "designedByTitle": "Дизайн на етикети",
+    "designedByText": "Всички етикети на Star Food са дизайнирани от Анастасия Колесник.",
+    "designedByLink": "Посетете портфолиото на AK Illustrator →"
+  },
+  "partnersPage": {
+    "breadcrumb": "Партньори",
+    "label": "Партньорство",
+    "title": "Станете партньор на Star Food",
+    "subtitle": "Присъединете се към нашата растяща мрежа от дистрибутори в Европа.",
+    "cta": "Кандидатствайте",
+    "benefitsTitle": "Защо да партнирате с нас",
+    "typesTitle": "Видове партньорство",
+    "ctaTitle": "Готови да започнете?",
+    "ctaButton": "Поискайте информация"
+  },
+  "quotePage": {
+    "breadcrumb": "Заявка за оферта"
+  },
+  "quoteForm": {
+    "title": "Заявка за оферта",
+    "subtitle": "Попълнете изискванията и ще се свържем в рамките на 24 часа.",
+    "company": "Фирма",
+    "contactName": "Лице за контакт",
+    "email": "Имейл",
+    "phone": "Телефон",
+    "country": "Държава",
+    "product": "Продукт",
+    "selectProduct": "Изберете продукт",
+    "quantity": "Количество (тонове)",
+    "deliveryTerms": "Условия на доставка",
+    "message": "Допълнителни изисквания",
+    "submit": "Изпрати заявка",
+    "sending": "Изпращане...",
+    "noObligation": "Без ангажимент — безплатна оферта до 24 часа.",
+    "successTitle": "Заявката е изпратена!",
+    "successText": "Ще отговорим в рамките на 24 часа.",
+    "sendAnother": "Нова заявка",
+    "errorText": "Нещо се обърка. Пишете ни на ubmarket2022@gmail.com"
   }
 }

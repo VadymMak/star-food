@@ -249,5 +249,55 @@
     "ctaText": "Зв'яжіться з UB Market для конкурентних цін та надійної доставки по Європі.",
     "ctaButton": "Запитати ціну",
     "contents": "Зміст"
+  },
+  "trustedBy": {
+    "label": "Надійні стандарти",
+    "title": "Сертифікована якість, якій можна довіряти"
+  },
+  "brandPage": {
+    "breadcrumb": "Бренд Star Food",
+    "label": "Наш бренд",
+    "title": "Star Food — Якість, якій можна довіряти",
+    "description": "Star Food — флагманський бренд UB Market LTD.",
+    "ctaQuote": "Запитати прайс-лист",
+    "ctaPartner": "Стати дистриб'ютором",
+    "designedByTitle": "Дизайн етикеток",
+    "designedByText": "Усі етикетки Star Food створені Анастасією Колесник.",
+    "designedByLink": "Відвідати портфоліо AK Illustrator →"
+  },
+  "partnersPage": {
+    "breadcrumb": "Партнери",
+    "label": "Партнерство",
+    "title": "Станьте партнером Star Food",
+    "subtitle": "Приєднуйтесь до нашої мережі дистриб'юторів по Європі.",
+    "cta": "Подати заявку",
+    "benefitsTitle": "Чому варто працювати з нами",
+    "typesTitle": "Типи партнерства",
+    "ctaTitle": "Готові почати?",
+    "ctaButton": "Запитати інформацію"
+  },
+  "quotePage": {
+    "breadcrumb": "Запит ціни"
+  },
+  "quoteForm": {
+    "title": "Запитати ціну",
+    "subtitle": "Заповніть вимоги і ми відповімо протягом 24 годин.",
+    "company": "Назва компанії",
+    "contactName": "Контактна особа",
+    "email": "Електронна пошта",
+    "phone": "Телефон",
+    "country": "Країна",
+    "product": "Продукт",
+    "selectProduct": "Оберіть продукт",
+    "quantity": "Кількість (тонн)",
+    "deliveryTerms": "Умови доставки",
+    "message": "Додаткові вимоги",
+    "submit": "Запитати ціну",
+    "sending": "Відправка...",
+    "noObligation": "Без зобов'язань — безкоштовна пропозиція протягом 24 годин.",
+    "successTitle": "Запит надіслано!",
+    "successText": "Ми відповімо протягом 24 годин.",
+    "sendAnother": "Надіслати інший запит",
+    "errorText": "Щось пішло не так. Напишіть на ubmarket2022@gmail.com"
   }
 }

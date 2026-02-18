@@ -249,5 +249,59 @@
     "ctaText": "Avrupa genelinde rekabetçi fiyatlar ve güvenilir tedarik için UB Market ile iletişime geçin.",
     "ctaButton": "Teklif İste",
     "contents": "İçindekiler"
+  },
+  "trustedBy": {
+    "label": "Güvenilir Standartlar",
+    "title": "Güvenebileceğiniz Sertifikalı Kalite"
+  },
+  "brandPage": {
+    "breadcrumb": "Star Food Markası",
+    "label": "Markamız",
+    "title": "Star Food — Güvenebileceğiniz Kalite",
+    "description": "Star Food, UB Market LTD'nin amiral gemisi markasıdır.",
+    "ctaQuote": "Fiyat Listesi İste",
+    "ctaPartner": "Distribütör Olun",
+    "lineupLabel": "Ürün Yelpazesi",
+    "lineupTitle": "Star Food Ürünleri",
+    "qualityLabel": "Kalite Standartları",
+    "qualityTitle": "Kaliteye Bağlılığımız",
+    "designedByTitle": "Etiket Tasarımı",
+    "designedByText": "Tüm Star Food etiketleri Anastasiia Kolisnyk tarafından tasarlanmıştır.",
+    "designedByLink": "AK Illustrator Portföyünü Ziyaret Edin →"
+  },
+  "partnersPage": {
+    "breadcrumb": "Ortaklar",
+    "label": "Ortaklık",
+    "title": "Star Food Ortağı Olun",
+    "subtitle": "Avrupa genelindeki büyüyen distribütör ağımıza katılın.",
+    "cta": "Ortaklık Başvurusu",
+    "benefitsTitle": "Neden Bizimle Ortaklık Kurmalısınız",
+    "typesTitle": "Ortaklık Türleri",
+    "ctaTitle": "Başlamaya Hazır Mısınız?",
+    "ctaButton": "Ortaklık Bilgisi İsteyin"
+  },
+  "quotePage": {
+    "breadcrumb": "Teklif İste"
+  },
+  "quoteForm": {
+    "title": "Teklif İsteyin",
+    "subtitle": "Gereksinimlerinizi doldurun, 24 saat içinde dönüş yapalım.",
+    "company": "Şirket Adı",
+    "contactName": "İletişim Adı",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "country": "Ülke",
+    "product": "Ürün",
+    "selectProduct": "Ürün seçin",
+    "quantity": "Miktar (ton)",
+    "deliveryTerms": "Teslimat Koşulları",
+    "message": "Ek Gereksinimler",
+    "submit": "Teklif İste",
+    "sending": "Gönderiliyor...",
+    "noObligation": "Zorunluluk yok — 24 saat içinde ücretsiz teklif.",
+    "successTitle": "Teklif Talebi Gönderildi!",
+    "successText": "24 saat içinde kişiselleştirilmiş teklifle yanıt vereceğiz.",
+    "sendAnother": "Başka Talep Gönder",
+    "errorText": "Bir hata oluştu. ubmarket2022@gmail.com adresine yazın."
   }
 }

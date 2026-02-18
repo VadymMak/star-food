@@ -1,0 +1,30 @@
+.inner { max-width: var(--max-w, 1200px); margin: 0 auto; padding: 0 20px; }
+.breadcrumbSection { padding-top: calc(var(--header-height, 80px) + 16px); background: var(--dark, #0a0a0a); }
+
+.hero { padding: 40px 0 80px; background: var(--dark, #0a0a0a); text-align: center; }
+.heroTitle { font-family: var(--font-display); font-size: 2.6rem; color: var(--white); margin-bottom: 20px; }
+.heroSubtitle { color: var(--text-muted, #999); font-size: 1.1rem; max-width: 650px; margin: 0 auto 30px; line-height: 1.7; }
+
+.section { padding: 80px 0; background: var(--dark, #0a0a0a); }
+.sectionDark { padding: 80px 0; background: var(--dark-section, #0d0d0d); }
+.sectionTitle { font-family: var(--font-display); font-size: 2rem; color: var(--white); margin-bottom: 40px; text-align: center; }
+
+.benefitsGrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+.benefitCard { background: var(--dark-card, #111); border-radius: var(--radius, 8px); padding: 28px; border: 1px solid rgba(255,255,255,0.06); text-align: center; transition: all 0.3s ease; }
+.benefitCard:hover { border-color: rgba(212,168,67,0.3); transform: translateY(-2px); }
+.benefitIcon { font-size: 2rem; color: var(--gold, #d4a843); margin-bottom: 16px; }
+.benefitCard h3 { font-family: var(--font-display); font-size: 1.05rem; color: var(--white); margin-bottom: 10px; }
+.benefitCard p { font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; }
+
+.typesGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.typeCard { background: var(--dark-card, #111); border-radius: var(--radius, 8px); padding: 28px; border: 1px solid rgba(255,255,255,0.06); }
+.typeIcon { font-size: 1.2rem; color: var(--gold, #d4a843); margin-bottom: 12px; }
+.typeCard h3 { font-family: var(--font-display); font-size: 1.1rem; color: var(--gold, #d4a843); margin-bottom: 10px; }
+.typeCard p { font-size: 0.9rem; color: var(--text-muted); line-height: 1.6; }
+
+.ctaSection { padding: 80px 0; background: var(--dark, #0a0a0a); text-align: center; }
+.ctaTitle { font-family: var(--font-display); font-size: 2rem; color: var(--white); margin-bottom: 16px; }
+.ctaText { color: var(--text-muted); margin-bottom: 30px; font-size: 1.05rem; }
+
+@media (max-width: 900px) { .benefitsGrid { grid-template-columns: repeat(2, 1fr); } .typesGrid { grid-template-columns: 1fr; } }
+@media (max-width: 600px) { .benefitsGrid { grid-template-columns: 1fr; } .heroTitle { font-size: 1.8rem; } }

@@ -249,5 +249,55 @@
     "ctaText": "Kontaktieren Sie UB Market für wettbewerbsfähige Preise und zuverlässige Lieferung in Europa.",
     "ctaButton": "Angebot Anfordern",
     "contents": "Inhalt"
+  },
+  "trustedBy": {
+    "label": "Vertrauenswürdige Standards",
+    "title": "Zertifizierte Qualität, der Sie vertrauen können"
+  },
+  "brandPage": {
+    "breadcrumb": "Marke Star Food",
+    "label": "Unsere Marke",
+    "title": "Star Food — Qualität, der Sie vertrauen können",
+    "description": "Star Food ist die Flagship-Marke von UB Market LTD.",
+    "ctaQuote": "Preisliste Anfordern",
+    "ctaPartner": "Distributor Werden",
+    "designedByTitle": "Etikettendesign",
+    "designedByText": "Alle Star Food Etiketten wurden von Anastasiia Kolisnyk gestaltet.",
+    "designedByLink": "AK Illustrator Portfolio Besuchen →"
+  },
+  "partnersPage": {
+    "breadcrumb": "Partner",
+    "label": "Partnerschaft",
+    "title": "Werden Sie Star Food Partner",
+    "subtitle": "Treten Sie unserem wachsenden Netzwerk von Distributoren in Europa bei.",
+    "cta": "Bewerben",
+    "benefitsTitle": "Warum Mit Uns Zusammenarbeiten",
+    "typesTitle": "Partnerschaftsarten",
+    "ctaTitle": "Bereit Loszulegen?",
+    "ctaButton": "Partnerschaftsinfo Anfordern"
+  },
+  "quotePage": {
+    "breadcrumb": "Angebot Anfordern"
+  },
+  "quoteForm": {
+    "title": "Angebot Anfordern",
+    "subtitle": "Füllen Sie Ihre Anforderungen aus und wir melden uns innerhalb von 24 Stunden.",
+    "company": "Firmenname",
+    "contactName": "Kontaktname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "country": "Land",
+    "product": "Produkt",
+    "selectProduct": "Produkt wählen",
+    "quantity": "Menge (Tonnen)",
+    "deliveryTerms": "Lieferbedingungen",
+    "message": "Zusätzliche Anforderungen",
+    "submit": "Angebot Anfordern",
+    "sending": "Wird gesendet...",
+    "noObligation": "Unverbindlich — kostenloses Angebot in 24 Stunden.",
+    "successTitle": "Anfrage Gesendet!",
+    "successText": "Wir antworten innerhalb von 24 Stunden.",
+    "sendAnother": "Neue Anfrage Senden",
+    "errorText": "Etwas ist schiefgelaufen. Schreiben Sie an ubmarket2022@gmail.com"
   }
 }

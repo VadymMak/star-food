@@ -249,5 +249,55 @@
     "ctaText": "Contactați UB Market pentru prețuri competitive și aprovizionare fiabilă în Europa.",
     "ctaButton": "Solicită Ofertă",
     "contents": "Cuprins"
+  },
+  "trustedBy": {
+    "label": "Standarde de Încredere",
+    "title": "Calitate Certificată în Care Puteți Avea Încredere"
+  },
+  "brandPage": {
+    "breadcrumb": "Marca Star Food",
+    "label": "Marca Noastră",
+    "title": "Star Food — Calitate de Încredere",
+    "description": "Star Food este marca emblematică a UB Market LTD.",
+    "ctaQuote": "Solicită Lista de Prețuri",
+    "ctaPartner": "Devino Distribuitor",
+    "designedByTitle": "Design Etichete",
+    "designedByText": "Toate etichetele Star Food au fost create de Anastasiia Kolisnyk.",
+    "designedByLink": "Vizitează Portofoliul AK Illustrator →"
+  },
+  "partnersPage": {
+    "breadcrumb": "Parteneri",
+    "label": "Parteneriat",
+    "title": "Deveniți Partener Star Food",
+    "subtitle": "Alăturați-vă rețelei noastre de distribuitori din Europa.",
+    "cta": "Aplicați",
+    "benefitsTitle": "De Ce Să Fiți Partenerul Nostru",
+    "typesTitle": "Tipuri de Parteneriat",
+    "ctaTitle": "Gata să Începeți?",
+    "ctaButton": "Solicitați Informații"
+  },
+  "quotePage": {
+    "breadcrumb": "Solicită Ofertă"
+  },
+  "quoteForm": {
+    "title": "Solicită o Ofertă",
+    "subtitle": "Completați cerințele și vă răspundem în 24 de ore.",
+    "company": "Nume Companie",
+    "contactName": "Persoană de Contact",
+    "email": "Email",
+    "phone": "Telefon",
+    "country": "Țara",
+    "product": "Produs",
+    "selectProduct": "Selectați un produs",
+    "quantity": "Cantitate (tone)",
+    "deliveryTerms": "Condiții de Livrare",
+    "message": "Cerințe Suplimentare",
+    "submit": "Solicită Ofertă",
+    "sending": "Se trimite...",
+    "noObligation": "Fără obligații — ofertă gratuită în 24 de ore.",
+    "successTitle": "Cerere Trimisă!",
+    "successText": "Vom răspunde în 24 de ore.",
+    "sendAnother": "Trimite Altă Cerere",
+    "errorText": "Ceva nu a funcționat. Scrieți la ubmarket2022@gmail.com"
   }
 }

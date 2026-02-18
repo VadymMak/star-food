@@ -42,12 +42,17 @@ export default function ProductPage() {
     { label: productName },
   ];
 
-  const productSchema = generateProductSchema(product, locale, productName, productDesc);
+  const productSchema = generateProductSchema(
+    product,
+    locale,
+    productName,
+    productDesc,
+  );
   const breadcrumbSchema = generateBreadcrumbSchema(
     breadcrumbItems.map((item) => ({
       name: item.label,
       url: item.href || `/${locale}/products/${product.slug}`,
-    }))
+    })),
   );
 
   return (
@@ -90,37 +95,59 @@ export default function ProductPage() {
 
               {/* Specs Table */}
               <div className={styles.specsTable}>
-                <h3 className={styles.specsTitle}>{pt.specifications || "Specifications"}</h3>
+                <h3 className={styles.specsTitle}>
+                  {pt.specifications || "Specifications"}
+                </h3>
                 <table className={styles.table}>
                   <tbody>
                     {product.specs.volume && (
                       <tr>
-                        <td className={styles.specLabel}>{pt.volume || "Volume"}</td>
-                        <td className={styles.specValue}>{product.specs.volume}</td>
+                        <td className={styles.specLabel}>
+                          {pt.volume || "Volume"}
+                        </td>
+                        <td className={styles.specValue}>
+                          {product.specs.volume}
+                        </td>
                       </tr>
                     )}
                     {product.specs.packaging && (
                       <tr>
-                        <td className={styles.specLabel}>{pt.packaging || "Packaging"}</td>
-                        <td className={styles.specValue}>{product.specs.packaging}</td>
+                        <td className={styles.specLabel}>
+                          {pt.packaging || "Packaging"}
+                        </td>
+                        <td className={styles.specValue}>
+                          {product.specs.packaging}
+                        </td>
                       </tr>
                     )}
                     {product.specs.shelfLife && (
                       <tr>
-                        <td className={styles.specLabel}>{pt.shelfLife || "Shelf Life"}</td>
-                        <td className={styles.specValue}>{product.specs.shelfLife}</td>
+                        <td className={styles.specLabel}>
+                          {pt.shelfLife || "Shelf Life"}
+                        </td>
+                        <td className={styles.specValue}>
+                          {product.specs.shelfLife}
+                        </td>
                       </tr>
                     )}
                     {product.specs.origin && (
                       <tr>
-                        <td className={styles.specLabel}>{pt.origin || "Origin"}</td>
-                        <td className={styles.specValue}>{product.specs.origin}</td>
+                        <td className={styles.specLabel}>
+                          {pt.origin || "Origin"}
+                        </td>
+                        <td className={styles.specValue}>
+                          {product.specs.origin}
+                        </td>
                       </tr>
                     )}
                     {product.specs.certification && (
                       <tr>
-                        <td className={styles.specLabel}>{pt.certifications || "Certifications"}</td>
-                        <td className={styles.specValue}>{product.specs.certification}</td>
+                        <td className={styles.specLabel}>
+                          {pt.certifications || "Certifications"}
+                        </td>
+                        <td className={styles.specValue}>
+                          {product.specs.certification}
+                        </td>
                       </tr>
                     )}
                   </tbody>
@@ -129,7 +156,9 @@ export default function ProductPage() {
 
               {/* Packaging Options */}
               <div className={styles.packagingSection}>
-                <h3 className={styles.specsTitle}>{pt.availablePackaging || "Available Packaging"}</h3>
+                <h3 className={styles.specsTitle}>
+                  {pt.availablePackaging || "Available Packaging"}
+                </h3>
                 <div className={styles.packagingTags}>
                   {product.packagingOptions.map((opt) => (
                     <span key={opt} className={styles.packTag}>
@@ -141,12 +170,12 @@ export default function ProductPage() {
 
               {/* CTA Buttons */}
               <div className={styles.ctas}>
-                <a
-                  href={`mailto:ubmarket2022@gmail.com?subject=Price inquiry: ${product.name}`}
+                <Link
+                  href={`/${locale}/quote?product=${product.slug}`}
                   className="btn btn-primary"
                 >
                   <FaEnvelope /> {pt.requestPrice || "Request Price"}
-                </a>
+                </Link>
                 <a href="tel:+359884469860" className="btn btn-outline">
                   <FaPhone /> {pt.callUs || "Call Us"}
                 </a>
@@ -168,7 +197,9 @@ export default function ProductPage() {
       {/* Related Products */}
       <section className={styles.relatedSection}>
         <div className={styles.inner}>
-          <h2 className={styles.relatedTitle}>{pt.relatedProducts || "Other Products"}</h2>
+          <h2 className={styles.relatedTitle}>
+            {pt.relatedProducts || "Other Products"}
+          </h2>
           <div className={styles.relatedGrid}>
             {related.map((rp) => {
               const rTranslated = t?.products?.items?.[rp.id as string];
@@ -187,7 +218,9 @@ export default function ProductPage() {
                       style={{ objectFit: "cover" }}
                     />
                   </div>
-                  <h3 className={styles.relatedName}>{rTranslated?.name || rp.name}</h3>
+                  <h3 className={styles.relatedName}>
+                    {rTranslated?.name || rp.name}
+                  </h3>
                 </Link>
               );
             })}
