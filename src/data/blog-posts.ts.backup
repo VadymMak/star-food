@@ -14,7 +14,10 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
-{
+  // ======================================================================
+  // POST 1: SUNFLOWER OIL WHOLESALE GUIDE (PILLAR)
+  // ======================================================================
+  {
     slug: "sunflower-oil-wholesale-guide",
     category: "sunflower-oil",
     date: "2026-02-15",
@@ -628,7 +631,11 @@ Bereit? **[Fordern Sie noch heute ein Angebot an](/de/quote)**.`,
 Готові? **[Запитайте пропозицію сьогодні](/ua/quote)** та отримайте конкурентні ціни за 24 години.`,
     },
   },
-{
+
+  // ======================================================================
+  // POST 2: SUNFLOWER OIL PRICES EUROPE 2026
+  // ======================================================================
+  {
     slug: "sunflower-oil-prices-europe-2026",
     category: "sunflower-oil",
     date: "2026-02-20",
@@ -986,7 +993,11 @@ UB Market bietet:
 *Оновлюється щомісяця. Останнє оновлення: Лютий 2026.*`,
     },
   },
-{
+
+  // ======================================================================
+  // POST 3: HOW WE CREATED STAR FOOD LABELS
+  // ======================================================================
+  {
     slug: "how-we-created-star-food-labels",
     category: "brand",
     date: "2026-02-18",
@@ -1329,7 +1340,11 @@ Für das Star Food Etikettenprojekt arbeiteten wir mit [Anastasiia Kolisnyk](htt
 **[Стати партнером](/ua/partners)** або **[запитати прайс-лист](/ua/quote)**.`,
     },
   },
-{
+
+  // ======================================================================
+  // POST 4: FOB CIF DAP EXPLAINED
+  // ======================================================================
+  {
     slug: "fob-cif-dap-explained",
     category: "trading",
     date: "2026-02-12",
@@ -1730,938 +1745,8 @@ Incoterms sind standardisierte Handelsbedingungen der Internationalen Handelskam
 **[Запитайте пропозицію](/ua/quote)** та вкажіть бажаний Інкотерм.`,
     },
   },
-  {
-    slug: "refined-vs-crude-sunflower-oil",
-    category: "sunflower-oil",
-    date: "2026-03-05",
-    readingTime: 10,
-    image: "/images/vegetable-oil.webp",
-    title: {
-      en: "Refined vs Crude Sunflower Oil: Complete Buyer's Guide",
-      bg: "Рафинирано срещу сурово слънчогледово олио: Пълно ръководство",
-      tr: "Rafine ve Ham Ayçiçek Yağı: Alıcı Rehberi",
-      ro: "Ulei de Floarea Soarelui Rafinat vs Brut: Ghid Complet",
-      de: "Raffiniertes vs. Rohes Sonnenblumenöl: Einkaufsratgeber",
-      ua: "Рафінована vs сира соняшникова олія: Повний гід покупця",
-    },
-    description: {
-      en: "Understand the key differences between refined and crude sunflower oil — processing methods, quality parameters, pricing, and which type fits your business needs.",
-      bg: "Разберете ключовите разлики между рафинирано и сурово слънчогледово олио — методи на преработка, качествени параметри, цени.",
-      tr: "Rafine ve ham ayçiçek yağı arasındaki temel farkları anlayın — işleme yöntemleri, kalite parametreleri, fiyatlandırma.",
-      ro: "Înțelegeți diferențele cheie între uleiul de floarea soarelui rafinat și brut — metode de procesare, parametri de calitate, prețuri.",
-      de: "Verstehen Sie die wichtigsten Unterschiede zwischen raffiniertem und rohem Sonnenblumenöl — Verarbeitungsmethoden, Qualitätsparameter, Preise.",
-      ua: "Зрозумійте ключові відмінності між рафінованою та сирою соняшниковою олією — методи переробки, параметри якості, ціни.",
-    },
-    content: {
-      en: `## Understanding the Two Main Types of Sunflower Oil
 
-When sourcing sunflower oil wholesale, the first decision buyers face is choosing between **crude** and **refined** sunflower oil. Each type serves different industries and end-use applications, and understanding the differences is critical for making cost-effective purchasing decisions.
-
-At UB Market, we supply both crude and refined sunflower oil from verified Eastern European producers. This guide explains what sets them apart and helps you determine which type is right for your business.
-
-## What Is Crude Sunflower Oil?
-
-Crude sunflower oil (CSO) is the first product extracted from sunflower seeds through mechanical pressing or solvent extraction. After extraction, it undergoes only basic filtration to remove solid particles. The oil retains its natural color (dark golden to amber), distinctive nutty flavor, and all naturally occurring compounds — including waxes, phospholipids, free fatty acids, and tocopherols (vitamin E).
-
-**Production process:**
-1. Seed cleaning and preparation
-2. Mechanical pressing or solvent extraction
-3. Basic filtration (no chemical treatment)
-4. Storage in food-grade tanks
-
-Crude sunflower oil is primarily an **industrial intermediate** — most CSO goes to refineries for further processing. However, it also has direct applications in certain food products and industrial uses.
-
-## What Is Refined Sunflower Oil?
-
-Refined sunflower oil (RSO) undergoes a multi-stage purification process that removes impurities, free fatty acids, waxes, color pigments, and volatile compounds. The result is a light-colored, neutral-tasting oil with a high smoke point — ideal for cooking, frying, and food manufacturing.
-
-**Refining process:**
-1. **Degumming** — removes phospholipids and gums
-2. **Neutralization** — removes free fatty acids with alkali
-3. **Bleaching** — removes color pigments with bleaching earth
-4. **Winterization** — removes waxes (prevents cloudiness at low temperatures)
-5. **Deodorization** — removes volatile compounds at high temperature under vacuum
-
-Each step adds processing cost but produces a standardized, shelf-stable product that meets international food safety standards.
-
-## Quality Parameter Comparison
-
-| Parameter | Crude Sunflower Oil | Refined Sunflower Oil |
-|-----------|--------------------|-----------------------|
-| **Color** | Dark golden to amber | Light yellow, transparent |
-| **Taste/Odor** | Nutty, distinctive | Neutral, bland |
-| **Acidity (FFA)** | 1.0–3.0% | ≤ 0.1% |
-| **Peroxide value** | Up to 15 meq/kg | ≤ 5 meq/kg |
-| **Smoke point** | 160–180°C | 220–230°C |
-| **Moisture** | Up to 0.2% | ≤ 0.1% |
-| **Wax content** | Present | Removed (winterized) |
-| **Shelf life** | 4–6 months | 12–18 months |
-| **Color (Lovibond)** | 35Y / 6R | 12Y / 1.2R |
-| **Vitamin E** | High (natural) | Reduced (processing loss) |
-
-## Pricing Comparison (Q1 2026)
-
-| Type | FOB Black Sea | CIF Rotterdam | CIF Istanbul |
-|------|--------------|---------------|--------------|
-| **Crude (CSO)** | $950–1,050/ton | $1,020–1,120/ton | $990–1,080/ton |
-| **Refined (RSO)** | $1,100–1,200/ton | $1,170–1,280/ton | $1,140–1,240/ton |
-| **Premium difference** | +$150–200/ton | +$150–200/ton | +$150–200/ton |
-
-The refining premium of **$150–200 per ton** reflects processing costs and the added value of a ready-to-use product.
-
-## When to Buy Crude Sunflower Oil
-
-Crude oil is the right choice if you:
-
-- **Own or contract a refinery** — You can process CSO into refined oil at your facility, potentially saving on the refining premium
-- **Manufacture industrial products** — Biodiesel, oleochemicals, paints, or lubricants that use oil as a raw material
-- **Produce specialty food products** — Some artisanal food producers prefer crude oil for its natural flavor profile
-- **Trade as an intermediary** — Buying crude and selling to refineries in destination markets
-
-**Typical buyers:** Refineries, biodiesel plants, oleochemical manufacturers, commodity traders
-
-## When to Buy Refined Sunflower Oil
-
-Refined oil is the right choice if you:
-
-- **Distribute to retail** — Supermarkets and grocery stores sell refined oil to consumers
-- **Supply HORECA** — Restaurants, hotels, and catering companies need high smoke point oil for frying
-- **Manufacture food products** — Mayonnaise, sauces, margarine, snack foods, and baked goods require neutral-tasting, standardized oil
-- **Need longer shelf life** — Refined oil lasts 12–18 months vs 4–6 months for crude
-- **Import to markets with strict regulations** — Most consumer food safety standards require refined oil
-
-**Typical buyers:** Food distributors, supermarket chains, food manufacturers, HORECA suppliers
-
-## Certificate of Analysis (COA) Requirements
-
-When purchasing either type, always request a **Certificate of Analysis** from an accredited laboratory (SGS, Bureau Veritas, Intertek). Key parameters to verify:
-
-**For Crude Oil:**
-- Free fatty acid content (FFA)
-- Moisture and volatile matter
-- Peroxide value
-- Phosphorus content
-- Wax content
-- Pesticide residues
-
-**For Refined Oil:**
-- All of the above, plus:
-- Color (Lovibond)
-- Smoke point
-- Cold test (winterization verification)
-- Trans fat content
-- Polycyclic aromatic hydrocarbons (PAH)
-
-## Making Your Decision
-
-The choice ultimately comes down to your **business model** and **end use**:
-
-- If you have refining capacity or sell to refineries → **buy crude** (lower cost per ton)
-- If you sell to consumers or food businesses → **buy refined** (ready to use, longer shelf life)
-- If you're unsure → [contact us](/en/quote) for a consultation. We can supply both types and help you determine the best option for your market.
-
-## Request a Quote
-
-Need pricing for crude or refined sunflower oil? UB Market supplies both types from verified Eastern European producers with full documentation and flexible delivery terms (FOB, CIF, DAP).
-
-**[Request a Quote →](/en/quote)**
-
-*Read more: [Complete Guide to Buying Sunflower Oil Wholesale](/en/blog/sunflower-oil-wholesale-guide) | [Sunflower Oil Prices Europe 2026](/en/blog/sunflower-oil-prices-europe-2026)*`,
-      bg: `## Рафинирано срещу сурово слънчогледово олио
-
-При покупка на слънчогледово олио на едро, купувачите избират между **сурово** (CSO) и **рафинирано** (RSO) олио. Всеки тип обслужва различни индустрии.
-
-## Сурово слънчогледово олио (CSO)
-
-Суровото олио се извлича от слънчогледови семена чрез пресоване или екстракция и преминава само базова филтрация. Запазва натуралния си цвят (тъмно златист), вкус и всички природни съединения.
-
-**Основни приложения:** Рафинерии, биодизел, олеохимия, хранителна индустрия.
-
-## Рафинирано слънчогледово олио (RSO)
-
-Рафинираното олио преминава през пълен процес на пречистване: дегумиране, неутрализация, избелване, винтеризация и деодоризация. Резултатът е светло, с неутрален вкус олио с висока точка на димене.
-
-## Сравнение на качествените параметри
-
-| Параметър | Сурово олио | Рафинирано олио |
-|-----------|------------|-----------------|
-| **Цвят** | Тъмно златист | Светложълт |
-| **Вкус** | Характерен, ядков | Неутрален |
-| **Киселинност** | 1.0–3.0% | ≤ 0.1% |
-| **Точка на димене** | 160–180°C | 220–230°C |
-| **Срок на годност** | 4–6 месеца | 12–18 месеца |
-
-## Ценово сравнение (Q1 2026)
-
-| Тип | FOB Черно море | CIF Ротердам |
-|-----|---------------|--------------|
-| **Сурово** | $950–1,050/тон | $1,020–1,120/тон |
-| **Рафинирано** | $1,100–1,200/тон | $1,170–1,280/тон |
-
-Рафинерната премия е **$150–200 на тон**.
-
-## Кога да купите кое?
-
-- **Сурово** — ако имате рафинерия или произвеждате индустриални продукти
-- **Рафинирано** — ако доставяте на магазини, ресторанти или хранителни производители
-
-## Поискайте оферта
-
-**[Поискайте оферта →](/bg/quote)**
-
-*Прочетете още: [Ръководство за покупка на олио на едро](/bg/blog/sunflower-oil-wholesale-guide)*`,
-      tr: `## Rafine ve Ham Ayçiçek Yağı Karşılaştırması
-
-Toptan ayçiçek yağı alımında alıcılar **ham** (CSO) ve **rafine** (RSO) yağ arasında seçim yapar. Her tür farklı endüstrilere hizmet eder.
-
-## Ham Ayçiçek Yağı (CSO)
-
-Ham yağ, ayçiçeği tohumlarından presleme veya solvent ekstraksiyonu ile elde edilir. Sadece temel filtrasyon uygulanır. Doğal koyu altın rengini, tadını ve tüm doğal bileşenlerini korur.
-
-## Rafine Ayçiçek Yağı (RSO)
-
-Rafine yağ çok aşamalı arıtma sürecinden geçer: degumming, nötralizasyon, ağartma, kışlaştırma ve deodorizasyon.
-
-## Kalite Parametreleri Karşılaştırması
-
-| Parametre | Ham Yağ | Rafine Yağ |
-|-----------|---------|------------|
-| **Renk** | Koyu altın | Açık sarı |
-| **Asitlik** | %1.0–3.0 | ≤ %0.1 |
-| **Duman noktası** | 160–180°C | 220–230°C |
-| **Raf ömrü** | 4–6 ay | 12–18 ay |
-
-## Fiyat Karşılaştırması (Q1 2026)
-
-| Tür | FOB Karadeniz | CIF İstanbul |
-|-----|---------------|--------------|
-| **Ham** | $950–1,050/ton | $990–1,080/ton |
-| **Rafine** | $1,100–1,200/ton | $1,140–1,240/ton |
-
-## Ne Zaman Hangisini Almalı?
-
-- **Ham** — rafineriniz varsa veya endüstriyel ürünler üretiyorsanız
-- **Rafine** — mağazalara, restoranlara veya gıda üreticilerine tedarik ediyorsanız
-
-## Teklif İsteyin
-
-**[Teklif İsteyin →](/tr/quote)**
-
-*Devamını okuyun: [Toptan Ayçiçek Yağı Rehberi](/tr/blog/sunflower-oil-wholesale-guide)*`,
-      ro: `## Ulei de Floarea Soarelui Rafinat vs Brut
-
-La achiziția en-gros de ulei de floarea soarelui, cumpărătorii aleg între ulei **brut** (CSO) și **rafinat** (RSO).
-
-## Comparație rapidă
-
-| Parametru | Ulei Brut | Ulei Rafinat |
-|-----------|-----------|--------------|
-| **Culoare** | Auriu închis | Galben deschis |
-| **Aciditate** | 1.0–3.0% | ≤ 0.1% |
-| **Punct de fum** | 160–180°C | 220–230°C |
-| **Termen de valabilitate** | 4–6 luni | 12–18 luni |
-| **Preț FOB** | $950–1,050/tonă | $1,100–1,200/tonă |
-
-**Uleiul brut** — potrivit pentru rafinării și producție industrială.
-**Uleiul rafinat** — potrivit pentru retail, HORECA și producție alimentară.
-
-**[Solicitați ofertă →](/ro/quote)**`,
-      de: `## Raffiniertes vs. Rohes Sonnenblumenöl
-
-Beim Großeinkauf von Sonnenblumenöl wählen Käufer zwischen **rohem** (CSO) und **raffiniertem** (RSO) Öl.
-
-## Schnellvergleich
-
-| Parameter | Rohes Öl | Raffiniertes Öl |
-|-----------|----------|-----------------|
-| **Farbe** | Dunkelgold | Hellgelb |
-| **Säuregehalt** | 1,0–3,0% | ≤ 0,1% |
-| **Rauchpunkt** | 160–180°C | 220–230°C |
-| **Haltbarkeit** | 4–6 Monate | 12–18 Monate |
-| **FOB-Preis** | $950–1.050/Tonne | $1.100–1.200/Tonne |
-
-**Rohes Öl** — für Raffinerien und industrielle Produktion.
-**Raffiniertes Öl** — für Einzelhandel, HORECA und Lebensmittelherstellung.
-
-**[Angebot anfordern →](/de/quote)**`,
-      ua: `## Рафінована vs сира соняшникова олія
-
-При оптовій закупівлі соняшникової олії покупці обирають між **сирою** (CSO) та **рафінованою** (RSO) олією.
-
-## Швидке порівняння
-
-| Параметр | Сира олія | Рафінована олія |
-|----------|-----------|-----------------|
-| **Колір** | Темно-золотистий | Світло-жовтий |
-| **Кислотність** | 1.0–3.0% | ≤ 0.1% |
-| **Точка димлення** | 160–180°C | 220–230°C |
-| **Термін зберігання** | 4–6 місяців | 12–18 місяців |
-| **Ціна FOB** | $950–1,050/тонна | $1,100–1,200/тонна |
-
-**Сира олія** — для нафтопереробних заводів та промислового виробництва.
-**Рафінована олія** — для роздрібної торгівлі, HORECA та харчового виробництва.
-
-**[Запитати ціну →](/ua/quote)**`,
-    },
-  },
-  {
-    slug: "high-oleic-sunflower-oil-horeca",
-    category: "sunflower-oil",
-    date: "2026-03-08",
-    readingTime: 9,
-    image: "/images/frying-oil.webp",
-    title: {
-      en: "High-Oleic Sunflower Oil for HORECA: Why Restaurants Are Switching",
-      bg: "Високоолеиново слънчогледово олио за HORECA: Защо ресторантите преминават",
-      tr: "HORECA İçin Yüksek Oleik Ayçiçek Yağı: Restoranlar Neden Geçiş Yapıyor",
-      ro: "Ulei de Floarea Soarelui High-Oleic pentru HORECA",
-      de: "High-Oleic Sonnenblumenöl für HORECA: Warum Restaurants umsteigen",
-      ua: "Високоолеїнова соняшникова олія для HORECA",
-    },
-    description: {
-      en: "Discover why HORECA businesses are switching to high-oleic sunflower oil — 2-3x longer frying life, 230°C+ smoke point, and 25-35% annual cost savings despite higher per-ton price.",
-      bg: "Открийте защо HORECA бизнесите преминават към високоолеиново олио — 2-3 пъти по-дълъг живот при пържене и 25-35% годишни спестявания.",
-      tr: "HORECA işletmelerinin neden yüksek oleik ayçiçek yağına geçtiğini keşfedin — 2-3 kat daha uzun kızartma ömrü ve yıllık %25-35 tasarruf.",
-      ro: "Descoperiți de ce afacerile HORECA trec la uleiul high-oleic — viață de prăjire de 2-3 ori mai lungă și economii anuale de 25-35%.",
-      de: "Erfahren Sie, warum HORECA-Betriebe auf High-Oleic-Sonnenblumenöl umsteigen — 2-3x längere Frittierdauer und 25-35% jährliche Kosteneinsparungen.",
-      ua: "Дізнайтеся, чому HORECA бізнеси переходять на високоолеїнову олію — 2-3 рази довший термін смаження та 25-35% річної економії.",
-    },
-    content: {
-      en: `## What Makes High-Oleic Sunflower Oil Different?
-
-High-oleic sunflower oil (HOSO) is produced from specially bred sunflower varieties that contain **80% or more oleic acid** — compared to just 20-30% in standard sunflower oil. This fatty acid profile is remarkably similar to olive oil, giving HOSO many of the same health and performance benefits at a fraction of the cost.
-
-The "high-oleic" designation isn't a marketing term — it reflects a genuine chemical difference that directly impacts frying performance, oil longevity, and the health profile of fried foods.
-
-## The 5 Key Advantages for HORECA
-
-### 1. Extended Frying Life (2-3x Longer)
-
-Standard sunflower oil typically needs replacing after **8-12 hours** of continuous frying. High-oleic sunflower oil maintains quality for **20-30 hours** under the same conditions. This is the single biggest advantage for commercial kitchens.
-
-The reason is simple: oleic acid (a monounsaturated fat) is far more stable under heat than linoleic acid (a polyunsaturated fat found in standard sunflower oil). Less oxidation means slower degradation, less foaming, and consistent frying quality over longer periods.
-
-### 2. Higher Smoke Point (230°C+)
-
-| Oil Type | Smoke Point |
-|----------|-------------|
-| Standard sunflower oil | 220–225°C |
-| **High-oleic sunflower oil** | **230–240°C** |
-| Palm oil | 230°C |
-| Olive oil (extra virgin) | 190–210°C |
-
-The higher smoke point means less smoke in the kitchen, fewer fire safety concerns, and better results when deep-frying at high temperatures.
-
-### 3. Healthier Fat Profile
-
-| Fatty Acid | Standard Sunflower | High-Oleic Sunflower | Olive Oil |
-|-----------|-------------------|---------------------|-----------|
-| **Oleic (MUFA)** | 20-30% | **80-90%** | 70-80% |
-| **Linoleic (PUFA)** | 55-65% | 5-10% | 5-15% |
-| **Saturated** | 10-12% | 8-10% | 12-15% |
-| **Trans fats** | Forms during frying | Minimal formation | Minimal |
-
-High-oleic oil produces **significantly fewer trans fats** during frying — an increasingly important factor as EU regulations tighten limits on trans fat content in food (max 2g per 100g fat since 2021).
-
-### 4. Neutral Taste
-
-Unlike olive oil or coconut oil, HOSO has a completely neutral taste and odor. It won't transfer unwanted flavors to fried foods — critical for restaurants serving diverse menus where the same fryer is used for different dishes.
-
-### 5. Clean Label Friendly
-
-On ingredient labels, HOSO appears as "sunflower oil" or "high-oleic sunflower oil" — familiar and clean-sounding to health-conscious consumers. No "palm oil" controversy, no allergen concerns.
-
-## Cost Analysis: HOSO vs Standard Sunflower Oil
-
-The per-ton price of HOSO is higher, but the **total cost of ownership** tells a different story.
-
-### Price Comparison (Q1 2026)
-
-| Metric | Standard RSO | High-Oleic RSO |
-|--------|-------------|----------------|
-| **Price per ton** | $1,100–1,200 | $1,300–1,450 |
-| **Frying life (hours)** | 8–12 | 20–30 |
-| **Oil changes per week** (busy restaurant) | 5–6 | 2–3 |
-| **Weekly oil consumption** | ~150 liters | ~60–80 liters |
-
-### Annual Cost Comparison (Medium Restaurant)
-
-| Cost Factor | Standard RSO | High-Oleic RSO |
-|-------------|-------------|----------------|
-| **Annual oil purchase** | EUR 8,000–10,000 | EUR 5,500–7,000 |
-| **Labor for oil changes** | EUR 2,000–2,500 | EUR 800–1,200 |
-| **Waste oil disposal** | EUR 500–800 | EUR 200–350 |
-| **TOTAL annual cost** | **EUR 10,500–13,300** | **EUR 6,500–8,550** |
-| **Annual savings** | — | **EUR 2,000–4,750 (25-35%)** |
-
-Despite costing **$150-250 more per ton**, HOSO saves EUR 2,000-4,750 annually for a typical restaurant because you use **60% less oil** over the same period.
-
-## Available Packaging for HORECA
-
-| Format | Volume | Best For |
-|--------|--------|----------|
-| PET bottles | 1L, 3L, 5L | Small restaurants, cafes |
-| BIB (bag-in-box) | 10L, 20L | Medium kitchens |
-| IBC (intermediate bulk) | 1,000L | Large restaurant chains |
-| Flexi-tank | 20,000L | HORECA distributors |
-
-## How to Switch to High-Oleic
-
-1. **Start with a trial order** — Test HOSO in your kitchen for 2-4 weeks
-2. **Track oil changes** — Document how long each batch lasts vs. your current oil
-3. **Calculate true costs** — Factor in oil purchase, labor, disposal, and food quality
-4. **Scale up** — Once ROI is confirmed, switch your regular supply
-
-## Request HOSO Pricing
-
-UB Market supplies high-oleic sunflower oil from verified European producers. Available in all HORECA packaging formats with flexible delivery terms.
-
-**[Request a Quote →](/en/quote)**
-
-*Read more: [Best Frying Oil for Restaurants](/en/blog/best-frying-oil-restaurants) | [Sunflower Oil Packaging Guide](/en/blog/sunflower-oil-packaging-guide)*`,
-      bg: `## Какво е високоолеиново слънчогледово олио?
-
-Високоолеиновото слънчогледово олио (HOSO) се произвежда от специално селектирани сортове слънчоглед, съдържащи **80%+ олеинова киселина** — в сравнение с 20-30% при стандартното олио. Този профил е подобен на маслиновото олио.
-
-## 5 Предимства за HORECA
-
-### 1. По-дълъг живот при пържене (2-3 пъти)
-Стандартното олио издържа 8-12 часа непрекъснато пържене. HOSO — **20-30 часа**.
-
-### 2. По-висока точка на димене (230°C+)
-По-малко дим в кухнята и по-добри резултати при дълбоко пържене.
-
-### 3. По-здравословен профил
-80-90% мононенаситени мазнини, минимално образуване на транс мазнини.
-
-### 4. Неутрален вкус
-Не прехвърля вкус към храната — идеално за разнообразни менюта.
-
-### 5. Чист етикет
-Появява се като "слънчогледово олио" — познато за потребителите.
-
-## Анализ на разходите
-
-| Фактор | Стандартно олио | HOSO |
-|--------|----------------|------|
-| **Цена/тон** | $1,100–1,200 | $1,300–1,450 |
-| **Смени на олиото/седмица** | 5–6 | 2–3 |
-| **Годишен разход** | EUR 10,500–13,300 | EUR 6,500–8,550 |
-| **Годишни спестявания** | — | **EUR 2,000–4,750 (25-35%)** |
-
-Въпреки по-високата цена на тон, HOSO спестява **25-35% годишно** поради по-рядката смяна.
-
-## Поискайте оферта
-
-**[Поискайте оферта →](/bg/quote)**
-
-*Прочетете още: [Най-доброто олио за пържене в ресторанти](/bg/blog/best-frying-oil-restaurants)*`,
-      tr: `## Yüksek Oleik Ayçiçek Yağı Nedir?
-
-Yüksek oleik ayçiçek yağı (HOSO), **%80+ oleik asit** içeren özel ayçiçeği çeşitlerinden üretilir — standart ayçiçek yağındaki %20-30'a kıyasla. Bu profil zeytinyağına benzer.
-
-## HORECA İçin 5 Avantaj
-
-### 1. Daha Uzun Kızartma Ömrü (2-3 Kat)
-Standart yağ 8-12 saat dayanırken, HOSO **20-30 saat** dayanır.
-
-### 2. Daha Yüksek Duman Noktası (230°C+)
-Mutfakta daha az duman, derin kızartmada daha iyi sonuçlar.
-
-### 3. Daha Sağlıklı Yağ Profili
-%80-90 tekli doymamış yağ asidi, minimum trans yağ oluşumu.
-
-### 4. Nötr Tat
-Yiyeceklere istenmeyen tat aktarmaz.
-
-## Maliyet Analizi
-
-| Faktör | Standart Yağ | HOSO |
-|--------|-------------|------|
-| **Ton fiyatı** | $1,100–1,200 | $1,300–1,450 |
-| **Haftalık yağ değişimi** | 5–6 | 2–3 |
-| **Yıllık maliyet** | EUR 10,500–13,300 | EUR 6,500–8,550 |
-| **Yıllık tasarruf** | — | **EUR 2,000–4,750 (%25-35)** |
-
-## Teklif İsteyin
-
-**[Teklif İsteyin →](/tr/quote)**`,
-      ro: `## Ce este uleiul High-Oleic?
-
-Uleiul de floarea soarelui high-oleic (HOSO) contine **80%+ acid oleic** fata de 20-30% la uleiul standard. Profilul este similar cu uleiul de masline.
-
-## Avantaje pentru HORECA
-
-- **Viata de prajire de 2-3x mai lunga** (20-30 ore vs 8-12 ore)
-- **Punct de fum 230°C+**
-- **Profil mai sanatos** — 80-90% grasimi mononesaturate
-- **Economii anuale de 25-35%** in ciuda pretului mai mare per tona
-
-| Factor | Ulei Standard | HOSO |
-|--------|-------------|------|
-| **Pret/tona** | $1,100–1,200 | $1,300–1,450 |
-| **Cost anual** | EUR 10,500–13,300 | EUR 6,500–8,550 |
-
-**[Solicitati oferta →](/ro/quote)**`,
-      de: `## Was ist High-Oleic-Sonnenblumenol?
-
-High-Oleic-Sonnenblumenol (HOSO) enthalt **80%+ Olsaure** im Vergleich zu 20-30% bei Standardol. Das Profil ahnelt dem von Olivenol.
-
-## Vorteile fur HORECA
-
-- **2-3x langere Frittierdauer** (20-30 Stunden vs. 8-12 Stunden)
-- **Rauchpunkt 230°C+**
-- **Gesunderes Profil** — 80-90% einfach ungesattigte Fettsauren
-- **25-35% jahrliche Einsparungen** trotz hoherem Tonnenpreis
-
-| Faktor | Standardol | HOSO |
-|--------|-----------|------|
-| **Preis/Tonne** | $1.100–1.200 | $1.300–1.450 |
-| **Jahreskosten** | EUR 10.500–13.300 | EUR 6.500–8.550 |
-
-**[Angebot anfordern →](/de/quote)**`,
-      ua: `## Що таке високоолеїнова соняшникова олія?
-
-Високоолеїнова соняшникова олія (HOSO) містить **80%+ олеїнової кислоти** порівняно з 20-30% у стандартній олії. Профіль подібний до оливкової олії.
-
-## Переваги для HORECA
-
-- **Термін смаження у 2-3 рази довший** (20-30 годин vs 8-12 годин)
-- **Точка димлення 230°C+**
-- **Здоровіший профіль** — 80-90% мононенасичених жирних кислот
-- **25-35% річної економії** попри вищу ціну за тонну
-
-| Фактор | Стандартна олія | HOSO |
-|--------|----------------|------|
-| **Ціна/тонна** | $1,100–1,200 | $1,300–1,450 |
-| **Річні витрати** | EUR 10,500–13,300 | EUR 6,500–8,550 |
-
-**[Запитати ціну →](/ua/quote)**`,
-    },
-  },
-  {
-    slug: "how-food-trading-works-europe",
-    category: "trading",
-    date: "2026-03-12",
-    readingTime: 14,
-    image: "/images/our-location.webp",
-    title: {
-      en: "How Food Trading Works in Europe: The Complete Guide",
-      bg: "Как работи търговията с храни в Европа: Пълно ръководство",
-      tr: "Avrupa'da Gida Ticareti Nasil Calisir: Kapsamli Rehber",
-      ro: "Cum Functioneaza Comertul cu Alimente in Europa: Ghid Complet",
-      de: "Wie der Lebensmittelhandel in Europa funktioniert: Der komplette Leitfaden",
-      ua: "Як працює торгівля продуктами харчування в Європі: Повний гід",
-    },
-    description: {
-      en: "Learn how international food trading works in Europe — the 4 key players, 8-step trade process, EU regulations, and why trading companies add value to the supply chain.",
-      bg: "Научете как работи международната търговия с храни в Европа — 4 ключови играча, 8-стъпков процес и ролята на търговските компании.",
-      tr: "Avrupa'da uluslararasi gida ticaretinin nasil calistigini ogrenin — 4 kilit oyuncu, 8 adimli surec ve ticaret sirketlerinin degeri.",
-      ro: "Aflati cum functioneaza comertul international cu alimente in Europa — 4 actori cheie, procesul in 8 pasi si reglementarile UE.",
-      de: "Erfahren Sie, wie der internationale Lebensmittelhandel in Europa funktioniert — die 4 Schlusselakteure, der 8-Schritte-Prozess und EU-Vorschriften.",
-      ua: "Дізнайтеся, як працює міжнародна торгівля продуктами в Європі — 4 ключові гравці, 8-кроковий процес та регуляції ЄС.",
-    },
-    content: {
-      en: `## The European Food Trading Landscape
-
-The European Union is the world's largest food trading bloc, with intra-EU food trade exceeding **EUR 500 billion annually**. Behind every product on a supermarket shelf lies a complex supply chain of producers, traders, distributors, and retailers — connected by standardized regulations, trade agreements, and logistics networks.
-
-Whether you're a food manufacturer looking to export, an importer seeking new suppliers, or a business exploring the food industry, understanding how this system works is essential.
-
-## The 4 Key Players in Food Trading
-
-### 1. Producers / Manufacturers
-Companies that grow, process, or manufacture food products. In the sunflower oil sector: seed crushers, refineries, and bottling plants. Most producers prefer selling in bulk to a small number of large buyers.
-
-### 2. Trading Companies
-**This is what UB Market does.** Trading companies act as intermediaries between producers and importers. They add value through sourcing, quality assurance, logistics, risk management, and market knowledge. Especially valuable in cross-border trade where language barriers and complex regulations create friction.
-
-### 3. Importers / Distributors
-Companies that buy food products for their domestic market: national distributors, regional wholesalers, specialty importers, and HORECA distributors.
-
-### 4. End Users
-Retail consumers, restaurants and hotels, food manufacturers using raw ingredients.
-
-## The 8-Step Trade Process
-
-### Step 1: Market Research and Sourcing
-The trading company identifies demand in target markets and sources products from producers who can meet quality, volume, and price requirements. This involves monitoring commodity prices, maintaining producer relationships, and tracking harvest forecasts.
-
-### Step 2: Inquiry and Initial Contact
-The buyer sends an inquiry specifying product type and specifications, volume needed, delivery terms (FOB, CIF, or DAP), destination, and required certifications.
-
-### Step 3: Price Negotiation
-Pricing depends on current commodity market rates, quality specifications, volume, delivery terms, payment terms, and contract duration.
-
-### Step 4: Contract and Documentation
-A formal sales contract covers product specifications (with reference to COA), quantity and delivery schedule, price and currency, payment terms, delivery terms (Incoterms 2020), quality claims procedure, and force majeure clause.
-
-### Step 5: Payment Security
-International food trade uses several payment mechanisms:
-
-| Method | Risk for Buyer | Risk for Seller | Common Use |
-|--------|---------------|-----------------|------------|
-| **Advance payment** | High | Low | New relationships |
-| **Letter of Credit (L/C)** | Low | Low | Standard for large deals |
-| **Documentary collection** | Medium | Medium | Established partners |
-| **Open account (30-60 days)** | Low | High | Long-term partners |
-
-For first-time transactions, a **confirmed Letter of Credit** from a reputable bank is the gold standard.
-
-### Step 6: Production and Quality Control
-Key checkpoints: pre-shipment inspection (SGS, Bureau Veritas), Certificate of Analysis (COA), Certificate of Origin, and Health Certificate.
-
-### Step 7: Logistics and Transport
-Road transport (1-5 days within EU), sea freight (2-6 weeks intercontinental), or rail. Documentation: Bill of Lading/CMR, commercial invoice, packing list, customs declaration.
-
-### Step 8: Delivery and Settlement
-Goods arrive, are inspected, and payment is released per contract terms.
-
-## EU Regulations Governing Food Trade
-
-### EC 178/2002 — General Food Law
-- **Traceability** — "one step back, one step forward"
-- **Safety** — Food on the EU market must be safe
-- **Responsibility** — Operators are responsible for safety
-
-### EU 1169/2011 — Food Information to Consumers
-Requires detailed labeling: ingredients, allergens, nutrition, origin, storage conditions, use-by date.
-
-### Within the EU (Intra-Community Trade)
-Trade between EU member states is significantly simpler: no customs duties, no border checks, single market regulations, simplified documentation. This is why having an EU-based trading company adds significant value.
-
-## 7 Ways Trading Companies Add Value
-
-1. **Supplier verification** — Factory visits, certification checks
-2. **Price optimization** — Competitive pricing through volume aggregation
-3. **Quality assurance** — Independent testing, COA verification
-4. **Logistics management** — Door-to-door coordination
-5. **Payment security** — Transaction structuring
-6. **Market intelligence** — Price trends, forecasts, regulatory changes
-7. **Problem resolution** — Mediation for delays and quality claims
-
-## Why Work with UB Market?
-
-UB Market is an EU-registered trading company based in Bulgaria — positioned at the crossroads of Eastern European production and Western European demand. We specialize in sunflower oil and food commodities.
-
-**[Request a Quote →](/en/quote)** | **[Become a Partner →](/en/partners)**
-
-*Read more: [FOB, CIF, DAP Explained](/en/blog/fob-cif-dap-explained) | [Food Trading from Bulgaria: EU Advantage](/en/blog/food-trading-bulgaria-eu-advantage)*`,
-      bg: `## Европейският пазар за търговия с храни
-
-ЕС е най-големият търговски блок за храни в света, с вътрешна търговия над **EUR 500 милиарда годишно**.
-
-## 4-те ключови играча
-
-### 1. Производители
-Компании, които отглеждат, преработват или произвеждат храни.
-
-### 2. Търговски компании
-**Това е, което прави UB Market.** Действат като посредници, добавяйки стойност чрез: снабдяване, контрол на качеството, логистика и управление на рисковете.
-
-### 3. Вносители / Дистрибутори
-Купуват продукти за вътрешния пазар.
-
-### 4. Крайни потребители
-Търговия на дребно, ресторанти, хранителни производители.
-
-## 8-стъпков процес
-
-1. **Проучване** — мониторинг на цени и търсене
-2. **Запитване** — спецификации, обем, условия
-3. **Преговори** — цена, условия за плащане
-4. **Договор** — формален търговски договор
-5. **Обезпечаване на плащането** — акредитив, аванс
-6. **Производство и QC** — инспекции, COA
-7. **Логистика** — транспорт, документация
-8. **Доставка** — приемане и уреждане
-
-## EU регулации
-
-- **EC 178/2002** — проследимост
-- **EU 1169/2011** — етикетиране
-- Търговията вътре в ЕС — без мита и гранични проверки
-
-**[Поискайте оферта →](/bg/quote)** | **[Станете партньор →](/bg/partners)**`,
-      tr: `## Avrupa Gida Ticareti
-
-AB, yilda **500 milyar EUR'yu asan** ic ticaret hacmiyle dunyanin en buyuk gida ticaret blogudur.
-
-## 4 Kilit Oyuncu
-
-1. **Ureticiler** — Gida urunlerini yetistiren, isleyen veya ureten sirketler
-2. **Ticaret Sirketleri** — Ureticiler ve ithalatcilar arasinda aracilik (UB Market gibi)
-3. **Ithalatcilar / Distributurler** — Ic pazar icin urun satin alan sirketler
-4. **Son Kullanicilar** — Perakende tuketiciler, restoranlar, gida ureticileri
-
-## 8 Adimli Surec
-
-1. Pazar arastirmasi ve tedarik
-2. Talep ve ilk iletisim
-3. Fiyat muzakeresi
-4. Sozlesme ve belgelendirme
-5. Odeme guvenligi (akreditif, on odeme)
-6. Uretim ve kalite kontrol
-7. Lojistik ve nakliye
-8. Teslimat ve odeme
-
-**[Teklif Isteyin →](/tr/quote)** | **[Partner Olun →](/tr/partners)**`,
-      ro: `## Comertul cu Alimente in Europa
-
-UE este cel mai mare bloc comercial alimentar din lume — peste **500 miliarde EUR** comert intern anual.
-
-## 4 Actori Cheie
-
-1. **Producatori** — cultiva, proceseaza sau fabrica produse alimentare
-2. **Companii de trading** — intermediari (ca UB Market)
-3. **Importatori / Distribuitori** — cumpara pentru piata interna
-4. **Utilizatori finali** — retail, restaurante, producatori alimentari
-
-## Procesul in 8 Pasi
-
-Cercetare, Cerere, Negociere, Contract, Plata, Productie/QC, Logistica, Livrare
-
-**[Solicitati oferta →](/ro/quote)**`,
-      de: `## Lebensmittelhandel in Europa
-
-Die EU ist der weltweit grosste Lebensmittelhandelsblock — uber **500 Milliarden EUR** jahrlicher Binnenhandel.
-
-## 4 Schlusselakteure
-
-1. **Produzenten** — Anbau, Verarbeitung oder Herstellung von Lebensmitteln
-2. **Handelsunternehmen** — Vermittler (wie UB Market)
-3. **Importeure / Distributoren** — Einkauf fur den Inlandsmarkt
-4. **Endverbraucher** — Einzelhandel, Restaurants, Lebensmittelhersteller
-
-## Der 8-Schritte-Prozess
-
-Marktforschung, Anfrage, Verhandlung, Vertrag, Zahlungssicherheit, Produktion/QC, Logistik, Lieferung
-
-**[Angebot anfordern →](/de/quote)**`,
-      ua: `## Торгівля продуктами в Європі
-
-ЄС — найбільший торговельний блок — понад **500 мільярдів EUR** внутрішньої торгівлі щорічно.
-
-## 4 Ключові гравці
-
-1. **Виробники** — вирощують, переробляють або виробляють продукти
-2. **Торгові компанії** — посередники (як UB Market)
-3. **Імпортери / Дистриб'ютори** — закуповують для внутрішнього ринку
-4. **Кінцеві споживачі** — роздріб, ресторани, виробники
-
-## 8-кроковий процес
-
-Дослідження, Запит, Переговори, Контракт, Оплата, Виробництво/QC, Логістика, Доставка
-
-**[Запитати ціну →](/ua/quote)**`,
-    },
-  },
-  {
-    slug: "food-trading-bulgaria-eu-advantage",
-    category: "trading",
-    date: "2026-03-15",
-    readingTime: 8,
-    image: "/images/about-us.webp",
-    title: {
-      en: "Food Trading from Bulgaria: 5 Strategic EU Gateway Advantages",
-      bg: "Търговия с храни от България: 5 стратегически предимства",
-      tr: "Bulgaristan'dan Gida Ticareti: 5 Stratejik AB Avantaji",
-      ro: "Comert Alimentar din Bulgaria: 5 Avantaje Strategice UE",
-      de: "Lebensmittelhandel aus Bulgarien: 5 strategische EU-Vorteile",
-      ua: "Торгівля продуктами з Болгарії: 5 стратегічних переваг ЄС",
-    },
-    description: {
-      en: "Discover why Bulgaria is an ideal base for food trading in Europe — EU membership, gateway to Eastern producers, Black Sea ports, competitive costs, and own sunflower production.",
-      bg: "Открийте защо България е идеална база за търговия с храни — членство в ЕС, достъп до Черно море, конкурентни разходи.",
-      tr: "Bulgaristan'in gida ticareti icin neden ideal bir us oldugunu kesfedin — AB uyeligi, Karadeniz limanlari, rekabetci maliyetler.",
-      ro: "Descoperiti de ce Bulgaria este o baza ideala pentru comertul alimentar — membru UE, porturi la Marea Neagra, costuri competitive.",
-      de: "Erfahren Sie, warum Bulgarien ein idealer Standort fur den Lebensmittelhandel ist — EU-Mitgliedschaft, Schwarzmeerhafen, wettbewerbsfahige Kosten.",
-      ua: "Дізнайтеся, чому Болгарія — ідеальна база для торгівлі продуктами — членство в ЄС, порти Чорного моря, конкурентні витрати.",
-    },
-    content: {
-      en: `## Why Bulgaria for Food Trading?
-
-Bulgaria might not be the first country that comes to mind when thinking about European food trading. Yet for companies like UB Market, Bulgaria offers a unique combination of strategic advantages that make it one of the most efficient locations for food commodity trading in the EU.
-
-## Advantage 1: Full EU Membership Since 2007
-
-Bulgaria has been a full member of the European Union since January 1, 2007. This means:
-
-- **Zero trade barriers** with all 27 EU member states — no customs duties, no border inspections, no import quotas
-- **Single market access** — products cleared in Bulgaria are cleared for the entire EU
-- **Harmonized regulations** — EU food safety standards apply uniformly
-- **VAT reverse charge** — Simplified taxation on intra-EU B2B transactions
-
-For food buyers in Western Europe, purchasing from a Bulgaria-based trading company is legally and practically identical to buying from a company in Germany or France — but at significantly lower cost.
-
-## Advantage 2: Gateway to Eastern European Producers
-
-Bulgaria sits at the geographic crossroads between Eastern European agricultural powerhouses and Western European consumer markets.
-
-| Producer Country | Distance to Varna | Key Products |
-|-----------------|-------------------|--------------|
-| **Ukraine** | 600 km (Black Sea) | Sunflower oil, grain, corn |
-| **Turkey** | 350 km | Sunflower oil, hazelnuts, dried fruit |
-| **Romania** | 150 km (border) | Sunflower oil, corn, wheat |
-| **Moldova** | 400 km | Sunflower oil, wine, grain |
-| **Serbia** | 300 km | Sugar, oils, dairy |
-| **Greece** | 400 km | Olive oil, dairy, produce |
-
-This proximity means lower logistics costs (30-50% savings), faster delivery (1-3 days), direct factory relationships, and first-hand market intelligence.
-
-## Advantage 3: Black Sea Port Access
-
-Bulgaria has two major ports — **Varna** and **Burgas** — critical for food commodity trading:
-
-- Direct shipping routes to Turkey, Ukraine, Georgia
-- Connection to global lanes via the Bosphorus Strait
-- Bulk cargo terminals for liquid commodities
-- Competitive port fees vs. Rotterdam or Hamburg
-- Black Sea region produces over 60% of world's sunflower oil
-
-UB Market's location in Varna provides direct access to the Port of Varna — a key node in the global sunflower oil supply chain.
-
-## Advantage 4: Competitive Operating Costs
-
-Bulgaria offers the lowest operating costs in the EU while maintaining full regulatory compliance.
-
-| Cost Factor | Bulgaria | Germany | France | Poland |
-|------------|---------|---------|--------|--------|
-| **Corporate tax** | **10%** | 30% | 25% | 19% |
-| **Office rent/m2** | EUR 8-12 | EUR 25-40 | EUR 20-35 | EUR 12-18 |
-| **Avg salary (specialist)** | EUR 800-1,200 | EUR 3,500-5,000 | EUR 2,800-4,000 | EUR 1,200-1,800 |
-
-The **10% flat corporate tax** is the lowest in the EU and has been stable since 2007. For a trading company, this alone can save tens of thousands of euros annually.
-
-## Advantage 5: Own Sunflower Production
-
-Bulgaria is itself a significant sunflower-producing country:
-
-- **~2 million tons** of sunflower seeds annually
-- **~800,000 hectares** dedicated to sunflower cultivation
-- Top 5 EU producer (after Romania and France)
-- Multiple domestic crushing plants and refineries
-- Both crude and refined sunflower oil available domestically
-
-This means UB Market has access to **domestic Bulgarian production** plus imports from neighboring countries.
-
-## The Combined Advantage
-
-Together, these five factors create a **compounding advantage**:
-
-1. EU membership eliminates trade barriers with 27 countries
-2. Geographic position provides access to cheapest production regions
-3. Black Sea ports enable efficient global logistics
-4. Low costs allow competitive pricing with healthy margins
-5. Domestic production adds supply security and flexibility
-
-This is why UB Market chose Bulgaria as its base.
-
-## Work with UB Market
-
-Ready to source food products through Bulgaria's EU gateway?
-
-**[Request a Quote →](/en/quote)** | **[Become a Partner →](/en/partners)**
-
-*Read more: [How Food Trading Works in Europe](/en/blog/how-food-trading-works-europe) | [FOB, CIF, DAP Explained](/en/blog/fob-cif-dap-explained)*`,
-      bg: `## Защо България за търговия с храни?
-
-България предлага уникална комбинация от стратегически предимства.
-
-## 5 Стратегически предимства
-
-### 1. Пълно членство в ЕС от 2007
-Нулеви търговски бариери с 27 държави, единен пазар, хармонизирани регулации.
-
-### 2. Портал към източноевропейски производители
-| Страна | Разстояние до Варна | Продукти |
-|--------|-------------------|----------|
-| Украйна | 600 км | Олио, зърно |
-| Турция | 350 км | Олио, лешници |
-| Румъния | 150 км | Олио, царевица |
-
-### 3. Черноморски пристанища
-Варна и Бургас — преки маршрути до Турция, Украйна.
-
-### 4. Конкурентни разходи
-| Фактор | България | Германия |
-|--------|---------|---------|
-| **Корпоративен данък** | **10%** | 30% |
-| **Средна заплата** | EUR 800-1,200 | EUR 3,500-5,000 |
-
-### 5. Собствено производство
-~2 милиона тона семена годишно, топ 5 в ЕС.
-
-**[Поискайте оферта →](/bg/quote)** | **[Станете партньор →](/bg/partners)**`,
-      tr: `## Neden Bulgaristan'dan Gida Ticareti?
-
-Bulgaristan, AB'deki gida ticareti icin benzersiz stratejik avantajlar sunar.
-
-## 5 Stratejik Avantaj
-
-### 1. 2007'den Beri AB Uyeligi
-27 uye devletle sifir ticaret engeli, tek pazar erisimi.
-
-### 2. Dogu Avrupa Ureticilerine Gecit
-| Ulke | Varna'ya Mesafe | Urunler |
-|------|----------------|---------|
-| Ukrayna | 600 km | Yag, tahil |
-| Turkiye | 350 km | Yag, findik |
-| Romanya | 150 km | Yag, misir |
-
-### 3. Karadeniz Limanlari
-Varna ve Burgas — dogrudan deniz yollari.
-
-### 4. Rekabetci Maliyetler
-| Faktor | Bulgaristan | Almanya |
-|--------|-----------|---------|
-| **Kurumlar vergisi** | **%10** | %30 |
-
-### 5. Yerli Uretim
-Yilda ~2 milyon ton tohum, AB'de ilk 5.
-
-**[Teklif Isteyin →](/tr/quote)** | **[Partner Olun →](/tr/partners)**`,
-      ro: `## De ce Bulgaria pentru Comertul Alimentar?
-
-Bulgaria ofera avantaje strategice unice pentru comertul cu alimente in UE.
-
-## 5 Avantaje Strategice
-
-1. **Membru UE din 2007** — zero bariere comerciale cu 27 de state membre
-2. **Poarta catre producatorii est-europeni** — Ucraina (600km), Turcia (350km), Romania (150km)
-3. **Porturi la Marea Neagra** — Varna si Burgas
-4. **Costuri competitive** — impozit pe profit 10% (cel mai mic din UE)
-5. **Productie proprie** — ~2 milioane tone seminte anual
-
-**[Solicitati oferta →](/ro/quote)**`,
-      de: `## Warum Bulgarien fur den Lebensmittelhandel?
-
-Bulgarien bietet einzigartige strategische Vorteile fur den Lebensmittelhandel in der EU.
-
-## 5 Strategische Vorteile
-
-1. **EU-Mitglied seit 2007** — keine Handelsbarrieren mit 27 Mitgliedstaaten
-2. **Tor zu osteuropaischen Produzenten** — Ukraine (600km), Turkei (350km), Rumanien (150km)
-3. **Schwarzmeerhafen** — Varna und Burgas
-4. **Wettbewerbsfahige Kosten** — 10% Korperschaftsteuer (niedrigste in der EU)
-5. **Eigene Produktion** — ~2 Millionen Tonnen Sonnenblumenkerne jahrlich
-
-**[Angebot anfordern →](/de/quote)**`,
-      ua: `## Чому Болгарія для торгівлі продуктами?
-
-Болгарія пропонує унікальні стратегічні переваги.
-
-## 5 Стратегічних переваг
-
-1. **Член ЄС з 2007** — нульові торгові бар'єри з 27 державами
-2. **Ворота до виробників** — Україна (600км), Туреччина (350км), Румунія (150км)
-3. **Порти Чорного моря** — Варна та Бургас
-4. **Конкурентні витрати** — 10% податок на прибуток (найнижчий в ЄС)
-5. **Власне виробництво** — ~2 мільйони тонн насіння щорічно
-
-**[Запитати ціну →](/ua/quote)**`,
-    },
-  },
+// ======================================================================
 {
   slug: "best-frying-oil-restaurants",
   category: "products",
@@ -2905,6 +1990,8 @@ Für Restaurants beeinflusst das Frittieröl Qualität, Kosten und Sicherheit.
 **[Запитайте ціни HORECA](/ua/quote)**`,
   },
 },
+
+// ======================================================================
 {
   slug: "wholesale-beet-sugar-europe",
   category: "products",
@@ -3133,6 +2220,8 @@ Frankreich, Deutschland, Polen, Niederlande, Türkei
 **[Надішліть запит на цукор](/ua/quote)**`,
   },
 },
+
+// ======================================================================
 {
   slug: "sunflower-oil-packaging-guide",
   category: "sunflower-oil",
@@ -3358,6 +2447,8 @@ Die richtige Verpackung beeinflusst Kosten, Haltbarkeit und Zielmarkt.
 **[Оберіть упаковку з нами](/ua/quote)**`,
   },
 },
+
+// ======================================================================
 {
   slug: "how-to-choose-food-supplier",
   category: "trading",
@@ -3602,6 +2693,7 @@ Im Lebensmittelhandel ist Ihr Lieferant Ihr Ruf.
 **[Запитайте пропозицію від UB Market](/ua/quote)**`,
   },
 },
+
 ];
 
 export const categories = [
@@ -3660,6 +2752,962 @@ export const categories = [
       ua: "Продукти",
     },
   },
+// ======================================================================
+// POST 9: BEST FRYING OIL FOR RESTAURANTS
+// ======================================================================
+{
+  slug: "best-frying-oil-restaurants",
+  category: "products",
+  date: "2026-03-20",
+  readingTime: 7,
+  image: "/images/frying-oil.webp",
+  title: {
+    en: "Best Frying Oil for Restaurants — A Buyer's Comparison",
+    bg: "Най-доброто олио за пържене в ресторанти — Сравнение",
+    tr: "Restoranlar İçin En İyi Kızartma Yağı — Alıcı Karşılaştırması",
+    ro: "Cel Mai Bun Ulei de Prăjit pentru Restaurante — Comparație",
+    de: "Bestes Frittieröl für Restaurants — Ein Käufervergleich",
+    ua: "Найкраща олія для смаження в ресторанах — Порівняння",
+  },
+  description: {
+    en: "Comparing sunflower, palm, rapeseed, and high-oleic oils for commercial frying — performance, cost, health, and sourcing.",
+    bg: "Сравнение на олио за професионално пържене — ефективност, цена и здраве.",
+    tr: "Ticari kızartma için yağ karşılaştırması — performans, maliyet ve sağlık.",
+    ro: "Compararea uleiurilor pentru prăjit comercial — performanță, cost și sănătate.",
+    de: "Vergleich von Frittierölen für die Gastronomie — Leistung, Kosten und Gesundheit.",
+    ua: "Порівняння олій для комерційного смаження — продуктивність, вартість та здоров'я.",
+  },
+  content: {
+    en: `## Choosing the Right Frying Oil Matters
+
+For restaurants, choosing frying oil isn't just about flavor — it affects food quality, operating costs, kitchen safety, and increasingly, customer perception. The wrong oil can increase costs by thousands of euros per year.
+
+## The Top 5 Frying Oils Compared
+
+### 1. Standard Refined Sunflower Oil
+The workhorse of European kitchens. Affordable, widely available, and versatile.
+
+- **Smoke point:** 225°C
+- **Frying cycles:** 8-12 before replacement
+- **Cost:** $1,100-1,200/ton
+- **Taste:** Neutral
+- **Health:** Moderate — high in polyunsaturated fats (omega-6)
+- **Best for:** General frying, budget-conscious operations
+
+### 2. High-Oleic Sunflower Oil
+The premium upgrade. Same neutral taste but dramatically better frying performance.
+
+- **Smoke point:** 230°C+
+- **Frying cycles:** 20-30 before replacement
+- **Cost:** $1,300-1,450/ton
+- **Taste:** Neutral
+- **Health:** Good — high monounsaturated fats (like olive oil)
+- **Best for:** High-volume frying, quality-focused restaurants
+
+### 3. Palm Oil
+Widely used globally but facing consumer backlash in Europe.
+
+- **Smoke point:** 230°C
+- **Frying cycles:** 15-20
+- **Cost:** $800-950/ton
+- **Taste:** Slightly sweet
+- **Health:** Mixed — high in saturated fats
+- **Best for:** Industrial food production, price-sensitive markets
+- **Drawback:** "Palm oil free" trend in Europe reduces appeal
+
+### 4. Rapeseed (Canola) Oil
+Popular in Northern Europe, good all-round option.
+
+- **Smoke point:** 205°C
+- **Frying cycles:** 8-12
+- **Cost:** $1,000-1,150/ton
+- **Taste:** Mild, slightly nutty
+- **Health:** Good — balanced fatty acid profile
+- **Best for:** Light frying, sautéing, Northern European cuisine
+
+### 5. Olive Oil (Refined)
+Premium option for Mediterranean restaurants.
+
+- **Smoke point:** 210°C (refined)
+- **Frying cycles:** 10-15
+- **Cost:** $3,500-5,000/ton
+- **Taste:** Mild olive flavor
+- **Health:** Excellent — high monounsaturated fats
+- **Best for:** Mediterranean restaurants, premium positioning
+- **Drawback:** Very high cost for deep frying
+
+## Comparison Table
+
+| Oil Type | Smoke Point | Cycles | Cost/ton | Health Rating |
+|----------|------------|--------|----------|--------------|
+| Standard Sunflower | 225°C | 8-12 | $1,100-1,200 | ⭐⭐⭐ |
+| High-Oleic Sunflower | 230°C+ | 20-30 | $1,300-1,450 | ⭐⭐⭐⭐ |
+| Palm | 230°C | 15-20 | $800-950 | ⭐⭐ |
+| Rapeseed | 205°C | 8-12 | $1,000-1,150 | ⭐⭐⭐⭐ |
+| Olive (Refined) | 210°C | 10-15 | $3,500-5,000 | ⭐⭐⭐⭐⭐ |
+
+## Our Recommendation
+
+For most European restaurants, **high-oleic sunflower oil** offers the best balance of performance, cost, and health benefits. Despite the higher per-ton price, the extended frying life makes it more economical than standard oils in actual use.
+
+For operations focused on lowest cost, **standard refined sunflower oil** remains an excellent choice — especially when sourced at competitive wholesale prices.
+
+## What UB Market Offers for HORECA
+
+We supply both standard and high-oleic sunflower oil in HORECA-friendly packaging:
+- 5L and 10L PET bottles
+- 18L containers
+- IBC 1,000L containers for large operations
+- Bulk delivery for chain restaurants
+
+---
+
+Need frying oil for your restaurant? **[Request HORECA pricing](/en/quote)** — specify your volume and we'll find the best option for your kitchen.`,
+
+    bg: `## Правилният избор на олио за пържене
+
+За ресторантите изборът на олио влияе на качеството, разходите и безопасността в кухнята.
+
+## Топ 5 олия за сравнение
+
+### 1. Стандартно рафинирано слънчогледово олио
+Достъпно и универсално. Точка на димене 225°C, 8-12 цикъла, $1 100-1 200/тон.
+
+### 2. Високоолеиново слънчогледово олио
+Премиум вариант. 230°C+, 20-30 цикъла, $1 300-1 450/тон. Най-добра стойност за обемно пържене.
+
+### 3. Палмово олио
+Евтино ($800-950/тон), но тенденцията "без палмово олио" в Европа намалява привлекателността.
+
+### 4. Рапично олио
+Популярно в Северна Европа. 205°C, $1 000-1 150/тон.
+
+### 5. Зехтин (рафиниран)
+Премиум, но много скъп за дълбоко пържене — $3 500-5 000/тон.
+
+## Сравнителна таблица
+
+| Олио | Точка на димене | Цикли | Цена/тон |
+|------|----------------|-------|----------|
+| Слънчогледово | 225°C | 8-12 | $1 100-1 200 |
+| Високоолеиново | 230°C+ | 20-30 | $1 300-1 450 |
+| Палмово | 230°C | 15-20 | $800-950 |
+| Рапично | 205°C | 8-12 | $1 000-1 150 |
+
+## Нашата препоръка
+
+**Високоолеиновото олио** — най-добрият баланс за повечето ресторанти.
+
+---
+
+**[Заявете HORECA цени](/bg/quote)**`,
+
+    tr: `## Doğru Kızartma Yağı Seçimi
+
+Restoranlarda yağ seçimi kaliteyi, maliyetleri ve güvenliği etkiler.
+
+## En İyi 5 Kızartma Yağı
+
+### 1. Standart Rafine Ayçiçek Yağı
+Uygun fiyatlı. 225°C, 8-12 döngü, $1.100-1.200/ton.
+
+### 2. Yüksek Oleik Ayçiçek Yağı
+Premium seçenek. 230°C+, 20-30 döngü, $1.300-1.450/ton.
+
+### 3. Palm Yağı
+Ucuz ($800-950/ton) ama Avrupa'da "palm yağsız" trendi azalan çekicilik.
+
+### 4. Kanola Yağı
+Kuzey Avrupa'da popüler. 205°C, $1.000-1.150/ton.
+
+### 5. Zeytinyağı (Rafine)
+Premium ama kızartma için çok pahalı — $3.500-5.000/ton.
+
+## Karşılaştırma
+
+| Yağ | Duman Noktası | Döngü | Fiyat/ton |
+|-----|--------------|-------|-----------|
+| Ayçiçek | 225°C | 8-12 | $1.100-1.200 |
+| Yüksek Oleik | 230°C+ | 20-30 | $1.300-1.450 |
+| Palm | 230°C | 15-20 | $800-950 |
+| Kanola | 205°C | 8-12 | $1.000-1.150 |
+
+**Tavsiyemiz:** Yüksek oleik ayçiçek yağı — çoğu restoran için en iyi denge.
+
+---
+
+**[HORECA fiyatları isteyin](/tr/quote)**`,
+
+    ro: `## Alegerea Corectă a Uleiului
+
+Pentru restaurante, uleiul de prăjit afectează calitatea, costurile și siguranța.
+
+## Comparație
+
+| Ulei | Punct Fumat | Cicluri | Preț/tonă |
+|------|-----------|---------|-----------|
+| Floarea soarelui standard | 225°C | 8-12 | $1.100-1.200 |
+| High-oleic | 230°C+ | 20-30 | $1.300-1.450 |
+| Palm | 230°C | 15-20 | $800-950 |
+| Rapiță | 205°C | 8-12 | $1.000-1.150 |
+| Măsline (rafinat) | 210°C | 10-15 | $3.500-5.000 |
+
+**Recomandare:** Ulei high-oleic — cel mai bun echilibru pentru majoritatea restaurantelor.
+
+---
+
+**[Solicitați prețuri HORECA](/ro/quote)**`,
+
+    de: `## Die Richtige Wahl
+
+Für Restaurants beeinflusst das Frittieröl Qualität, Kosten und Sicherheit.
+
+## Vergleich
+
+| Öl | Rauchpunkt | Zyklen | Preis/t |
+|----|-----------|--------|---------|
+| Standard Sonnenblume | 225°C | 8-12 | $1.100-1.200 |
+| High-Oleic | 230°C+ | 20-30 | $1.300-1.450 |
+| Palm | 230°C | 15-20 | $800-950 |
+| Raps | 205°C | 8-12 | $1.000-1.150 |
+| Olive (raffiniert) | 210°C | 10-15 | $3.500-5.000 |
+
+**Empfehlung:** High-Oleic Sonnenblumenöl — bestes Gleichgewicht für die meisten Restaurants.
+
+---
+
+**[HORECA-Preise anfordern](/de/quote)**`,
+
+    ua: `## Правильний вибір олії
+
+Для ресторанів олія впливає на якість, витрати та безпеку.
+
+## Порівняння
+
+| Олія | Точка димоутв. | Цикли | Ціна/т |
+|------|---------------|-------|--------|
+| Стандартна соняшникова | 225°C | 8-12 | $1 100-1 200 |
+| Високоолеїнова | 230°C+ | 20-30 | $1 300-1 450 |
+| Пальмова | 230°C | 15-20 | $800-950 |
+| Ріпакова | 205°C | 8-12 | $1 000-1 150 |
+
+**Рекомендація:** Високоолеїнова олія — найкращий баланс для більшості ресторанів.
+
+---
+
+**[Запитайте ціни HORECA](/ua/quote)**`,
+  },
+},
+
+// ======================================================================
+// POST 10: WHOLESALE BEET SUGAR IN EUROPE
+// ======================================================================
+{
+  slug: "wholesale-beet-sugar-europe",
+  category: "products",
+  date: "2026-03-25",
+  readingTime: 7,
+  image: "/images/sugar.webp",
+  title: {
+    en: "Wholesale Beet Sugar in Europe — Sourcing Guide for Buyers",
+    bg: "Захар от цвекло на едро в Европа — Ръководство за купувачи",
+    tr: "Avrupa'da Toptan Pancar Şekeri — Alıcılar İçin Tedarik Rehberi",
+    ro: "Zahăr de Sfeclă en-gros în Europa — Ghid pentru Cumpărători",
+    de: "Rübenzucker im Großhandel — Einkaufsratgeber für Europa",
+    ua: "Оптовий буряковий цукор в Європі — Посібник для покупців",
+  },
+  description: {
+    en: "Everything about sourcing wholesale beet sugar in Europe — market overview, quality grades, pricing, and finding reliable suppliers.",
+    bg: "Всичко за покупката на захар от цвекло на едро в Европа.",
+    tr: "Avrupa'da toptan pancar şekeri tedariki hakkında her şey.",
+    ro: "Tot despre achiziția de zahăr de sfeclă en-gros în Europa.",
+    de: "Alles über den Großhandelseinkauf von Rübenzucker in Europa.",
+    ua: "Все про оптову закупівлю бурякового цукру в Європі.",
+  },
+  content: {
+    en: `## The European Beet Sugar Market
+
+Europe is the world's largest beet sugar producing region, with the EU accounting for approximately 50% of global beet sugar output. Unlike cane sugar (produced in tropical countries), beet sugar is grown and processed locally in Europe — making it a key commodity for European food businesses.
+
+## Beet Sugar vs Cane Sugar
+
+For food manufacturers and buyers, an important question is whether beet and cane sugar are interchangeable. The answer is: **yes, for most applications.**
+
+| Feature | Beet Sugar | Cane Sugar |
+|---------|-----------|------------|
+| Sucrose content | 99.9%+ | 99.9%+ |
+| Taste | Identical | Identical |
+| Chemical composition | Identical | Identical |
+| Production | European local | Tropical imports |
+| Certification | EU regulated | Variable |
+| Price | Competitive | Variable (transport adds cost) |
+| Carbon footprint | Lower (local) | Higher (shipping) |
+
+The only differences are in trace minerals and molasses characteristics — irrelevant for refined white sugar. For European buyers, beet sugar offers supply security and shorter supply chains.
+
+## Quality Grades
+
+### ICUMSA 45 (White Refined)
+The standard for retail and food manufacturing. Crystal clear, uniform grain size, no color or odor. This is what you'll find in supermarkets and most food production.
+
+### ICUMSA 100-150 (Off-White)
+Slightly less refined. Used in industrial food production where perfect whiteness isn't required. Lower price point.
+
+### ICUMSA 600-1200 (Raw/Brown)
+Minimally processed. Used in specialty foods, brewing, and some food manufacturing. Distinct caramel flavor.
+
+## Current Pricing (2026)
+
+| Grade | Price Range (FOB) | Notes |
+|-------|------------------|-------|
+| ICUMSA 45 | €650-750/ton | Standard retail grade |
+| ICUMSA 100-150 | €580-650/ton | Industrial grade |
+| ICUMSA 600+ | €500-580/ton | Raw sugar |
+
+*Prices vary by origin, volume, and market conditions.*
+
+## Key Producing Countries in Europe
+
+1. **France** — EU's largest producer (~5 million tons/year)
+2. **Germany** — Second largest (~4 million tons/year)
+3. **Poland** — Major Eastern European producer
+4. **Netherlands** — Significant processing hub
+5. **Belgium** — Important sugar refining center
+6. **Turkey** — Major producer outside EU
+
+## Packaging Options
+
+| Format | Weight | Best For |
+|--------|--------|----------|
+| 50kg bags | Standard wholesale | Food manufacturers |
+| 1-ton big bags | Bulk orders | Large buyers |
+| 25kg bags | Smaller wholesale | Distributors, retail |
+| Bulk (loose) | Ship/truck loads | Industrial users |
+
+## How to Source Quality Sugar
+
+When evaluating sugar suppliers, check for:
+
+1. **ICUMSA certification** — Verified color grade
+2. **EU food safety compliance** — For European markets
+3. **Consistent supply** — Can the supplier deliver year-round?
+4. **Packaging quality** — Proper food-grade packaging
+5. **Documentation** — COA, phytosanitary certificates, origin documents
+
+## UB Market's Sugar Supply
+
+While sunflower oil is our primary product, we also supply wholesale beet sugar to European buyers. Our Bulgarian and Eastern European supply network gives us access to competitive pricing.
+
+**Available:** ICUMSA 45 and ICUMSA 100-150, packed in 50kg bags or 1-ton big bags. Delivery across EU via road transport.
+
+---
+
+Looking for wholesale sugar? **[Send us your requirements](/en/quote)** — we'll provide competitive pricing within 24 hours.`,
+
+    bg: `## Европейският пазар на захар от цвекло
+
+Европа е най-големият световен производител на захар от цвекло — ЕС произвежда около 50% от глобалното производство.
+
+## Захар от цвекло срещу тръстикова
+
+За повечето приложения са взаимозаменяеми — съдържание на захароза 99,9%+, идентичен вкус и химичен състав.
+
+## Качествени класове
+
+- **ICUMSA 45** — Бяла рафинирана, стандарт за търговия на дребно. €650-750/тон
+- **ICUMSA 100-150** — Индустриален клас. €580-650/тон
+- **ICUMSA 600+** — Сурова захар. €500-580/тон
+
+## Основни производители
+
+1. Франция (~5 млн. тона/год.)
+2. Германия (~4 млн. тона/год.)
+3. Полша
+4. Нидерландия
+5. Турция
+
+## Опаковки
+
+| Формат | Тегло | За кого |
+|--------|-------|---------|
+| Чували 50кг | Стандарт | Производители |
+| Биг-бегове 1 тон | Едри поръчки | Големи купувачи |
+| Чували 25кг | Среден обем | Дистрибутори |
+
+## UB Market предлага
+
+ICUMSA 45 и ICUMSA 100-150 в чували 50кг или биг-бегове. Доставка в ЕС с камионен транспорт.
+
+---
+
+**[Изпратете запитване за захар](/bg/quote)**`,
+
+    tr: `## Avrupa Pancar Şekeri Pazarı
+
+Avrupa, dünyanın en büyük pancar şekeri üretim bölgesidir — AB küresel üretimin yaklaşık %50'sini oluşturur.
+
+## Pancar ve Kamış Şekeri
+
+Çoğu uygulama için birbirinin yerine kullanılabilir — %99,9+ sakaroz, aynı tat.
+
+## Kalite Sınıfları
+
+- **ICUMSA 45** — Beyaz rafine, perakende standardı. €650-750/ton
+- **ICUMSA 100-150** — Endüstriyel sınıf. €580-650/ton
+- **ICUMSA 600+** — Ham şeker. €500-580/ton
+
+## Ana Üretici Ülkeler
+
+Fransa, Almanya, Polonya, Hollanda, Türkiye
+
+## Ambalaj
+
+| Format | Ağırlık | Uygun |
+|--------|---------|-------|
+| 50kg çuval | Standart | Üreticiler |
+| 1 ton big bag | Toplu | Büyük alıcılar |
+| 25kg çuval | Orta | Distribütörler |
+
+---
+
+**[Şeker talebi gönderin](/tr/quote)**`,
+
+    ro: `## Piața Europeană a Zahărului de Sfeclă
+
+Europa este cel mai mare producător mondial — UE realizează ~50% din producția globală.
+
+## Grade de Calitate
+
+- **ICUMSA 45** — Alb rafinat, standard retail. €650-750/tonă
+- **ICUMSA 100-150** — Grad industrial. €580-650/tonă
+- **ICUMSA 600+** — Zahăr brut. €500-580/tonă
+
+## Producători Principali
+Franța, Germania, Polonia, Olanda, Turcia
+
+## Ambalaj
+Saci 50kg, big bags 1 tonă, saci 25kg
+
+---
+
+**[Solicitați ofertă pentru zahăr](/ro/quote)**`,
+
+    de: `## Der Europäische Rübenzuckermarkt
+
+Europa ist der größte Rübenzuckerproduzent — die EU liefert ~50% der weltweiten Produktion.
+
+## Qualitätsstufen
+
+- **ICUMSA 45** — Weiß raffiniert, Einzelhandelsstandard. €650-750/t
+- **ICUMSA 100-150** — Industriequalität. €580-650/t
+- **ICUMSA 600+** — Rohzucker. €500-580/t
+
+## Haupterzeuger
+Frankreich, Deutschland, Polen, Niederlande, Türkei
+
+## Verpackung
+50kg-Säcke, 1-Tonnen-Big-Bags, 25kg-Säcke
+
+---
+
+**[Zuckeranfrage senden](/de/quote)**`,
+
+    ua: `## Європейський ринок бурякового цукру
+
+Європа — найбільший виробник у світі, ЄС дає ~50% глобального виробництва.
+
+## Класи якості
+
+- **ICUMSA 45** — Білий рафінований, стандарт роздрібу. €650-750/т
+- **ICUMSA 100-150** — Промисловий клас. €580-650/т
+- **ICUMSA 600+** — Сирий цукор. €500-580/т
+
+## Основні виробники
+Франція, Німеччина, Польща, Нідерланди, Туреччина
+
+---
+
+**[Надішліть запит на цукор](/ua/quote)**`,
+  },
+},
+
+// ======================================================================
+// POST 11: SUNFLOWER OIL PACKAGING GUIDE
+// ======================================================================
+{
+  slug: "sunflower-oil-packaging-guide",
+  category: "sunflower-oil",
+  date: "2026-04-01",
+  readingTime: 6,
+  image: "/images/vegetable-oil.webp",
+  title: {
+    en: "Sunflower Oil Packaging Guide — From PET Bottles to Bulk Tankers",
+    bg: "Ръководство за опаковане на слънчогледово олио",
+    tr: "Ayçiçek Yağı Ambalaj Rehberi — PET Şişeden Tankere",
+    ro: "Ghid de Ambalare a Uleiului de Floarea Soarelui",
+    de: "Sonnenblumenöl-Verpackungsratgeber — Von PET-Flaschen bis Tanker",
+    ua: "Посібник з пакування соняшникової олії — Від PET пляшок до цистерн",
+  },
+  description: {
+    en: "Complete guide to sunflower oil packaging options for wholesale — PET bottles, IBC containers, flexitanks, and bulk tankers compared.",
+    bg: "Пълно ръководство за варианти на опаковане на олио за търговия на едро.",
+    tr: "Toptan ayçiçek yağı ambalaj seçenekleri — PET şişe, IBC, fleksitank karşılaştırması.",
+    ro: "Ghid complet pentru opțiunile de ambalare a uleiului en-gros.",
+    de: "Kompletter Ratgeber zu Sonnenblumenöl-Verpackungen für den Großhandel.",
+    ua: "Повний посібник з варіантів пакування олії для оптової торгівлі.",
+  },
+  content: {
+    en: `## Why Packaging Choice Matters
+
+The right packaging affects your total cost, shelf life, logistics, and target market. Choosing correctly can save thousands per shipment.
+
+## Packaging Options Compared
+
+### PET Bottles (1L, 3L, 5L)
+The standard retail format. Clear plastic bottles that consumers recognize on store shelves.
+
+- **Best for:** Retail distribution, small HORECA
+- **MOQ:** 1 pallet (~800-1,200 bottles depending on size)
+- **Cost impact:** Highest per-liter cost (packaging adds $150-250/ton)
+- **Shelf life:** 12-18 months
+- **Pros:** Consumer-ready, brand visibility, easy storage
+- **Cons:** Higher cost, more storage space per liter
+
+### PET Bottles (10L, 18L)
+Larger format for food service and light industrial use.
+
+- **Best for:** Restaurants, cafeterias, small food producers
+- **MOQ:** 1 pallet
+- **Cost impact:** Medium ($100-150/ton above bulk)
+- **Shelf life:** 12-18 months
+- **Pros:** Convenient handling, no special equipment needed
+- **Cons:** Still more expensive than bulk
+
+### IBC Containers (1,000L)
+Intermediate Bulk Containers — reusable plastic containers in a metal cage.
+
+- **Best for:** Medium-volume buyers, food manufacturers
+- **MOQ:** 1-20 containers per order
+- **Cost impact:** Low-medium ($50-80/ton above bulk)
+- **Shelf life:** 12 months
+- **Pros:** Reusable, easy to move with forklift, good middle ground
+- **Cons:** Requires forklift, return logistics
+
+### Flexitanks (20-24 tons)
+Single-use bags fitted inside standard shipping containers. The most popular bulk format.
+
+- **Best for:** Large wholesale, international trade
+- **MOQ:** 20-24 tons (one container)
+- **Cost impact:** Low ($20-30/ton above FOB base)
+- **Shelf life:** 6-9 months (shorter due to single-wall protection)
+- **Pros:** Cost-effective, no return logistics, fits standard containers
+- **Cons:** Single use, needs pump for unloading, shorter shelf life
+
+### Bulk Tanker (20-40 tons)
+Dedicated road tanker trucks for direct delivery.
+
+- **Best for:** Large-volume buyers, refineries, factories
+- **MOQ:** 20 tons (full truck)
+- **Cost impact:** Lowest (base FOB price)
+- **Shelf life:** Immediate use recommended
+- **Pros:** Cheapest per liter, direct delivery to storage tank
+- **Cons:** Requires storage tanks, pump equipment
+
+## Cost Comparison Summary
+
+| Format | Volume | Extra Cost vs Bulk | Best Price/Liter |
+|--------|--------|-------------------|-----------------|
+| PET 1L | Per bottle | +$200-250/ton | Highest |
+| PET 5L | Per bottle | +$150-200/ton | High |
+| PET 10-18L | Per bottle | +$100-150/ton | Medium-High |
+| IBC 1,000L | 1-20 units | +$50-80/ton | Medium |
+| Flexitank | 20-24 tons | +$20-30/ton | Low |
+| Bulk tanker | 20-40 tons | Base price | Lowest |
+
+## Private Label vs Branded Options
+
+At UB Market, we offer three approaches:
+
+1. **Star Food Branded** — Our registered trademark, ready-made labels in multiple languages. No design costs for you.
+2. **Private Label** — Your brand, our oil. We produce and label to your specifications. [Learn about private label →](/en/services/private-label)
+3. **Unbranded Bulk** — No labels, delivered in IBC, flexitank, or tanker. You handle packaging on your end.
+
+---
+
+Need help choosing the right packaging? **[Tell us your requirements](/en/quote)** — we'll recommend the optimal format for your business.`,
+
+    bg: `## Защо изборът на опаковка е важен
+
+Правилната опаковка влияе на цената, срока на годност и целевия пазар.
+
+## Варианти
+
+### PET бутилки (1L, 3L, 5L)
+За търговия на дребно. Добавят $150-250/тон. Срок 12-18 месеца.
+
+### PET бутилки (10L, 18L)
+За ресторанти. Добавят $100-150/тон.
+
+### IBC контейнери (1 000L)
+За средни обеми. Добавят $50-80/тон. Многократна употреба.
+
+### Флекситанкове (20-24 тона)
+За голям обем. Добавят $20-30/тон. Най-популярният формат.
+
+### Цистерна (20-40 тона)
+Най-ниска цена. Директна доставка до резервоар.
+
+## Сравнение
+
+| Формат | Допълнителна цена | Подходящ |
+|--------|-------------------|----------|
+| PET 1-5L | +$150-250/тон | Дребно |
+| IBC | +$50-80/тон | Среден обем |
+| Флекситанк | +$20-30/тон | Голям обем |
+| Цистерна | Базова цена | Промишленост |
+
+---
+
+**[Изберете опаковка с нас](/bg/quote)**`,
+
+    tr: `## Ambalaj Seçimi Neden Önemli
+
+Doğru ambalaj maliyeti, raf ömrünü ve hedef pazarı etkiler.
+
+## Seçenekler
+
+### PET Şişeler (1L, 3L, 5L)
+Perakende standardı. +$150-250/ton. 12-18 ay raf ömrü.
+
+### PET Şişeler (10L, 18L)
+HORECA için. +$100-150/ton.
+
+### IBC Konteynerleri (1.000L)
+Orta hacim. +$50-80/ton. Yeniden kullanılabilir.
+
+### Fleksitanklar (20-24 ton)
+Büyük hacim. +$20-30/ton. En popüler toptan format.
+
+### Tanker (20-40 ton)
+En düşük fiyat. Doğrudan depoya teslimat.
+
+## Karşılaştırma
+
+| Format | Ek Maliyet | Uygun |
+|--------|-----------|-------|
+| PET 1-5L | +$150-250/ton | Perakende |
+| IBC | +$50-80/ton | Orta hacim |
+| Fleksitank | +$20-30/ton | Büyük hacim |
+| Tanker | Baz fiyat | Endüstri |
+
+---
+
+**[Ambalaj seçimi için bize ulaşın](/tr/quote)**`,
+
+    ro: `## De Ce Contează Ambalajul
+
+Ambalajul corect afectează costul, valabilitatea și piața țintă.
+
+## Opțiuni
+
+| Format | Cost Extra | Potrivit |
+|--------|-----------|----------|
+| PET 1-5L | +$150-250/t | Retail |
+| PET 10-18L | +$100-150/t | HORECA |
+| IBC 1.000L | +$50-80/t | Volum mediu |
+| Flexitank | +$20-30/t | Volum mare |
+| Cisternă | Preț de bază | Industrie |
+
+---
+
+**[Alegeți ambalajul potrivit](/ro/quote)**`,
+
+    de: `## Warum Verpackungswahl Wichtig Ist
+
+Die richtige Verpackung beeinflusst Kosten, Haltbarkeit und Zielmarkt.
+
+## Optionen
+
+| Format | Mehrkosten | Geeignet |
+|--------|-----------|----------|
+| PET 1-5L | +$150-250/t | Einzelhandel |
+| PET 10-18L | +$100-150/t | HORECA |
+| IBC 1.000L | +$50-80/t | Mittleres Volumen |
+| Flexitank | +$20-30/t | Großhandel |
+| Tankwagen | Basispreis | Industrie |
+
+---
+
+**[Verpackungsberatung anfordern](/de/quote)**`,
+
+    ua: `## Чому вибір упаковки важливий
+
+Правильна упаковка впливає на вартість, термін придатності та ринок.
+
+## Варіанти
+
+| Формат | Додаткова вартість | Для кого |
+|--------|-------------------|----------|
+| PET 1-5L | +$150-250/т | Роздріб |
+| PET 10-18L | +$100-150/т | HORECA |
+| IBC 1 000L | +$50-80/т | Середній обсяг |
+| Флекситанк | +$20-30/т | Великий обсяг |
+| Цистерна | Базова ціна | Промисловість |
+
+---
+
+**[Оберіть упаковку з нами](/ua/quote)**`,
+  },
+},
+
+// ======================================================================
+// POST 12: HOW TO CHOOSE A FOOD SUPPLIER
+// ======================================================================
+{
+  slug: "how-to-choose-food-supplier",
+  category: "trading",
+  date: "2026-04-05",
+  readingTime: 8,
+  image: "/images/contact-us.webp",
+  title: {
+    en: "How to Choose a Reliable Food Supplier in Europe",
+    bg: "Как да изберем надежден доставчик на храни в Европа",
+    tr: "Avrupa'da Güvenilir Gıda Tedarikçisi Nasıl Seçilir",
+    ro: "Cum Să Alegeți un Furnizor Alimentar de Încredere în Europa",
+    de: "Wie Sie Einen Zuverlässigen Lebensmittellieferanten in Europa Wählen",
+    ua: "Як обрати надійного постачальника продуктів у Європі",
+  },
+  description: {
+    en: "A practical checklist for evaluating food trading partners — certifications, reliability, pricing transparency, and red flags to watch for.",
+    bg: "Практически чеклист за оценка на партньори за търговия с храни.",
+    tr: "Gıda ticaret ortaklarını değerlendirmek için pratik kontrol listesi.",
+    ro: "Lista practică de verificare pentru evaluarea partenerilor de comerț alimentar.",
+    de: "Praktische Checkliste zur Bewertung von Lebensmittelhandelspartnern.",
+    ua: "Практичний чеклист для оцінки партнерів з торгівлі продуктами.",
+  },
+  content: {
+    en: `## Why Supplier Selection Is Critical
+
+In food trading, your supplier is your reputation. A reliable supplier means consistent quality, on-time delivery, and peace of mind. A poor supplier means product recalls, lost customers, and financial loss.
+
+This guide provides a practical framework for evaluating potential food suppliers in Europe.
+
+## The 10-Point Supplier Evaluation Checklist
+
+### 1. Legal Registration and EU Compliance
+Verify that the supplier is legally registered in an EU country (or has proper import authorization). Check company registration numbers, VAT ID, and business history.
+
+**Why it matters:** EU-registered companies must comply with food safety regulations. This is your first layer of protection.
+
+### 2. Food Safety Certifications
+Look for internationally recognized certifications:
+- **ISO 22000** — Food safety management
+- **HACCP** — Hazard analysis (mandatory in EU)
+- **BRC / IFS** — Retailer-standard certifications
+- **FSSC 22000** — Advanced food safety system
+
+**Red flag:** A supplier who cannot provide any food safety certification.
+
+### 3. Product Quality Documentation
+Always request a Certificate of Analysis (COA) for every shipment. The COA should include: acidity levels, peroxide value, color index, moisture content, and any contaminants tested.
+
+**Red flag:** Supplier hesitates to provide COA or provides outdated documents.
+
+### 4. Track Record and References
+Ask for references from existing clients, especially in your market. How long have they been in business? Do they have repeat customers?
+
+**Red flag:** New company with no verifiable track record.
+
+### 5. Pricing Transparency
+A reliable supplier provides clear pricing with all components visible: product price, packaging costs, delivery charges, and any additional fees. Be wary of unusually low prices — they often indicate quality compromises.
+
+**Red flag:** Prices significantly below market average without explanation.
+
+### 6. Communication Quality
+Evaluate response times, language capabilities, and willingness to answer technical questions. Good communication is a leading indicator of good service.
+
+**Red flag:** Slow responses, vague answers, or only communicating via informal channels.
+
+### 7. Logistics Capability
+Can the supplier handle your delivery requirements? Check their experience with your preferred Incoterms (FOB/CIF/DAP), their logistics partners, and delivery timeframes.
+
+### 8. Payment Security
+Understand the payment terms offered. Standard options include:
+- **T/T (Telegraphic Transfer)** — Direct bank transfer
+- **L/C (Letter of Credit)** — Bank-guaranteed payment
+- **CAD (Cash Against Documents)** — Payment upon document receipt
+
+**Red flag:** Supplier demands 100% advance payment with no track record.
+
+### 9. Sample Availability
+A serious supplier will provide product samples for quality testing before you commit to a large order. Expect to pay for shipping but the samples themselves should be free or at minimal cost.
+
+### 10. Contractual Clarity
+The supplier should be willing to sign a proper sales contract covering: product specifications, quality parameters, delivery schedule, payment terms, dispute resolution, and force majeure clauses.
+
+## Questions to Ask a Potential Supplier
+
+1. "Can you provide your company registration and EU food operator number?"
+2. "What food safety certifications do you hold?"
+3. "Can I see a COA from your most recent shipment?"
+4. "Can you provide 2-3 references from European clients?"
+5. "What are your standard payment terms?"
+6. "What Incoterms do you work with?"
+7. "Can you send product samples?"
+8. "What is your lead time from order to delivery?"
+
+## Why Choose UB Market
+
+UB Market meets all 10 criteria:
+- ✅ EU-registered company in Bulgaria (UB Market LTD)
+- ✅ ISO 22000, HACCP certified products
+- ✅ COA provided for every shipment
+- ✅ Years of European trading experience
+- ✅ Transparent pricing, no hidden fees
+- ✅ Multilingual team (6 languages)
+- ✅ FOB, CIF, DAP delivery options
+- ✅ Flexible payment terms
+- ✅ Free samples available
+- ✅ Standard sales contracts
+
+---
+
+Ready to work with a reliable European supplier? **[Start a conversation](/en/contacts)** or **[request a quote](/en/quote)**.`,
+
+    bg: `## Защо изборът на доставчик е критичен
+
+В търговията с храни вашият доставчик е вашата репутация. Този чеклист помага за оценка на партньори.
+
+## 10-точков чеклист
+
+### 1. Регистрация в ЕС
+Проверете дали е законно регистриран в ЕС — ДДС номер, бизнес история.
+
+### 2. Сертификати за безопасност
+ISO 22000, HACCP, BRC/IFS. **Червен флаг:** Няма никакви сертификати.
+
+### 3. Документация за качество
+Изисквайте COA за всяка доставка. **Червен флаг:** Колебание при предоставяне.
+
+### 4. Опит и референции
+Поискайте контакти на съществуващи клиенти.
+
+### 5. Прозрачно ценообразуване
+Ясни цени с всички компоненти. **Червен флаг:** Цени далеч под средните.
+
+### 6. Комуникация
+Бързи отговори, езикови умения. **Червен флаг:** Бавни, неясни отговори.
+
+### 7. Логистични възможности
+FOB/CIF/DAP, надеждни партньори.
+
+### 8. Платежна сигурност
+T/T, L/C, CAD. **Червен флаг:** 100% авансово плащане без история.
+
+### 9. Мостри
+Сериозният доставчик предоставя мостри.
+
+### 10. Договор
+Ясен контракт с всички условия.
+
+## Защо UB Market
+
+✅ Регистрация в ЕС (България) ✅ ISO, HACCP ✅ COA за всяка доставка ✅ Опит ✅ Прозрачни цени ✅ 6 езика ✅ FOB/CIF/DAP ✅ Гъвкави условия
+
+---
+
+**[Свържете се с нас](/bg/contacts)** или **[заявете оферта](/bg/quote)**.`,
+
+    tr: `## Tedarikçi Seçimi Neden Kritik
+
+Gıda ticaretinde tedarikçiniz itibarınızdır. Bu kontrol listesi değerlendirmeye yardımcı olur.
+
+## 10 Maddelik Kontrol Listesi
+
+1. **AB kaydı** — Yasal kayıt ve KDV numarası
+2. **Sertifikalar** — ISO 22000, HACCP. Kırmızı bayrak: Sertifika yok
+3. **Kalite belgesi** — Her sevkiyat için COA
+4. **Referanslar** — Mevcut müşterilerden
+5. **Fiyat şeffaflığı** — Tüm bileşenler görünür
+6. **İletişim** — Hızlı yanıt, çok dilli
+7. **Lojistik** — FOB/CIF/DAP deneyimi
+8. **Ödeme güvenliği** — T/T, L/C seçenekleri
+9. **Numune** — Sipariş öncesi test
+10. **Sözleşme** — Net koşullar
+
+## Neden UB Market
+
+✅ Bulgaristan'da AB kaydı ✅ ISO, HACCP ✅ Her sevkiyatta COA ✅ Şeffaf fiyatlar ✅ 6 dil ✅ FOB/CIF/DAP ✅ Esnek ödeme
+
+---
+
+**[Teklif isteyin](/tr/quote)**`,
+
+    ro: `## De Ce Contează Selecția Furnizorului
+
+În comerțul alimentar, furnizorul dvs. este reputația dvs.
+
+## Checklist 10 Puncte
+
+1. **Înregistrare UE** — Număr TVA, istoric
+2. **Certificări** — ISO 22000, HACCP
+3. **Documentație calitate** — COA per livrare
+4. **Referințe** — De la clienți existenți
+5. **Transparență prețuri** — Fără costuri ascunse
+6. **Comunicare** — Rapidă și multilingvă
+7. **Logistică** — FOB/CIF/DAP
+8. **Securitate plată** — T/T, L/C
+9. **Mostre** — Disponibile
+10. **Contract** — Condiții clare
+
+---
+
+**[Solicitați ofertă de la UB Market](/ro/quote)**`,
+
+    de: `## Warum Lieferantenauswahl Entscheidend Ist
+
+Im Lebensmittelhandel ist Ihr Lieferant Ihr Ruf.
+
+## 10-Punkte-Checkliste
+
+1. **EU-Registrierung** — USt-ID, Geschäftshistorie
+2. **Zertifizierungen** — ISO 22000, HACCP
+3. **Qualitätsdokumentation** — COA pro Lieferung
+4. **Referenzen** — Von bestehenden Kunden
+5. **Preistransparenz** — Keine versteckten Kosten
+6. **Kommunikation** — Schnell, mehrsprachig
+7. **Logistik** — FOB/CIF/DAP
+8. **Zahlungssicherheit** — T/T, L/C
+9. **Muster** — Verfügbar
+10. **Vertrag** — Klare Bedingungen
+
+---
+
+**[Angebot anfordern](/de/quote)**`,
+
+    ua: `## Чому вибір постачальника критичний
+
+У торгівлі продуктами ваш постачальник — це ваша репутація.
+
+## Чеклист з 10 пунктів
+
+1. **Реєстрація в ЄС** — ІПН, історія бізнесу
+2. **Сертифікати** — ISO 22000, HACCP
+3. **Документація якості** — COA на кожну поставку
+4. **Рекомендації** — Від наявних клієнтів
+5. **Прозорість цін** — Без прихованих витрат
+6. **Комунікація** — Швидка, багатомовна
+7. **Логістика** — FOB/CIF/DAP
+8. **Безпека платежів** — T/T, L/C
+9. **Зразки** — Доступні
+10. **Контракт** — Чіткі умови
+
+---
+
+**[Запитайте пропозицію від UB Market](/ua/quote)**`,
+  },
+},
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {

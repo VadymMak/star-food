@@ -24,7 +24,11 @@ const staticPages = [
   { path: "/brands/star-food", changeFreq: "monthly" as const, priority: 0.8 },
   { path: "/partners", changeFreq: "monthly" as const, priority: 0.7 },
   { path: "/quote", changeFreq: "monthly" as const, priority: 0.7 },
-  { path: "/services/private-label", changeFreq: "monthly" as const, priority: 0.7 },
+  {
+    path: "/services/private-label",
+    changeFreq: "monthly" as const,
+    priority: 0.7,
+  },
 ];
 
 // Product pages
@@ -44,13 +48,21 @@ const blogSlugs = [
   "sunflower-oil-prices-europe-2026",
   "how-we-created-star-food-labels",
   "fob-cif-dap-explained",
+  "refined-vs-crude-sunflower-oil",
+  "high-oleic-sunflower-oil-horeca",
+  "how-food-trading-works-europe",
+  "food-trading-bulgaria-eu-advantage",
+  "best-frying-oil-restaurants",
+  "wholesale-beet-sugar-europe",
+  "sunflower-oil-packaging-guide",
+  "how-to-choose-food-supplier",
 ];
 
 function createEntry(
   path: string,
   changeFreq: "daily" | "weekly" | "monthly",
   priority: number,
-  lastMod?: string
+  lastMod?: string,
 ): MetadataRoute.Sitemap[number] {
   const languages: Record<string, string> = {};
 

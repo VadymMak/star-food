@@ -11,11 +11,11 @@ export default function BlogPage() {
   const b = t?.blog || {};
   const [activeCategory, setActiveCategory] = useState("all");
 
-  const filtered = activeCategory === "all"
-    ? blogPosts
-    : blogPosts.filter((p) => p.category === activeCategory);
+  const filtered =
+    activeCategory === "all"
+      ? blogPosts
+      : blogPosts.filter((p) => p.category === activeCategory);
 
-  // Only show posts that have content for current locale
   const localized = filtered.filter((p) => p.content[locale] || p.content.en);
 
   return (
@@ -37,7 +37,6 @@ export default function BlogPage() {
       </section>
 
       <section className={styles.section}>
-        {/* Category Filter */}
         <div className={styles.filters}>
           {categories.map((cat) => (
             <button
@@ -45,34 +44,34 @@ export default function BlogPage() {
               className={`${styles.filterBtn} ${activeCategory === cat.id ? styles.filterActive : ""}`}
               onClick={() => setActiveCategory(cat.id)}
             >
-              {cat.label}
+              {typeof cat.label === "string"
+                ? cat.label
+                : cat.label?.[locale] || cat.label?.en || cat.id}
             </button>
           ))}
         </div>
 
-        {/* Blog Grid */}
         {localized.length > 0 ? (
           <div className={styles.grid}>
-            {localized.map((post) => {
-              const content = post.content[locale] || post.content.en;
-              return (
-                <BlogCard
-                  key={post.slug}
-                  slug={post.slug}
-                  title={content.title}
-                  description={content.description}
-                  image={post.image}
-                  date={post.date}
-                  readingTime={post.readingTime}
-                  category={post.category}
-                  locale={locale}
-                />
-              );
-            })}
+            {localized.map((post) => (
+              <BlogCard
+                key={post.slug}
+                slug={post.slug}
+                title={post.title[locale] || post.title.en}
+                description={post.description[locale] || post.description.en}
+                image={post.image}
+                date={post.date}
+                readingTime={post.readingTime}
+                category={post.category}
+                locale={locale}
+              />
+            ))}
           </div>
         ) : (
           <div className={styles.comingSoon}>
-            <h2 className={styles.comingTitle}>{b.comingTitle || "More Articles Coming Soon"}</h2>
+            <h2 className={styles.comingTitle}>
+              {b.comingTitle || "More Articles Coming Soon"}
+            </h2>
             <p className={styles.comingText}>{b.comingText}</p>
           </div>
         )}

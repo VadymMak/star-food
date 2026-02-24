@@ -3660,6 +3660,962 @@ export const categories = [
       ua: "Продукти",
     },
   },
+// ======================================================================
+// POST 9: BEST FRYING OIL FOR RESTAURANTS
+// ======================================================================
+{
+  slug: "best-frying-oil-restaurants",
+  category: "products",
+  date: "2026-03-20",
+  readingTime: 7,
+  image: "/images/frying-oil.webp",
+  title: {
+    en: "Best Frying Oil for Restaurants — A Buyer's Comparison",
+    bg: "Най-доброто олио за пържене в ресторанти — Сравнение",
+    tr: "Restoranlar İçin En İyi Kızartma Yağı — Alıcı Karşılaştırması",
+    ro: "Cel Mai Bun Ulei de Prăjit pentru Restaurante — Comparație",
+    de: "Bestes Frittieröl für Restaurants — Ein Käufervergleich",
+    ua: "Найкраща олія для смаження в ресторанах — Порівняння",
+  },
+  description: {
+    en: "Comparing sunflower, palm, rapeseed, and high-oleic oils for commercial frying — performance, cost, health, and sourcing.",
+    bg: "Сравнение на олио за професионално пържене — ефективност, цена и здраве.",
+    tr: "Ticari kızartma için yağ karşılaştırması — performans, maliyet ve sağlık.",
+    ro: "Compararea uleiurilor pentru prăjit comercial — performanță, cost și sănătate.",
+    de: "Vergleich von Frittierölen für die Gastronomie — Leistung, Kosten und Gesundheit.",
+    ua: "Порівняння олій для комерційного смаження — продуктивність, вартість та здоров'я.",
+  },
+  content: {
+    en: `## Choosing the Right Frying Oil Matters
+
+For restaurants, choosing frying oil isn't just about flavor — it affects food quality, operating costs, kitchen safety, and increasingly, customer perception. The wrong oil can increase costs by thousands of euros per year.
+
+## The Top 5 Frying Oils Compared
+
+### 1. Standard Refined Sunflower Oil
+The workhorse of European kitchens. Affordable, widely available, and versatile.
+
+- **Smoke point:** 225°C
+- **Frying cycles:** 8-12 before replacement
+- **Cost:** $1,100-1,200/ton
+- **Taste:** Neutral
+- **Health:** Moderate — high in polyunsaturated fats (omega-6)
+- **Best for:** General frying, budget-conscious operations
+
+### 2. High-Oleic Sunflower Oil
+The premium upgrade. Same neutral taste but dramatically better frying performance.
+
+- **Smoke point:** 230°C+
+- **Frying cycles:** 20-30 before replacement
+- **Cost:** $1,300-1,450/ton
+- **Taste:** Neutral
+- **Health:** Good — high monounsaturated fats (like olive oil)
+- **Best for:** High-volume frying, quality-focused restaurants
+
+### 3. Palm Oil
+Widely used globally but facing consumer backlash in Europe.
+
+- **Smoke point:** 230°C
+- **Frying cycles:** 15-20
+- **Cost:** $800-950/ton
+- **Taste:** Slightly sweet
+- **Health:** Mixed — high in saturated fats
+- **Best for:** Industrial food production, price-sensitive markets
+- **Drawback:** "Palm oil free" trend in Europe reduces appeal
+
+### 4. Rapeseed (Canola) Oil
+Popular in Northern Europe, good all-round option.
+
+- **Smoke point:** 205°C
+- **Frying cycles:** 8-12
+- **Cost:** $1,000-1,150/ton
+- **Taste:** Mild, slightly nutty
+- **Health:** Good — balanced fatty acid profile
+- **Best for:** Light frying, sautéing, Northern European cuisine
+
+### 5. Olive Oil (Refined)
+Premium option for Mediterranean restaurants.
+
+- **Smoke point:** 210°C (refined)
+- **Frying cycles:** 10-15
+- **Cost:** $3,500-5,000/ton
+- **Taste:** Mild olive flavor
+- **Health:** Excellent — high monounsaturated fats
+- **Best for:** Mediterranean restaurants, premium positioning
+- **Drawback:** Very high cost for deep frying
+
+## Comparison Table
+
+| Oil Type | Smoke Point | Cycles | Cost/ton | Health Rating |
+|----------|------------|--------|----------|--------------|
+| Standard Sunflower | 225°C | 8-12 | $1,100-1,200 | ⭐⭐⭐ |
+| High-Oleic Sunflower | 230°C+ | 20-30 | $1,300-1,450 | ⭐⭐⭐⭐ |
+| Palm | 230°C | 15-20 | $800-950 | ⭐⭐ |
+| Rapeseed | 205°C | 8-12 | $1,000-1,150 | ⭐⭐⭐⭐ |
+| Olive (Refined) | 210°C | 10-15 | $3,500-5,000 | ⭐⭐⭐⭐⭐ |
+
+## Our Recommendation
+
+For most European restaurants, **high-oleic sunflower oil** offers the best balance of performance, cost, and health benefits. Despite the higher per-ton price, the extended frying life makes it more economical than standard oils in actual use.
+
+For operations focused on lowest cost, **standard refined sunflower oil** remains an excellent choice — especially when sourced at competitive wholesale prices.
+
+## What UB Market Offers for HORECA
+
+We supply both standard and high-oleic sunflower oil in HORECA-friendly packaging:
+- 5L and 10L PET bottles
+- 18L containers
+- IBC 1,000L containers for large operations
+- Bulk delivery for chain restaurants
+
+---
+
+Need frying oil for your restaurant? **[Request HORECA pricing](/en/quote)** — specify your volume and we'll find the best option for your kitchen.`,
+
+    bg: `## Правилният избор на олио за пържене
+
+За ресторантите изборът на олио влияе на качеството, разходите и безопасността в кухнята.
+
+## Топ 5 олия за сравнение
+
+### 1. Стандартно рафинирано слънчогледово олио
+Достъпно и универсално. Точка на димене 225°C, 8-12 цикъла, $1 100-1 200/тон.
+
+### 2. Високоолеиново слънчогледово олио
+Премиум вариант. 230°C+, 20-30 цикъла, $1 300-1 450/тон. Най-добра стойност за обемно пържене.
+
+### 3. Палмово олио
+Евтино ($800-950/тон), но тенденцията "без палмово олио" в Европа намалява привлекателността.
+
+### 4. Рапично олио
+Популярно в Северна Европа. 205°C, $1 000-1 150/тон.
+
+### 5. Зехтин (рафиниран)
+Премиум, но много скъп за дълбоко пържене — $3 500-5 000/тон.
+
+## Сравнителна таблица
+
+| Олио | Точка на димене | Цикли | Цена/тон |
+|------|----------------|-------|----------|
+| Слънчогледово | 225°C | 8-12 | $1 100-1 200 |
+| Високоолеиново | 230°C+ | 20-30 | $1 300-1 450 |
+| Палмово | 230°C | 15-20 | $800-950 |
+| Рапично | 205°C | 8-12 | $1 000-1 150 |
+
+## Нашата препоръка
+
+**Високоолеиновото олио** — най-добрият баланс за повечето ресторанти.
+
+---
+
+**[Заявете HORECA цени](/bg/quote)**`,
+
+    tr: `## Doğru Kızartma Yağı Seçimi
+
+Restoranlarda yağ seçimi kaliteyi, maliyetleri ve güvenliği etkiler.
+
+## En İyi 5 Kızartma Yağı
+
+### 1. Standart Rafine Ayçiçek Yağı
+Uygun fiyatlı. 225°C, 8-12 döngü, $1.100-1.200/ton.
+
+### 2. Yüksek Oleik Ayçiçek Yağı
+Premium seçenek. 230°C+, 20-30 döngü, $1.300-1.450/ton.
+
+### 3. Palm Yağı
+Ucuz ($800-950/ton) ama Avrupa'da "palm yağsız" trendi azalan çekicilik.
+
+### 4. Kanola Yağı
+Kuzey Avrupa'da popüler. 205°C, $1.000-1.150/ton.
+
+### 5. Zeytinyağı (Rafine)
+Premium ama kızartma için çok pahalı — $3.500-5.000/ton.
+
+## Karşılaştırma
+
+| Yağ | Duman Noktası | Döngü | Fiyat/ton |
+|-----|--------------|-------|-----------|
+| Ayçiçek | 225°C | 8-12 | $1.100-1.200 |
+| Yüksek Oleik | 230°C+ | 20-30 | $1.300-1.450 |
+| Palm | 230°C | 15-20 | $800-950 |
+| Kanola | 205°C | 8-12 | $1.000-1.150 |
+
+**Tavsiyemiz:** Yüksek oleik ayçiçek yağı — çoğu restoran için en iyi denge.
+
+---
+
+**[HORECA fiyatları isteyin](/tr/quote)**`,
+
+    ro: `## Alegerea Corectă a Uleiului
+
+Pentru restaurante, uleiul de prăjit afectează calitatea, costurile și siguranța.
+
+## Comparație
+
+| Ulei | Punct Fumat | Cicluri | Preț/tonă |
+|------|-----------|---------|-----------|
+| Floarea soarelui standard | 225°C | 8-12 | $1.100-1.200 |
+| High-oleic | 230°C+ | 20-30 | $1.300-1.450 |
+| Palm | 230°C | 15-20 | $800-950 |
+| Rapiță | 205°C | 8-12 | $1.000-1.150 |
+| Măsline (rafinat) | 210°C | 10-15 | $3.500-5.000 |
+
+**Recomandare:** Ulei high-oleic — cel mai bun echilibru pentru majoritatea restaurantelor.
+
+---
+
+**[Solicitați prețuri HORECA](/ro/quote)**`,
+
+    de: `## Die Richtige Wahl
+
+Für Restaurants beeinflusst das Frittieröl Qualität, Kosten und Sicherheit.
+
+## Vergleich
+
+| Öl | Rauchpunkt | Zyklen | Preis/t |
+|----|-----------|--------|---------|
+| Standard Sonnenblume | 225°C | 8-12 | $1.100-1.200 |
+| High-Oleic | 230°C+ | 20-30 | $1.300-1.450 |
+| Palm | 230°C | 15-20 | $800-950 |
+| Raps | 205°C | 8-12 | $1.000-1.150 |
+| Olive (raffiniert) | 210°C | 10-15 | $3.500-5.000 |
+
+**Empfehlung:** High-Oleic Sonnenblumenöl — bestes Gleichgewicht für die meisten Restaurants.
+
+---
+
+**[HORECA-Preise anfordern](/de/quote)**`,
+
+    ua: `## Правильний вибір олії
+
+Для ресторанів олія впливає на якість, витрати та безпеку.
+
+## Порівняння
+
+| Олія | Точка димоутв. | Цикли | Ціна/т |
+|------|---------------|-------|--------|
+| Стандартна соняшникова | 225°C | 8-12 | $1 100-1 200 |
+| Високоолеїнова | 230°C+ | 20-30 | $1 300-1 450 |
+| Пальмова | 230°C | 15-20 | $800-950 |
+| Ріпакова | 205°C | 8-12 | $1 000-1 150 |
+
+**Рекомендація:** Високоолеїнова олія — найкращий баланс для більшості ресторанів.
+
+---
+
+**[Запитайте ціни HORECA](/ua/quote)**`,
+  },
+},
+
+// ======================================================================
+// POST 10: WHOLESALE BEET SUGAR IN EUROPE
+// ======================================================================
+{
+  slug: "wholesale-beet-sugar-europe",
+  category: "products",
+  date: "2026-03-25",
+  readingTime: 7,
+  image: "/images/sugar.webp",
+  title: {
+    en: "Wholesale Beet Sugar in Europe — Sourcing Guide for Buyers",
+    bg: "Захар от цвекло на едро в Европа — Ръководство за купувачи",
+    tr: "Avrupa'da Toptan Pancar Şekeri — Alıcılar İçin Tedarik Rehberi",
+    ro: "Zahăr de Sfeclă en-gros în Europa — Ghid pentru Cumpărători",
+    de: "Rübenzucker im Großhandel — Einkaufsratgeber für Europa",
+    ua: "Оптовий буряковий цукор в Європі — Посібник для покупців",
+  },
+  description: {
+    en: "Everything about sourcing wholesale beet sugar in Europe — market overview, quality grades, pricing, and finding reliable suppliers.",
+    bg: "Всичко за покупката на захар от цвекло на едро в Европа.",
+    tr: "Avrupa'da toptan pancar şekeri tedariki hakkında her şey.",
+    ro: "Tot despre achiziția de zahăr de sfeclă en-gros în Europa.",
+    de: "Alles über den Großhandelseinkauf von Rübenzucker in Europa.",
+    ua: "Все про оптову закупівлю бурякового цукру в Європі.",
+  },
+  content: {
+    en: `## The European Beet Sugar Market
+
+Europe is the world's largest beet sugar producing region, with the EU accounting for approximately 50% of global beet sugar output. Unlike cane sugar (produced in tropical countries), beet sugar is grown and processed locally in Europe — making it a key commodity for European food businesses.
+
+## Beet Sugar vs Cane Sugar
+
+For food manufacturers and buyers, an important question is whether beet and cane sugar are interchangeable. The answer is: **yes, for most applications.**
+
+| Feature | Beet Sugar | Cane Sugar |
+|---------|-----------|------------|
+| Sucrose content | 99.9%+ | 99.9%+ |
+| Taste | Identical | Identical |
+| Chemical composition | Identical | Identical |
+| Production | European local | Tropical imports |
+| Certification | EU regulated | Variable |
+| Price | Competitive | Variable (transport adds cost) |
+| Carbon footprint | Lower (local) | Higher (shipping) |
+
+The only differences are in trace minerals and molasses characteristics — irrelevant for refined white sugar. For European buyers, beet sugar offers supply security and shorter supply chains.
+
+## Quality Grades
+
+### ICUMSA 45 (White Refined)
+The standard for retail and food manufacturing. Crystal clear, uniform grain size, no color or odor. This is what you'll find in supermarkets and most food production.
+
+### ICUMSA 100-150 (Off-White)
+Slightly less refined. Used in industrial food production where perfect whiteness isn't required. Lower price point.
+
+### ICUMSA 600-1200 (Raw/Brown)
+Minimally processed. Used in specialty foods, brewing, and some food manufacturing. Distinct caramel flavor.
+
+## Current Pricing (2026)
+
+| Grade | Price Range (FOB) | Notes |
+|-------|------------------|-------|
+| ICUMSA 45 | €650-750/ton | Standard retail grade |
+| ICUMSA 100-150 | €580-650/ton | Industrial grade |
+| ICUMSA 600+ | €500-580/ton | Raw sugar |
+
+*Prices vary by origin, volume, and market conditions.*
+
+## Key Producing Countries in Europe
+
+1. **France** — EU's largest producer (~5 million tons/year)
+2. **Germany** — Second largest (~4 million tons/year)
+3. **Poland** — Major Eastern European producer
+4. **Netherlands** — Significant processing hub
+5. **Belgium** — Important sugar refining center
+6. **Turkey** — Major producer outside EU
+
+## Packaging Options
+
+| Format | Weight | Best For |
+|--------|--------|----------|
+| 50kg bags | Standard wholesale | Food manufacturers |
+| 1-ton big bags | Bulk orders | Large buyers |
+| 25kg bags | Smaller wholesale | Distributors, retail |
+| Bulk (loose) | Ship/truck loads | Industrial users |
+
+## How to Source Quality Sugar
+
+When evaluating sugar suppliers, check for:
+
+1. **ICUMSA certification** — Verified color grade
+2. **EU food safety compliance** — For European markets
+3. **Consistent supply** — Can the supplier deliver year-round?
+4. **Packaging quality** — Proper food-grade packaging
+5. **Documentation** — COA, phytosanitary certificates, origin documents
+
+## UB Market's Sugar Supply
+
+While sunflower oil is our primary product, we also supply wholesale beet sugar to European buyers. Our Bulgarian and Eastern European supply network gives us access to competitive pricing.
+
+**Available:** ICUMSA 45 and ICUMSA 100-150, packed in 50kg bags or 1-ton big bags. Delivery across EU via road transport.
+
+---
+
+Looking for wholesale sugar? **[Send us your requirements](/en/quote)** — we'll provide competitive pricing within 24 hours.`,
+
+    bg: `## Европейският пазар на захар от цвекло
+
+Европа е най-големият световен производител на захар от цвекло — ЕС произвежда около 50% от глобалното производство.
+
+## Захар от цвекло срещу тръстикова
+
+За повечето приложения са взаимозаменяеми — съдържание на захароза 99,9%+, идентичен вкус и химичен състав.
+
+## Качествени класове
+
+- **ICUMSA 45** — Бяла рафинирана, стандарт за търговия на дребно. €650-750/тон
+- **ICUMSA 100-150** — Индустриален клас. €580-650/тон
+- **ICUMSA 600+** — Сурова захар. €500-580/тон
+
+## Основни производители
+
+1. Франция (~5 млн. тона/год.)
+2. Германия (~4 млн. тона/год.)
+3. Полша
+4. Нидерландия
+5. Турция
+
+## Опаковки
+
+| Формат | Тегло | За кого |
+|--------|-------|---------|
+| Чували 50кг | Стандарт | Производители |
+| Биг-бегове 1 тон | Едри поръчки | Големи купувачи |
+| Чували 25кг | Среден обем | Дистрибутори |
+
+## UB Market предлага
+
+ICUMSA 45 и ICUMSA 100-150 в чували 50кг или биг-бегове. Доставка в ЕС с камионен транспорт.
+
+---
+
+**[Изпратете запитване за захар](/bg/quote)**`,
+
+    tr: `## Avrupa Pancar Şekeri Pazarı
+
+Avrupa, dünyanın en büyük pancar şekeri üretim bölgesidir — AB küresel üretimin yaklaşık %50'sini oluşturur.
+
+## Pancar ve Kamış Şekeri
+
+Çoğu uygulama için birbirinin yerine kullanılabilir — %99,9+ sakaroz, aynı tat.
+
+## Kalite Sınıfları
+
+- **ICUMSA 45** — Beyaz rafine, perakende standardı. €650-750/ton
+- **ICUMSA 100-150** — Endüstriyel sınıf. €580-650/ton
+- **ICUMSA 600+** — Ham şeker. €500-580/ton
+
+## Ana Üretici Ülkeler
+
+Fransa, Almanya, Polonya, Hollanda, Türkiye
+
+## Ambalaj
+
+| Format | Ağırlık | Uygun |
+|--------|---------|-------|
+| 50kg çuval | Standart | Üreticiler |
+| 1 ton big bag | Toplu | Büyük alıcılar |
+| 25kg çuval | Orta | Distribütörler |
+
+---
+
+**[Şeker talebi gönderin](/tr/quote)**`,
+
+    ro: `## Piața Europeană a Zahărului de Sfeclă
+
+Europa este cel mai mare producător mondial — UE realizează ~50% din producția globală.
+
+## Grade de Calitate
+
+- **ICUMSA 45** — Alb rafinat, standard retail. €650-750/tonă
+- **ICUMSA 100-150** — Grad industrial. €580-650/tonă
+- **ICUMSA 600+** — Zahăr brut. €500-580/tonă
+
+## Producători Principali
+Franța, Germania, Polonia, Olanda, Turcia
+
+## Ambalaj
+Saci 50kg, big bags 1 tonă, saci 25kg
+
+---
+
+**[Solicitați ofertă pentru zahăr](/ro/quote)**`,
+
+    de: `## Der Europäische Rübenzuckermarkt
+
+Europa ist der größte Rübenzuckerproduzent — die EU liefert ~50% der weltweiten Produktion.
+
+## Qualitätsstufen
+
+- **ICUMSA 45** — Weiß raffiniert, Einzelhandelsstandard. €650-750/t
+- **ICUMSA 100-150** — Industriequalität. €580-650/t
+- **ICUMSA 600+** — Rohzucker. €500-580/t
+
+## Haupterzeuger
+Frankreich, Deutschland, Polen, Niederlande, Türkei
+
+## Verpackung
+50kg-Säcke, 1-Tonnen-Big-Bags, 25kg-Säcke
+
+---
+
+**[Zuckeranfrage senden](/de/quote)**`,
+
+    ua: `## Європейський ринок бурякового цукру
+
+Європа — найбільший виробник у світі, ЄС дає ~50% глобального виробництва.
+
+## Класи якості
+
+- **ICUMSA 45** — Білий рафінований, стандарт роздрібу. €650-750/т
+- **ICUMSA 100-150** — Промисловий клас. €580-650/т
+- **ICUMSA 600+** — Сирий цукор. €500-580/т
+
+## Основні виробники
+Франція, Німеччина, Польща, Нідерланди, Туреччина
+
+---
+
+**[Надішліть запит на цукор](/ua/quote)**`,
+  },
+},
+
+// ======================================================================
+// POST 11: SUNFLOWER OIL PACKAGING GUIDE
+// ======================================================================
+{
+  slug: "sunflower-oil-packaging-guide",
+  category: "sunflower-oil",
+  date: "2026-04-01",
+  readingTime: 6,
+  image: "/images/vegetable-oil.webp",
+  title: {
+    en: "Sunflower Oil Packaging Guide — From PET Bottles to Bulk Tankers",
+    bg: "Ръководство за опаковане на слънчогледово олио",
+    tr: "Ayçiçek Yağı Ambalaj Rehberi — PET Şişeden Tankere",
+    ro: "Ghid de Ambalare a Uleiului de Floarea Soarelui",
+    de: "Sonnenblumenöl-Verpackungsratgeber — Von PET-Flaschen bis Tanker",
+    ua: "Посібник з пакування соняшникової олії — Від PET пляшок до цистерн",
+  },
+  description: {
+    en: "Complete guide to sunflower oil packaging options for wholesale — PET bottles, IBC containers, flexitanks, and bulk tankers compared.",
+    bg: "Пълно ръководство за варианти на опаковане на олио за търговия на едро.",
+    tr: "Toptan ayçiçek yağı ambalaj seçenekleri — PET şişe, IBC, fleksitank karşılaştırması.",
+    ro: "Ghid complet pentru opțiunile de ambalare a uleiului en-gros.",
+    de: "Kompletter Ratgeber zu Sonnenblumenöl-Verpackungen für den Großhandel.",
+    ua: "Повний посібник з варіантів пакування олії для оптової торгівлі.",
+  },
+  content: {
+    en: `## Why Packaging Choice Matters
+
+The right packaging affects your total cost, shelf life, logistics, and target market. Choosing correctly can save thousands per shipment.
+
+## Packaging Options Compared
+
+### PET Bottles (1L, 3L, 5L)
+The standard retail format. Clear plastic bottles that consumers recognize on store shelves.
+
+- **Best for:** Retail distribution, small HORECA
+- **MOQ:** 1 pallet (~800-1,200 bottles depending on size)
+- **Cost impact:** Highest per-liter cost (packaging adds $150-250/ton)
+- **Shelf life:** 12-18 months
+- **Pros:** Consumer-ready, brand visibility, easy storage
+- **Cons:** Higher cost, more storage space per liter
+
+### PET Bottles (10L, 18L)
+Larger format for food service and light industrial use.
+
+- **Best for:** Restaurants, cafeterias, small food producers
+- **MOQ:** 1 pallet
+- **Cost impact:** Medium ($100-150/ton above bulk)
+- **Shelf life:** 12-18 months
+- **Pros:** Convenient handling, no special equipment needed
+- **Cons:** Still more expensive than bulk
+
+### IBC Containers (1,000L)
+Intermediate Bulk Containers — reusable plastic containers in a metal cage.
+
+- **Best for:** Medium-volume buyers, food manufacturers
+- **MOQ:** 1-20 containers per order
+- **Cost impact:** Low-medium ($50-80/ton above bulk)
+- **Shelf life:** 12 months
+- **Pros:** Reusable, easy to move with forklift, good middle ground
+- **Cons:** Requires forklift, return logistics
+
+### Flexitanks (20-24 tons)
+Single-use bags fitted inside standard shipping containers. The most popular bulk format.
+
+- **Best for:** Large wholesale, international trade
+- **MOQ:** 20-24 tons (one container)
+- **Cost impact:** Low ($20-30/ton above FOB base)
+- **Shelf life:** 6-9 months (shorter due to single-wall protection)
+- **Pros:** Cost-effective, no return logistics, fits standard containers
+- **Cons:** Single use, needs pump for unloading, shorter shelf life
+
+### Bulk Tanker (20-40 tons)
+Dedicated road tanker trucks for direct delivery.
+
+- **Best for:** Large-volume buyers, refineries, factories
+- **MOQ:** 20 tons (full truck)
+- **Cost impact:** Lowest (base FOB price)
+- **Shelf life:** Immediate use recommended
+- **Pros:** Cheapest per liter, direct delivery to storage tank
+- **Cons:** Requires storage tanks, pump equipment
+
+## Cost Comparison Summary
+
+| Format | Volume | Extra Cost vs Bulk | Best Price/Liter |
+|--------|--------|-------------------|-----------------|
+| PET 1L | Per bottle | +$200-250/ton | Highest |
+| PET 5L | Per bottle | +$150-200/ton | High |
+| PET 10-18L | Per bottle | +$100-150/ton | Medium-High |
+| IBC 1,000L | 1-20 units | +$50-80/ton | Medium |
+| Flexitank | 20-24 tons | +$20-30/ton | Low |
+| Bulk tanker | 20-40 tons | Base price | Lowest |
+
+## Private Label vs Branded Options
+
+At UB Market, we offer three approaches:
+
+1. **Star Food Branded** — Our registered trademark, ready-made labels in multiple languages. No design costs for you.
+2. **Private Label** — Your brand, our oil. We produce and label to your specifications. [Learn about private label →](/en/services/private-label)
+3. **Unbranded Bulk** — No labels, delivered in IBC, flexitank, or tanker. You handle packaging on your end.
+
+---
+
+Need help choosing the right packaging? **[Tell us your requirements](/en/quote)** — we'll recommend the optimal format for your business.`,
+
+    bg: `## Защо изборът на опаковка е важен
+
+Правилната опаковка влияе на цената, срока на годност и целевия пазар.
+
+## Варианти
+
+### PET бутилки (1L, 3L, 5L)
+За търговия на дребно. Добавят $150-250/тон. Срок 12-18 месеца.
+
+### PET бутилки (10L, 18L)
+За ресторанти. Добавят $100-150/тон.
+
+### IBC контейнери (1 000L)
+За средни обеми. Добавят $50-80/тон. Многократна употреба.
+
+### Флекситанкове (20-24 тона)
+За голям обем. Добавят $20-30/тон. Най-популярният формат.
+
+### Цистерна (20-40 тона)
+Най-ниска цена. Директна доставка до резервоар.
+
+## Сравнение
+
+| Формат | Допълнителна цена | Подходящ |
+|--------|-------------------|----------|
+| PET 1-5L | +$150-250/тон | Дребно |
+| IBC | +$50-80/тон | Среден обем |
+| Флекситанк | +$20-30/тон | Голям обем |
+| Цистерна | Базова цена | Промишленост |
+
+---
+
+**[Изберете опаковка с нас](/bg/quote)**`,
+
+    tr: `## Ambalaj Seçimi Neden Önemli
+
+Doğru ambalaj maliyeti, raf ömrünü ve hedef pazarı etkiler.
+
+## Seçenekler
+
+### PET Şişeler (1L, 3L, 5L)
+Perakende standardı. +$150-250/ton. 12-18 ay raf ömrü.
+
+### PET Şişeler (10L, 18L)
+HORECA için. +$100-150/ton.
+
+### IBC Konteynerleri (1.000L)
+Orta hacim. +$50-80/ton. Yeniden kullanılabilir.
+
+### Fleksitanklar (20-24 ton)
+Büyük hacim. +$20-30/ton. En popüler toptan format.
+
+### Tanker (20-40 ton)
+En düşük fiyat. Doğrudan depoya teslimat.
+
+## Karşılaştırma
+
+| Format | Ek Maliyet | Uygun |
+|--------|-----------|-------|
+| PET 1-5L | +$150-250/ton | Perakende |
+| IBC | +$50-80/ton | Orta hacim |
+| Fleksitank | +$20-30/ton | Büyük hacim |
+| Tanker | Baz fiyat | Endüstri |
+
+---
+
+**[Ambalaj seçimi için bize ulaşın](/tr/quote)**`,
+
+    ro: `## De Ce Contează Ambalajul
+
+Ambalajul corect afectează costul, valabilitatea și piața țintă.
+
+## Opțiuni
+
+| Format | Cost Extra | Potrivit |
+|--------|-----------|----------|
+| PET 1-5L | +$150-250/t | Retail |
+| PET 10-18L | +$100-150/t | HORECA |
+| IBC 1.000L | +$50-80/t | Volum mediu |
+| Flexitank | +$20-30/t | Volum mare |
+| Cisternă | Preț de bază | Industrie |
+
+---
+
+**[Alegeți ambalajul potrivit](/ro/quote)**`,
+
+    de: `## Warum Verpackungswahl Wichtig Ist
+
+Die richtige Verpackung beeinflusst Kosten, Haltbarkeit und Zielmarkt.
+
+## Optionen
+
+| Format | Mehrkosten | Geeignet |
+|--------|-----------|----------|
+| PET 1-5L | +$150-250/t | Einzelhandel |
+| PET 10-18L | +$100-150/t | HORECA |
+| IBC 1.000L | +$50-80/t | Mittleres Volumen |
+| Flexitank | +$20-30/t | Großhandel |
+| Tankwagen | Basispreis | Industrie |
+
+---
+
+**[Verpackungsberatung anfordern](/de/quote)**`,
+
+    ua: `## Чому вибір упаковки важливий
+
+Правильна упаковка впливає на вартість, термін придатності та ринок.
+
+## Варіанти
+
+| Формат | Додаткова вартість | Для кого |
+|--------|-------------------|----------|
+| PET 1-5L | +$150-250/т | Роздріб |
+| PET 10-18L | +$100-150/т | HORECA |
+| IBC 1 000L | +$50-80/т | Середній обсяг |
+| Флекситанк | +$20-30/т | Великий обсяг |
+| Цистерна | Базова ціна | Промисловість |
+
+---
+
+**[Оберіть упаковку з нами](/ua/quote)**`,
+  },
+},
+
+// ======================================================================
+// POST 12: HOW TO CHOOSE A FOOD SUPPLIER
+// ======================================================================
+{
+  slug: "how-to-choose-food-supplier",
+  category: "trading",
+  date: "2026-04-05",
+  readingTime: 8,
+  image: "/images/contact-us.webp",
+  title: {
+    en: "How to Choose a Reliable Food Supplier in Europe",
+    bg: "Как да изберем надежден доставчик на храни в Европа",
+    tr: "Avrupa'da Güvenilir Gıda Tedarikçisi Nasıl Seçilir",
+    ro: "Cum Să Alegeți un Furnizor Alimentar de Încredere în Europa",
+    de: "Wie Sie Einen Zuverlässigen Lebensmittellieferanten in Europa Wählen",
+    ua: "Як обрати надійного постачальника продуктів у Європі",
+  },
+  description: {
+    en: "A practical checklist for evaluating food trading partners — certifications, reliability, pricing transparency, and red flags to watch for.",
+    bg: "Практически чеклист за оценка на партньори за търговия с храни.",
+    tr: "Gıda ticaret ortaklarını değerlendirmek için pratik kontrol listesi.",
+    ro: "Lista practică de verificare pentru evaluarea partenerilor de comerț alimentar.",
+    de: "Praktische Checkliste zur Bewertung von Lebensmittelhandelspartnern.",
+    ua: "Практичний чеклист для оцінки партнерів з торгівлі продуктами.",
+  },
+  content: {
+    en: `## Why Supplier Selection Is Critical
+
+In food trading, your supplier is your reputation. A reliable supplier means consistent quality, on-time delivery, and peace of mind. A poor supplier means product recalls, lost customers, and financial loss.
+
+This guide provides a practical framework for evaluating potential food suppliers in Europe.
+
+## The 10-Point Supplier Evaluation Checklist
+
+### 1. Legal Registration and EU Compliance
+Verify that the supplier is legally registered in an EU country (or has proper import authorization). Check company registration numbers, VAT ID, and business history.
+
+**Why it matters:** EU-registered companies must comply with food safety regulations. This is your first layer of protection.
+
+### 2. Food Safety Certifications
+Look for internationally recognized certifications:
+- **ISO 22000** — Food safety management
+- **HACCP** — Hazard analysis (mandatory in EU)
+- **BRC / IFS** — Retailer-standard certifications
+- **FSSC 22000** — Advanced food safety system
+
+**Red flag:** A supplier who cannot provide any food safety certification.
+
+### 3. Product Quality Documentation
+Always request a Certificate of Analysis (COA) for every shipment. The COA should include: acidity levels, peroxide value, color index, moisture content, and any contaminants tested.
+
+**Red flag:** Supplier hesitates to provide COA or provides outdated documents.
+
+### 4. Track Record and References
+Ask for references from existing clients, especially in your market. How long have they been in business? Do they have repeat customers?
+
+**Red flag:** New company with no verifiable track record.
+
+### 5. Pricing Transparency
+A reliable supplier provides clear pricing with all components visible: product price, packaging costs, delivery charges, and any additional fees. Be wary of unusually low prices — they often indicate quality compromises.
+
+**Red flag:** Prices significantly below market average without explanation.
+
+### 6. Communication Quality
+Evaluate response times, language capabilities, and willingness to answer technical questions. Good communication is a leading indicator of good service.
+
+**Red flag:** Slow responses, vague answers, or only communicating via informal channels.
+
+### 7. Logistics Capability
+Can the supplier handle your delivery requirements? Check their experience with your preferred Incoterms (FOB/CIF/DAP), their logistics partners, and delivery timeframes.
+
+### 8. Payment Security
+Understand the payment terms offered. Standard options include:
+- **T/T (Telegraphic Transfer)** — Direct bank transfer
+- **L/C (Letter of Credit)** — Bank-guaranteed payment
+- **CAD (Cash Against Documents)** — Payment upon document receipt
+
+**Red flag:** Supplier demands 100% advance payment with no track record.
+
+### 9. Sample Availability
+A serious supplier will provide product samples for quality testing before you commit to a large order. Expect to pay for shipping but the samples themselves should be free or at minimal cost.
+
+### 10. Contractual Clarity
+The supplier should be willing to sign a proper sales contract covering: product specifications, quality parameters, delivery schedule, payment terms, dispute resolution, and force majeure clauses.
+
+## Questions to Ask a Potential Supplier
+
+1. "Can you provide your company registration and EU food operator number?"
+2. "What food safety certifications do you hold?"
+3. "Can I see a COA from your most recent shipment?"
+4. "Can you provide 2-3 references from European clients?"
+5. "What are your standard payment terms?"
+6. "What Incoterms do you work with?"
+7. "Can you send product samples?"
+8. "What is your lead time from order to delivery?"
+
+## Why Choose UB Market
+
+UB Market meets all 10 criteria:
+- ✅ EU-registered company in Bulgaria (UB Market LTD)
+- ✅ ISO 22000, HACCP certified products
+- ✅ COA provided for every shipment
+- ✅ Years of European trading experience
+- ✅ Transparent pricing, no hidden fees
+- ✅ Multilingual team (6 languages)
+- ✅ FOB, CIF, DAP delivery options
+- ✅ Flexible payment terms
+- ✅ Free samples available
+- ✅ Standard sales contracts
+
+---
+
+Ready to work with a reliable European supplier? **[Start a conversation](/en/contacts)** or **[request a quote](/en/quote)**.`,
+
+    bg: `## Защо изборът на доставчик е критичен
+
+В търговията с храни вашият доставчик е вашата репутация. Този чеклист помага за оценка на партньори.
+
+## 10-точков чеклист
+
+### 1. Регистрация в ЕС
+Проверете дали е законно регистриран в ЕС — ДДС номер, бизнес история.
+
+### 2. Сертификати за безопасност
+ISO 22000, HACCP, BRC/IFS. **Червен флаг:** Няма никакви сертификати.
+
+### 3. Документация за качество
+Изисквайте COA за всяка доставка. **Червен флаг:** Колебание при предоставяне.
+
+### 4. Опит и референции
+Поискайте контакти на съществуващи клиенти.
+
+### 5. Прозрачно ценообразуване
+Ясни цени с всички компоненти. **Червен флаг:** Цени далеч под средните.
+
+### 6. Комуникация
+Бързи отговори, езикови умения. **Червен флаг:** Бавни, неясни отговори.
+
+### 7. Логистични възможности
+FOB/CIF/DAP, надеждни партньори.
+
+### 8. Платежна сигурност
+T/T, L/C, CAD. **Червен флаг:** 100% авансово плащане без история.
+
+### 9. Мостри
+Сериозният доставчик предоставя мостри.
+
+### 10. Договор
+Ясен контракт с всички условия.
+
+## Защо UB Market
+
+✅ Регистрация в ЕС (България) ✅ ISO, HACCP ✅ COA за всяка доставка ✅ Опит ✅ Прозрачни цени ✅ 6 езика ✅ FOB/CIF/DAP ✅ Гъвкави условия
+
+---
+
+**[Свържете се с нас](/bg/contacts)** или **[заявете оферта](/bg/quote)**.`,
+
+    tr: `## Tedarikçi Seçimi Neden Kritik
+
+Gıda ticaretinde tedarikçiniz itibarınızdır. Bu kontrol listesi değerlendirmeye yardımcı olur.
+
+## 10 Maddelik Kontrol Listesi
+
+1. **AB kaydı** — Yasal kayıt ve KDV numarası
+2. **Sertifikalar** — ISO 22000, HACCP. Kırmızı bayrak: Sertifika yok
+3. **Kalite belgesi** — Her sevkiyat için COA
+4. **Referanslar** — Mevcut müşterilerden
+5. **Fiyat şeffaflığı** — Tüm bileşenler görünür
+6. **İletişim** — Hızlı yanıt, çok dilli
+7. **Lojistik** — FOB/CIF/DAP deneyimi
+8. **Ödeme güvenliği** — T/T, L/C seçenekleri
+9. **Numune** — Sipariş öncesi test
+10. **Sözleşme** — Net koşullar
+
+## Neden UB Market
+
+✅ Bulgaristan'da AB kaydı ✅ ISO, HACCP ✅ Her sevkiyatta COA ✅ Şeffaf fiyatlar ✅ 6 dil ✅ FOB/CIF/DAP ✅ Esnek ödeme
+
+---
+
+**[Teklif isteyin](/tr/quote)**`,
+
+    ro: `## De Ce Contează Selecția Furnizorului
+
+În comerțul alimentar, furnizorul dvs. este reputația dvs.
+
+## Checklist 10 Puncte
+
+1. **Înregistrare UE** — Număr TVA, istoric
+2. **Certificări** — ISO 22000, HACCP
+3. **Documentație calitate** — COA per livrare
+4. **Referințe** — De la clienți existenți
+5. **Transparență prețuri** — Fără costuri ascunse
+6. **Comunicare** — Rapidă și multilingvă
+7. **Logistică** — FOB/CIF/DAP
+8. **Securitate plată** — T/T, L/C
+9. **Mostre** — Disponibile
+10. **Contract** — Condiții clare
+
+---
+
+**[Solicitați ofertă de la UB Market](/ro/quote)**`,
+
+    de: `## Warum Lieferantenauswahl Entscheidend Ist
+
+Im Lebensmittelhandel ist Ihr Lieferant Ihr Ruf.
+
+## 10-Punkte-Checkliste
+
+1. **EU-Registrierung** — USt-ID, Geschäftshistorie
+2. **Zertifizierungen** — ISO 22000, HACCP
+3. **Qualitätsdokumentation** — COA pro Lieferung
+4. **Referenzen** — Von bestehenden Kunden
+5. **Preistransparenz** — Keine versteckten Kosten
+6. **Kommunikation** — Schnell, mehrsprachig
+7. **Logistik** — FOB/CIF/DAP
+8. **Zahlungssicherheit** — T/T, L/C
+9. **Muster** — Verfügbar
+10. **Vertrag** — Klare Bedingungen
+
+---
+
+**[Angebot anfordern](/de/quote)**`,
+
+    ua: `## Чому вибір постачальника критичний
+
+У торгівлі продуктами ваш постачальник — це ваша репутація.
+
+## Чеклист з 10 пунктів
+
+1. **Реєстрація в ЄС** — ІПН, історія бізнесу
+2. **Сертифікати** — ISO 22000, HACCP
+3. **Документація якості** — COA на кожну поставку
+4. **Рекомендації** — Від наявних клієнтів
+5. **Прозорість цін** — Без прихованих витрат
+6. **Комунікація** — Швидка, багатомовна
+7. **Логістика** — FOB/CIF/DAP
+8. **Безпека платежів** — T/T, L/C
+9. **Зразки** — Доступні
+10. **Контракт** — Чіткі умови
+
+---
+
+**[Запитайте пропозицію від UB Market](/ua/quote)**`,
+  },
+},
+
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {

@@ -31,7 +31,10 @@ export default function BlogPostPage() {
     );
   }
 
-  const content = post.content[locale] || post.content.en;
+  const title = post.title[locale] || post.title.en;
+  const description = post.description[locale] || post.description.en;
+  const body = post.content[locale] || post.content.en;
+
   const formattedDate = new Date(post.date).toLocaleDateString(locale, {
     year: "numeric",
     month: "long",
@@ -41,21 +44,21 @@ export default function BlogPostPage() {
   const breadcrumbItems = [
     { label: t?.nav?.home || "Home", href: `/${locale}` },
     { label: t?.nav?.blog || "Blog", href: `/${locale}/blog` },
-    { label: content.title },
+    { label: title },
   ];
 
   const breadcrumbSchema = generateBreadcrumbSchema(
     breadcrumbItems.map((item) => ({
       name: item.label,
       url: item.href || `/${locale}/blog/${post.slug}`,
-    }))
+    })),
   );
 
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: content.title,
-    description: content.description,
+    headline: title,
+    description: description,
     image: `https://ub-market.com${post.image}`,
     datePublished: post.date,
     author: {
@@ -66,7 +69,10 @@ export default function BlogPostPage() {
     publisher: {
       "@type": "Organization",
       name: "UB Market LTD",
-      logo: { "@type": "ImageObject", url: "https://ub-market.com/icons/logo.webp" },
+      logo: {
+        "@type": "ImageObject",
+        url: "https://ub-market.com/icons/logo.webp",
+      },
     },
   };
 
@@ -81,33 +87,34 @@ export default function BlogPostPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      {/* Breadcrumbs */}
       <section className={styles.breadcrumbSection}>
         <div className={styles.inner}>
           <Breadcrumbs items={breadcrumbItems} />
         </div>
       </section>
 
-      {/* Article Header */}
       <section className={styles.headerSection}>
         <div className={styles.inner}>
           <span className={styles.category}>{post.category}</span>
-          <h1 className={styles.title}>{content.title}</h1>
-          <p className={styles.description}>{content.description}</p>
+          <h1 className={styles.title}>{title}</h1>
+          <p className={styles.description}>{description}</p>
           <div className={styles.meta}>
-            <span><FaCalendar /> {formattedDate}</span>
-            <span><FaClock /> {post.readingTime} {bp.minRead || "min read"}</span>
+            <span>
+              <FaCalendar /> {formattedDate}
+            </span>
+            <span>
+              <FaClock /> {post.readingTime} {bp.minRead || "min read"}
+            </span>
           </div>
         </div>
       </section>
 
-      {/* Hero Image */}
       <section className={styles.heroImage}>
         <div className={styles.inner}>
           <div className={styles.imageWrap}>
             <Image
               src={post.image}
-              alt={content.title}
+              alt={title}
               fill
               sizes="100vw"
               style={{ objectFit: "cover" }}
@@ -117,18 +124,24 @@ export default function BlogPostPage() {
         </div>
       </section>
 
-      {/* Article Body + TOC */}
       <section className={styles.bodySection}>
         <div className={styles.inner}>
           <div className={styles.bodyGrid}>
             <article className={`${styles.article} blog-content`}>
-              <ReactMarkdown>{content.body}</ReactMarkdown>
+              <ReactMarkdown>{body}</ReactMarkdown>
 
-              {/* CTA */}
               <div className={styles.cta}>
-                <h3>{bp.ctaTitle || "Interested in Wholesale Sunflower Oil?"}</h3>
-                <p>{bp.ctaText || "Contact UB Market for competitive pricing and reliable supply."}</p>
-                <a href="mailto:ubmarket2022@gmail.com" className="btn btn-primary">
+                <h3>
+                  {bp.ctaTitle || "Interested in Wholesale Sunflower Oil?"}
+                </h3>
+                <p>
+                  {bp.ctaText ||
+                    "Contact UB Market for competitive pricing and reliable supply."}
+                </p>
+                <a
+                  href="mailto:ubmarket2022@gmail.com"
+                  className="btn btn-primary"
+                >
                   <FaEnvelope /> {bp.ctaButton || "Request a Quote"}
                 </a>
               </div>
