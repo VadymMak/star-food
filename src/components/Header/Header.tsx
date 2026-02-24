@@ -38,6 +38,7 @@ export default function Header() {
     { href: prefix, label: t?.nav?.home || "Home" },
     { href: `${prefix}/about`, label: t?.nav?.about || "About" },
     { href: `${prefix}/products`, label: t?.nav?.products || "Products" },
+    { href: `${prefix}/brands/star-food`, label: t?.nav?.brand || "Star Food" },
     { href: `${prefix}/blog`, label: t?.nav?.blog || "Blog" },
     { href: `${prefix}/contacts`, label: t?.nav?.contacts || "Contacts" },
   ];
@@ -79,6 +80,10 @@ export default function Header() {
           ))}
         </nav>
 
+        <Link href={`${prefix}/partners`} className={styles.partnerCta}>
+          {t?.nav?.partners || "Partners"}
+        </Link>
+
         <div className={styles.actions}>
           <LanguageSwitcher />
           <button
@@ -106,6 +111,13 @@ export default function Header() {
                 {link.label}
               </Link>
             ))}
+            <Link
+              href={`${prefix}/partners`}
+              className={styles.partnerCtaMobile}
+              onClick={() => setMenuOpen(false)}
+            >
+              {t?.nav?.partners || "Partners"}
+            </Link>
           </nav>
         </div>
       )}

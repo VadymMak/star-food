@@ -4,7 +4,10 @@
     "about": "Hakkımızda",
     "products": "Ürünler",
     "blog": "Blog",
-    "contacts": "İletişim"
+    "contacts": "İletişim",
+    "brand": "Star Food",
+    "partners": "Ortaklar",
+    "privateLabel": "Özel Marka"
   },
   "hero": {
     "badge": "Uluslararası Gıda Ticareti",
@@ -267,7 +270,16 @@
     "qualityTitle": "Kaliteye Bağlılığımız",
     "designedByTitle": "Etiket Tasarımı",
     "designedByText": "Tüm Star Food etiketleri Anastasiia Kolisnyk tarafından tasarlanmıştır.",
-    "designedByLink": "AK Illustrator Portföyünü Ziyaret Edin →"
+    "designedByLink": "AK Illustrator Portföyünü Ziyaret Edin →",
+    "registered": "® Tescilli Marka",
+    "labelGalleryLabel": "Ambalajımız",
+    "labelGalleryTitle": "Profesyonel Etiket Tasarımı",
+    "labelInfoTitle": "Etiketimiz Ne Anlatıyor",
+    "labelInfo1": "5 dilde tam besin değeri bilgisi",
+    "labelInfo2": "AB uyumlu gıda güvenliği etiketlemesi",
+    "labelInfo3": "GDO'suz sertifikalı ürün",
+    "labelInfo4": "Tam izlenebilirlik — menşei ve parti numarası",
+    "labelInfo5": "Sertifikalı tasarımcı tarafından profesyonel tasarım"
   },
   "partnersPage": {
     "breadcrumb": "Ortaklar",
@@ -303,5 +315,37 @@
     "successText": "24 saat içinde kişiselleştirilmiş teklifle yanıt vereceğiz.",
     "sendAnother": "Başka Talep Gönder",
     "errorText": "Bir hata oluştu. ubmarket2022@gmail.com adresine yazın."
+  },
+  "privateLabelPage": {
+    "breadcrumb": "Özel Marka",
+    "label": "Özel Marka Hizmeti",
+    "title": "Sizin Markanız, Bizim Kalitemiz",
+    "subtitle": "Üretim yatırımı yapmadan kendi markalı ayçiçek yağı serinizi başlatın.",
+    "ctaQuote": "Özel Marka Teklifi Alın",
+    "ctaContact": "Ekibimizle Konuşun",
+    "howItWorksTitle": "Özel Marka Nasıl Çalışır",
+    "step1Title": "İhtiyaçlarınızı Belirtin",
+    "step1Text": "Marka gereksinimlerinizi paylaşın — hacim, ambalaj, hedef pazar.",
+    "step2Title": "Ürününüzü Geliştiriyoruz",
+    "step2Text": "Ekibimiz tedarik, kalite kontrol ve etiket tasarımını üstlenir.",
+    "step3Title": "Üretim ve Teslimat",
+    "step3Text": "Markalı ürünlerinizi üretip Avrupa genelinde deponuza teslim ediyoruz.",
+    "benefitsTitle": "Neden Özel Markamızı Seçmelisiniz",
+    "benefit1": "Fabrika yatırımı gerekmez",
+    "benefit2": "20 tondan başlayan esnek MOQ",
+    "benefit3": "Özel etiket tasarımı hizmete dahil",
+    "benefit4": "Tam AB uyumluluğu",
+    "benefit5": "Çoklu ambalaj seçenekleri: 1L, 3L, 5L, 10L PET, IBC",
+    "benefit6": "Hızlı teslimat — ilk parti 3-4 hafta içinde",
+    "productsTitle": "Özel Marka İçin Mevcut",
+    "product1": "Rafine Ayçiçek Yağı",
+    "product2": "Ham Ayçiçek Yağı",
+    "product3": "Yüksek Oleik Ayçiçek Yağı",
+    "product4": "Bitkisel Kızartma Yağı",
+    "product5": "Karışım Yemeklik Yağ",
+    "orText": "Veya mevcut markamız altında dağıtın:",
+    "ctaTitle": "Markanızı Başlatmaya Hazır Mısınız?",
+    "ctaText": "Projenizi anlatın, 48 saat içinde özel teklif hazırlayalım.",
+    "ctaButton": "Ücretsiz Teklif Alın"
   }
 }

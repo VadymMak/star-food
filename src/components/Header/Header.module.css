@@ -138,6 +138,47 @@
   color: var(--gold, #d4a843);
 }
 
+/* Partners CTA Button */
+.partnerCta {
+  margin-left: 16px;
+  padding: 8px 20px;
+  background: var(--gold, #d4a843);
+  color: #000;
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-decoration: none;
+  border-radius: var(--radius-sm, 4px);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.partnerCta:hover {
+  background: var(--gold-light, #f0d78c);
+  transform: translateY(-1px);
+}
+
+.partnerCtaMobile {
+  display: block;
+  margin: 16px 20px 0;
+  padding: 12px 20px;
+  background: var(--gold, #d4a843);
+  color: #000;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-decoration: none;
+  border-radius: var(--radius-sm, 4px);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@media (max-width: 900px) {
+  .partnerCta {
+    display: none;
+  }
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 900px) {
   .nav {

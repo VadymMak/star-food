@@ -1,0 +1,239 @@
+.inner {
+  max-width: var(--max-w, 1200px);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.breadcrumbSection {
+  padding-top: calc(var(--header-height, 80px) + 16px);
+  background: var(--dark, #0a0a0a);
+}
+
+/* Hero */
+.hero {
+  padding: 40px 0 80px;
+  background: var(--dark, #0a0a0a);
+  text-align: center;
+}
+.heroTitle {
+  font-family: var(--font-display);
+  font-size: 2.8rem;
+  color: var(--white);
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+.heroSubtitle {
+  color: var(--text-muted, #999);
+  font-size: 1.1rem;
+  max-width: 650px;
+  margin: 0 auto 30px;
+  line-height: 1.7;
+}
+
+/* Sections */
+.section {
+  padding: 80px 0;
+  background: var(--dark, #0a0a0a);
+}
+.sectionDark {
+  padding: 80px 0;
+  background: var(--dark-section, #0d0d0d);
+}
+.sectionTitle {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  color: var(--white);
+  margin-bottom: 48px;
+  text-align: center;
+}
+
+/* Steps */
+.stepsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+.stepCard {
+  background: var(--dark-card, #111);
+  border-radius: var(--radius, 8px);
+  padding: 36px 28px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  text-align: center;
+  position: relative;
+  transition: all 0.3s ease;
+}
+.stepCard:hover {
+  border-color: rgba(212, 168, 67, 0.3);
+  transform: translateY(-3px);
+}
+.stepNumber {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  color: rgba(212, 168, 67, 0.12);
+  font-weight: 700;
+}
+.stepIcon {
+  font-size: 2rem;
+  color: var(--gold, #d4a843);
+  margin-bottom: 18px;
+}
+.stepCard h3 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  color: var(--white);
+  margin-bottom: 12px;
+}
+.stepCard p {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* Two columns */
+.twoCol {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+}
+.colTitle {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--white);
+  margin-bottom: 28px;
+}
+
+/* Benefits */
+.benefitsList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.benefitsList li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  color: var(--text, #e8e8e8);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.checkIcon {
+  color: var(--gold, #d4a843);
+  flex-shrink: 0;
+  margin-top: 3px;
+  font-size: 0.9rem;
+}
+
+/* Products list */
+.productsList {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 32px;
+}
+.productItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 18px;
+  background: var(--dark-card, #111);
+  border-radius: var(--radius, 8px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  color: var(--text);
+  font-size: 0.92rem;
+  transition: border-color 0.3s ease;
+}
+.productItem:hover {
+  border-color: rgba(212, 168, 67, 0.3);
+}
+.productIcon {
+  color: var(--gold, #d4a843);
+  flex-shrink: 0;
+}
+
+/* Or block */
+.orBlock {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding-top: 20px;
+}
+.orText {
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  margin-bottom: 12px;
+}
+.brandLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--gold, #d4a843);
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 10px 18px;
+  background: var(--dark-card, #111);
+  border-radius: var(--radius, 8px);
+  border: 1px solid rgba(212, 168, 67, 0.2);
+  transition: all 0.3s ease;
+}
+.brandLink:hover {
+  border-color: rgba(212, 168, 67, 0.5);
+  background: rgba(212, 168, 67, 0.05);
+}
+.brandLink span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* CTA */
+.ctaSection {
+  padding: 80px 0;
+  background: var(--dark, #0a0a0a);
+  text-align: center;
+}
+.ctaTitle {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  color: var(--white);
+  margin-bottom: 16px;
+}
+.ctaText {
+  color: var(--text-muted);
+  margin-bottom: 30px;
+  font-size: 1.05rem;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+/* Equal width buttons */
+.hero :global(.btn-group) {
+  display: flex;
+  gap: 16px;
+}
+.hero :global(.btn) {
+  min-width: 260px;
+  text-align: center;
+  justify-content: center;
+}
+
+@media (max-width: 900px) {
+  .stepsGrid {
+    grid-template-columns: 1fr;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  .twoCol {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
+@media (max-width: 600px) {
+  .heroTitle {
+    font-size: 1.8rem;
+  }
+}

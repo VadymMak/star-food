@@ -4,7 +4,10 @@
     "about": "Despre Noi",
     "products": "Produse",
     "blog": "Blog",
-    "contacts": "Contact"
+    "contacts": "Contact",
+    "brand": "Star Food",
+    "partners": "Parteneri",
+    "privateLabel": "Marcă Privată"
   },
   "hero": {
     "badge": "Comerț Internațional cu Alimente",
@@ -263,7 +266,16 @@
     "ctaPartner": "Devino Distribuitor",
     "designedByTitle": "Design Etichete",
     "designedByText": "Toate etichetele Star Food au fost create de Anastasiia Kolisnyk.",
-    "designedByLink": "Vizitează Portofoliul AK Illustrator →"
+    "designedByLink": "Vizitează Portofoliul AK Illustrator →",
+    "registered": "® Marcă Înregistrată",
+    "labelGalleryLabel": "Ambalajul Nostru",
+    "labelGalleryTitle": "Design Profesional de Etichete",
+    "labelInfoTitle": "Ce Spune Eticheta Noastră",
+    "labelInfo1": "Informații nutriționale complete în 5 limbi",
+    "labelInfo2": "Etichetare conformă cu standardele UE",
+    "labelInfo3": "Produs certificat Non-GMO",
+    "labelInfo4": "Trasabilitate completă — origine și număr de lot",
+    "labelInfo5": "Design profesional de un designer certificat"
   },
   "partnersPage": {
     "breadcrumb": "Parteneri",
@@ -299,5 +311,31 @@
     "successText": "Vom răspunde în 24 de ore.",
     "sendAnother": "Trimite Altă Cerere",
     "errorText": "Ceva nu a funcționat. Scrieți la ubmarket2022@gmail.com"
+  },
+  "privateLabelPage": {
+    "breadcrumb": "Marcă Privată",
+    "label": "Serviciu Marcă Privată",
+    "title": "Marca Ta, Calitatea Noastră",
+    "subtitle": "Lansați propria linie de ulei de floarea soarelui fără investiții în producție.",
+    "ctaQuote": "Solicită Ofertă Marcă Privată",
+    "ctaContact": "Contactează Echipa",
+    "howItWorksTitle": "Cum Funcționează Marca Privată",
+    "step1Title": "Spuneți-ne Nevoile",
+    "step1Text": "Împărtășiți cerințele mărcii — volume, ambalaj, piață țintă.",
+    "step2Title": "Dezvoltăm Produsul",
+    "step2Text": "Echipa noastră se ocupă de aprovizionare, control al calității și design.",
+    "step3Title": "Producție și Livrare",
+    "step3Text": "Producem, ambalăm și livrăm produsele în toată Europa.",
+    "benefitsTitle": "De Ce Să Alegeți Marca Noastră Privată",
+    "productsTitle": "Disponibile pentru Marcă Privată",
+    "product1": "Ulei Rafinat de Floarea Soarelui",
+    "product2": "Ulei Brut de Floarea Soarelui",
+    "product3": "Ulei de Floarea Soarelui High-Oleic",
+    "product4": "Ulei Vegetal de Prăjit",
+    "product5": "Ulei de Gătit Mixt",
+    "orText": "Sau distribuiți sub marca noastră existentă:",
+    "ctaTitle": "Gata să Lansați Marca?",
+    "ctaText": "Spuneți-ne despre proiect și vom pregăti o propunere în 48 de ore.",
+    "ctaButton": "Ofertă Gratuită"
   }
 }

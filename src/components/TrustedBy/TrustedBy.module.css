@@ -43,6 +43,22 @@
   transform: translateY(-2px);
 }
 
+.brandBadge {
+  border-color: rgba(212, 168, 67, 0.3);
+  background: linear-gradient(
+    135deg,
+    rgba(212, 168, 67, 0.08) 0%,
+    var(--dark-card, #111) 100%
+  );
+  min-width: 160px;
+  padding: 20px 32px;
+}
+
+.brandLogo {
+  border-radius: 50%;
+  filter: drop-shadow(0 0 8px rgba(212, 168, 67, 0.3));
+}
+
 .badgeIcon {
   font-size: 1.8rem;
   color: var(--gold, #d4a843);

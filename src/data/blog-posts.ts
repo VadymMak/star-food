@@ -476,7 +476,7 @@ Kontaktieren Sie UB Market für ein personalisiertes Angebot.`,
     category: "brand",
     date: "2026-03-10",
     readingTime: 4,
-    image: "/images/mayonnaise.webp",
+    image: "/images/star-food-label.webp",
     content: {
       en: {
         title: "How We Created the Star Food Label Design",

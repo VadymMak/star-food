@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { FaCheckCircle, FaEnvelope, FaHandshake, FaPalette } from "react-icons/fa";
+import { FaCheckCircle, FaEnvelope, FaHandshake, FaPalette, FaStar } from "react-icons/fa";
 import { useLanguage } from "@/context/LanguageContext";
 import { products } from "@/data/products";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
@@ -26,14 +26,18 @@ export default function StarFoodBrandPage() {
         </div>
       </section>
 
-      {/* Hero */}
+      {/* Hero with real Star Food logo */}
       <section className={styles.hero}>
         <div className={styles.inner}>
           <div className={styles.heroGrid}>
             <div className={styles.heroText}>
               <span className="section-label">{bp.label || "Our Brand"}</span>
-              <h1 className={styles.heroTitle}>{bp.title || "Star Food — Quality You Can Trust"}</h1>
-              <p className={styles.heroDesc}>{bp.description || "Star Food is the flagship brand of UB Market LTD. We bring premium food products from verified Eastern European producers to wholesale buyers across Europe."}</p>
+              <h1 className={styles.heroTitle}>
+                <FaStar className={styles.heroStar} />
+                {bp.title || "Star Food — Quality You Can Trust"}
+              </h1>
+              <p className={styles.heroBadge}>{bp.registered || "® Registered Trademark"}</p>
+              <p className={styles.heroDesc}>{bp.description || "Star Food is the registered trademark of UB Market LTD. We bring premium food products from verified Eastern European producers to wholesale buyers across Europe."}</p>
               <div className="btn-group">
                 <Link href={`/${locale}/quote`} className="btn btn-primary">
                   <FaEnvelope /> {bp.ctaQuote || "Request Price List"}
@@ -45,11 +49,12 @@ export default function StarFoodBrandPage() {
             </div>
             <div className={styles.heroImage}>
               <Image
-                src="/icons/logo.webp"
-                alt="Star Food Logo"
-                width={300}
-                height={300}
+                src="/images/star-food-logo.webp"
+                alt="Star Food — Registered Trademark"
+                width={400}
+                height={400}
                 style={{ objectFit: "contain" }}
+                priority
               />
             </div>
           </div>
@@ -69,7 +74,10 @@ export default function StarFoodBrandPage() {
                   <div className={styles.productImage}>
                     <Image src={product.image} alt={translated?.name || product.name} fill sizes="33vw" style={{ objectFit: "cover" }} />
                   </div>
-                  <h3 className={styles.productName}>{translated?.name || product.name}</h3>
+                  <div className={styles.productInfo}>
+                    <Image src="/images/star-food-logo.webp" alt="Star Food" width={24} height={24} className={styles.productBadge} />
+                    <h3 className={styles.productName}>{translated?.name || product.name}</h3>
+                  </div>
                 </Link>
               );
             })}
@@ -77,8 +85,37 @@ export default function StarFoodBrandPage() {
         </div>
       </section>
 
-      {/* Quality Standards */}
+      {/* Label Gallery */}
       <section className={styles.sectionDark}>
+        <div className={styles.inner}>
+          <span className="section-label">{bp.labelGalleryLabel || "Our Packaging"}</span>
+          <h2 className={styles.sectionTitle}>{bp.labelGalleryTitle || "Professional Label Design"}</h2>
+          <div className={styles.labelGallery}>
+            <div className={styles.labelImageWrap}>
+              <Image
+                src="/images/star-food-label.webp"
+                alt="Star Food Sunflower Oil — Product Label"
+                width={1200}
+                height={400}
+                style={{ objectFit: "contain", width: "100%", height: "auto" }}
+              />
+            </div>
+            <div className={styles.labelInfo}>
+              <h3>{bp.labelInfoTitle || "What Our Label Tells You"}</h3>
+              <ul className={styles.labelList}>
+                <li><FaCheckCircle className={styles.checkIcon} /> {bp.labelInfo1 || "Complete nutritional information in 5 languages"}</li>
+                <li><FaCheckCircle className={styles.checkIcon} /> {bp.labelInfo2 || "EU-compliant food safety labeling"}</li>
+                <li><FaCheckCircle className={styles.checkIcon} /> {bp.labelInfo3 || "Non-GMO certified product"}</li>
+                <li><FaCheckCircle className={styles.checkIcon} /> {bp.labelInfo4 || "Full traceability — origin and batch number"}</li>
+                <li><FaCheckCircle className={styles.checkIcon} /> {bp.labelInfo5 || "Professional design by certified designer"}</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Quality Standards */}
+      <section className={styles.section}>
         <div className={styles.inner}>
           <span className="section-label">{bp.qualityLabel || "Quality Standards"}</span>
           <h2 className={styles.sectionTitle}>{bp.qualityTitle || "Our Commitment to Quality"}</h2>
@@ -99,18 +136,18 @@ export default function StarFoodBrandPage() {
         </div>
       </section>
 
-      {/* Designed By */}
-      <section className={styles.section}>
+      {/* Designed By — AK Illustrator credit */}
+      <section className={styles.sectionDark}>
         <div className={styles.inner}>
           <div className={styles.designedBy}>
             <FaPalette className={styles.designIcon} />
             <div>
               <h3 className={styles.designTitle}>{bp.designedByTitle || "Label Design"}</h3>
               <p className={styles.designText}>
-                {bp.designedByText || "All Star Food product labels were designed by Anastasiia Kolisnyk, a professional illustrator and designer."}
+                {bp.designedByText || "All Star Food product labels were designed by Anastasiia Kolisnyk, a professional illustrator and designer based in Slovakia."}
               </p>
               <a href="https://akillustrator.com" target="_blank" rel="noopener noreferrer" className={styles.designLink}>
-                {bp.designedByLink || "Visit AK Illustrator Portfolio →"}
+                {bp.designedByLink || "Anastasiia Kolisnyk — AK Illustrator →"}
               </a>
             </div>
           </div>

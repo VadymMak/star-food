@@ -1,10 +1,10 @@
-// src/app/[locale]/layout.tsx — Locale layout with Header/Footer/WhatsApp
 import { notFound } from "next/navigation";
 import { locales, hreflangCodes, isValidLocale } from "@/lib/locale";
 import { LanguageProvider } from "@/context/LanguageContext";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
+import SchemaOrg from "@/components/SchemaOrg";
 import type { Locale } from "@/lib/locale";
 
 // Generate static params for all locales (build time)
@@ -49,6 +49,7 @@ export default async function LocaleLayout({
 
   return (
     <LanguageProvider locale={locale as Locale}>
+      <SchemaOrg />
       <div className="pageWrapper">
         <Header />
         <main>{children}</main>

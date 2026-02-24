@@ -4,7 +4,10 @@
     "about": "Über Uns",
     "products": "Produkte",
     "blog": "Blog",
-    "contacts": "Kontakt"
+    "contacts": "Kontakt",
+    "brand": "Star Food",
+    "partners": "Partner",
+    "privateLabel": "Eigenmarke"
   },
   "hero": {
     "badge": "Internationaler Lebensmittelhandel",
@@ -263,7 +266,16 @@
     "ctaPartner": "Distributor Werden",
     "designedByTitle": "Etikettendesign",
     "designedByText": "Alle Star Food Etiketten wurden von Anastasiia Kolisnyk gestaltet.",
-    "designedByLink": "AK Illustrator Portfolio Besuchen →"
+    "designedByLink": "AK Illustrator Portfolio Besuchen →",
+    "registered": "® Eingetragene Marke",
+    "labelGalleryLabel": "Unsere Verpackung",
+    "labelGalleryTitle": "Professionelles Etikettendesign",
+    "labelInfoTitle": "Was Unser Etikett Aussagt",
+    "labelInfo1": "Vollständige Nährwertinformation in 5 Sprachen",
+    "labelInfo2": "EU-konforme Lebensmittelkennzeichnung",
+    "labelInfo3": "GVO-freies zertifiziertes Produkt",
+    "labelInfo4": "Volle Rückverfolgbarkeit — Herkunft und Chargennummer",
+    "labelInfo5": "Professionelles Design von zertifiziertem Designer"
   },
   "partnersPage": {
     "breadcrumb": "Partner",
@@ -299,5 +311,31 @@
     "successText": "Wir antworten innerhalb von 24 Stunden.",
     "sendAnother": "Neue Anfrage Senden",
     "errorText": "Etwas ist schiefgelaufen. Schreiben Sie an ubmarket2022@gmail.com"
+  },
+  "privateLabelPage": {
+    "breadcrumb": "Eigenmarke",
+    "label": "Eigenmarken-Service",
+    "title": "Ihre Marke, Unsere Qualität",
+    "subtitle": "Starten Sie Ihre eigene Sonnenblumenöl-Marke ohne Produktionsinvestition.",
+    "ctaQuote": "Eigenmarken-Angebot Anfordern",
+    "ctaContact": "Mit Unserem Team Sprechen",
+    "howItWorksTitle": "So Funktioniert Eigenmarke",
+    "step1Title": "Teilen Sie Ihre Anforderungen",
+    "step1Text": "Teilen Sie Markenanforderungen — Mengen, Verpackung, Zielmarkt.",
+    "step2Title": "Wir Entwickeln Ihr Produkt",
+    "step2Text": "Unser Team kümmert sich um Beschaffung, Qualitätskontrolle und Design.",
+    "step3Title": "Produktion und Lieferung",
+    "step3Text": "Wir produzieren, verpacken und liefern europaweit.",
+    "benefitsTitle": "Warum Unsere Eigenmarke Wählen",
+    "productsTitle": "Verfügbar für Eigenmarke",
+    "product1": "Raffiniertes Sonnenblumenöl",
+    "product2": "Rohes Sonnenblumenöl",
+    "product3": "High-Oleic Sonnenblumenöl",
+    "product4": "Pflanzliches Frittieröl",
+    "product5": "Gemischtes Speiseöl",
+    "orText": "Oder vertreiben Sie unter unserer bestehenden Marke:",
+    "ctaTitle": "Bereit Ihre Marke zu Starten?",
+    "ctaText": "Erzählen Sie uns von Ihrem Projekt — Angebot innerhalb von 48 Stunden.",
+    "ctaButton": "Kostenloses Angebot"
   }
 }

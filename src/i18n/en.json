@@ -4,7 +4,10 @@
     "about": "About",
     "products": "Products",
     "blog": "Blog",
-    "contacts": "Contacts"
+    "contacts": "Contacts",
+    "brand": "Star Food",
+    "partners": "Partners",
+    "privateLabel": "Private Label"
   },
   "hero": {
     "badge": "International Food Trading",
@@ -271,7 +274,16 @@
     "eu": "Full compliance with European food safety regulations",
     "designedByTitle": "Label Design",
     "designedByText": "All Star Food product labels were designed by Anastasiia Kolisnyk, a professional illustrator and designer.",
-    "designedByLink": "Visit AK Illustrator Portfolio →"
+    "designedByLink": "Visit AK Illustrator Portfolio →",
+    "registered": "® Registered Trademark",
+    "labelGalleryLabel": "Our Packaging",
+    "labelGalleryTitle": "Professional Label Design",
+    "labelInfoTitle": "What Our Label Tells You",
+    "labelInfo1": "Complete nutritional information in 5 languages",
+    "labelInfo2": "EU-compliant food safety labeling",
+    "labelInfo3": "Non-GMO certified product",
+    "labelInfo4": "Full traceability — origin and batch number",
+    "labelInfo5": "Professional design by certified designer"
   },
   "partnersPage": {
     "breadcrumb": "Partners",
@@ -329,5 +341,37 @@
     "successText": "We will respond within 24 hours with a personalized quote.",
     "sendAnother": "Send Another Request",
     "errorText": "Something went wrong. Please email us directly at ubmarket2022@gmail.com"
+  },
+  "privateLabelPage": {
+    "breadcrumb": "Private Label",
+    "label": "Private Label Service",
+    "title": "Your Brand, Our Quality Oil",
+    "subtitle": "Launch your own branded sunflower oil line without investing in production. We handle everything — from sourcing to delivery.",
+    "ctaQuote": "Request Private Label Quote",
+    "ctaContact": "Talk to Our Team",
+    "howItWorksTitle": "How Private Label Works",
+    "step1Title": "Tell Us Your Needs",
+    "step1Text": "Share your brand requirements — volumes, packaging format, target market, and label design preferences.",
+    "step2Title": "We Develop Your Product",
+    "step2Text": "Our team handles sourcing, quality control, label design, and packaging to match your brand identity.",
+    "step3Title": "Production & Delivery",
+    "step3Text": "We produce, pack, and deliver your branded products directly to your warehouse across Europe.",
+    "benefitsTitle": "Why Choose Our Private Label",
+    "benefit1": "No factory investment needed — use our production capacity",
+    "benefit2": "Flexible MOQ starting from 20 tons",
+    "benefit3": "Custom label design included in the service",
+    "benefit4": "Full EU compliance — documentation, certificates, labeling",
+    "benefit5": "Multiple packaging options: 1L, 3L, 5L, 10L PET, IBC, bulk",
+    "benefit6": "Fast turnaround — first batch within 3-4 weeks",
+    "productsTitle": "Available for Private Label",
+    "product1": "Refined Sunflower Oil",
+    "product2": "Crude Sunflower Oil",
+    "product3": "High-Oleic Sunflower Oil",
+    "product4": "Vegetable Frying Oil",
+    "product5": "Blended Cooking Oil",
+    "orText": "Or distribute under our existing brand:",
+    "ctaTitle": "Ready to Launch Your Brand?",
+    "ctaText": "Tell us about your project and we'll prepare a custom proposal within 48 hours.",
+    "ctaButton": "Get a Free Quote"
   }
 }
