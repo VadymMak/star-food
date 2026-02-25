@@ -2,6 +2,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
 import { sendTelegramMessage, formatContactNotification } from "@/lib/telegram";
+import { sendAutoReply } from "@/lib/auto-reply";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const OWNER_EMAIL = ["ubmarket2022@gmail.com", "ubmarketsite@gmail.com"];
@@ -41,7 +42,6 @@ export async function POST(req: NextRequest) {
       });
     } catch (emailErr) {
       console.error("Resend email error:", emailErr);
-      // Don't fail — Telegram will still work
     }
 
     // 2. Send Telegram notification
@@ -49,32 +49,18 @@ export async function POST(req: NextRequest) {
       formatContactNotification({ name, email, phone, subject, message }),
     ).catch((err) => console.error("Telegram error:", err));
 
-    // 3. Trigger AI auto-reply (fire-and-forget)
-    const baseUrl =
-      process.env.NEXT_PUBLIC_SITE_URL ||
-      (process.env.VERCEL_URL
-        ? `https://${process.env.VERCEL_URL}`
-        : "http://localhost:3000");
-
-    // 3. Trigger AI auto-reply
+    // 3. AI auto-reply (direct call, no fetch)
     try {
-      await fetch(`${baseUrl}/api/auto-reply`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${process.env.AUTO_REPLY_SECRET || "internal"}`,
-        },
-        body: JSON.stringify({
-          type: "contact",
-          name,
-          email,
-          phone,
-          subject,
-          message,
-        }),
+      await sendAutoReply({
+        type: "contact",
+        name,
+        email,
+        phone,
+        subject,
+        message,
       });
     } catch (err) {
-      console.error("Auto-reply trigger error:", err);
+      console.error("Auto-reply error:", err);
     }
 
     return NextResponse.json({ success: true });
