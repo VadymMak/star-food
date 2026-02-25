@@ -56,21 +56,26 @@ export async function POST(req: NextRequest) {
         ? `https://${process.env.VERCEL_URL}`
         : "http://localhost:3000");
 
-    fetch(`${baseUrl}/api/auto-reply`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${process.env.AUTO_REPLY_SECRET || "internal"}`,
-      },
-      body: JSON.stringify({
-        type: "contact",
-        name,
-        email,
-        phone,
-        subject,
-        message,
-      }),
-    }).catch((err) => console.error("Auto-reply trigger error:", err));
+    // 3. Trigger AI auto-reply
+    try {
+      await fetch(`${baseUrl}/api/auto-reply`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${process.env.AUTO_REPLY_SECRET || "internal"}`,
+        },
+        body: JSON.stringify({
+          type: "contact",
+          name,
+          email,
+          phone,
+          subject,
+          message,
+        }),
+      });
+    } catch (err) {
+      console.error("Auto-reply trigger error:", err);
+    }
 
     return NextResponse.json({ success: true });
   } catch (error) {
