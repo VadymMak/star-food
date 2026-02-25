@@ -1,5 +1,6 @@
 // src/app/layout.tsx — Root layout (fonts + metadata only)
-// Header, Footer, WhatsApp are in [locale]/layout.tsx (needs LanguageProvider)
+// Schemas are in SchemaOrg component (locale-aware)
+// Header, Footer, WhatsApp are in [locale]/layout.tsx
 import type { Metadata } from "next";
 import { Playfair_Display, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
@@ -20,7 +21,8 @@ const sourceSans = Source_Sans_3({
 
 export const metadata: Metadata = {
   title: {
-    default: "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",
+    default:
+      "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",
     template: "%s | Star Food",
   },
   description:
@@ -60,7 +62,6 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   metadataBase: new URL("https://ub-market.com"),
-
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
@@ -68,39 +69,8 @@ export const metadata: Metadata = {
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
       { url: "/favicon-192.png", sizes: "192x192", type: "image/png" },
     ],
-    apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180" },
-    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
   },
-};
-
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  name: "UB Market LTD",
-  alternateName: "Star Food",
-  url: "https://ub-market.com",
-  logo: "https://ub-market.com/icons/logo.webp",
-  description:
-    "EU-registered international food trading company specializing in sunflower oil export and import.",
-  address: {
-    "@type": "PostalAddress",
-    streetAddress: "Sirma Voivoda St., b.1, ap. 21",
-    addressLocality: "Varna",
-    postalCode: "9010",
-    addressCountry: "BG",
-  },
-  contactPoint: {
-    "@type": "ContactPoint",
-    telephone: "+359-8844-69860",
-    contactType: "sales",
-    email: "ubmarket2022@gmail.com",
-    availableLanguage: ["English", "Bulgarian", "Ukrainian", "Turkish", "Romanian", "German"],
-  },
-  sameAs: [
-    "https://www.instagram.com/ub_market_ltd",
-    "https://t.me/ub_market_ltd",
-  ],
 };
 
 export default function RootLayout({
@@ -109,17 +79,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${playfair.variable} ${sourceSans.variable}`}>
+    <html lang="en" suppressHydrationWarning className={`${playfair.variable} ${sourceSans.variable}`}>
       <head>
         <meta name="theme-color" content="#0a0a0a" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
       </head>
-      <body className={sourceSans.className}>
-        {children}
-      </body>
+      <body className={sourceSans.className}>{children}</body>
     </html>
   );
 }

@@ -6,6 +6,7 @@ import Footer from "@/components/Footer/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
 import CookieConsent from "@/components/CookieConsent/CookieConsent";
 import SchemaOrg from "@/components/SchemaOrg";
+import SetHtmlLang from "@/components/SetHtmlLang";
 import type { Locale } from "@/lib/locale";
 
 // Generate static params for all locales (build time)
@@ -26,6 +27,7 @@ export async function generateMetadata({
   for (const loc of locales) {
     languages[hreflangCodes[loc]] = `${baseUrl}/${loc}`;
   }
+  languages["x-default"] = `${baseUrl}/en`;
 
   return {
     alternates: {
@@ -48,16 +50,21 @@ export default async function LocaleLayout({
     notFound();
   }
 
+  const htmlLang = locale === "ua" ? "uk" : locale;
+
   return (
-    <LanguageProvider locale={locale as Locale}>
-      <SchemaOrg />
-      <div className="pageWrapper">
-        <Header />
-        <main>{children}</main>
-        <Footer />
-      </div>
-      <WhatsAppButton />
-      <CookieConsent />
-    </LanguageProvider>
+    <>
+      <SchemaOrg locale={locale} />
+      <LanguageProvider locale={locale as Locale}>
+        <SetHtmlLang lang={htmlLang} />
+        <div className="pageWrapper">
+          <Header />
+          <main>{children}</main>
+          <Footer />
+        </div>
+        <WhatsAppButton />
+        <CookieConsent />
+      </LanguageProvider>
+    </>
   );
 }
