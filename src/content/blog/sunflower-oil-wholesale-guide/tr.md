@@ -5,6 +5,7 @@ date: "2026-02-15"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 12
+ogImage: "/images/blog/sunflower-oil-wholesale-guide/og.jpg"
 ---
 
 ## Ayçiçek Yağı Neden Avrupa'nın En Çok Ticareti Yapılan Bitkisel Yağıdır

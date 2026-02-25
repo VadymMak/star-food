@@ -5,6 +5,7 @@ date: "2026-04-05"
 category: "trading"
 image: "/images/contact-us.webp"
 readingTime: 8
+ogImage: "/images/blog/how-to-choose-food-supplier/og.jpg"
 ---
 
 ## Чому вибір постачальника критичний

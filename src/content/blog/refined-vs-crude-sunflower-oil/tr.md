@@ -5,6 +5,7 @@ date: "2026-03-05"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 10
+ogImage: "/images/blog/refined-vs-crude-sunflower-oil/og.jpg"
 ---
 
 ## Rafine ve Ham Ayçiçek Yağı Karşılaştırması

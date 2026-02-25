@@ -15,6 +15,7 @@ export interface BlogPostMeta {
   date: string;
   category: string;
   image: string;
+  ogImage: string;
   readingTime: number;
 }
 
@@ -64,6 +65,7 @@ export function getPostBySlug(slug: string, locale: string): BlogPost | null {
     date: data.date || "",
     category: data.category || "",
     image: data.image || "",
+    ogImage: data.ogImage || data.image || "",
     readingTime: data.readingTime || 5,
     content: content.trim(),
   };
@@ -97,6 +99,7 @@ function getPostMeta(slug: string, locale: string): BlogPostMeta | null {
     date: data.date || "",
     category: data.category || "",
     image: data.image || "",
+    ogImage: data.ogImage || data.image || "",
     readingTime: data.readingTime || 5,
   };
 }

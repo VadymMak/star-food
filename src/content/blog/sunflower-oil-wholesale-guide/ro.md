@@ -5,6 +5,7 @@ date: "2026-02-15"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 12
+ogImage: "/images/blog/sunflower-oil-wholesale-guide/og.jpg"
 ---
 
 ## De Ce Uleiul de Floarea Soarelui Este Cel Mai Comercializat Ulei Vegetal din Europa

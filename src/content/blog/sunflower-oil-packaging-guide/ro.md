@@ -5,6 +5,7 @@ date: "2026-04-01"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 6
+ogImage: "/images/blog/sunflower-oil-packaging-guide/og.jpg"
 ---
 
 ## De Ce Contează Ambalajul

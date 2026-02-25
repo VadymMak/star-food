@@ -5,6 +5,7 @@ date: "2026-02-20"
 category: "sunflower-oil"
 image: "/images/our-products.webp"
 readingTime: 8
+ogImage: "/images/blog/sunflower-oil-prices-europe-2026/og.jpg"
 ---
 
 ## Güncel Ayçiçek Yağı Fiyatları (Şubat 2026)

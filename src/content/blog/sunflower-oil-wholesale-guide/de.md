@@ -5,6 +5,7 @@ date: "2026-02-15"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 12
+ogImage: "/images/blog/sunflower-oil-wholesale-guide/og.jpg"
 ---
 
 ## Warum Sonnenblumenöl Europas meistgehandeltes Pflanzenöl ist

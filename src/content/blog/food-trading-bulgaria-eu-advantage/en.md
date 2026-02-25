@@ -5,6 +5,7 @@ date: "2026-03-15"
 category: "trading"
 image: "/images/about-us.webp"
 readingTime: 8
+ogImage: "/images/blog/food-trading-bulgaria-eu-advantage/og.jpg"
 ---
 
 ## Why Bulgaria for Food Trading?

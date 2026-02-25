@@ -5,6 +5,7 @@ date: "2026-03-12"
 category: "trading"
 image: "/images/our-location.webp"
 readingTime: 14
+ogImage: "/images/blog/how-food-trading-works-europe/og.jpg"
 ---
 
 ## Торгівля продуктами в Європі

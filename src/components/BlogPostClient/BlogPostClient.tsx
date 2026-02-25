@@ -18,6 +18,7 @@ interface PostData {
   date: string;
   category: string;
   image: string;
+  ogImage: string;
   readingTime: number;
   content: string;
 }
@@ -62,12 +63,17 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
     })),
   );
 
+  // Use ogImage for schema (1200x630, optimized for sharing)
+  const ogImageUrl = post.ogImage
+    ? `https://ub-market.com${post.ogImage}`
+    : `https://ub-market.com${post.image}`;
+
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
     description: post.description,
-    image: `https://ub-market.com${post.image}`,
+    image: ogImageUrl,
     datePublished: post.date,
     author: {
       "@type": "Organization",

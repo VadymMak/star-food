@@ -5,6 +5,7 @@ date: "2026-02-12"
 category: "trading"
 image: "/images/our-location.webp"
 readingTime: 7
+ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
 
 ## What Are Incoterms and Why Do They Matter?

@@ -5,6 +5,7 @@ date: "2026-03-08"
 category: "sunflower-oil"
 image: "/images/frying-oil.webp"
 readingTime: 9
+ogImage: "/images/blog/high-oleic-sunflower-oil-horeca/og.jpg"
 ---
 
 ## What Makes High-Oleic Sunflower Oil Different?

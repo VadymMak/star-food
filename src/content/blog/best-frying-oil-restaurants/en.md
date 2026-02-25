@@ -5,6 +5,7 @@ date: "2026-03-20"
 category: "products"
 image: "/images/frying-oil.webp"
 readingTime: 7
+ogImage: "/images/blog/best-frying-oil-restaurants/og.jpg"
 ---
 
 ## Choosing the Right Frying Oil Matters

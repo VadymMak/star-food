@@ -5,6 +5,7 @@ date: "2026-03-25"
 category: "products"
 image: "/images/sugar.webp"
 readingTime: 7
+ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
 ---
 
 ## The European Beet Sugar Market

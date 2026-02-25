@@ -5,6 +5,7 @@ date: "2026-02-18"
 category: "brand"
 image: "/images/star-food-label.webp"
 readingTime: 6
+ogImage: "/images/blog/how-we-created-star-food-labels/og.jpg"
 ---
 
 ## Why Label Design Matters in Food Trading
