@@ -1,3 +1,4 @@
+// src/components/QuoteForm/QuoteForm.tsx
 "use client";
 
 import { useState } from "react";
@@ -6,6 +7,8 @@ import { FaPaperPlane, FaCheckCircle } from "react-icons/fa";
 import { products } from "@/data/products";
 import { useLanguage } from "@/context/LanguageContext";
 import styles from "./QuoteForm.module.css";
+
+const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "";
 
 export default function QuoteForm() {
   const { t } = useLanguage();
@@ -40,17 +43,38 @@ export default function QuoteForm() {
     e.preventDefault();
     setStatus("sending");
     try {
+      // 1. Send to Web3Forms (client-side)
       const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "",
+          access_key: WEB3FORMS_KEY,
           subject: `Quote Request: ${formData.product || "General"}`,
           from_name: formData.company || formData.name,
           ...formData,
         }),
       });
-      if (res.ok) {
+
+      const data = await res.json();
+
+      // 2. Send Telegram notification (fire-and-forget)
+      fetch("/api/notify", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          type: "quote",
+          company: formData.company,
+          contact: formData.name,
+          email: formData.email,
+          country: formData.country,
+          product: formData.product,
+          quantity: formData.quantity,
+          deliveryTerms: formData.deliveryTerms,
+          message: formData.message,
+        }),
+      }).catch(() => {});
+
+      if (data.success) {
         setStatus("success");
       } else {
         setStatus("error");
