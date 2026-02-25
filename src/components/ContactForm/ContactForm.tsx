@@ -6,7 +6,6 @@ import { FaPaperPlane, FaCheck, FaEnvelope } from "react-icons/fa";
 import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ContactForm.module.css";
 
-const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "";
 const FALLBACK_EMAIL = "ubmarket2022@gmail.com";
 
 export default function ContactForm() {
@@ -47,36 +46,19 @@ export default function ContactForm() {
     setStatus("sending");
 
     try {
-      // 1. Send to Web3Forms (client-side — works with Cloudflare)
-      const res = await fetch("https://api.web3forms.com/submit", {
+      const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          access_key: WEB3FORMS_KEY,
-          from_name: "Star Food Website",
-          subject: `[Star Food] ${form.subject || "New inquiry"}`,
-          name: form.name,
-          email: form.email,
-          phone: form.phone,
-          message: form.message,
-        }),
-      });
-
-      const data = await res.json();
-
-      // 2. Send Telegram notification via API route (fire-and-forget)
-      fetch("/api/notify", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          type: "contact",
           name: form.name,
           email: form.email,
           phone: form.phone,
           subject: form.subject,
           message: form.message,
         }),
-      }).catch(() => {}); // Silent — don't break form if Telegram fails
+      });
+
+      const data = await res.json();
 
       if (data.success) {
         setStatus("success");
