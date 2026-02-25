@@ -1,4 +1,5 @@
 import { MetadataRoute } from "next";
+import { getPostSlugs, getPostBySlug } from "@/lib/blog";
 
 const BASE_URL = "https://ub-market.com";
 
@@ -42,22 +43,6 @@ const productSlugs = [
   "palm-oil",
 ];
 
-// Blog post slugs
-const blogSlugs = [
-  "sunflower-oil-wholesale-guide",
-  "sunflower-oil-prices-europe-2026",
-  "how-we-created-star-food-labels",
-  "fob-cif-dap-explained",
-  "refined-vs-crude-sunflower-oil",
-  "high-oleic-sunflower-oil-horeca",
-  "how-food-trading-works-europe",
-  "food-trading-bulgaria-eu-advantage",
-  "best-frying-oil-restaurants",
-  "wholesale-beet-sugar-europe",
-  "sunflower-oil-packaging-guide",
-  "how-to-choose-food-supplier",
-];
-
 function createEntry(
   path: string,
   changeFreq: "daily" | "weekly" | "monthly",
@@ -94,9 +79,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entries.push(createEntry(`/products/${slug}`, "monthly", 0.7));
   }
 
-  // Blog posts
+  // Blog posts — auto-discovered from filesystem
+  const blogSlugs = getPostSlugs();
   for (const slug of blogSlugs) {
-    entries.push(createEntry(`/blog/${slug}`, "monthly", 0.6));
+    const post = getPostBySlug(slug, "en");
+    const lastMod = post?.date || undefined;
+    entries.push(createEntry(`/blog/${slug}`, "monthly", 0.6, lastMod));
   }
 
   return entries;
