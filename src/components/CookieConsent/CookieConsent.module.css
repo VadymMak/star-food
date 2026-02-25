@@ -1,0 +1,98 @@
+/* src/components/CookieConsent/CookieConsent.module.css */
+
+.banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  background: rgba(17, 17, 17, 0.97);
+  border-top: 1px solid rgba(212, 168, 67, 0.3);
+  backdrop-filter: blur(10px);
+  padding: 1rem 1.5rem;
+  animation: slideUp 0.4s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.message {
+  color: #ccc;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+  flex: 1;
+}
+
+.buttons {
+  display: flex;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.accept {
+  background: var(--gold, #d4a843);
+  color: #0a0a0a;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.accept:hover {
+  background: var(--gold-light, #f0d78c);
+}
+
+.decline {
+  background: transparent;
+  color: #999;
+  border: 1px solid #333;
+  padding: 0.6rem 1.5rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.decline:hover {
+  color: #fff;
+  border-color: #666;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .inner {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .message {
+    font-size: 0.85rem;
+  }
+
+  .buttons {
+    width: 100%;
+    justify-content: center;
+  }
+}

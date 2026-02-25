@@ -4,6 +4,7 @@ import { LanguageProvider } from "@/context/LanguageContext";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
+import CookieConsent from "@/components/CookieConsent/CookieConsent";
 import SchemaOrg from "@/components/SchemaOrg";
 import type { Locale } from "@/lib/locale";
 
@@ -56,6 +57,7 @@ export default async function LocaleLayout({
         <Footer />
       </div>
       <WhatsAppButton />
+      <CookieConsent />
     </LanguageProvider>
   );
 }
