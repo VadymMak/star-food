@@ -5,24 +5,38 @@ import { FaPaperPlane, FaCheck, FaEnvelope } from "react-icons/fa";
 import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ContactForm.module.css";
 
-const WEB3FORMS_KEY = "210fc062-46e5-410d-bb8a-7d546ceca6ec";
+const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "";
 const FALLBACK_EMAIL = "ubmarket2022@gmail.com";
 
 export default function ContactForm() {
   const { t } = useLanguage();
   const cf = t.contactForm;
 
-  const [form, setForm] = useState({ name: "", email: "", phone: "", subject: "", message: "" });
-  const [status, setStatus] = useState<"idle" | "sending" | "success" | "error">("idle");
+  const [form, setForm] = useState({
+    name: "",
+    email: "",
+    phone: "",
+    subject: "",
+    message: "",
+  });
+  const [status, setStatus] = useState<
+    "idle" | "sending" | "success" | "error"
+  >("idle");
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const handleChange = (
+    e: React.ChangeEvent<
+      HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement
+    >,
+  ) => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
   const buildMailtoLink = () => {
-    const subject = encodeURIComponent(form.subject || "Inquiry from Star Food website");
+    const subject = encodeURIComponent(
+      form.subject || "Inquiry from Star Food website",
+    );
     const body = encodeURIComponent(
-      `Name: ${form.name}\nEmail: ${form.email}\nPhone: ${form.phone || "N/A"}\n\n${form.message}`
+      `Name: ${form.name}\nEmail: ${form.email}\nPhone: ${form.phone || "N/A"}\n\n${form.message}`,
     );
     return `mailto:${FALLBACK_EMAIL}?subject=${subject}&body=${body}`;
   };
@@ -125,7 +139,9 @@ export default function ContactForm() {
           >
             <option value="">{cf.subjectDefault}</option>
             {cf.subjects.map((s: string) => (
-              <option key={s} value={s}>{s}</option>
+              <option key={s} value={s}>
+                {s}
+              </option>
             ))}
           </select>
         </div>
