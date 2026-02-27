@@ -17,13 +17,31 @@ interface BlogCardProps {
 }
 
 export default function BlogCard({
-  slug, title, description, image, date, readingTime, category, locale,
+  slug,
+  title,
+  description,
+  image,
+  date,
+  readingTime,
+  category,
+  locale,
 }: BlogCardProps) {
-  const formattedDate = new Date(date).toLocaleDateString(locale, {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
+  const months = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
+  const d = new Date(date);
+  const formattedDate = `${months[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
 
   return (
     <Link href={`/${locale}/blog/${slug}`} className={styles.card}>
@@ -39,8 +57,12 @@ export default function BlogCard({
       </div>
       <div className={styles.body}>
         <div className={styles.meta}>
-          <span><FaCalendar /> {formattedDate}</span>
-          <span><FaClock /> {readingTime} min</span>
+          <span>
+            <FaCalendar /> {formattedDate}
+          </span>
+          <span>
+            <FaClock /> {readingTime} min
+          </span>
         </div>
         <h3 className={styles.title}>{title}</h3>
         <p className={styles.desc}>{description}</p>
