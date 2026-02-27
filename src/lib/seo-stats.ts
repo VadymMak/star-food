@@ -4,6 +4,7 @@
 
 import { SignJWT, importPKCS8 } from "jose";
 
+//Commit for update
 // ── Google Auth via Service Account ──
 
 interface ServiceAccountKey {
@@ -204,7 +205,8 @@ interface PageSpeedData {
 export async function getPageSpeedData(): Promise<PageSpeedData | null> {
   try {
     const url = encodeURIComponent("https://ub-market.com/en");
-    const apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=mobile&category=performance&category=seo&category=accessibility&category=best-practices`;
+    const apiKey = process.env.GOOGLE_API_KEY || "";
+    const apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=desktop&category=performance&category=seo${apiKey ? `&key=${apiKey}` : ""}`;
 
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 25000);
