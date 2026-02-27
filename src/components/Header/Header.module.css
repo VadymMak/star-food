@@ -11,6 +11,14 @@
   transition: transform 0.3s ease;
 }
 
+.content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  padding: 80px 20px 0;
+  animation: fadeUp 1s ease-out;
+}
+
 .headerHidden {
   transform: translateY(-100%);
 }
