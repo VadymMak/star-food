@@ -1,3 +1,23 @@
+"""
+CLS Fix: Synchronous translations
+RUN FROM star-food PROJECT ROOT:
+  python fix_cls.py
+
+Root cause: LanguageContext starts with EN translations, then async loads
+the correct locale → text changes → CLS 0.200
+
+Fix: Import ALL translation files statically, pick correct one immediately.
+No async loading = no text swap = zero CLS from translations.
+
+Also removes stale .content block from Header CSS.
+"""
+
+import os
+
+# ============================================================
+# FIX: LanguageContext — synchronous translations
+# ============================================================
+language_context = '''\
 // src/context/LanguageContext.tsx — Synchronous translations (zero CLS)
 "use client";
 import {
@@ -117,3 +137,60 @@ export function useLanguage() {
   }
   return context;
 }
+'''
+
+# ============================================================
+# FIX: Remove stale .content block from Header CSS
+# ============================================================
+header_css_path = "src/components/Header/Header.module.css"
+
+# ============================================================
+# WRITE FILES
+# ============================================================
+
+# 1. LanguageContext
+path = "src/context/LanguageContext.tsx"
+os.makedirs(os.path.dirname(path), exist_ok=True)
+with open(path, "w", encoding="utf-8") as f:
+    f.write(language_context)
+print(f"✅ Fixed: {path}")
+
+# 2. Remove stale .content block from Header CSS
+if os.path.exists(header_css_path):
+    with open(header_css_path, "r", encoding="utf-8") as f:
+        css = f.read()
+
+    # Remove the misplaced .content block (belongs to Hero, not Header)
+    stale_block = """.content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  padding: 80px 20px 0;
+  animation: fadeUp 1s ease-out;
+}"""
+
+    if stale_block in css:
+        css = css.replace(stale_block, "")
+        # Clean up double blank lines
+        while "\n\n\n" in css:
+            css = css.replace("\n\n\n", "\n\n")
+        with open(header_css_path, "w", encoding="utf-8") as f:
+            f.write(css)
+        print(f"✅ Cleaned: {header_css_path} (removed stale .content block)")
+    else:
+        print(f"ℹ️  {header_css_path} — stale block not found (already clean)")
+
+print()
+print("✅ CLS fix applied!")
+print()
+print("What changed:")
+print("  LanguageContext: async import() → static import")
+print("  Translations load SYNCHRONOUSLY from first render")
+print("  No EN→UA text swap = zero CLS from translations")
+print("  Header CSS: removed orphaned .content block")
+print()
+print("Expected: CLS 0.202 → ~0.002 (only font shift remains)")
+print()
+print("Deploy:")
+print("  git add . && git commit -m 'perf: sync translations, fix CLS 0.202' && git push")
+print("  Test on PRODUCTION /ua page in incognito!")
