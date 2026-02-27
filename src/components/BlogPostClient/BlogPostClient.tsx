@@ -1,11 +1,10 @@
-// src/components/BlogPostClient/BlogPostClient.tsx
 "use client";
 
+import { useTranslations } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
 import { FaCalendar, FaClock, FaArrowLeft, FaEnvelope } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import { generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
 import remarkGfm from "remark-gfm";
@@ -31,15 +30,14 @@ interface Props {
 }
 
 export default function BlogPostClient({ post, slug, locale }: Props) {
-  const { t } = useLanguage();
-  const bp = t?.blogPost || {};
+  const t = useTranslations();
 
   if (!post) {
     return (
       <div className={styles.notFound}>
-        <h1>{bp.notFound || "Article Not Found"}</h1>
+        <h1>{t("blogPost.notFound")}</h1>
         <Link href={`/${locale}/blog`} className="btn btn-primary">
-          {bp.backToBlog || "Back to Blog"}
+          {t("blogPost.backToBlog")}
         </Link>
       </div>
     );
@@ -52,8 +50,8 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
   });
 
   const breadcrumbItems = [
-    { label: t?.nav?.home || "Home", href: `/${locale}` },
-    { label: t?.nav?.blog || "Blog", href: `/${locale}/blog` },
+    { label: t("nav.home"), href: `/${locale}` },
+    { label: t("nav.blog"), href: `/${locale}/blog` },
     { label: post.title },
   ];
 
@@ -64,7 +62,6 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
     })),
   );
 
-  // Use ogImage for schema (1200x630, optimized for sharing)
   const ogImageUrl = post.ogImage
     ? `https://ub-market.com${post.ogImage}`
     : `https://ub-market.com${post.image}`;
@@ -118,7 +115,7 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
               <FaCalendar /> {formattedDate}
             </span>
             <span>
-              <FaClock /> {post.readingTime} {bp.minRead || "min read"}
+              <FaClock /> {post.readingTime} {t("blogPost.minRead")}
             </span>
           </div>
         </div>
@@ -148,15 +145,10 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
               </ReactMarkdown>
 
               <div className={styles.cta}>
-                <h3>
-                  {bp.ctaTitle || "Interested in Wholesale Sunflower Oil?"}
-                </h3>
-                <p>
-                  {bp.ctaText ||
-                    "Contact UB Market for competitive pricing and reliable supply."}
-                </p>
+                <h3>{t("blogPost.ctaTitle")}</h3>
+                <p>{t("blogPost.ctaText")}</p>
                 <Link href={`/${locale}/quote`} className="btn btn-primary">
-                  <FaEnvelope /> {bp.ctaButton || "Request a Quote"}
+                  <FaEnvelope /> {t("blogPost.ctaButton")}
                 </Link>
               </div>
             </article>
@@ -168,7 +160,7 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
 
           <div className={styles.backLink}>
             <Link href={`/${locale}/blog`} className="btn btn-outline">
-              <FaArrowLeft /> {bp.backToBlog || "Back to Blog"}
+              <FaArrowLeft /> {t("blogPost.backToBlog")}
             </Link>
           </div>
         </div>

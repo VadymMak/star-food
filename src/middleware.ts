@@ -1,81 +1,32 @@
-// src/middleware.ts — Locale detection + redirect
+// src/middleware.ts — next-intl locale routing middleware
+import createMiddleware from "next-intl/middleware";
+import { routing } from "./i18n/routing";
 import { NextRequest, NextResponse } from "next/server";
-import {
-  locales,
-  defaultLocale,
-  detectLocaleFromHeader,
-  isValidLocale,
-} from "@/lib/locale";
 
-// Paths that should NOT be locale-prefixed
-const PUBLIC_PATHS = [
-  "/api",
-  "/images",
-  "/icons",
-  "/fonts",
-  "/_next",
-  "/favicon",
-  "/robots.txt",
-  "/sitemap.xml",
-  "/og-image",
-  "/manifest",
-];
-// Helper: get visitor country from Vercel geo headers
-function getCountry(request: NextRequest): string | null {
-  return request.headers.get("x-vercel-ip-country");
-}
+const intlMiddleware = createMiddleware(routing);
 
-export function middleware(request: NextRequest) {
-  const { pathname } = request.nextUrl;
+export default function middleware(request: NextRequest) {
+  const response = intlMiddleware(request);
 
-  // Skip public/static files
-  if (
-    PUBLIC_PATHS.some((p) => pathname.startsWith(p)) ||
-    pathname.includes(".")
-  ) {
-    return NextResponse.next();
+  // Geo-restriction: UA users can't see /ru/, RU users can't see /ua/
+  const country = request.headers.get("x-vercel-ip-country");
+  const pathname = request.nextUrl.pathname;
+
+  if (country === "UA" && pathname.startsWith("/ru")) {
+    const newPath = "/ua" + pathname.slice(3);
+    return NextResponse.redirect(new URL(newPath, request.url));
   }
-
-  // Check if pathname already has a valid locale prefix
-  const segments = pathname.split("/");
-  const firstSegment = segments[1];
-
-  if (firstSegment && isValidLocale(firstSegment)) {
-    return NextResponse.next();
+  if (country === "RU" && pathname.startsWith("/ua")) {
+    const newPath = "/ru" + pathname.slice(3);
+    return NextResponse.redirect(new URL(newPath, request.url));
   }
-
-  // No locale in URL — detect and redirect
-  // 1. Check cookie (returning visitor)
-  const cookieLocale = request.cookies.get("NEXT_LOCALE")?.value;
-  if (cookieLocale && isValidLocale(cookieLocale)) {
-    // Apply same UA restriction
-
-    const url = request.nextUrl.clone();
-    url.pathname = `/${cookieLocale}${pathname}`;
-    return NextResponse.redirect(url);
-  }
-
-  // 2. Detect from browser Accept-Language header
-  const acceptLanguage = request.headers.get("accept-language");
-  let detectedLocale = detectLocaleFromHeader(acceptLanguage);
-
-  // 3. If detected Ukrainian, verify country
-
-  // Redirect to locale-prefixed URL
-  const url = request.nextUrl.clone();
-  url.pathname = `/${detectedLocale}${pathname}`;
-  const response = NextResponse.redirect(url);
-
-  // Set cookie for future visits (30 days)
-  response.cookies.set("NEXT_LOCALE", detectedLocale, {
-    maxAge: 60 * 60 * 24 * 30,
-    path: "/",
-  });
 
   return response;
 }
 
 export const config = {
-  // Match all paths except static files
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|.*\\..*).*)"],
+  matcher: [
+    // Match all paths except static files, API routes, etc.
+    "/((?!api|_next|_vercel|gallery|favicon|robots|sitemap|google|og-|images|icons|fonts|manifest|.*\\..*).*)",
+  ],
 };

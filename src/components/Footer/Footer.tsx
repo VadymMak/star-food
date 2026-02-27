@@ -1,17 +1,17 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import { FaInstagram, FaTelegram, FaWhatsapp } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./Footer.module.css";
 
 export default function Footer() {
-  const { t } = useLanguage();
+  const t = useTranslations();
 
   return (
     <footer className={styles.footer}>
       <div className={styles.content}>
         <p className={styles.copyright}>
-          &copy; {new Date().getFullYear()} {t?.footer?.copyright || "UB Market LTD. All rights reserved."}
+          &copy; {new Date().getFullYear()} {t("footer.copyright")}
         </p>
 
         <div className={styles.social}>

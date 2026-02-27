@@ -1,8 +1,8 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import { usePathname } from "next/navigation";
-import { useLanguage } from "@/context/LanguageContext";
-
 const BASE_URL = "https://ub-market.com";
 
 const locales = ["en", "bg", "tr", "ro", "de", "ua"];
@@ -19,7 +19,8 @@ const hreflangMap: Record<string, string> = {
 
 export default function HreflangTags() {
   const pathname = usePathname();
-  const { locale } = useLanguage();
+  const locale = useLocale();
+  const t = useTranslations();
 
   // Remove current locale prefix to get clean path
   const cleanPath = pathname.replace(/^\/(en|bg|tr|ro|de|ua)/, "") || "/";

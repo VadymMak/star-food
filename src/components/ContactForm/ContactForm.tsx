@@ -1,16 +1,17 @@
 // src/components/ContactForm/ContactForm.tsx
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import React, { useState } from "react";
 import { FaPaperPlane, FaCheck, FaEnvelope } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ContactForm.module.css";
 
 const FALLBACK_EMAIL = "ubmarket2022@gmail.com";
 
 export default function ContactForm() {
-  const { t, locale } = useLanguage();
-  const cf = t.contactForm;
+  const locale = useLocale();
+  const t = useTranslations();
 
   const [form, setForm] = useState({
     name: "",
@@ -76,23 +77,25 @@ export default function ContactForm() {
     return (
       <div className={styles.successBox}>
         <FaCheck className={styles.successIcon} />
-        <h3 className={styles.successTitle}>{cf.successTitle}</h3>
-        <p className={styles.successText}>{cf.successText}</p>
+        <h3 className={styles.successTitle}>{t("contactForm.successTitle")}</h3>
+        <p className={styles.successText}>{t("contactForm.successText")}</p>
         <button className="btn btn-outline" onClick={() => setStatus("idle")}>
-          {cf.sendAnother}
+          {t("contactForm.sendAnother")}
         </button>
       </div>
     );
   }
 
+  const subjects = t.raw("contactForm.subjects") as string[];
+
   return (
     <form className={styles.form} onSubmit={handleSubmit}>
-      <h3 className={styles.formTitle}>{cf.title}</h3>
-      <p className={styles.formSubtitle}>{cf.subtitle}</p>
+      <h3 className={styles.formTitle}>{t("contactForm.title")}</h3>
+      <p className={styles.formSubtitle}>{t("contactForm.subtitle")}</p>
 
       <div className={styles.row}>
         <div className={styles.field}>
-          <label className={styles.label}>{cf.name} *</label>
+          <label className={styles.label}>{t("contactForm.name")} *</label>
           <input
             type="text"
             name="name"
@@ -100,11 +103,11 @@ export default function ContactForm() {
             onChange={handleChange}
             required
             className={styles.input}
-            placeholder={cf.namePlaceholder}
+            placeholder={t("contactForm.namePlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label className={styles.label}>{cf.email} *</label>
+          <label className={styles.label}>{t("contactForm.email")} *</label>
           <input
             type="email"
             name="email"
@@ -112,33 +115,33 @@ export default function ContactForm() {
             onChange={handleChange}
             required
             className={styles.input}
-            placeholder={cf.emailPlaceholder}
+            placeholder={t("contactForm.emailPlaceholder")}
           />
         </div>
       </div>
 
       <div className={styles.row}>
         <div className={styles.field}>
-          <label className={styles.label}>{cf.phone}</label>
+          <label className={styles.label}>{t("contactForm.phone")}</label>
           <input
             type="tel"
             name="phone"
             value={form.phone}
             onChange={handleChange}
             className={styles.input}
-            placeholder={cf.phonePlaceholder}
+            placeholder={t("contactForm.phonePlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label className={styles.label}>{cf.subject}</label>
+          <label className={styles.label}>{t("contactForm.subject")}</label>
           <select
             name="subject"
             value={form.subject}
             onChange={handleChange}
             className={styles.input}
           >
-            <option value="">{cf.subjectDefault}</option>
-            {cf.subjects.map((s: string) => (
+            <option value="">{t("contactForm.subjectDefault")}</option>
+            {subjects.map((s: string) => (
               <option key={s} value={s}>
                 {s}
               </option>
@@ -148,7 +151,7 @@ export default function ContactForm() {
       </div>
 
       <div className={styles.field} style={{ marginBottom: "20px" }}>
-        <label className={styles.label}>{cf.message} *</label>
+        <label className={styles.label}>{t("contactForm.message")} *</label>
         <textarea
           name="message"
           value={form.message}
@@ -156,15 +159,15 @@ export default function ContactForm() {
           required
           rows={5}
           className={styles.textarea}
-          placeholder={cf.messagePlaceholder}
+          placeholder={t("contactForm.messagePlaceholder")}
         />
       </div>
 
       {status === "error" && (
         <div className={styles.errorBox}>
-          <div className={styles.errorText}>{cf.errorText}</div>
+          <div className={styles.errorText}>{t("contactForm.errorText")}</div>
           <a href={buildMailtoLink()} className={styles.errorLink}>
-            <FaEnvelope /> {cf.emailDirect}
+            <FaEnvelope /> {t("contactForm.emailDirect")}
           </a>
         </div>
       )}
@@ -176,7 +179,9 @@ export default function ContactForm() {
         style={{ width: "100%" }}
       >
         <FaPaperPlane />
-        {status === "sending" ? cf.sending : cf.send}
+        {status === "sending"
+          ? t("contactForm.sending")
+          : t("contactForm.send")}
       </button>
     </form>
   );

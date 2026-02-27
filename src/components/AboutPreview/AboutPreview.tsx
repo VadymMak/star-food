@@ -1,14 +1,17 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 import { FaCheckCircle, FaArrowRight } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./AboutPreview.module.css";
 
 export default function AboutPreview() {
-  const { locale, t } = useLanguage();
-  const ap = t?.aboutPreview || {};
+  const locale = useLocale();
+  const t = useTranslations();
+
+  const features = t.raw("aboutPreview.features") as string[];
 
   return (
     <section className={styles.about}>
@@ -23,33 +26,30 @@ export default function AboutPreview() {
               style={{ objectFit: "cover" }}
             />
           </div>
-
           <div className={styles.text}>
-            <span className="section-label">{ap.label || "About Us"}</span>
+            <span className="section-label">{t("aboutPreview.label")}</span>
             <h2
               className="section-title"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {ap.title || "Your Trusted Partner in Food Export & Import"}
+              {t("aboutPreview.title")}
             </h2>
-            <p className={styles.desc}>{ap.p1}</p>
-            <p className={styles.desc}>{ap.p2}</p>
-
+            <p className={styles.desc}>{t("aboutPreview.p1")}</p>
+            <p className={styles.desc}>{t("aboutPreview.p2")}</p>
             <div className={styles.features}>
-              {(ap.features || []).map((f: string) => (
+              {features.map((f: string) => (
                 <div key={f} className={styles.feature}>
                   <FaCheckCircle className={styles.featureIcon} />
                   <span>{f}</span>
                 </div>
               ))}
             </div>
-
             <Link
               href={`/${locale}/about`}
               className="btn btn-primary"
               style={{ marginTop: "10px" }}
             >
-              {ap.cta || "Learn More About UB Market"} <FaArrowRight />
+              {t("aboutPreview.cta")} <FaArrowRight />
             </Link>
           </div>
         </div>

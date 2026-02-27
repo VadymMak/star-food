@@ -1,5 +1,6 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import {
   FaTruckLoading,
   FaBox,
@@ -11,54 +12,70 @@ import {
   FaTruck,
   FaShieldAlt,
 } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./Logistics.module.css";
 
-const deliveryIcons = [FaTruckLoading, FaBox, FaOilCan, FaDolly, FaFileInvoice, FaGlobeEurope];
+const deliveryIcons = [
+  FaTruckLoading,
+  FaBox,
+  FaOilCan,
+  FaDolly,
+  FaFileInvoice,
+  FaGlobeEurope,
+];
 
 export default function Logistics() {
-  const { t } = useLanguage();
-  const l = t?.logistics || {};
-
+  const t = useTranslations();
   return (
     <section className={styles.section}>
       <div className={styles.inner}>
         <div className={styles.header}>
-          <span className="section-label">{l.label || "Logistics & Quality"}</span>
-          <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {l.title || "Built for B2B Trading"}
+          <span className="section-label">{t("logistics.label")}</span>
+          <h2
+            className="section-title"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            {t("logistics.title")}
           </h2>
         </div>
 
         <div className={styles.grid}>
           <div className={styles.box}>
             <h3 className={styles.boxTitle}>
-              <FaTruck className={styles.boxIcon} /> {l.delivery || "Delivery Options"}
+              <FaTruck className={styles.boxIcon} /> {t("logistics.delivery")}
             </h3>
             <div className={styles.tagList}>
-              {(l.deliveryItems || []).map((label: string, i: number) => {
-                const Icon = deliveryIcons[i] || FaCheck;
-                return (
-                  <div key={label} className={styles.tag}>
-                    <span className={styles.tagIcon}><Icon /></span>
-                    {label}
-                  </div>
-                );
-              })}
+              {(t.raw("logistics.deliveryItems") as string[]).map(
+                (label: string, i: number) => {
+                  const Icon = deliveryIcons[i] || FaCheck;
+                  return (
+                    <div key={label} className={styles.tag}>
+                      <span className={styles.tagIcon}>
+                        <Icon />
+                      </span>
+                      {label}
+                    </div>
+                  );
+                },
+              )}
             </div>
           </div>
 
           <div className={styles.box}>
             <h3 className={styles.boxTitle}>
-              <FaShieldAlt className={styles.boxIcon} /> {l.quality || "Quality Standards"}
+              <FaShieldAlt className={styles.boxIcon} />{" "}
+              {t("logistics.quality")}
             </h3>
             <div className={styles.tagList}>
-              {(l.qualityItems || []).map((label: string) => (
-                <div key={label} className={styles.tag}>
-                  <span className={styles.tagIcon}><FaCheck /></span>
-                  {label}
-                </div>
-              ))}
+              {(t.raw("logistics.qualityItems") as string[]).map(
+                (label: string) => (
+                  <div key={label} className={styles.tag}>
+                    <span className={styles.tagIcon}>
+                      <FaCheck />
+                    </span>
+                    {label}
+                  </div>
+                ),
+              )}
             </div>
           </div>
         </div>

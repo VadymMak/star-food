@@ -1,3 +1,7 @@
+// DEPRECATED: This file is no longer used after next-intl migration.
+// All components now use useTranslations() from "next-intl".
+// Safe to delete after verifying everything works.
+
 // src/context/LanguageContext.tsx — Synchronous translations (zero CLS)
 "use client";
 import {

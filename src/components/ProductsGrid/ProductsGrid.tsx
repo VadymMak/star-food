@@ -1,32 +1,35 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
 import { products } from "@/data/products";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ProductsGrid.module.css";
 
 export default function ProductsGrid() {
-  const { locale, t } = useLanguage();
-  const p = t?.products || {};
+  const locale = useLocale();
+  const t = useTranslations();
+
+  // Get raw product items object for dynamic key access
+  const productItems = t.raw("products.items") as Record<string, { name: string; description: string }>;
 
   return (
     <section className={styles.section}>
       <div className={styles.inner}>
         <div className={styles.header}>
-          <span className="section-label">{p.label || "Our Products"}</span>
+          <span className="section-label">{t("products.label")}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {p.title || "What We Supply"}
+            {t("products.title")}
           </h2>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
-            {p.subtitle}
+            {t("products.subtitle")}
           </p>
         </div>
-
         <div className={styles.grid}>
           {products.map((product) => {
-            const translated = p?.items?.[product.id as keyof typeof p.items];
+            const translated = productItems?.[product.id];
             return (
               <Link
                 key={product.id}
@@ -53,10 +56,9 @@ export default function ProductsGrid() {
             );
           })}
         </div>
-
         <div className={styles.cta}>
           <Link href={`/${locale}/products`} className="btn btn-outline">
-            {p.cta || "View All Products"} <FaArrowRight />
+            {t("products.cta")} <FaArrowRight />
           </Link>
         </div>
       </div>

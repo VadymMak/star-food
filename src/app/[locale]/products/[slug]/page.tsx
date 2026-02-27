@@ -1,10 +1,11 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { FaEnvelope, FaPhone, FaCheckCircle, FaBoxOpen } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import { getProductBySlug, products } from "@/data/products";
 import { generateProductSchema, generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
@@ -13,18 +14,22 @@ import styles from "./product.module.css";
 export default function ProductPage() {
   const params = useParams();
   const slug = params.slug as string;
-  const { locale, t } = useLanguage();
+  const locale = useLocale();
+  const t = useTranslations();
 
   const product = getProductBySlug(slug);
-  const pt = t?.productPage || {};
-  const translated = t?.products?.items?.[product?.id as string];
+  const productItems = t.raw("products.items") as Record<
+    string,
+    { name: string; description: string }
+  >;
+  const translated = productItems?.[product?.id as string];
 
   if (!product) {
     return (
       <div className={styles.notFound}>
         <h1>Product Not Found</h1>
         <Link href={`/${locale}/products`} className="btn btn-primary">
-          {pt.backToCatalog || "Back to Catalog"}
+          {t("productPage.backToCatalog")}
         </Link>
       </div>
     );
@@ -37,8 +42,8 @@ export default function ProductPage() {
   const related = products.filter((p) => p.slug !== slug).slice(0, 3);
 
   const breadcrumbItems = [
-    { label: t?.nav?.home || "Home", href: `/${locale}` },
-    { label: t?.nav?.products || "Products", href: `/${locale}/products` },
+    { label: t("nav.home"), href: `/${locale}` },
+    { label: t("nav.products"), href: `/${locale}/products` },
     { label: productName },
   ];
 
@@ -96,14 +101,14 @@ export default function ProductPage() {
               {/* Specs Table */}
               <div className={styles.specsTable}>
                 <h3 className={styles.specsTitle}>
-                  {pt.specifications || "Specifications"}
+                  {t("productPage.specifications")}
                 </h3>
                 <table className={styles.table}>
                   <tbody>
                     {product.specs.volume && (
                       <tr>
                         <td className={styles.specLabel}>
-                          {pt.volume || "Volume"}
+                          {t("productPage.volume")}
                         </td>
                         <td className={styles.specValue}>
                           {product.specs.volume}
@@ -113,7 +118,7 @@ export default function ProductPage() {
                     {product.specs.packaging && (
                       <tr>
                         <td className={styles.specLabel}>
-                          {pt.packaging || "Packaging"}
+                          {t("productPage.packaging")}
                         </td>
                         <td className={styles.specValue}>
                           {product.specs.packaging}
@@ -123,7 +128,7 @@ export default function ProductPage() {
                     {product.specs.shelfLife && (
                       <tr>
                         <td className={styles.specLabel}>
-                          {pt.shelfLife || "Shelf Life"}
+                          {t("productPage.shelfLife")}
                         </td>
                         <td className={styles.specValue}>
                           {product.specs.shelfLife}
@@ -133,7 +138,7 @@ export default function ProductPage() {
                     {product.specs.origin && (
                       <tr>
                         <td className={styles.specLabel}>
-                          {pt.origin || "Origin"}
+                          {t("productPage.origin")}
                         </td>
                         <td className={styles.specValue}>
                           {product.specs.origin}
@@ -143,7 +148,7 @@ export default function ProductPage() {
                     {product.specs.certification && (
                       <tr>
                         <td className={styles.specLabel}>
-                          {pt.certifications || "Certifications"}
+                          {t("productPage.certifications")}
                         </td>
                         <td className={styles.specValue}>
                           {product.specs.certification}
@@ -157,7 +162,7 @@ export default function ProductPage() {
               {/* Packaging Options */}
               <div className={styles.packagingSection}>
                 <h3 className={styles.specsTitle}>
-                  {pt.availablePackaging || "Available Packaging"}
+                  {t("productPage.availablePackaging")}
                 </h3>
                 <div className={styles.packagingTags}>
                   {product.packagingOptions.map((opt) => (
@@ -174,10 +179,10 @@ export default function ProductPage() {
                   href={`/${locale}/quote?product=${product.slug}`}
                   className="btn btn-primary"
                 >
-                  <FaEnvelope /> {pt.requestPrice || "Request Price"}
+                  <FaEnvelope /> {t("productPage.requestPrice")}
                 </Link>
                 <a href="tel:+359884469860" className="btn btn-outline">
-                  <FaPhone /> {pt.callUs || "Call Us"}
+                  <FaPhone /> {t("productPage.callUs")}
                 </a>
               </div>
 
@@ -198,11 +203,11 @@ export default function ProductPage() {
       <section className={styles.relatedSection}>
         <div className={styles.inner}>
           <h2 className={styles.relatedTitle}>
-            {pt.relatedProducts || "Other Products"}
+            {t("productPage.relatedProducts")}
           </h2>
           <div className={styles.relatedGrid}>
             {related.map((rp) => {
-              const rTranslated = t?.products?.items?.[rp.id as string];
+              const rTranslated = productItems?.[rp.id as string];
               return (
                 <Link
                   key={rp.slug}

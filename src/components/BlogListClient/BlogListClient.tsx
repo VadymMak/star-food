@@ -1,8 +1,8 @@
 // src/components/BlogListClient/BlogListClient.tsx
 "use client";
 
+import { useTranslations } from "next-intl";
 import { useState } from "react";
-import { useLanguage } from "@/context/LanguageContext";
 import { categories } from "@/data/categories";
 import BlogCard from "@/components/BlogCard/BlogCard";
 import styles from "../../app/[locale]/blog/blog.module.css";
@@ -23,8 +23,7 @@ interface Props {
 }
 
 export default function BlogListClient({ posts, locale }: Props) {
-  const { t } = useLanguage();
-  const b = t?.blog || {};
+  const t = useTranslations();
   const [activeCategory, setActiveCategory] = useState("all");
 
   const filtered =
@@ -37,15 +36,15 @@ export default function BlogListClient({ posts, locale }: Props) {
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
-          <span className="section-label">{b.label || "Blog"}</span>
+          <span className="section-label">{t("blog.label")}</span>
           <h1
             className="section-title"
             style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
           >
-            {b.title || "News & Insights"}
+            {t("blog.title")}
           </h1>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
-            {b.subtitle}
+            {t("blog.subtitle")}
           </p>
         </div>
       </section>
@@ -81,10 +80,8 @@ export default function BlogListClient({ posts, locale }: Props) {
           </div>
         ) : (
           <div className={styles.comingSoon}>
-            <h2 className={styles.comingTitle}>
-              {b.comingTitle || "More Articles Coming Soon"}
-            </h2>
-            <p className={styles.comingText}>{b.comingText}</p>
+            <h2 className={styles.comingTitle}>{t("blog.comingTitle")}</h2>
+            <p className={styles.comingText}>{t("blog.comingText")}</p>
           </div>
         )}
       </section>

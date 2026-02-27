@@ -1,16 +1,16 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
 import { FaEnvelope, FaBoxOpen } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./Hero.module.css";
 
 export default function Hero() {
-  const { locale, t } = useLanguage();
-  const h = t?.hero || {};
-
-  return (
+  const locale = useLocale();
+  const t = useTranslations();
+return (
     <section className={styles.hero}>
       <Image
         src="/images/top.webp"
@@ -24,22 +24,22 @@ export default function Hero() {
       <div className={styles.overlay} />
       <div className={styles.content}>
         <span className={styles.badge}>
-          {h.badge || "International Food Trading"}
+          {t("hero.badge")}
         </span>
         <h1 className={styles.title}>
-          {h.title1 || "Premium"}{" "}
+          {t("hero.title1")}{" "}
           <span className={styles.gold}>
-            {h.titleHighlight || "Sunflower Oil"}
+            {t("hero.titleHighlight")}
           </span>{" "}
-          {h.title2 || "& Food Products for Europe"}
+          {t("hero.title2")}
         </h1>
-        <p className={styles.subtitle}>{h.subtitle}</p>
+        <p className={styles.subtitle}>{t("hero.subtitle")}</p>
         <div className="btn-group" style={{ justifyContent: "center" }}>
           <Link href={`/${locale}/contacts`} className="btn btn-primary">
-            <FaEnvelope /> {h.cta1 || "Request a Quote"}
+            <FaEnvelope /> {t("hero.cta1")}
           </Link>
           <Link href={`/${locale}/products`} className="btn btn-outline">
-            <FaBoxOpen /> {h.cta2 || "View Products"}
+            <FaBoxOpen /> {t("hero.cta2")}
           </Link>
         </div>
       </div>

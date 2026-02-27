@@ -1,7 +1,7 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./TableOfContents.module.css";
 
 interface TocItem {
@@ -13,7 +13,7 @@ interface TocItem {
 export default function TableOfContents() {
   const [items, setItems] = useState<TocItem[]>([]);
   const [activeId, setActiveId] = useState("");
-  const { t } = useLanguage();
+  const t = useTranslations();
 
   useEffect(() => {
     const headings = document.querySelectorAll(
@@ -70,7 +70,7 @@ export default function TableOfContents() {
 
   return (
     <nav className={styles.toc}>
-      <h4 className={styles.title}>{t?.blogPost?.contents || "Contents"}</h4>
+      <h4 className={styles.title}>{t("blogPost.contents")}</h4>
       <ul className={styles.list}>
         {items.map((item) => (
           <li

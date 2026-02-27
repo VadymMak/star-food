@@ -1,12 +1,13 @@
 // src/components/Header/Header.tsx — Locale-aware routing + scroll hide/show
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { FaBars, FaTimes } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import LanguageSwitcher from "@/components/LanguageSwitcher/LanguageSwitcher";
 import styles from "./Header.module.css";
 
@@ -15,7 +16,8 @@ export default function Header() {
   const [hidden, setHidden] = useState(false);
   const lastScrollY = useRef(0);
   const pathname = usePathname();
-  const { locale, t } = useLanguage();
+  const locale = useLocale();
+  const t = useTranslations();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -35,12 +37,12 @@ export default function Header() {
   const prefix = `/${locale}`;
 
   const navLinks = [
-    { href: prefix, label: t?.nav?.home || "Home" },
-    { href: `${prefix}/about`, label: t?.nav?.about || "About" },
-    { href: `${prefix}/products`, label: t?.nav?.products || "Products" },
-    { href: `${prefix}/brands/star-food`, label: t?.nav?.brand || "Star Food" },
-    { href: `${prefix}/blog`, label: t?.nav?.blog || "Blog" },
-    { href: `${prefix}/contacts`, label: t?.nav?.contacts || "Contacts" },
+    { href: prefix, label: t("nav.home") },
+    { href: `${prefix}/about`, label: t("nav.about") },
+    { href: `${prefix}/products`, label: t("nav.products") },
+    { href: `${prefix}/brands/star-food`, label: t("nav.brand") },
+    { href: `${prefix}/blog`, label: t("nav.blog") },
+    { href: `${prefix}/contacts`, label: t("nav.contacts") },
   ];
 
   const isActive = (href: string) => {
@@ -81,7 +83,7 @@ export default function Header() {
         </nav>
 
         <Link href={`${prefix}/partners`} className={styles.partnerCta}>
-          {t?.nav?.partners || "Partners"}
+          {t("nav.partners")}
         </Link>
 
         <div className={styles.actions}>
@@ -116,7 +118,7 @@ export default function Header() {
               className={styles.partnerCtaMobile}
               onClick={() => setMenuOpen(false)}
             >
-              {t?.nav?.partners || "Partners"}
+              {t("nav.partners")}
             </Link>
           </nav>
         </div>

@@ -1,18 +1,16 @@
 "use client";
 
-import { useLanguage } from "@/context/LanguageContext";
+import { useTranslations } from "next-intl";
 import styles from "./MapSection.module.css";
 
 export default function MapSection() {
-  const { t } = useLanguage();
-  const c = t?.contact || {};
-
-  return (
+  const t = useTranslations();
+return (
     <section className={styles.section}>
       <div className={styles.inner}>
-        <span className="section-label">{c.mapLabel || "Our Location"}</span>
+        <span className="section-label">{t("contact.mapLabel")}</span>
         <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-          {c.mapTitle || "Find Us in Varna, Bulgaria"}
+          {t("contact.mapTitle")}
         </h2>
         <iframe
           className={styles.map}

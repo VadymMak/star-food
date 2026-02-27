@@ -1,9 +1,10 @@
 // src/components/CookieConsent/CookieConsent.tsx
 "use client";
 
+import { useLocale } from "next-intl";
+
 import { useState, useEffect } from "react";
 import Script from "next/script";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./CookieConsent.module.css";
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID || "";
@@ -51,7 +52,7 @@ const translations: Record<
 };
 
 export default function CookieConsent() {
-  const { locale } = useLanguage();
+  const locale = useLocale();
   const [consent, setConsent] = useState<"pending" | "accepted" | "declined">(
     "pending",
   );

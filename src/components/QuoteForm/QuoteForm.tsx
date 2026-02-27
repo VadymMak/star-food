@@ -1,17 +1,18 @@
 // src/components/QuoteForm/QuoteForm.tsx
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import { useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { FaPaperPlane, FaCheckCircle } from "react-icons/fa";
 import { products } from "@/data/products";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./QuoteForm.module.css";
 
 export default function QuoteForm() {
-  const { t, locale } = useLanguage();
-  const qf = t?.quoteForm || {};
-  const searchParams = useSearchParams();
+  const locale = useLocale();
+  const t = useTranslations();
+const searchParams = useSearchParams();
   const preselectedProduct = searchParams.get("product") || "";
 
   const [formData, setFormData] = useState({
@@ -63,13 +64,12 @@ export default function QuoteForm() {
     return (
       <div className={styles.success}>
         <FaCheckCircle className={styles.successIcon} />
-        <h3>{qf.successTitle || "Quote Request Sent!"}</h3>
+        <h3>{t("quoteForm.successTitle")}</h3>
         <p>
-          {qf.successText ||
-            "We will respond within 24 hours with a personalized quote."}
+          {t("quoteForm.successText")}
         </p>
         <button className="btn btn-outline" onClick={() => setStatus("idle")}>
-          {qf.sendAnother || "Send Another Request"}
+          {t("quoteForm.sendAnother")}
         </button>
       </div>
     );
@@ -77,76 +77,75 @@ export default function QuoteForm() {
 
   return (
     <form className={styles.form} onSubmit={handleSubmit}>
-      <h2 className={styles.title}>{qf.title || "Request a Quote"}</h2>
+      <h2 className={styles.title}>{t("quoteForm.title")}</h2>
       <p className={styles.subtitle}>
-        {qf.subtitle ||
-          "Fill in your requirements and we'll get back to you within 24 hours."}
+        {t("quoteForm.subtitle")}
       </p>
 
       <div className={styles.grid}>
         <div className={styles.field}>
-          <label>{qf.company || "Company Name"} *</label>
+          <label>{t("quoteForm.company")} *</label>
           <input
             type="text"
             name="company"
             value={formData.company}
             onChange={handleChange}
             required
-            placeholder={qf.companyPlaceholder || "Your company name"}
+            placeholder={t("quoteForm.companyPlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label>{qf.contactName || "Contact Name"} *</label>
+          <label>{t("quoteForm.contactName")} *</label>
           <input
             type="text"
             name="name"
             value={formData.name}
             onChange={handleChange}
             required
-            placeholder={qf.namePlaceholder || "Your name"}
+            placeholder={t("quoteForm.namePlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label>{qf.email || "Email"} *</label>
+          <label>{t("quoteForm.email")} *</label>
           <input
             type="email"
             name="email"
             value={formData.email}
             onChange={handleChange}
             required
-            placeholder={qf.emailPlaceholder || "your@email.com"}
+            placeholder={t("quoteForm.emailPlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label>{qf.phone || "Phone"}</label>
+          <label>{t("quoteForm.phone")}</label>
           <input
             type="tel"
             name="phone"
             value={formData.phone}
             onChange={handleChange}
-            placeholder={qf.phonePlaceholder || "+1 234 567 890"}
+            placeholder={t("quoteForm.phonePlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label>{qf.country || "Country"} *</label>
+          <label>{t("quoteForm.country")} *</label>
           <input
             type="text"
             name="country"
             value={formData.country}
             onChange={handleChange}
             required
-            placeholder={qf.countryPlaceholder || "Your country"}
+            placeholder={t("quoteForm.countryPlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label>{qf.product || "Product"} *</label>
+          <label>{t("quoteForm.product")} *</label>
           <select
             name="product"
             value={formData.product}
             onChange={handleChange}
             required
           >
-            <option value="">{qf.selectProduct || "Select a product"}</option>
+            <option value="">{t("quoteForm.selectProduct")}</option>
             {products.map((p) => (
               <option key={p.id} value={p.id}>
                 {p.name}
@@ -155,17 +154,17 @@ export default function QuoteForm() {
           </select>
         </div>
         <div className={styles.field}>
-          <label>{qf.quantity || "Quantity (tons)"}</label>
+          <label>{t("quoteForm.quantity")}</label>
           <input
             type="text"
             name="quantity"
             value={formData.quantity}
             onChange={handleChange}
-            placeholder={qf.quantityPlaceholder || "e.g. 20 tons"}
+            placeholder={t("quoteForm.quantityPlaceholder")}
           />
         </div>
         <div className={styles.field}>
-          <label>{qf.deliveryTerms || "Delivery Terms"}</label>
+          <label>{t("quoteForm.deliveryTerms")}</label>
           <select
             name="deliveryTerms"
             value={formData.deliveryTerms}
@@ -179,15 +178,14 @@ export default function QuoteForm() {
       </div>
 
       <div className={styles.fieldFull}>
-        <label>{qf.message || "Additional Requirements"}</label>
+        <label>{t("quoteForm.message")}</label>
         <textarea
           name="message"
           value={formData.message}
           onChange={handleChange}
           rows={4}
           placeholder={
-            qf.messagePlaceholder ||
-            "Packaging preferences, delivery schedule, or any other details..."
+            t("quoteForm.messagePlaceholder")
           }
         />
       </div>
@@ -200,18 +198,17 @@ export default function QuoteForm() {
         >
           <FaPaperPlane />{" "}
           {status === "sending"
-            ? qf.sending || "Sending..."
-            : qf.submit || "Request Quote"}
+            ? t("quoteForm.sending")
+            : t("quoteForm.submit")}
         </button>
         <p className={styles.noObligation}>
-          {qf.noObligation || "No obligation — free quote within 24 hours."}
+          {t("quoteForm.noObligation")}
         </p>
       </div>
 
       {status === "error" && (
         <p className={styles.error}>
-          {qf.errorText ||
-            "Something went wrong. Please email us directly at ubmarket2022@gmail.com"}
+          {t("quoteForm.errorText")}
         </p>
       )}
     </form>

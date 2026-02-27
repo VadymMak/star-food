@@ -1,5 +1,6 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import {
   FaShieldAlt,
@@ -8,7 +9,6 @@ import {
   FaGlobeEurope,
   FaAward,
 } from "react-icons/fa";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./TrustedBy.module.css";
 
 const certBadges = [
@@ -20,15 +20,13 @@ const certBadges = [
 ];
 
 export default function TrustedBy() {
-  const { t } = useLanguage();
-  const tb = t?.trustedBy || {};
-
-  return (
+  const t = useTranslations();
+return (
     <section className={styles.section}>
       <div className={styles.inner}>
-        <span className="section-label">{tb.label || "Trusted Standards"}</span>
+        <span className="section-label">{t("trustedBy.label")}</span>
         <h2 className={styles.title}>
-          {tb.title || "Certified Quality You Can Trust"}
+          {t("trustedBy.title")}
         </h2>
         <div className={styles.badges}>
           {/* Star Food trademark badge */}
