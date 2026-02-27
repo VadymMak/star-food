@@ -1,53 +1,82 @@
 ---
-title: "FOB, CIF, DAP Explicate — Termeni Comerciali pentru Cumpărători de Alimente"
-description: "Înțelegerea Incoterms pentru comerțul alimentar: FOB, CIF și DAP explicate cu exemple practice."
-date: "2026-02-12"
-category: "trading"
+title: "FOB, CIF și DAP — Termenii comerciali Incoterms explicați pentru cumpărătorii de alimente"
+date: "2026-03-15"
+description: "Ce înseamnă FOB, CIF și DAP în comerțul internațional cu alimente? Explicație clară a celor mai importante clauze comerciale."
 image: "/images/our-location.webp"
+tags: ["Incoterms", "FOB", "CIF", "DAP", "comerț"]
 readingTime: 7
-ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
+## Incoterms — Limbajul comerțului internațional
 
-## Ce Sunt Incoterms și De Ce Contează?
+Incoterms (International Commercial Terms) sunt termeni comerciali standardizați care definesc responsabilitățile și riscurile între cumpărător și vânzător. Pentru comerțul en gros cu alimente, trei clauze sunt deosebit de relevante: **FOB**, **CIF** și **DAP**.
 
-Incoterms sunt termeni comerciali standardizați publicați de Camera Internațională de Comerț. Definesc responsabilitățile cumpărătorilor și vânzătorilor — cine plătește transportul, asigurarea și vama.
+## FOB — Free on Board (Franco la Bord)
 
-## FOB — Liber la Bord
+La condiția FOB, vânzătorul livrează marfa la portul de încărcare convenit. Din acel punct, toate costurile și riscurile trec la cumpărător.
 
-**Ce înseamnă:** Vânzătorul livrează mărfurile pe navă în portul de origine. După încărcare, toate costurile și riscurile trec la cumpărător.
+**Responsabilitatea vânzătorului:**
+- Producție și control de calitate
+- Transport la port/punct de încărcare
+- Formalități vamale de export
+- Încărcare pe camion/navă
 
-**Cel mai potrivit pentru:** Importatori cu experiență care au parteneri logistici.
+**Responsabilitatea cumpărătorului:**
+- Transportul principal (navlu)
+- Asigurarea transportului
+- Formalități vamale de import
+- Descărcare și livrare finală
 
-**Exemplu:** Cumpărați 20 tone FOB Varna la $1.100/tonă.
+**Avantaj:** Cel mai mic preț de achiziție — controlați transportul și asigurarea.
 
-## CIF — Cost, Asigurare și Navlu
+## CIF — Cost, Insurance and Freight (Cost, Asigurare și Navlu)
 
-**Ce înseamnă:** Vânzătorul plătește navlul și asigurarea până la portul de destinație.
+La CIF, vânzătorul preia suplimentar costurile de navlu și asigurarea de transport până la portul de destinație.
 
-**Cel mai potrivit pentru:** Cumpărători care doresc un proces mai simplu.
+**Responsabilitatea vânzătorului:**
+- Toate serviciile FOB
+- Navlu principal până la portul de destinație
+- Asigurare de transport (acoperire minimă ICC-C)
 
-**Exemplu:** 20 tone CIF Rotterdam la $1.200/tonă.
+**Responsabilitatea cumpărătorului:**
+- Descărcare la portul de destinație
+- Formalități vamale de import
+- Livrare la depozit
 
-## DAP — Livrat la Destinație
+**Avantaj:** Mai puțin efort de coordonare — navlul și asigurarea sunt incluse în preț.
 
-**Ce înseamnă:** Vânzătorul livrează la adresa convenită — de obicei depozitul cumpărătorului.
+## DAP — Delivered at Place (Livrat la Locul Convenit)
 
-**Cel mai potrivit pentru:** Cumpărători mici fără departament logistic.
+La DAP, vânzătorul livrează marfa până la locul de destinație convenit. Doar descărcarea rămâne în responsabilitatea cumpărătorului.
 
-## Comparație
+**Responsabilitatea vânzătorului:**
+- Toate serviciile CIF
+- Transport până la destinație (depozitul dvs.)
+- Toate riscurile pe parcursul tranzitului
 
-| Caracteristică | FOB | CIF | DAP |
-|---------------|-----|-----|-----|
-| Navlu | Cumpărător | Vânzător | Vânzător |
-| Asigurare | Cumpărător | Vânzător | Vânzător |
-| Diferență de preț | Bază | +$80-120/t | +$150-250/t |
+**Responsabilitatea cumpărătorului:**
+- Descărcare
+- Formalități vamale de import (dacă este în afara UE)
 
-## UB Market Oferă
+**Avantaj:** Confort maxim — livrare „la rampă".
 
-- **FOB Varna/Burgas**
-- **CIF orice port european**
-- **DAP depozitul dvs.** — serviciu complet
+## Tabel comparativ
 
----
+| Clauză | Responsabilitate vânzător | Responsabilitate cumpărător | Nivel de preț |
+|--------|--------------------------|---------------------------|--------------|
+| FOB | Până la încărcare + export | Navlu + asigurare + import | Cel mai mic |
+| CIF | + Navlu + asigurare | Descărcare + import + livrare | Mediu |
+| DAP | Până la depozitul dvs. | Doar descărcare | Cel mai mare |
 
-**[Solicitați o ofertă](/ro/quote)** și specificați Incoterm-ul preferat.
+## Avantajul DAP România — Bulgaria
+
+Fiind vecini direcți, condiția **DAP** pentru livrări din Bulgaria în România este deosebit de avantajoasă:
+- Distanțe scurte = costuri reduse de transport
+- Fără formalități vamale (ambele sunt în UE)
+- Timp de livrare de doar 5–12 ore în funcție de destinație
+- Prețul DAP este foarte aproape de prețul FOB
+
+## Recomandarea noastră
+
+Pentru clienții din România, recomandăm **DAP** — primiți un preț total clar, fără costuri ascunse, cu livrare directă la depozitul dumneavoastră.
+
+[Solicitați ofertă cu condiția de livrare preferată →](/ro/quote)

@@ -1,59 +1,76 @@
 ---
-title: "FOB, CIF, DAP Erklärt — Handelsbedingungen für Lebensmittelkäufer"
-description: "Incoterms für den Lebensmittelhandel verstehen: FOB, CIF und DAP mit praktischen Beispielen erklärt."
-date: "2026-02-12"
-category: "trading"
+title: "FOB, CIF und DAP — Incoterms für den Lebensmittelhandel einfach erklärt"
+date: "2026-03-15"
+description: "Was bedeuten FOB, CIF und DAP im internationalen Lebensmittelhandel? Verständliche Erklärung der wichtigsten Handelsklauseln für Großeinkäufer."
 image: "/images/our-location.webp"
+tags: ["Incoterms", "FOB", "CIF", "DAP", "Handel"]
 readingTime: 7
-ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
+## Incoterms — Die Sprache des internationalen Handels
 
-## Was Sind Incoterms und Warum Sind Sie Wichtig?
+Die Incoterms (International Commercial Terms) der Internationalen Handelskammer (ICC) regeln die Verantwortlichkeiten und Risiken zwischen Käufer und Verkäufer im internationalen Handel. Für den Lebensmittelgroßhandel sind drei Klauseln besonders relevant: **FOB**, **CIF** und **DAP**.
 
-Incoterms sind standardisierte Handelsbedingungen der Internationalen Handelskammer (ICC). Sie definieren die Verantwortlichkeiten von Käufern und Verkäufern — wer für Fracht, Versicherung und Zoll bezahlt.
+## FOB — Free on Board (Frei an Bord)
 
-## FOB — Frei an Bord
+Bei FOB liefert der Verkäufer die Ware an den vereinbarten Verschiffungshafen und lädt sie auf das Transportmittel. Ab diesem Punkt gehen alle Kosten und Risiken auf den Käufer über.
 
-**Bedeutung:** Der Verkäufer liefert die Waren auf das Schiff im Ursprungshafen. Danach gehen alle Kosten und Risiken auf den Käufer über.
+**Verantwortung des Verkäufers:**
+- Produktion und Qualitätskontrolle
+- Transport zum Hafen/Verladeort
+- Exportzollformalitäten
+- Verladung auf den LKW/das Schiff
 
-**Geeignet für:** Erfahrene Importeure mit eigenen Logistikpartnern.
+**Verantwortung des Käufers:**
+- Haupttransport (Fracht)
+- Transportversicherung
+- Importzollformalitäten
+- Entladung und Zustellung
 
-**Beispiel:** 20 Tonnen Sonnenblumenöl FOB Varna zu $1.100/Tonne.
+**Vorteil:** Niedrigster Einkaufspreis — Sie kontrollieren Transport und Versicherung selbst.
 
-## CIF — Kosten, Versicherung und Fracht
+## CIF — Cost, Insurance and Freight (Kosten, Versicherung und Fracht)
 
-**Bedeutung:** Der Verkäufer zahlt Fracht und Versicherung zum Bestimmungshafen.
+Bei CIF übernimmt der Verkäufer zusätzlich die Frachtkosten und die Transportversicherung bis zum Bestimmungshafen. Das Risiko geht jedoch bereits bei der Verladung auf den Käufer über.
 
-**Geeignet für:** Käufer, die einen einfacheren Prozess wünschen.
+**Verantwortung des Verkäufers:**
+- Alle FOB-Leistungen
+- Hauptfracht bis zum Bestimmungshafen
+- Transportversicherung (Mindestdeckung nach ICC-C)
 
-**Beispiel:** 20 Tonnen CIF Rotterdam zu $1.200/Tonne.
+**Verantwortung des Käufers:**
+- Entladung am Bestimmungshafen
+- Importzollformalitäten
+- Zustellung zum Endlager
 
-## DAP — Geliefert Benannter Ort
+**Vorteil:** Weniger Koordinationsaufwand — Fracht und Versicherung sind im Preis enthalten.
 
-**Bedeutung:** Der Verkäufer liefert an den vereinbarten Ort — typischerweise das Lager des Käufers.
+## DAP — Delivered at Place (Geliefert an den benannten Ort)
 
-**Geeignet für:** Kleine Käufer ohne Logistikabteilung.
+Bei DAP liefert der Verkäufer die Ware bis zum vereinbarten Bestimmungsort. Nur die Entladung und Importzollformalitäten verbleiben beim Käufer.
+
+**Verantwortung des Verkäufers:**
+- Alle CIF-Leistungen
+- Transport bis zum Bestimmungsort (Ihr Lager)
+- Alle Transitrisiken
+
+**Verantwortung des Käufers:**
+- Entladung
+- Importzollformalitäten (falls nicht innerhalb der EU)
+
+**Vorteil:** Maximale Bequemlichkeit — „frei Haus" bis zu Ihrer Rampe.
 
 ## Vergleichstabelle
 
-| Merkmal | FOB | CIF | DAP |
-|---------|-----|-----|-----|
-| Fracht | Käufer | Verkäufer | Verkäufer |
-| Versicherung | Käufer | Verkäufer | Verkäufer |
-| Preisunterschied | Basis | +$80-120/t | +$150-250/t |
+| Klausel | Verkäufer-Verantwortung | Käufer-Verantwortung | Preisniveau |
+|---------|------------------------|---------------------|-------------|
+| FOB | Bis Verladeort + Export | Fracht + Versicherung + Import | Niedrigster |
+| CIF | + Fracht + Versicherung | Entladung + Import + Zustellung | Mittel |
+| DAP | Bis zu Ihrem Lager | Nur Entladung | Höchster |
 
-## Welchen Incoterm Wählen?
+## Welche Klausel empfehlen wir?
 
-**FOB** — für erfahrene Importeure.
-**CIF** — für Standard-Hafen-zu-Hafen-Handel.
-**DAP** — für kleine Käufer, die Tür-zu-Tür-Lieferung wünschen.
+Für Neukunden empfehlen wir in der Regel **DAP** — Sie erhalten eine klare Gesamtpreiskalkulation ohne versteckte Kosten. Für erfahrene Importeure mit eigener Logistik bietet **FOB** das beste Preis-Leistungs-Verhältnis.
 
-## UB Market Bietet
+Bei UB Market bieten wir alle drei Lieferbedingungen an und beraten Sie gerne, welche Option für Ihre spezifische Situation am vorteilhaftesten ist.
 
-- **FOB Varna/Burgas**
-- **CIF jeden europäischen Hafen**
-- **DAP Ihr Lager** — Komplettservice in 12+ EU-Ländern
-
----
-
-**[Angebot anfordern](/de/quote)** und Ihren bevorzugten Incoterm angeben.
+[Angebot mit Ihrer bevorzugten Lieferbedingung anfordern →](/de/quote)
