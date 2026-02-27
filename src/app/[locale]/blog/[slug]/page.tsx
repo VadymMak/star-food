@@ -2,6 +2,7 @@
 // Server component — reads post, generates OG metadata, delegates rendering to client
 
 import { Metadata } from "next";
+import { routing } from "@/i18n/routing";
 import { getPostBySlug, getPostSlugs } from "@/lib/blog";
 import BlogPostClient from "@/components/BlogPostClient/BlogPostClient";
 
@@ -32,6 +33,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? `${BASE_URL}${post.ogImage}`
     : `${BASE_URL}${post.image}`;
 
+  // Hreflang alternates (ua → uk per ISO 639-1)
+  const hreflangMap: Record<string, string> = {
+    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk",
+  };
+  const languages: Record<string, string> = {};
+  for (const loc of routing.locales) {
+    languages[hreflangMap[loc] || loc] = `${BASE_URL}/${loc}/blog/${slug}`;
+  }
+  languages["x-default"] = `${BASE_URL}/en/blog/${slug}`;
+
   return {
     title: `${post.title} | UB Market`,
     description: post.description,
@@ -58,6 +69,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: [ogImage],
     },
     alternates: {
+      languages,
       canonical: `${BASE_URL}/${locale}/blog/${slug}`,
     },
   };

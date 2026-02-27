@@ -5,8 +5,9 @@ import { createNavigation } from "next-intl/navigation";
 export const routing = defineRouting({
   locales: ["en", "bg", "ua", "tr", "ro", "de"],
   defaultLocale: "en",
-  localePrefix: "always",  // Always show /en/, /bg/, etc.
-  localeDetection: true,   // Auto-detect browser language
+  localePrefix: "always", // Always show /en/, /bg/, etc.
+  localeDetection: true, // Auto-detect browser language
+  alternateLinks: false, // We'll add custom hreflang links in the <head> for better control
 });
 
 // Navigation helpers — auto-add locale prefix to URLs

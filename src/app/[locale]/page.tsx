@@ -39,10 +39,21 @@ export async function generateMetadata({
     // Use fallback values
   }
 
+  // Hreflang alternates (ua → uk per ISO 639-1)
+  const hreflangMap: Record<string, string> = {
+    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk",
+  };
+  const languages: Record<string, string> = {};
+  for (const loc of routing.locales) {
+    languages[hreflangMap[loc] || loc] = `${baseUrl}/${loc}`;
+  }
+  languages["x-default"] = `${baseUrl}/en`;
+
   return {
     title,
     description,
     alternates: {
+      languages,
       canonical: `${baseUrl}/${locale}`,
     },
     openGraph: {

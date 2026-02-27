@@ -26,16 +26,27 @@ export async function generateMetadata({
     // Use fallback values
   }
 
+  // Hreflang alternates (ua → uk per ISO 639-1)
+  const hreflangMap: Record<string, string> = {
+    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk",
+  };
+  const languages: Record<string, string> = {};
+  for (const loc of routing.locales) {
+    languages[hreflangMap[loc] || loc] = `${baseUrl}/${loc}/products`;
+  }
+  languages["x-default"] = `${baseUrl}/en/products`;
+
   return {
     title,
     description,
     alternates: {
-      canonical: `${baseUrl}/${locale}`,
+      languages,
+      canonical: `${baseUrl}/${locale}/products`,
     },
     openGraph: {
       title,
       description,
-      url: `${baseUrl}/${locale}`,
+      url: `${baseUrl}/${locale}/products`,
       siteName: "Star Food — UB Market",
       images: [{ url: `${baseUrl}/og-image.jpg`, width: 1200, height: 630 }],
       type: "website",
