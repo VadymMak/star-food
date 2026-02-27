@@ -65,11 +65,18 @@ interface SearchConsoleData {
   clicks: number;
   ctr: string;
   position: string;
-  topQueries: { query: string; clicks: number; impressions: number; position: string }[];
+  topQueries: {
+    query: string;
+    clicks: number;
+    impressions: number;
+    position: string;
+  }[];
   topPages: { page: string; clicks: number; impressions: number }[];
 }
 
-export async function getSearchConsoleData(days: number = 7): Promise<SearchConsoleData | null> {
+export async function getSearchConsoleData(
+  days: number = 7,
+): Promise<SearchConsoleData | null> {
   const token = await getGoogleAccessToken([
     "https://www.googleapis.com/auth/webmasters.readonly",
   ]);
@@ -100,7 +107,10 @@ export async function getSearchConsoleData(days: number = 7): Promise<SearchCons
     },
   );
 
-  let impressions = 0, clicks = 0, ctr = "0%", position = "0";
+  let impressions = 0,
+    clicks = 0,
+    ctr = "0%",
+    position = "0";
 
   if (overallRes.ok) {
     const data = await overallRes.json();
@@ -197,7 +207,7 @@ export async function getPageSpeedData(): Promise<PageSpeedData | null> {
     const apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=mobile&category=performance&category=seo&category=accessibility&category=best-practices`;
 
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 8000);
+    const timeout = setTimeout(() => controller.abort(), 25000);
     const res = await fetch(apiUrl, { signal: controller.signal });
     clearTimeout(timeout);
     if (!res.ok) return null;
@@ -264,7 +274,9 @@ export async function getGA4Data(days: number = 7): Promise<GA4Data | null> {
     if (!res.ok) return null;
     const data = await res.json();
 
-    let users = 0, sessions = 0, pageViews = 0;
+    let users = 0,
+      sessions = 0,
+      pageViews = 0;
     const topCountries: GA4Data["topCountries"] = [];
 
     for (const row of data.rows || []) {
@@ -311,7 +323,9 @@ export async function collectAndFormatSEOReport(): Promise<string> {
       lines.push("");
       lines.push("  🏆 <b>Top Queries:</b>");
       gsc.topQueries.slice(0, 5).forEach((q, i) => {
-        lines.push(`  ${i + 1}. "${q.query}" — ${q.clicks} clicks, pos ${q.position}`);
+        lines.push(
+          `  ${i + 1}. "${q.query}" — ${q.clicks} clicks, pos ${q.position}`,
+        );
       });
     }
 
@@ -349,18 +363,26 @@ export async function collectAndFormatSEOReport(): Promise<string> {
   // PageSpeed
   const ps = await getPageSpeedData();
   if (ps) {
-    lines.push("⚡ <b>PageSpeed (Mobile)</b>");
-    lines.push(`  ${scoreEmoji(ps.performance)} Performance: <b>${ps.performance}</b>`);
+    lines.push("⚡ <b>PageSpeed (Desktop)</b>");
+    lines.push(
+      `  ${scoreEmoji(ps.performance)} Performance: <b>${ps.performance}</b>`,
+    );
     lines.push(`  ${scoreEmoji(ps.seo)} SEO: <b>${ps.seo}</b>`);
-    lines.push(`  ${scoreEmoji(ps.accessibility)} Accessibility: <b>${ps.accessibility}</b>`);
-    lines.push(`  ${scoreEmoji(ps.bestPractices)} Best Practices: <b>${ps.bestPractices}</b>`);
+    lines.push(
+      `  ${scoreEmoji(ps.accessibility)} Accessibility: <b>${ps.accessibility}</b>`,
+    );
+    lines.push(
+      `  ${scoreEmoji(ps.bestPractices)} Best Practices: <b>${ps.bestPractices}</b>`,
+    );
     lines.push(`  ⏱ LCP: ${ps.lcp} | CLS: ${ps.cls}`);
   } else {
     lines.push("⚡ PageSpeed: ⚠️ Failed to fetch");
   }
 
   lines.push("");
-  lines.push(`🔗 <a href="https://search.google.com/search-console?resource_id=https://ub-market.com">Open Search Console</a>`);
+  lines.push(
+    `🔗 <a href="https://search.google.com/search-console?resource_id=https://ub-market.com">Open Search Console</a>`,
+  );
 
   return lines.join("\n");
 }
