@@ -196,7 +196,10 @@ export async function getPageSpeedData(): Promise<PageSpeedData | null> {
     const url = encodeURIComponent("https://ub-market.com/en");
     const apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=mobile&category=performance&category=seo&category=accessibility&category=best-practices`;
 
-    const res = await fetch(apiUrl);
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+    const res = await fetch(apiUrl, { signal: controller.signal });
+    clearTimeout(timeout);
     if (!res.ok) return null;
 
     const data = await res.json();
