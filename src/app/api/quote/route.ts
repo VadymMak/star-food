@@ -21,6 +21,7 @@ export async function POST(req: NextRequest) {
       quantity,
       deliveryTerms,
       message,
+      locale,
     } = body;
 
     if (!name || !email) {
@@ -84,6 +85,7 @@ export async function POST(req: NextRequest) {
         quantity,
         deliveryTerms,
         message,
+        locale: locale || "en",
       });
     } catch (err) {
       console.error("Auto-reply error:", err);

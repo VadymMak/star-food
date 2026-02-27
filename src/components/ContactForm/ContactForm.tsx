@@ -9,7 +9,7 @@ import styles from "./ContactForm.module.css";
 const FALLBACK_EMAIL = "ubmarket2022@gmail.com";
 
 export default function ContactForm() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
   const cf = t.contactForm;
 
   const [form, setForm] = useState({
@@ -55,6 +55,7 @@ export default function ContactForm() {
           phone: form.phone,
           subject: form.subject,
           message: form.message,
+          locale,
         }),
       });
 

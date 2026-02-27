@@ -9,7 +9,7 @@ import { useLanguage } from "@/context/LanguageContext";
 import styles from "./QuoteForm.module.css";
 
 export default function QuoteForm() {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
   const qf = t?.quoteForm || {};
   const searchParams = useSearchParams();
   const preselectedProduct = searchParams.get("product") || "";
@@ -44,7 +44,7 @@ export default function QuoteForm() {
       const res = await fetch("/api/quote", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, locale }),
       });
 
       const data = await res.json();

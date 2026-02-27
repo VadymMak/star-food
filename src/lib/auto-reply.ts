@@ -58,6 +58,7 @@ interface AutoReplyData {
   type: "contact" | "quote";
   name: string;
   email: string;
+  locale?: string;
   message?: string;
   subject?: string;
   phone?: string;
@@ -81,6 +82,7 @@ export async function sendAutoReply(data: AutoReplyData): Promise<void> {
     product,
     quantity,
     deliveryTerms,
+    locale,
   } = data;
 
   if (!process.env.OPENAI_API_KEY || !process.env.RESEND_API_KEY) {
@@ -88,9 +90,8 @@ export async function sendAutoReply(data: AutoReplyData): Promise<void> {
     return;
   }
 
-  // Detect language
-  const textForDetection = message || product || "";
-  const lang = detectLanguage(textForDetection);
+  // Use locale from form (reliable) or fall back to text detection
+  const lang = (locale && LANG_CONFIG[locale]) ? locale : detectLanguage(message || product || "");
   const langCfg = LANG_CONFIG[lang] || LANG_CONFIG.en;
 
   // Build inquiry details

@@ -11,7 +11,7 @@ const FROM_EMAIL = "Star Food <noreply@ub-market.com>";
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
-    const { name, email, phone, subject, message } = body;
+    const { name, email, phone, subject, message, locale } = body;
 
     if (!name || !email || !message) {
       return NextResponse.json(
@@ -58,6 +58,7 @@ export async function POST(req: NextRequest) {
         phone,
         subject,
         message,
+        locale: locale || "en",
       });
     } catch (err) {
       console.error("Auto-reply error:", err);
