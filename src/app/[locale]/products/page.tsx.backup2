@@ -1,0 +1,76 @@
+"use client";
+
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
+import Image from "next/image";
+import Link from "next/link";
+import { FaArrowRight } from "react-icons/fa";
+import { products } from "@/data/products";
+import styles from "./products.module.css";
+
+export default function ProductsPage() {
+  const locale = useLocale();
+  const t = useTranslations();
+  return (
+    <>
+      <section className={styles.hero}>
+        <div className={styles.heroOverlay} />
+        <div className={styles.heroContent}>
+          <span className="section-label">{t("productsPage.label")}</span>
+          <h1
+            className="section-title"
+            style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
+          >
+            {t("productsPage.heroTitle")}
+          </h1>
+          <p className="section-subtitle" style={{ margin: "0 auto" }}>
+            {t("productsPage.heroSubtitle")}
+          </p>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <div className={styles.grid}>
+          {products.map((product) => {
+            const productItems = t.raw("products.items") as Record<
+              string,
+              { name: string; description: string }
+            >;
+            const translated = productItems?.[product.id];
+            return (
+              <Link
+                key={product.id}
+                href={`/${locale}/products/${product.slug}`}
+                className={styles.card}
+              >
+                {product.tag && (
+                  <span className={styles.tag}>{product.tag}</span>
+                )}
+                <div className={styles.imageWrap}>
+                  <Image
+                    src={product.image}
+                    alt={translated?.name || product.name}
+                    fill
+                    sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw"
+                    style={{ objectFit: "cover" }}
+                  />
+                </div>
+                <div className={styles.body}>
+                  <h2 className={styles.name}>
+                    {translated?.name || product.name}
+                  </h2>
+                  <p className={styles.desc}>
+                    {translated?.description || product.description}
+                  </p>
+                  <span className={styles.viewMore}>
+                    {t("productPage.viewDetails")} <FaArrowRight />
+                  </span>
+                </div>
+              </Link>
+            );
+          })}
+        </div>
+      </section>
+    </>
+  );
+}
