@@ -2,7 +2,6 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { useLocale } from "next-intl";
 import { useState } from "react";
 import { categories } from "@/data/categories";
 import BlogCard from "@/components/BlogCard/BlogCard";
@@ -24,9 +23,8 @@ interface Props {
 }
 
 export default function BlogListClient({ posts, locale }: Props) {
-  const locale = useLocale();
   const t = useTranslations();
-const [activeCategory, setActiveCategory] = useState("all");
+  const [activeCategory, setActiveCategory] = useState("all");
 
   const filtered =
     activeCategory === "all"
@@ -82,9 +80,7 @@ const [activeCategory, setActiveCategory] = useState("all");
           </div>
         ) : (
           <div className={styles.comingSoon}>
-            <h2 className={styles.comingTitle}>
-              {t("blog.comingTitle")}
-            </h2>
+            <h2 className={styles.comingTitle}>{t("blog.comingTitle")}</h2>
             <p className={styles.comingText}>{t("blog.comingText")}</p>
           </div>
         )}

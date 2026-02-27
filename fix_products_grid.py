@@ -1,4 +1,7 @@
-"use client";
+# Run: python fix_products_grid.py
+filepath = "src/components/ProductsGrid/ProductsGrid.tsx"
+
+content = """\"use client\";
 
 import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
@@ -65,3 +68,8 @@ export default function ProductsGrid() {
     </section>
   );
 }
+"""
+
+with open(filepath, "w") as f:
+    f.write(content)
+print("Fixed ProductsGrid.tsx")

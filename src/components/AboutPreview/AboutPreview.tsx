@@ -10,7 +10,10 @@ import styles from "./AboutPreview.module.css";
 export default function AboutPreview() {
   const locale = useLocale();
   const t = useTranslations();
-return (
+
+  const features = t.raw("aboutPreview.features") as string[];
+
+  return (
     <section className={styles.about}>
       <div className={styles.inner}>
         <div className={styles.grid}>
@@ -23,7 +26,6 @@ return (
               style={{ objectFit: "cover" }}
             />
           </div>
-
           <div className={styles.text}>
             <span className="section-label">{t("aboutPreview.label")}</span>
             <h2
@@ -34,16 +36,14 @@ return (
             </h2>
             <p className={styles.desc}>{t("aboutPreview.p1")}</p>
             <p className={styles.desc}>{t("aboutPreview.p2")}</p>
-
             <div className={styles.features}>
-              {(t("aboutPreview.features") || []).map((f: string) => (
+              {features.map((f: string) => (
                 <div key={f} className={styles.feature}>
                   <FaCheckCircle className={styles.featureIcon} />
                   <span>{f}</span>
                 </div>
               ))}
             </div>
-
             <Link
               href={`/${locale}/about`}
               className="btn btn-primary"

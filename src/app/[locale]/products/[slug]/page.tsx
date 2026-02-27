@@ -18,7 +18,11 @@ export default function ProductPage() {
   const t = useTranslations();
 
   const product = getProductBySlug(slug);
-const translated = t("products.items")?.[product?.id as string];
+  const productItems = t.raw("products.items") as Record<
+    string,
+    { name: string; description: string }
+  >;
+  const translated = productItems?.[product?.id as string];
 
   if (!product) {
     return (
@@ -203,7 +207,7 @@ const translated = t("products.items")?.[product?.id as string];
           </h2>
           <div className={styles.relatedGrid}>
             {related.map((rp) => {
-              const rTranslated = t("products.items")?.[rp.id as string];
+              const rTranslated = productItems?.[rp.id as string];
               return (
                 <Link
                   key={rp.slug}

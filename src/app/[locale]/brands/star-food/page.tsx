@@ -4,7 +4,13 @@ import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
-import { FaCheckCircle, FaEnvelope, FaHandshake, FaPalette, FaStar } from "react-icons/fa";
+import {
+  FaCheckCircle,
+  FaEnvelope,
+  FaHandshake,
+  FaPalette,
+  FaStar,
+} from "react-icons/fa";
 import { products } from "@/data/products";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
 import styles from "./brand.module.css";
@@ -12,7 +18,7 @@ import styles from "./brand.module.css";
 export default function StarFoodBrandPage() {
   const locale = useLocale();
   const t = useTranslations();
-const breadcrumbItems = [
+  const breadcrumbItems = [
     { label: t("nav.home"), href: `/${locale}` },
     { label: t("brandPage.breadcrumb") },
   ];
@@ -68,15 +74,37 @@ const breadcrumbItems = [
           <h2 className={styles.sectionTitle}>{t("brandPage.lineupTitle")}</h2>
           <div className={styles.productGrid}>
             {products.map((product) => {
-              const translated = t("products.items")?.[product.id as string];
+              const productItems = t.raw("products.items") as Record<
+                string,
+                { name: string; description: string }
+              >;
+              const translated = productItems?.[product.id as string];
               return (
-                <Link key={product.id} href={`/${locale}/products/${product.slug}`} className={styles.productCard}>
+                <Link
+                  key={product.id}
+                  href={`/${locale}/products/${product.slug}`}
+                  className={styles.productCard}
+                >
                   <div className={styles.productImage}>
-                    <Image src={product.image} alt={translated?.name || product.name} fill sizes="33vw" style={{ objectFit: "cover" }} />
+                    <Image
+                      src={product.image}
+                      alt={translated?.name || product.name}
+                      fill
+                      sizes="33vw"
+                      style={{ objectFit: "cover" }}
+                    />
                   </div>
                   <div className={styles.productInfo}>
-                    <Image src="/images/star-food-logo.webp" alt="Star Food" width={24} height={24} className={styles.productBadge} />
-                    <h3 className={styles.productName}>{translated?.name || product.name}</h3>
+                    <Image
+                      src="/images/star-food-logo.webp"
+                      alt="Star Food"
+                      width={24}
+                      height={24}
+                      className={styles.productBadge}
+                    />
+                    <h3 className={styles.productName}>
+                      {translated?.name || product.name}
+                    </h3>
                   </div>
                 </Link>
               );
@@ -88,8 +116,12 @@ const breadcrumbItems = [
       {/* Label Gallery */}
       <section className={styles.sectionDark}>
         <div className={styles.inner}>
-          <span className="section-label">{t("brandPage.labelGalleryLabel")}</span>
-          <h2 className={styles.sectionTitle}>{t("brandPage.labelGalleryTitle")}</h2>
+          <span className="section-label">
+            {t("brandPage.labelGalleryLabel")}
+          </span>
+          <h2 className={styles.sectionTitle}>
+            {t("brandPage.labelGalleryTitle")}
+          </h2>
           <div className={styles.labelGallery}>
             <div className={styles.labelImageWrap}>
               <Image
@@ -103,11 +135,26 @@ const breadcrumbItems = [
             <div className={styles.labelInfo}>
               <h3>{t("brandPage.labelInfoTitle")}</h3>
               <ul className={styles.labelList}>
-                <li><FaCheckCircle className={styles.checkIcon} /> {t("brandPage.labelInfo1")}</li>
-                <li><FaCheckCircle className={styles.checkIcon} /> {t("brandPage.labelInfo2")}</li>
-                <li><FaCheckCircle className={styles.checkIcon} /> {t("brandPage.labelInfo3")}</li>
-                <li><FaCheckCircle className={styles.checkIcon} /> {t("brandPage.labelInfo4")}</li>
-                <li><FaCheckCircle className={styles.checkIcon} /> {t("brandPage.labelInfo5")}</li>
+                <li>
+                  <FaCheckCircle className={styles.checkIcon} />{" "}
+                  {t("brandPage.labelInfo1")}
+                </li>
+                <li>
+                  <FaCheckCircle className={styles.checkIcon} />{" "}
+                  {t("brandPage.labelInfo2")}
+                </li>
+                <li>
+                  <FaCheckCircle className={styles.checkIcon} />{" "}
+                  {t("brandPage.labelInfo3")}
+                </li>
+                <li>
+                  <FaCheckCircle className={styles.checkIcon} />{" "}
+                  {t("brandPage.labelInfo4")}
+                </li>
+                <li>
+                  <FaCheckCircle className={styles.checkIcon} />{" "}
+                  {t("brandPage.labelInfo5")}
+                </li>
               </ul>
             </div>
           </div>
@@ -142,11 +189,18 @@ const breadcrumbItems = [
           <div className={styles.designedBy}>
             <FaPalette className={styles.designIcon} />
             <div>
-              <h3 className={styles.designTitle}>{t("brandPage.designedByTitle")}</h3>
+              <h3 className={styles.designTitle}>
+                {t("brandPage.designedByTitle")}
+              </h3>
               <p className={styles.designText}>
                 {t("brandPage.designedByText")}
               </p>
-              <a href="https://akillustrator.com" target="_blank" rel="noopener noreferrer" className={styles.designLink}>
+              <a
+                href="https://akillustrator.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.designLink}
+              >
                 {t("brandPage.designedByLink")}
               </a>
             </div>

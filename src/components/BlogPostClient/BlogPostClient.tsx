@@ -1,8 +1,6 @@
-// src/components/BlogPostClient/BlogPostClient.tsx
 "use client";
 
 import { useTranslations } from "next-intl";
-import { useLocale } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
@@ -32,9 +30,9 @@ interface Props {
 }
 
 export default function BlogPostClient({ post, slug, locale }: Props) {
-  const locale = useLocale();
   const t = useTranslations();
-if (!post) {
+
+  if (!post) {
     return (
       <div className={styles.notFound}>
         <h1>{t("blogPost.notFound")}</h1>
@@ -64,7 +62,6 @@ if (!post) {
     })),
   );
 
-  // Use ogImage for schema (1200x630, optimized for sharing)
   const ogImageUrl = post.ogImage
     ? `https://ub-market.com${post.ogImage}`
     : `https://ub-market.com${post.image}`;
@@ -148,12 +145,8 @@ if (!post) {
               </ReactMarkdown>
 
               <div className={styles.cta}>
-                <h3>
-                  {t("blogPost.ctaTitle")}
-                </h3>
-                <p>
-                  {t("blogPost.ctaText")}
-                </p>
+                <h3>{t("blogPost.ctaTitle")}</h3>
+                <p>{t("blogPost.ctaText")}</p>
                 <Link href={`/${locale}/quote`} className="btn btn-primary">
                   <FaEnvelope /> {t("blogPost.ctaButton")}
                 </Link>

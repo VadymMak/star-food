@@ -6,19 +6,21 @@ import styles from "./ContactStrip.module.css";
 
 export default function ContactStrip() {
   const t = useTranslations();
-return (
+  return (
     <section className={styles.strip} id="contact">
       <div className={styles.grid}>
         <div className={styles.item}>
           <FaMapMarkerAlt className={styles.icon} />
           <h4 className={styles.label}>{t("contact.address")}</h4>
           <p>
-            {(t("contact.addressValue")).split("\n").map((line: string, i: number) => (
-              <span key={i}>
-                {line}
-                {i === 0 && <br />}
-              </span>
-            ))}
+            {String(t("contact.addressValue"))
+              .split("\n")
+              .map((line: string, i: number) => (
+                <span key={i}>
+                  {line}
+                  {i === 0 && <br />}
+                </span>
+              ))}
           </p>
         </div>
 

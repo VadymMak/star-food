@@ -11,7 +11,7 @@ import styles from "./products.module.css";
 export default function ProductsPage() {
   const locale = useLocale();
   const t = useTranslations();
-return (
+  return (
     <>
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
@@ -32,7 +32,11 @@ return (
       <section className={styles.section}>
         <div className={styles.grid}>
           {products.map((product) => {
-            const translated = t("products.items")?.[product.id as keyof typeof t("products.items")];
+            const productItems = t.raw("products.items") as Record<
+              string,
+              { name: string; description: string }
+            >;
+            const translated = productItems?.[product.id];
             return (
               <Link
                 key={product.id}
@@ -52,8 +56,12 @@ return (
                   />
                 </div>
                 <div className={styles.body}>
-                  <h2 className={styles.name}>{translated?.name || product.name}</h2>
-                  <p className={styles.desc}>{translated?.description || product.description}</p>
+                  <h2 className={styles.name}>
+                    {translated?.name || product.name}
+                  </h2>
+                  <p className={styles.desc}>
+                    {translated?.description || product.description}
+                  </p>
                   <span className={styles.viewMore}>
                     {t("productPage.viewDetails")} <FaArrowRight />
                   </span>
