@@ -41,18 +41,6 @@ export function middleware(request: NextRequest) {
   const firstSegment = segments[1];
 
   if (firstSegment && isValidLocale(firstSegment)) {
-    // Valid locale in URL — proceed
-    // Ukrainian geo-restriction: if locale is "ua" but user is NOT from Ukraine,
-    // redirect to English
-    if (firstSegment === "ua") {
-      const country = getCountry(request);
-      if (country && country !== "UA") {
-        const url = request.nextUrl.clone();
-        url.pathname = pathname.replace(/^\/ua/, "/en");
-        return NextResponse.redirect(url);
-      }
-    }
-
     return NextResponse.next();
   }
 
@@ -61,14 +49,7 @@ export function middleware(request: NextRequest) {
   const cookieLocale = request.cookies.get("NEXT_LOCALE")?.value;
   if (cookieLocale && isValidLocale(cookieLocale)) {
     // Apply same UA restriction
-    if (cookieLocale === "ua") {
-      const country = getCountry(request);
-      if (country && country !== "UA") {
-        const url = request.nextUrl.clone();
-        url.pathname = `/en${pathname}`;
-        return NextResponse.redirect(url);
-      }
-    }
+
     const url = request.nextUrl.clone();
     url.pathname = `/${cookieLocale}${pathname}`;
     return NextResponse.redirect(url);
@@ -79,12 +60,6 @@ export function middleware(request: NextRequest) {
   let detectedLocale = detectLocaleFromHeader(acceptLanguage);
 
   // 3. If detected Ukrainian, verify country
-  if (detectedLocale === "ua") {
-    const country = getCountry(request);
-    if (!country || country !== "UA") {
-      detectedLocale = defaultLocale;
-    }
-  }
 
   // Redirect to locale-prefixed URL
   const url = request.nextUrl.clone();
