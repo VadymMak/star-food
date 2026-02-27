@@ -25,7 +25,8 @@
   z-index: 2;
   max-width: 800px;
   padding: 0 20px;
-  animation: fadeUp 1s ease-out;
+  /* Opacity-only animation: NO transform, NO layout shift */
+  animation: fadeIn 0.8s ease-out;
 }
 
 .badge {
@@ -79,15 +80,13 @@
   z-index: 1;
 }
 
-/* ===== ANIMATION ===== */
-@keyframes fadeUp {
+/* ===== ANIMATION — opacity only, no transform = zero CLS ===== */
+@keyframes fadeIn {
   from {
     opacity: 0;
-    transform: translateY(40px);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
   }
 }
 
