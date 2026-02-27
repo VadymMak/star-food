@@ -275,7 +275,15 @@
     "labelInfo2": "EU-konforme Lebensmittelkennzeichnung",
     "labelInfo3": "GVO-freies zertifiziertes Produkt",
     "labelInfo4": "Volle Rückverfolgbarkeit — Herkunft und Chargennummer",
-    "labelInfo5": "Professionelles Design von zertifiziertem Designer"
+    "labelInfo5": "Professionelles Design von zertifiziertem Designer",
+    "lineupLabel": "Product Range",
+    "lineupTitle": "Star Food Product Lineup",
+    "qualityLabel": "Quality Standards",
+    "qualityTitle": "Our Commitment to Quality",
+    "iso": "Food safety management system certification",
+    "haccp": "Hazard analysis and critical control points compliance",
+    "nongmo": "All products sourced from non-GMO verified suppliers",
+    "eu": "Full compliance with European food safety regulations"
   },
   "partnersPage": {
     "breadcrumb": "Partner",
@@ -286,7 +294,22 @@
     "benefitsTitle": "Warum Mit Uns Zusammenarbeiten",
     "typesTitle": "Partnerschaftsarten",
     "ctaTitle": "Bereit Loszulegen?",
-    "ctaButton": "Partnerschaftsinfo Anfordern"
+    "ctaButton": "Partnerschaftsinfo Anfordern",
+    "benefit1Title": "Competitive Pricing",
+    "benefit1Text": "Direct access to factory prices with transparent margin structure.",
+    "benefit2Title": "Reliable Logistics",
+    "benefit2Text": "Road transport delivery across 12+ EU countries, on time.",
+    "benefit3Title": "Personal Manager",
+    "benefit3Text": "Dedicated account manager for all your orders and inquiries.",
+    "benefit4Title": "EU Compliance",
+    "benefit4Text": "All documentation, certificates, and labeling meet EU standards.",
+    "type1": "Distributors",
+    "type1Text": "Wholesale distribution across your region with exclusive territory options.",
+    "type2": "Retailers",
+    "type2Text": "Direct supply to supermarket chains and specialty food stores.",
+    "type3": "HORECA",
+    "type3Text": "Bulk supply for restaurants, hotels, and catering companies.",
+    "ctaText": "Send us a quote request and our team will contact you within 24 hours."
   },
   "quotePage": {
     "breadcrumb": "Angebot Anfordern"
@@ -310,7 +333,14 @@
     "successTitle": "Anfrage Gesendet!",
     "successText": "Wir antworten innerhalb von 24 Stunden.",
     "sendAnother": "Neue Anfrage Senden",
-    "errorText": "Etwas ist schiefgelaufen. Schreiben Sie an ubmarket2022@gmail.com"
+    "errorText": "Etwas ist schiefgelaufen. Schreiben Sie an ubmarket2022@gmail.com",
+    "companyPlaceholder": "Your company name",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "phonePlaceholder": "+1 234 567 890",
+    "countryPlaceholder": "Your country",
+    "quantityPlaceholder": "e.g. 20 tons",
+    "messagePlaceholder": "Packaging preferences, delivery schedule, or any other details..."
   },
   "privateLabelPage": {
     "breadcrumb": "Eigenmarke",
@@ -336,7 +366,13 @@
     "orText": "Oder vertreiben Sie unter unserer bestehenden Marke:",
     "ctaTitle": "Bereit Ihre Marke zu Starten?",
     "ctaText": "Erzählen Sie uns von Ihrem Projekt — Angebot innerhalb von 48 Stunden.",
-    "ctaButton": "Kostenloses Angebot"
+    "ctaButton": "Kostenloses Angebot",
+    "benefit1": "No factory investment needed — use our production capacity",
+    "benefit2": "Flexible MOQ starting from 20 tons",
+    "benefit3": "Custom label design included in the service",
+    "benefit4": "Full EU compliance — documentation, certificates, labeling",
+    "benefit5": "Multiple packaging options: 1L, 3L, 5L, 10L PET, IBC, bulk",
+    "benefit6": "Fast turnaround — first batch within 3-4 weeks"
   },
   "meta": {
     "homeTitle": "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",

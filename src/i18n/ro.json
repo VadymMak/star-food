@@ -275,7 +275,15 @@
     "labelInfo2": "Etichetare conformă cu standardele UE",
     "labelInfo3": "Produs certificat Non-GMO",
     "labelInfo4": "Trasabilitate completă — origine și număr de lot",
-    "labelInfo5": "Design profesional de un designer certificat"
+    "labelInfo5": "Design profesional de un designer certificat",
+    "lineupLabel": "Product Range",
+    "lineupTitle": "Star Food Product Lineup",
+    "qualityLabel": "Quality Standards",
+    "qualityTitle": "Our Commitment to Quality",
+    "iso": "Food safety management system certification",
+    "haccp": "Hazard analysis and critical control points compliance",
+    "nongmo": "All products sourced from non-GMO verified suppliers",
+    "eu": "Full compliance with European food safety regulations"
   },
   "partnersPage": {
     "breadcrumb": "Parteneri",
@@ -286,7 +294,22 @@
     "benefitsTitle": "De Ce Să Fiți Partenerul Nostru",
     "typesTitle": "Tipuri de Parteneriat",
     "ctaTitle": "Gata să Începeți?",
-    "ctaButton": "Solicitați Informații"
+    "ctaButton": "Solicitați Informații",
+    "benefit1Title": "Competitive Pricing",
+    "benefit1Text": "Direct access to factory prices with transparent margin structure.",
+    "benefit2Title": "Reliable Logistics",
+    "benefit2Text": "Road transport delivery across 12+ EU countries, on time.",
+    "benefit3Title": "Personal Manager",
+    "benefit3Text": "Dedicated account manager for all your orders and inquiries.",
+    "benefit4Title": "EU Compliance",
+    "benefit4Text": "All documentation, certificates, and labeling meet EU standards.",
+    "type1": "Distributors",
+    "type1Text": "Wholesale distribution across your region with exclusive territory options.",
+    "type2": "Retailers",
+    "type2Text": "Direct supply to supermarket chains and specialty food stores.",
+    "type3": "HORECA",
+    "type3Text": "Bulk supply for restaurants, hotels, and catering companies.",
+    "ctaText": "Send us a quote request and our team will contact you within 24 hours."
   },
   "quotePage": {
     "breadcrumb": "Solicită Ofertă"
@@ -310,7 +333,14 @@
     "successTitle": "Cerere Trimisă!",
     "successText": "Vom răspunde în 24 de ore.",
     "sendAnother": "Trimite Altă Cerere",
-    "errorText": "Ceva nu a funcționat. Scrieți la ubmarket2022@gmail.com"
+    "errorText": "Ceva nu a funcționat. Scrieți la ubmarket2022@gmail.com",
+    "companyPlaceholder": "Your company name",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "phonePlaceholder": "+1 234 567 890",
+    "countryPlaceholder": "Your country",
+    "quantityPlaceholder": "e.g. 20 tons",
+    "messagePlaceholder": "Packaging preferences, delivery schedule, or any other details..."
   },
   "privateLabelPage": {
     "breadcrumb": "Marcă Privată",
@@ -336,7 +366,13 @@
     "orText": "Sau distribuiți sub marca noastră existentă:",
     "ctaTitle": "Gata să Lansați Marca?",
     "ctaText": "Spuneți-ne despre proiect și vom pregăti o propunere în 48 de ore.",
-    "ctaButton": "Ofertă Gratuită"
+    "ctaButton": "Ofertă Gratuită",
+    "benefit1": "No factory investment needed — use our production capacity",
+    "benefit2": "Flexible MOQ starting from 20 tons",
+    "benefit3": "Custom label design included in the service",
+    "benefit4": "Full EU compliance — documentation, certificates, labeling",
+    "benefit5": "Multiple packaging options: 1L, 3L, 5L, 10L PET, IBC, bulk",
+    "benefit6": "Fast turnaround — first batch within 3-4 weeks"
   },
   "meta": {
     "homeTitle": "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company",
