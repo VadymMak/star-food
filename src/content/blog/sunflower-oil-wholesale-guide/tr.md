@@ -1,120 +1,107 @@
 ---
 title: "Avrupa'da Toptan Ayçiçek Yağı Satın Alma Rehberi"
-description: "Avrupa'da toptan ayçiçek yağı tedariki hakkında bilmeniz gereken her şey — türler, kalite, fiyatlandırma ve güvenilir tedarikçiler."
-date: "2026-02-15"
+date: "2026-03-01"
+description: "Toptan ayçiçek yağı alımı hakkında bilmeniz gereken her şey — yağ çeşitleri, kalite sınıfları, fiyatlandırma, ambalaj, sertifikalar ve Avrupa'ya teslimat."
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 12
-ogImage: "/images/blog/sunflower-oil-wholesale-guide/og.jpg"
+tags: ["toptan satış", "ayçiçek yağı", "Avrupa", "rehber"]
 ---
+## Avrupa Ayçiçek Yağı Pazarına Genel Bakış
 
-## Ayçiçek Yağı Neden Avrupa'nın En Çok Ticareti Yapılan Bitkisel Yağıdır
+Avrupa ayçiçek yağı pazarı 2025 yılında yaklaşık 9,36 milyar dolar olarak değerlendirilmektedir ve 2034 yılına kadar 12,6 milyar dolara ulaşması beklenmektedir. Yağ stokları tarihi düşük seviyelerde olup, alıcılar aktif olarak yeni tedarikçiler aramaktadır.
 
-Avrupa ayçiçek yağı pazarı 2025 yılında yaklaşık **9,36 milyar dolar** değerindedir ve 2034 yılına kadar **12,6 milyar dolara** ulaşması beklenmektedir. Bu, ayçiçek yağını kıtadaki en aktif ticareti yapılan gıda emtialarından biri haline getirmektedir. İthalatçılar, distribütörler ve gıda üreticileri için bu ürünü verimli bir şekilde tedarik etmek iş başarısı için çok önemlidir.
+Başlıca üretici ülkeler Ukrayna, Rusya, Arjantin ve Türkiye'dir. Türkiye hem önemli bir üretici hem de büyük bir tüketici konumundadır. Bulgaristan ise AB kapısı olarak Doğu Avrupa gıda ürünleri için stratejik bir konumdadır.
 
-UB Market olarak, yıllardır Doğu Avrupa üreticilerini Avrupa genelindeki toptan alıcılarla buluşturuyoruz. Bu rehber, bilinçli satın alma kararları vermenize yardımcı olmak için uzmanlığımızı paylaşmaktadır.
-
-## Toptan Satışta Mevcut Ayçiçek Yağı Türleri
+## Ayçiçek Yağı Türleri
 
 ### Rafine Ayçiçek Yağı
-En yaygın ticareti yapılan tür. Rafine yağ; degumming, nötralizasyon, ağartma ve deodorizasyon işlemlerinden geçer. Nötr tada, açık renge ve yüksek duman noktasına (225°C) sahiptir.
 
-**Temel özellikler:**
-- Asitlik: maks. %0,1
-- Renk: açık sarı, şeffaf
-- Duman noktası: 225°C
+Perakende ve gıda endüstrisi için en yaygın kullanılan türdür. Tam arıtma sürecinden geçer: degomaj, nötralizasyon, ağartma ve deodorizasyon. Sonuç, kokusuz, açık sarı renkte, pişirme için ideal bir yağdır.
+
+**Özellikleri:**
+- Asitlik: maksimum %0,1
+- Renk: açık sarı, berrak
+- Duman noktası: 230°C
 - Raf ömrü: 12-18 ay
 
 ### Ham (Rafine Edilmemiş) Ayçiçek Yağı
-Kimyasal işlem yapılmadan doğrudan ayçiçeği tohumlarından sıkılır. Doğal altın rengini, kendine has tadını ve yüksek E vitamini içeriğini korur.
 
-**Temel özellikler:**
-- Asitlik: maks. %2,0
-- Renk: koyu altın
-- Nem: maks. %0,15
-- Kullanım: daha fazla rafinasyon veya özel ürünler
+Kimyasal işlem görmeden ilk soğuk sıkım yağı. Koyu sarı renkte ve karakteristik çekirdek kokusuna sahiptir. Rafineri hammaddesi veya premium mutfak yağı olarak kullanılır.
+
+**Özellikleri:**
+- Asitlik: %1-3
+- Renk: koyu sarı ile altın arası
+- Daha fazla E vitamini ve besin maddesi içerir
+- Daha kısa raf ömrü: 6-9 ay
 
 ### Yüksek Oleik Ayçiçek Yağı
-%80'in üzerinde oleik asit içeriğine sahip premium çeşit. Yüksek sıcaklıklarda üstün stabilite, daha uzun raf ömrü ve daha sağlıklı yağ asidi profili sunar. HORECA ve gıda üretim sektörlerinin talebi artmaktadır.
 
-**Temel özellikler:**
-- Oleik asit: %80+
-- Üstün kızartma stabilitesi
-- Uzatılmış raf ömrü
-- Premium fiyatlandırma (standartın %15-25 üstü)
+%80+ oleik asit içeren özel bir çeşittir. Yüksek sıcaklıklarda artan stabilitesi sayesinde HORECA sektöründe kızartma için idealdir. Türkiye'deki restoran zincirleri bu yağa hızla geçiş yapmaktadır.
 
-## Kalite Standartları ve Sertifikalar
+## Kalite Sınıfları
 
-Toptan ayçiçek yağı satın alırken şu sertifikaları arayın:
+| Sınıf | Asitlik | Kullanım Alanı |
+|-------|---------|----------------|
+| Birinci (Grade 1) | < %0,1 | Perakende, HORECA |
+| İkinci (Grade 2) | %0,1-0,3 | Gıda endüstrisi |
+| Üçüncü (Grade 3) | %0,3-1,0 | Teknik kullanım |
 
-- **ISO 22000** — Gıda güvenliği yönetim sistemi
-- **HACCP** — Tehlike analizi ve kritik kontrol noktaları
-- **Non-GMO** — Genetiği değiştirilmemiş organizma içermez
-- **AB Gıda Güvenliği** — Avrupa düzenlemelerine uygunluk
-- **Koşer / Helal** — Belirli pazar gereksinimleri için
+UB Market olarak yalnızca en yüksek kalite olan Grade 1 yağ ile çalışmaktayız.
 
-Her zaman sipariş vermeden önce bir Analiz Sertifikası (COA) talep edin.
+## Fiyatlandırmayı Etkileyen Faktörler
 
-## Toptan Ayçiçek Yağı Fiyatlarını Etkileyen Faktörler
+**Mevsimsellik.** Fiyatlar genellikle hasat sonrası (ekim-kasım) en düşük seviyede olup ilkbahar ve yaz aylarında yükselir.
 
-### 1. Hammadde Maliyetleri
-Ayçiçeği tohumu fiyatları Ukrayna, Rusya, Arjantin ve Türkiye'deki hasat verimlerine göre dalgalanır.
+**Sipariş hacmi.** Büyük siparişler (20+ ton) küçük partilere kıyasla önemli indirimler sağlar. Fark ton başına 100-250 dolara ulaşabilir.
 
-### 2. Rafinasyon Maliyetleri
-Ham yağ, rafine yağdan daha ucuzdur. Rafinasyon süreci ton başına yaklaşık 50-100$ ekler.
+**Teslimat koşulları.** FOB (Gemi Bordasında Teslim) — teslimat dahil olmayan temel fiyat. CIF (Mal Bedeli, Sigorta ve Navlun) — alıcının limanına teslimat dahil. DAP (Belirlenen Yerde Teslim) — deponuza kadar tam teslimat.
 
-### 3. Ambalaj
-Tanker teslimatı en ekonomiktir. PET şişeler ambalaj maliyeti ekler. IBC konteynerleri orta çözümdür.
-
-### 4. Teslimat Şartları (Incoterms)
-- **FOB:** Alıcı menşe limanından nakliye öder
-- **CIF:** Satıcı varış limanına kadar nakliyeyi karşılar
-- **DAP:** Satıcı alıcının deposuna teslim eder
-
-### 5. Döviz ve Piyasa Koşulları
-Yağ genellikle USD cinsinden fiyatlandırılır. Euro/USD döviz kuru dalgalanmaları Avrupalı alıcıları doğrudan etkiler.
-
-**Güncel fiyat aralığı (2026):** Ton başına $1.050 — $1.250 FOB Karadeniz limanları.
+**Ambalaj türü.** Dökme yağ (bulk) en ucuzudur. PET şişeler ton başına 150-250 dolar ek maliyet getirir.
 
 ## Ambalaj Seçenekleri
 
-| Format | Hacim | En Uygun |
-|--------|-------|----------|
-| PET Şişeler | 1L, 3L, 5L | Perakende dağıtım |
-| PET Şişeler | 10L, 18L | HORECA |
-| IBC Konteynerleri | 1.000L | Orta toptan |
-| Fleksitanklar | 20-24 ton | Büyük toptan |
-| Tanker | 20-40 ton | Endüstriyel alıcılar |
+| Format | Hacim | Ek Maliyet | Kime Uygun |
+|--------|-------|-----------|------------|
+| PET 1L, 3L, 5L | Şişe | +$150-250/ton | Perakende |
+| PET 10L, 18L | Şişe | +$100-150/ton | HORECA |
+| IBC 1000L | 1-20 konteyner | +$50-80/ton | Orta hacim |
+| Flexitank | 20-24 ton | +$20-30/ton | Büyük toptan |
+| Tanker | 20-40 ton | Temel fiyat | Endüstriyel |
 
-Hem markalı (Star Food) hem de özel marka ambalaj seçenekleri sunuyoruz.
+## Kalite Sertifikaları
 
-## Güvenilir Tedarikçi Nasıl Seçilir
+Tedarikçi seçerken aşağıdaki sertifikalara dikkat edin:
 
-1. **AB Kaydı** — Şirket bir AB ülkesinde kayıtlı mı?
-2. **Deneyim** — Kaç yıldır iş yapıyor? Referans isteyin.
-3. **Sertifikalar** — ISO, HACCP, Non-GMO doğrulaması.
-4. **Şeffaflık** — COA, menşe belgeleri ve parti izlenebilirliği.
-5. **Lojistik** — Avrupa genelinde kapıdan kapıya teslimat.
-6. **İletişim** — Çok dilli ekip, hızlı yanıt.
+- **ISO 22000** — gıda güvenliği yönetim sistemi
+- **HACCP** — tehlike analizi ve kritik kontrol noktaları
+- **Non-GMO** — GDO içermediğinin onayı
+- **AB Uygunluk Belgesi** — Avrupa'da ticaret için zorunlu
 
-## UB Market'ten Nasıl Sipariş Verilir
+UB Market, yalnızca ISO 22000 ve HACCP tam sertifikalarına sahip üreticilerle çalışmaktadır.
 
-1. **Gereksinimlerinizi gönderin** — Ürün tipi, hacim, ambalaj, teslimat noktası
-2. **Teklif alın** — 24 saat içinde rekabetçi fiyatlandırma
-3. **Onaylayın ve ödeyin** — Düzenli müşteriler için esnek ödeme koşulları
-4. **Teslimatı takip edin** — Avrupa genelinde gerçek zamanlı güncellemeler
+## Nasıl Sipariş Verilir
 
-## Sıkça Sorulan Sorular
+UB Market'te sipariş süreci basit ve şeffaftır:
+
+1. **Talep** — web sitemizdeki form veya e-posta yoluyla talebinizi gönderirsiniz
+2. **Teklif** — 24 saat içinde kişisel fiyat teklifinizi hazırlarız
+3. **Mutabakat** — hacim, ambalaj ve teslimat koşullarını görüşürüz
+4. **Üretim** — sipariş üreticiye iletilir
+5. **Teslimat** — Avrupa genelinde karayolu taşımacılığı (12+ ülke)
+
+## Sık Sorulan Sorular
 
 **Minimum sipariş miktarı nedir?**
-Standart MOQ 20 metrik tondur (bir tam kamyon).
+PET şişeler için 1 paletten, dökme yağ için 20 tondan itibaren.
 
-**Hangi ülkelere teslimat yapıyorsunuz?**
-Almanya, Türkiye, Romanya, Yunanistan, Polonya dahil 12+ Avrupa ülkesine.
+**Kendi markamla sipariş verebilir miyim?**
+Evet! Özel marka (private label) hizmeti sunuyoruz — siz etiket tasarımınızı sağlarsınız, biz üretir ve paketleriz.
 
-**Özel marka hizmeti sunuyor musunuz?**
-Evet! Kendi markanız altında ayçiçek yağı satabilirsiniz.
+**Teslimat süreleri nedir?**
+Avrupa genelinde standart karayolu teslimatı — mesafeye bağlı olarak 5-10 iş günü. Türkiye'ye teslimat 1-2 gün gibi kısa sürede gerçekleşir.
 
----
+**Kalite güvencesi nasıl?**
+Her parti, asitlik, peroksit sayısı, renk ve nem içeriği analizini içeren kalite sertifikası ile birlikte gönderilir.
 
-Toptan ayçiçek yağı tedarik etmeye hazır mısınız? **[Bugün teklif isteyin](/tr/quote)** ve 24 saat içinde rekabetçi fiyatlar alın.
+[Fiyat Teklifi İsteyin →](/tr/quote)

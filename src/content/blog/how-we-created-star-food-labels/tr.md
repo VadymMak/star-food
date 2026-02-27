@@ -1,63 +1,72 @@
 ---
-title: "Star Food Etiket Tasarımını Nasıl Oluşturduk"
-description: "Star Food'un profesyonel etiket tasarımının hikayesi — konseptten son ürüne."
-date: "2026-02-18"
+title: "Star Food Etiketlerini Nasıl Oluşturduk — Marka Tasarım Hikayemiz"
+date: "2026-03-10"
+description: "Star Food ürün etiketlerinin oluşturulma hikayesi — brieften son tasarıma. Profesyonel tasarımın alıcı güvenini nasıl artırdığı."
 category: "brand"
 image: "/images/star-food-label.webp"
-readingTime: 6
-ogImage: "/images/blog/how-we-created-star-food-labels/og.jpg"
+readingTime: 7
+tags: ["Star Food", "tasarım", "etiket", "marka"]
 ---
+## Profesyonel Tasarıma Neden Yatırım Yaptık
 
-## Gıda Ticaretinde Etiket Tasarımı Neden Önemlidir
+UB Market kendi markası Star Food'u piyasaya sürerken, ürün kalitesinin başarının yalnızca yarısı olduğunun farkındaydık. Rekabetin yoğun olduğu toptan ticarette etiketin kaliteyi ve güvenilirliği anında yansıtması gerekir.
 
-B2B gıda sektöründe ürün etiketleri, yasal uyumluluğun ötesinde kritik bir rol oynar. Profesyonelliği iletir, marka bilinirliği oluşturur ve distribütörler ile perakendecilerle güven yaratır.
+Profesyonel olmayan bir etiket, en kaliteli ürünün bile güvenilirliğini zedeleyebilir. Bu nedenle profesyonel bir tasarımcıyla çalışmaya karar verdik.
 
-Star Food markasını kurduğumuzda, profesyonel etiket tasarımına yatırım yapmanın Avrupa pazarı konumlandırmamız için şart olduğunu biliyorduk.
+## Tasarımcı Seçimi
 
-## Profesyonel Bir Tasarımcıyla Çalışmak
+[Anastasiia Kolisnyk — AK Illustrator](https://akillustrator.com) ile çalışmayı tercih ettik. Slovakya merkezli profesyonel illüstratör ve tasarımcı olan Anastasiia, etiket tasarımı, marka kimliği ve çocuk kitabı illüstrasyonlarında uzmanlaşmıştır.
 
-Star Food etiket projesi için Slovakya merkezli profesyonel illüstratör ve tasarımcı [Anastasiia Kolisnyk](https://akillustrator.com) ile ortaklık kurduk. Anastasiia ürün ambalajı, markalaşma ve illüstrasyon konularında uzmanlaşmıştır.
+Neden o? Üç temel neden:
+- Gıda ürünleri konusunda deneyim
+- Çok dilli etiket gereksinimlerini anlama
+- Canlılığı profesyonellikle birleştirebilme yeteneği
 
 ## Tasarım Süreci
 
-### Adım 1: Marka Brifingi
-- **Marka kimliği:** Star Food — kaliteli Avrupa gıda ürünleri
-- **Renk paleti:** Mavi (güven) + Sarı (ayçiçeği, sıcaklık)
-- **Hedef pazar:** Avrupalı toptan alıcılar ve perakendeciler
-- **Yasal gereksinimler:** AB gıda etiketleme düzenlemeleri
-- **Etiket dilleri:** İngilizce, Bulgarca, Yunanca, Lehçe, Ukraynaca
+### Aşama 1: Brief
 
-### Adım 2: Konsept Geliştirme
-Anastasiia birkaç konsept geliştirdi:
-- Merkezi öğe olarak Star Food yuvarlak logosu
-- Ürünün doğal kökenini temsil eden ayçiçeği tarlası görseli
-- Besin bilgileri için temiz, okunabilir tipografi
-- Kolay gezinme için renk kodlu bölümler
-- B2B alıcılara kalite ileten premium his
+Detaylı bir brief hazırladık:
+- Marka konumlandırma (kalite, erişilebilirlik, güven)
+- Hedef kitle (Avrupa'daki toptan alıcılar ve distribütörler)
+- Etiket dilleri (İngilizce, Bulgarca, Yunanca, Lehçe, Ukraynaca)
+- Zorunlu bilgiler (içerik, besin değeri, saklama koşulları)
+- Teknik gereksinimler (boyut, baskı tipi)
 
-### Adım 3: İyileştirme
-- Şişe ölçeğinde okunabilirlik için metin boyutlandırması optimize edildi
-- AB zorunlu besin bilgilerinin doğru konumlandırılması sağlandı
-- Farklı şişe boyutlarında (1L, 3L, 5L) tasarım test edildi
+### Aşama 2: Konseptler
 
-### Adım 4: Final Üretim
-- **Ön panel:** Star Food logosu, ürün adı, hacim, sertifikalar
-- **Arka panel:** Tam besin bilgisi, içerikler, saklama koşulları
-- **Yan paneller:** Şirket bilgileri, barkod, parti numarası
-- **Çok dilli metin:** 5 dilde tüm gerekli bilgiler
+Anastasiia üç konsept önerdi:
+
+1. **Minimalist** — sade beyaz arka plan, logoya odaklı
+2. **Doğal** — ayçiçeği tarlası görüntüsü, sıcak renkler
+3. **Premium** — koyu arka plan, altın aksanlar
+
+İkinci seçeneği tercih ettik — ayçiçeği tarlası, doğallık ve kalite ile anında bir bağ kuruyor. Bu görsel, herhangi bir ülkeden alıcı için çeviri gerektirmeden anlaşılır.
+
+### Aşama 3: Detaylandırma
+
+Bu aşamada ayrıntılar üzerinde çalıştık:
+- Star Food logosu yerleşimi — maksimum görünürlük için etiketin üst kısmı
+- Besin değeri tablosu — okunaklı font
+- Renk paleti — tazelik çağrışımları için sarı ve yeşil
+- Çok dillilik — 5 dil, düzenli ve sade yerleşim
+
+### Aşama 4: Son Tasarım
+
+İki revizyon turundan sonra elde ettiğimiz etiket:
+- Rafta rakiplerden ayrışıyor
+- AB mevzuatına uygun tüm zorunlu bilgileri içeriyor
+- Farklı hacimlerdeki PET şişelerde (1L, 3L, 5L) çalışıyor
+- Yeni ürün serisi için kolayca uyarlanabiliyor
 
 ## Sonuç
 
-Star Food etiket tasarımı iş geliştirmemizde önemli bir varlık haline geldi. Distribütörler ambalajımızın profesyonel görünümü hakkında sürekli olumlu geri bildirim veriyor.
+Yeni Star Food etiketi ortaklarımız ve distribütörlerimizden olumlu geri bildirim aldı.
 
-## Öğrendiklerimiz
+**Tanınırlık.** Yıldızlı parlak logo kolayca akılda kalıyor.
 
-1. **Düzenleyici gereksinimlerle başlayın** — AB düzenlemeleri katıdır
-2. **Profesyonel tasarıma yatırım yapın** — B2B alıcılar ambalaja göre değerlendirir
-3. **Birden fazla dil için planlayın** — Çok dilli metni baştan düşünün
-4. **Raf görünürlüğünü düşünün** — Rakiplerin yanında nasıl görünüyor?
-5. **Tüm şişe boyutlarını düşünün** — 1L'den 5L'ye kadar çalışmalı
+**Güven.** Profesyonel tasarım, ürün kalitesi algısını yükseltiyor.
 
----
+**Evrensellik.** Çok dilli etiket, farklı ülkelerde yeniden basım yapmadan satış imkânı sunuyor.
 
-Star Food ürünlerini dağıtmak ister misiniz? **[Ortak olun](/tr/partners)** veya **[fiyat listesi isteyin](/tr/quote)**.
+[Star Food Hakkında Daha Fazla Bilgi →](/tr/brands/star-food)

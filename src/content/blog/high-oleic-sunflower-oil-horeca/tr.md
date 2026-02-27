@@ -1,40 +1,69 @@
 ---
-title: "HORECA İçin Yüksek Oleik Ayçiçek Yağı: Restoranlar Neden Geçiş Yapıyor"
-description: "HORECA işletmelerinin neden yüksek oleik ayçiçek yağına geçtiğini keşfedin — 2-3 kat daha uzun kızartma ömrü ve yıllık %25-35 tasarruf."
-date: "2026-03-08"
+title: "HORECA İçin Yüksek Oleik Ayçiçek Yağı — Restoranlar Neden Geçiş Yapıyor"
+date: "2026-04-05"
+description: "Yüksek oleik ayçiçek yağının restoranlar ve fast-food için neden standart haline geldiği — kızartma stabilitesi, sağlık ve tasarruf."
 category: "sunflower-oil"
 image: "/images/frying-oil.webp"
-readingTime: 9
-ogImage: "/images/blog/high-oleic-sunflower-oil-horeca/og.jpg"
+readingTime: 7
+tags: ["yüksek oleik", "HORECA", "restoranlar", "kızartma"]
 ---
+## Yüksek Oleik Yağ Nedir
 
-## Yüksek Oleik Ayçiçek Yağı Nedir?
+Yüksek Oleik (High Oleic) ayçiçek yağı, normal ayçiçek yağındaki %20-30'a kıyasla %80+ oleik asit (tekli doymamış yağ) içeren özel bir çeşittir.
 
-Yüksek oleik ayçiçek yağı (HOSO), **%80+ oleik asit** içeren özel ayçiçeği çeşitlerinden üretilir — standart ayçiçek yağındaki %20-30'a kıyasla. Bu profil zeytinyağına benzer.
+Bu fark, özellikle restoranlarda kızartma için ticari kullanımda büyük pratik öneme sahiptir. Türkiye'deki HORECA sektörü bu yağa hızla geçiş yapmaktadır.
 
-## HORECA İçin 5 Avantaj
+## HORECA İçin Avantajları
 
-### 1. Daha Uzun Kızartma Ömrü (2-3 Kat)
-Standart yağ 8-12 saat dayanırken, HOSO **20-30 saat** dayanır.
+### 1. Fritözde Daha Uzun Ömür
 
-### 2. Daha Yüksek Duman Noktası (230°C+)
-Mutfakta daha az duman, derin kızartmada daha iyi sonuçlar.
+Normal ayçiçek yağı 3-5 kızartma döngüsü dayanır. Yüksek oleik ise kalitede belirgin düşüş olmadan 7-10 döngü dayanır.
 
-### 3. Daha Sağlıklı Yağ Profili
-%80-90 tekli doymamış yağ asidi, minimum trans yağ oluşumu.
+Her gün kızartma yapan bir restoran için bu, yağ değişimini yarı yarıya azaltmak demektir. Aylık bazda kızartma yağı maliyetlerinde %40-50 tasarruf sağlar.
 
-### 4. Nötr Tat
-Yiyeceklere istenmeyen tat aktarmaz.
+### 2. Daha Az Zararlı Madde Oluşumu
 
-## Maliyet Analizi
+Isıtıldığında normal yağ zararlı aldehitler oluşturur. Yüksek oleik yağ çok daha stabildir — daha az oksidasyon, daha sağlıklı yemek demektir.
 
-| Faktör | Standart Yağ | HOSO |
-|--------|-------------|------|
-| **Ton fiyatı** | $1,100–1,200 | $1,300–1,450 |
-| **Haftalık yağ değişimi** | 5–6 | 2–3 |
-| **Yıllık maliyet** | EUR 10,500–13,300 | EUR 6,500–8,550 |
-| **Yıllık tasarruf** | — | **EUR 2,000–4,750 (%25-35)** |
+### 3. Nötr Tat
 
-## Teklif İsteyin
+Ürünlere yabancı tat vermez. Patates kızartması, tavuk, deniz ürünleri — hepsi doğal tatını korur.
 
-**[Teklif İsteyin →](/tr/quote)**
+### 4. Yüksek Duman Noktası
+
+Yüksek oleik yağın duman noktası normalin 230°C'sine karşı 270°C'ye kadar çıkar. Yüksek sıcaklıklarda daha güvenli çalışma imkânı.
+
+## Diğer Kızartma Yağlarıyla Karşılaştırma
+
+| Yağ | Duman Noktası | Stabilite | Fiyat | Kızartma Döngüsü |
+|-----|-------------|-----------|-------|------------------|
+| Yüksek Oleik Ayçiçek | 270°C | Yüksek | Orta | 7-10 |
+| Normal Ayçiçek | 230°C | Orta | Düşük | 3-5 |
+| Palm | 235°C | Yüksek | Düşük | 6-8 |
+| Kolza | 220°C | Orta | Orta | 3-5 |
+| Zeytinyağı | 210°C | Orta | Yüksek | 3-4 |
+
+## Ekonomik Hesaplama
+
+Haftada 200 litre yağ kullanan bir restoran:
+
+**Normal yağ ile:**
+- Her 3 günde değişim = ayda 10 değişim
+- 200L × 10 = ayda 2.000L
+- Maliyet: ~$2.400/ay
+
+**Yüksek oleik ile:**
+- Her 6 günde değişim = ayda 5 değişim
+- 200L × 5 = ayda 1.000L
+- Maliyet: ~$1.500/ay
+
+**Tasarruf: ayda ~$900 veya yılda $10.800**
+
+## Toptan Nereden Alınır
+
+UB Market, HORECA sektörü için yüksek oleik ayçiçek yağı tedarik etmektedir:
+- Restoranlar için 5L ve 10L PET şişeler
+- Zincirler için 1000L IBC konteynerler
+- Büyük alıcılar için 20-24 ton flexitank
+
+[Yüksek Oleik Yağ Fiyatı İsteyin →](/tr/quote)

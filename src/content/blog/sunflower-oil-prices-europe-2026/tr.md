@@ -1,73 +1,83 @@
 ---
-title: "Avrupa'da Ayçiçek Yağı Fiyatları — 2026 Pazar Güncellemesi"
-description: "Avrupa'da ayçiçek yağı toptan fiyatları, pazar trendleri ve 2026 fiyat tahminleri."
-date: "2026-02-20"
+title: "Avrupa'da Ayçiçek Yağı Fiyatları 2026 — Güncel Pazar Analizi"
+date: "2026-03-15"
+description: "Avrupa'da güncel ayçiçek yağı FOB/CIF fiyatları, pazar trendleri, tahminler ve ülke bazlı karşılaştırma. Aylık güncellenir."
 category: "sunflower-oil"
 image: "/images/our-products.webp"
 readingTime: 8
-ogImage: "/images/blog/sunflower-oil-prices-europe-2026/og.jpg"
+tags: ["fiyatlar", "ayçiçek yağı", "pazar", "2026"]
 ---
+## 2026 Başı Pazar Durumu
 
-## Güncel Ayçiçek Yağı Fiyatları (Şubat 2026)
+Avrupa ayçiçek yağı pazarı önceki yılların dalgalanmalarından sonra toparlanmaya devam etmektedir. Ortalama ihracat fiyatı ton başına 1.100-1.200 dolar civarındadır.
 
-Avrupa ayçiçek yağı pazarı, küresel tedarik zincirleri, hasat sonuçları ve jeopolitik faktörlerden etkilenen dinamik fiyatlandırma göstermeye devam ediyor.
+Fiyatları etkileyen temel faktörler:
 
-| Ürün | FOB Karadeniz | CIF Rotterdam | CIF Türkiye |
-|------|--------------|---------------|-------------|
-| Rafine Ayçiçek Yağı | $1.100-1.180/ton | $1.200-1.280/ton | $1.150-1.230/ton |
-| Ham Ayçiçek Yağı | $950-1.050/ton | $1.050-1.150/ton | $1.000-1.100/ton |
-| Yüksek Oleik Ayçiçek Yağı | $1.300-1.450/ton | $1.400-1.550/ton | $1.350-1.500/ton |
+**2025 Hasadı.** Ukrayna ve Rusya'daki üretim yüksek seviyede kalmaya devam ederek piyasaya istikrarlı arz sağlamaktadır.
 
-*Fiyatlar gösterge niteliğindedir.*
+**Asya'dan Talep.** Hindistan ve Çin ithalatı artırarak Avrupalı alıcılarla hammadde rekabeti oluşturmaktadır.
 
-## 2026 Pazar Trendleri
+**Lojistik.** Taşımacılık maliyetleri 2023 zirvelerinden sonra stabilize olmuş, bu da nihai CIF fiyatını olumlu etkilemektedir.
 
-### Arz Tarafı
-Ukrayna, lojistik zorluklara rağmen dünyanın en büyük ayçiçek yağı ihracatçısı olmaya devam ediyor. 2025/26 hasadı orta düzeyde gerçekleşti — üretim yaklaşık 10,5 milyon ton tohum olarak tahmin ediliyor, bu da önceki sezona göre %8 düşüş anlamına geliyor.
+## Güncel Fiyatlar (Q1 2026)
 
-Rusya'nın ihracat kısıtlamaları küresel arzı etkilemeye devam ediyor. Arjantin ve Türkiye önemli ikincil kaynaklar.
+| Yağ Türü | FOB Karadeniz | CIF Rotterdam | CIF İstanbul |
+|----------|--------------|--------------|-------------|
+| Rafine Grade 1 | $1.050-1.100 | $1.150-1.200 | $1.100-1.150 |
+| Ham (crude) | $900-950 | $1.000-1.050 | $950-1.000 |
+| Yüksek Oleik | $1.200-1.300 | $1.300-1.400 | $1.250-1.350 |
 
-### Talep Tarafı
-Avrupa'da ayçiçek yağı talebi güçlü kalmaya devam ediyor. Gıda üretim sektörü ve tüketicilerin palm yağı yerine ayçiçek yağı tercihi talebi destekliyor.
+*Fiyatlar tahmini olup sipariş hacmine göre değişiklik gösterir. Güncel teklif için bizimle iletişime geçin.*
 
-Türkiye, hem iç tüketim hem de işlenmiş gıda ürünleri olarak yeniden ihracat için önemli miktarlarda ithalat yaparak büyük bir alıcı olarak öne çıkmıştır.
+Türkiye'ye teslimatlar coğrafi yakınlık nedeniyle Batı Avrupa'ya kıyasla genellikle daha uygun fiyatlıdır.
 
-### 2026'da Temel Fiyat Belirleyiciler
+## 12 Aylık Fiyat Dinamiği
 
-1. **Hasat hacimleri** — 2026 ekim sezonu görünümü kritik olacak
-2. **Lojistik maliyetleri** — Karadeniz navlun oranları değişken
-3. **Döviz hareketleri** — USD/EUR ve USD/TRY kurları doğrudan etkileyici
-4. **Rakip yağlar** — Palm ve soya yağı fiyatları referans oluşturuyor
-5. **Enerji maliyetleri** — Rafinasyon ve nakliye maliyetleri
+- **İlkbahar 2025:** Mevsimsel talep artışıyla $1.150-1.250/ton'a yükseliş
+- **Yaz 2025:** $1.100-1.200/ton seviyesinde stabilizasyon
+- **Sonbahar 2025:** Yeni hasat ile $1.000-1.100/ton'a düşüş
+- **Kış 2026:** $1.050-1.150/ton'a kademeli yükseliş
 
-## Bölgesel Fiyat Karşılaştırması
+## Fiyatı Etkileyen Faktörler
 
-| Hedef | Ort. CIF Fiyat (Rafine) | Notlar |
-|-------|------------------------|--------|
-| Batı Avrupa | $1.250-1.300/ton | Premium pazar |
-| Güney Avrupa | $1.200-1.260/ton | Yüksek tüketim |
-| Türkiye | $1.150-1.230/ton | Artan ithalat |
-| Romanya, Bulgaristan | $1.100-1.180/ton | Üretime yakınlık |
-| Polonya, Çekya | $1.200-1.260/ton | Büyüyen pazar |
+### Fiyatı Yükselten Faktörler
+- Üretici ülkelerdeki kötü hava koşulları
+- Asya ve Afrika ülkelerinden artan talep
+- Yakıt ve lojistik maliyetlerindeki artış
+- Üretici ülkelerdeki ihracat kısıtlamaları
+- Rakip yağların (palm, kolza) fiyat artışları
 
-## Fiyat Tahmini: Q2-Q4 2026
+### Fiyatı Düşüren Faktörler
+- Rekor hasatlar
+- Ekonomik durgunluk nedeniyle azalan talep
+- Diğer bitkisel yağlarla rekabet
+- ABD dolarının güçlenmesi
 
-- **Q2 2026:** Hafif artış ($20-40/ton)
-- **Q3 2026:** Yeni hasat görünümüyle stabilizasyon
-- **Q4 2026:** Hasat sonuçlarına bağlı
+## Diğer Bitkisel Yağlarla Karşılaştırma
 
-2026 için genel eğilim **ılımlı yükseliş** yönünde.
+| Yağ | Ortalama FOB Fiyat ($/ton) | Trend |
+|-----|---------------------------|-------|
+| Ayçiçek | $1.050-1.100 | Stabil |
+| Palm | $850-900 | Yükseliyor |
+| Kolza | $1.000-1.050 | Stabil |
+| Soya | $950-1.000 | Düşüyor |
+| Zeytinyağı | $4.500-6.000 | Yükseliyor |
 
-## Rekabetçi Fiyatlar Nasıl Elde Edilir
+## 2026 Tahminleri
 
-UB Market olarak sunduklarımız:
-- **Üreticilerden doğrudan tedarik**
-- **100 ton üzeri siparişlerde hacim indirimi**
-- **Vadeli kontratlar** — bugünün fiyatını kilitleyin
-- **Esnek ödeme** — T/T, L/C seçenekleri
+- **Q1 2026:** $1.050-1.150/ton — mevsimsel yükseliş
+- **Q2 2026:** $1.100-1.200/ton — yeni hasat öncesi zirve
+- **Q3 2026:** $1.000-1.100/ton — yeni hasat baskısı
+- **Q4 2026:** $1.050-1.150/ton — stabilizasyon
 
----
+## En İyi Fiyatı Nasıl Alırsınız
 
-Güncel fiyatlara mı ihtiyacınız var? **[Kişiselleştirilmiş teklif isteyin](/tr/quote)** — 24 saat içinde yanıt veriyoruz.
+**Büyük hacimde sipariş verin.** 20 ton ve üzeri siparişler en düşük birim fiyatı sağlar.
 
-*Bu makale aylık güncellenmektedir. Son güncelleme: Şubat 2026.*
+**Önceden planlayın.** En uygun fiyatlar hasat sonrası dönemde (ekim-aralık).
+
+**Uygun ambalajı seçin.** Dökme yağ, şişelenmiş yağdan ton başına $150-250 daha ucuzdur.
+
+**Doğrudan çalışın.** UB Market aracı komisyonu olmadan doğrudan fiyat sunar.
+
+[Güncel Fiyat Teklifi Alın →](/tr/quote)
