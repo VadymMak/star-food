@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { getPostSlugs, getPostBySlug } from "@/lib/blog";
+import { getAllSlugs } from "@/data/products";
 
 const BASE_URL = "https://ub-market.com";
 
@@ -32,59 +33,48 @@ const staticPages = [
   },
 ];
 
-// Product pages
-const productSlugs = [
-  "sunflower-oil",
-  "frying-oil",
-  "sugar",
-  "mayonnaise",
-  "dry-milk",
-  "powdered-milk",
-  "palm-oil",
-];
-
-function createEntry(
+function createEntries(
   path: string,
   changeFreq: "daily" | "weekly" | "monthly",
   priority: number,
   lastMod?: string,
-): MetadataRoute.Sitemap[number] {
+): MetadataRoute.Sitemap {
   const languages: Record<string, string> = {};
-
   for (const loc of locales) {
-    const hreflang = hreflangMap[loc];
-    languages[hreflang] = `${BASE_URL}/${loc}${path}`;
+    languages[hreflangMap[loc]] = `${BASE_URL}/${loc}${path}`;
   }
   languages["x-default"] = `${BASE_URL}/en${path}`;
 
-  return {
-    url: `${BASE_URL}/en${path}`,
+  // One <url> per locale, all sharing the same hreflang alternates
+  return locales.map((loc) => ({
+    url: `${BASE_URL}/${loc}${path}`,
     lastModified: lastMod ? new Date(lastMod) : new Date(),
     changeFrequency: changeFreq,
     priority,
     alternates: { languages },
-  };
+  }));
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
 
-  // Static pages
+  // Static pages (9 pages × 6 locales = 54 entries)
   for (const page of staticPages) {
-    entries.push(createEntry(page.path, page.changeFreq, page.priority));
+    entries.push(...createEntries(page.path, page.changeFreq, page.priority));
   }
 
-  // Product pages
+  // Product pages — dynamic from data (6 products × 6 locales = 36 entries)
+  const productSlugs = getAllSlugs();
   for (const slug of productSlugs) {
-    entries.push(createEntry(`/products/${slug}`, "monthly", 0.7));
+    entries.push(...createEntries(`/products/${slug}`, "monthly", 0.7));
   }
 
-  // Blog posts — auto-discovered from filesystem
+  // Blog posts — auto-discovered (12 posts × 6 locales = 72 entries)
   const blogSlugs = getPostSlugs();
   for (const slug of blogSlugs) {
     const post = getPostBySlug(slug, "en");
     const lastMod = post?.date || undefined;
-    entries.push(createEntry(`/blog/${slug}`, "monthly", 0.6, lastMod));
+    entries.push(...createEntries(`/blog/${slug}`, "monthly", 0.6, lastMod));
   }
 
   return entries;
