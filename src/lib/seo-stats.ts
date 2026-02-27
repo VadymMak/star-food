@@ -206,7 +206,7 @@ export async function getPageSpeedData(): Promise<PageSpeedData | null> {
   try {
     const url = encodeURIComponent("https://ub-market.com/en");
     const apiKey = process.env.GOOGLE_API_KEY || "";
-    const apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=desktop&category=performance&category=seo${apiKey ? `&key=${apiKey}` : ""}`;
+    const apiUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=desktop&category=performance&category=seo&category=accessibility&category=best-practices${apiKey ? `&key=${apiKey}` : ""}`;
 
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 25000);
