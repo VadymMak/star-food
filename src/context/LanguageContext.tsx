@@ -65,22 +65,7 @@ export function LanguageProvider({
   }, [locale]);
 
   useEffect(() => {
-    async function checkGeo() {
-      try {
-        const res = await fetch("https://ipapi.co/json/", {
-          cache: "force-cache",
-        });
-        const data = await res.json();
-        if (data.country_code === "UA") {
-          setAvailableLocales(locales);
-        } else {
-          setAvailableLocales(locales.filter((l) => l !== "ua"));
-        }
-      } catch {
-        setAvailableLocales(locales.filter((l) => l !== "ua"));
-      }
-    }
-    checkGeo();
+    setAvailableLocales(locales);
   }, []);
 
   const translate = useCallback(

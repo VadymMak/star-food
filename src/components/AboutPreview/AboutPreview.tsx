@@ -26,7 +26,10 @@ export default function AboutPreview() {
 
           <div className={styles.text}>
             <span className="section-label">{ap.label || "About Us"}</span>
-            <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
+            <h2
+              className="section-title"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
               {ap.title || "Your Trusted Partner in Food Export & Import"}
             </h2>
             <p className={styles.desc}>{ap.p1}</p>
@@ -41,8 +44,12 @@ export default function AboutPreview() {
               ))}
             </div>
 
-            <Link href={`/${locale}/about`} className="btn btn-primary" style={{ marginTop: "10px" }}>
-              {ap.cta || "Learn More"} <FaArrowRight />
+            <Link
+              href={`/${locale}/about`}
+              className="btn btn-primary"
+              style={{ marginTop: "10px" }}
+            >
+              {ap.cta || "Learn More About UB Market"} <FaArrowRight />
             </Link>
           </div>
         </div>
