@@ -8,6 +8,7 @@ import { FaCalendar, FaClock, FaArrowLeft, FaEnvelope } from "react-icons/fa";
 import { useLanguage } from "@/context/LanguageContext";
 import { generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
+import remarkGfm from "remark-gfm";
 import TableOfContents from "@/components/TableOfContents/TableOfContents";
 import styles from "../../app/[locale]/blog/[slug]/post.module.css";
 
@@ -142,7 +143,9 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
         <div className={styles.inner}>
           <div className={styles.bodyGrid}>
             <article className={`${styles.article} blog-content`}>
-              <ReactMarkdown>{post.content}</ReactMarkdown>
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                {post.content}
+              </ReactMarkdown>
 
               <div className={styles.cta}>
                 <h3>
@@ -152,12 +155,9 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
                   {bp.ctaText ||
                     "Contact UB Market for competitive pricing and reliable supply."}
                 </p>
-                <a
-                  href="mailto:ubmarket2022@gmail.com"
-                  className="btn btn-primary"
-                >
+                <Link href={`/${locale}/quote`} className="btn btn-primary">
                   <FaEnvelope /> {bp.ctaButton || "Request a Quote"}
-                </a>
+                </Link>
               </div>
             </article>
 
