@@ -1,17 +1,15 @@
 // src/components/ContactForm/ContactForm.tsx
 "use client";
 
-import { useTranslations } from "next-intl";
-import { useLocale } from "next-intl";
 import React, { useState } from "react";
 import { FaPaperPlane, FaCheck, FaEnvelope } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
 import styles from "./ContactForm.module.css";
 
 const FALLBACK_EMAIL = "ubmarket2022@gmail.com";
 
 export default function ContactForm() {
-  const locale = useLocale();
-  const t = useTranslations();
+  const { t, locale } = useLanguage();
   const cf = t.contactForm;
 
   const [form, setForm] = useState({

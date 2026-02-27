@@ -1,12 +1,11 @@
 // src/components/BlogPostClient/BlogPostClient.tsx
 "use client";
 
-import { useTranslations } from "next-intl";
-import { useLocale } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
 import { FaCalendar, FaClock, FaArrowLeft, FaEnvelope } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
 import { generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
 import remarkGfm from "remark-gfm";
@@ -32,14 +31,15 @@ interface Props {
 }
 
 export default function BlogPostClient({ post, slug, locale }: Props) {
-  const locale = useLocale();
-  const t = useTranslations();
-if (!post) {
+  const { t } = useLanguage();
+  const bp = t?.blogPost || {};
+
+  if (!post) {
     return (
       <div className={styles.notFound}>
-        <h1>{t("blogPost.notFound")}</h1>
+        <h1>{bp.notFound || "Article Not Found"}</h1>
         <Link href={`/${locale}/blog`} className="btn btn-primary">
-          {t("blogPost.backToBlog")}
+          {bp.backToBlog || "Back to Blog"}
         </Link>
       </div>
     );
@@ -52,8 +52,8 @@ if (!post) {
   });
 
   const breadcrumbItems = [
-    { label: t("nav.home"), href: `/${locale}` },
-    { label: t("nav.blog"), href: `/${locale}/blog` },
+    { label: t?.nav?.home || "Home", href: `/${locale}` },
+    { label: t?.nav?.blog || "Blog", href: `/${locale}/blog` },
     { label: post.title },
   ];
 
@@ -118,7 +118,7 @@ if (!post) {
               <FaCalendar /> {formattedDate}
             </span>
             <span>
-              <FaClock /> {post.readingTime} {t("blogPost.minRead")}
+              <FaClock /> {post.readingTime} {bp.minRead || "min read"}
             </span>
           </div>
         </div>
@@ -149,13 +149,14 @@ if (!post) {
 
               <div className={styles.cta}>
                 <h3>
-                  {t("blogPost.ctaTitle")}
+                  {bp.ctaTitle || "Interested in Wholesale Sunflower Oil?"}
                 </h3>
                 <p>
-                  {t("blogPost.ctaText")}
+                  {bp.ctaText ||
+                    "Contact UB Market for competitive pricing and reliable supply."}
                 </p>
                 <Link href={`/${locale}/quote`} className="btn btn-primary">
-                  <FaEnvelope /> {t("blogPost.ctaButton")}
+                  <FaEnvelope /> {bp.ctaButton || "Request a Quote"}
                 </Link>
               </div>
             </article>
@@ -167,7 +168,7 @@ if (!post) {
 
           <div className={styles.backLink}>
             <Link href={`/${locale}/blog`} className="btn btn-outline">
-              <FaArrowLeft /> {t("blogPost.backToBlog")}
+              <FaArrowLeft /> {bp.backToBlog || "Back to Blog"}
             </Link>
           </div>
         </div>

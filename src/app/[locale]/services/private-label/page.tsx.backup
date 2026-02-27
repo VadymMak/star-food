@@ -1,7 +1,5 @@
 "use client";
 
-import { useTranslations } from "next-intl";
-import { useLocale } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
 import {
@@ -13,65 +11,73 @@ import {
   FaCheckCircle,
   FaArrowRight,
 } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
 import styles from "./private-label.module.css";
 
 export default function PrivateLabelPage() {
-  const locale = useLocale();
-  const t = useTranslations();
-const breadcrumbItems = [
-    { label: t("nav.home"), href: `/${locale}` },
-    { label: t("privateLabelPage.breadcrumb") },
+  const { locale, t } = useLanguage();
+  const pl = t?.privateLabelPage || {};
+
+  const breadcrumbItems = [
+    { label: t?.nav?.home || "Home", href: `/${locale}` },
+    { label: pl.breadcrumb || "Private Label" },
   ];
 
   const steps = [
     {
       icon: FaHandshake,
       number: "01",
-      title: t("privateLabelPage.step1Title"),
+      title: pl.step1Title || "Tell Us Your Needs",
       text:
-        t("privateLabelPage.step1Text"),
+        pl.step1Text ||
+        "Share your brand requirements — volumes, packaging format, target market, and label design preferences.",
     },
     {
       icon: FaPaintBrush,
       number: "02",
-      title: t("privateLabelPage.step2Title"),
+      title: pl.step2Title || "We Develop Your Product",
       text:
-        t("privateLabelPage.step2Text"),
+        pl.step2Text ||
+        "Our team handles sourcing, quality control, label design, and packaging to match your brand identity.",
     },
     {
       icon: FaTruck,
       number: "03",
-      title: t("privateLabelPage.step3Title"),
+      title: pl.step3Title || "Production & Delivery",
       text:
-        t("privateLabelPage.step3Text"),
+        pl.step3Text ||
+        "We produce, pack, and deliver your branded products directly to your warehouse across Europe.",
     },
   ];
 
   const benefits = [
     {
       text:
-        t("privateLabelPage.benefit1"),
+        pl.benefit1 ||
+        "No factory investment needed — use our production capacity",
     },
-    { text: t("privateLabelPage.benefit2") },
-    { text: t("privateLabelPage.benefit3") },
+    { text: pl.benefit2 || "Flexible MOQ starting from 20 tons" },
+    { text: pl.benefit3 || "Custom label design included in the service" },
     {
       text:
-        t("privateLabelPage.benefit4"),
+        pl.benefit4 ||
+        "Full EU compliance — documentation, certificates, labeling",
     },
     {
       text:
-        t("privateLabelPage.benefit5"),
+        pl.benefit5 ||
+        "Multiple packaging options: 1L, 3L, 5L, 10L PET, IBC, bulk",
     },
-    { text: t("privateLabelPage.benefit6") },
+    { text: pl.benefit6 || "Fast turnaround — first batch within 3-4 weeks" },
   ];
 
   const products = [
-    t("privateLabelPage.product1"),
-    t("privateLabelPage.product2"),
-    t("privateLabelPage.product3"),
-    t("privateLabelPage.product4"),
-    t("privateLabelPage.product5"),
+    pl.product1 || "Refined Sunflower Oil",
+    pl.product2 || "Crude Sunflower Oil",
+    pl.product3 || "High-Oleic Sunflower Oil",
+    pl.product4 || "Vegetable Frying Oil",
+    pl.product5 || "Blended Cooking Oil",
   ];
 
   return (
@@ -86,13 +92,14 @@ const breadcrumbItems = [
       <section className={styles.hero}>
         <div className={styles.inner}>
           <span className="section-label">
-            {t("privateLabelPage.label")}
+            {pl.label || "Private Label Service"}
           </span>
           <h1 className={styles.heroTitle}>
-            {t("privateLabelPage.title")}
+            {pl.title || "Your Brand, Our Quality Oil"}
           </h1>
           <p className={styles.heroSubtitle}>
-            {t("privateLabelPage.subtitle")}
+            {pl.subtitle ||
+              "Launch your own branded sunflower oil line without investing in production. We handle everything — from sourcing to delivery."}
           </p>
           <div
             className="btn-group"
@@ -107,7 +114,7 @@ const breadcrumbItems = [
                 justifyContent: "center",
               }}
             >
-              <FaEnvelope /> {t("privateLabelPage.ctaQuote")}
+              <FaEnvelope /> {pl.ctaQuote || "Request Private Label Quote"}
             </Link>
             <Link
               href={`/${locale}/contacts`}
@@ -118,7 +125,7 @@ const breadcrumbItems = [
                 justifyContent: "center",
               }}
             >
-              {t("privateLabelPage.ctaContact")}
+              {pl.ctaContact || "Talk to Our Team"}
             </Link>
           </div>
         </div>
@@ -128,7 +135,7 @@ const breadcrumbItems = [
       <section className={styles.section}>
         <div className={styles.inner}>
           <h2 className={styles.sectionTitle}>
-            {t("privateLabelPage.howItWorksTitle")}
+            {pl.howItWorksTitle || "How Private Label Works"}
           </h2>
           <div className={styles.stepsGrid}>
             {steps.map((step, i) => {
@@ -153,7 +160,7 @@ const breadcrumbItems = [
             {/* Benefits */}
             <div>
               <h2 className={styles.colTitle}>
-                {t("privateLabelPage.benefitsTitle")}
+                {pl.benefitsTitle || "Why Choose Our Private Label"}
               </h2>
               <ul className={styles.benefitsList}>
                 {benefits.map((b, i) => (
@@ -167,7 +174,7 @@ const breadcrumbItems = [
             {/* Available Products */}
             <div>
               <h2 className={styles.colTitle}>
-                {t("privateLabelPage.productsTitle")}
+                {pl.productsTitle || "Available for Private Label"}
               </h2>
               <div className={styles.productsList}>
                 {products.map((p, i) => (
@@ -179,7 +186,7 @@ const breadcrumbItems = [
               </div>
               <div className={styles.orBlock}>
                 <p className={styles.orText}>
-                  {t("privateLabelPage.orText")}
+                  {pl.orText || "Or distribute under our existing brand:"}
                 </p>
                 <Link
                   href={`/${locale}/brands/star-food`}
@@ -206,13 +213,14 @@ const breadcrumbItems = [
       <section className={styles.ctaSection}>
         <div className={styles.inner}>
           <h2 className={styles.ctaTitle}>
-            {t("privateLabelPage.ctaTitle")}
+            {pl.ctaTitle || "Ready to Launch Your Brand?"}
           </h2>
           <p className={styles.ctaText}>
-            {t("privateLabelPage.ctaText")}
+            {pl.ctaText ||
+              "Tell us about your project and we'll prepare a custom proposal within 48 hours."}
           </p>
           <Link href={`/${locale}/quote`} className="btn btn-primary">
-            <FaEnvelope /> {t("privateLabelPage.ctaButton")}
+            <FaEnvelope /> {pl.ctaButton || "Get a Free Quote"}
           </Link>
         </div>
       </section>

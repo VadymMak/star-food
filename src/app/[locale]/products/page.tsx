@@ -1,30 +1,30 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
 import { products } from "@/data/products";
-import { useLanguage } from "@/context/LanguageContext";
 import styles from "./products.module.css";
 
 export default function ProductsPage() {
-  const { locale, t } = useLanguage();
-  const pp = t?.productsPage || {};
-
-  return (
+  const locale = useLocale();
+  const t = useTranslations();
+return (
     <>
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
-          <span className="section-label">{pp.label || "Product Catalog"}</span>
+          <span className="section-label">{t("productsPage.label")}</span>
           <h1
             className="section-title"
             style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
           >
-            {pp.heroTitle || "Our Products"}
+            {t("productsPage.heroTitle")}
           </h1>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
-            {pp.heroSubtitle}
+            {t("productsPage.heroSubtitle")}
           </p>
         </div>
       </section>
@@ -32,7 +32,7 @@ export default function ProductsPage() {
       <section className={styles.section}>
         <div className={styles.grid}>
           {products.map((product) => {
-            const translated = t?.products?.items?.[product.id as keyof typeof t.products.items];
+            const translated = t("products.items")?.[product.id as keyof typeof t("products.items")];
             return (
               <Link
                 key={product.id}
@@ -55,7 +55,7 @@ export default function ProductsPage() {
                   <h2 className={styles.name}>{translated?.name || product.name}</h2>
                   <p className={styles.desc}>{translated?.description || product.description}</p>
                   <span className={styles.viewMore}>
-                    {t?.productPage?.viewDetails || "View Details"} <FaArrowRight />
+                    {t("productPage.viewDetails")} <FaArrowRight />
                   </span>
                 </div>
               </Link>

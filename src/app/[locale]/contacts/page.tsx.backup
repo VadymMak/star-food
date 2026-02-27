@@ -1,6 +1,5 @@
 "use client";
 
-import { useTranslations } from "next-intl";
 import {
   FaMapMarkerAlt,
   FaEnvelope,
@@ -10,34 +9,38 @@ import {
   FaTelegram,
   FaWhatsapp,
 } from "react-icons/fa";
+import { useLanguage } from "@/context/LanguageContext";
 import ContactForm from "@/components/ContactForm/ContactForm";
 import styles from "./contacts.module.css";
 
 export default function ContactsPage() {
-  const t = useTranslations();
-const contactItems = [
+  const { t } = useLanguage();
+  const cp = t?.contactsPage || {};
+  const c = t?.contact || {};
+
+  const contactItems = [
     {
       icon: <FaMapMarkerAlt />,
-      label: t("contact.address"),
-      value: t("contact.addressValue"),
+      label: c.address || "Address",
+      value: c.addressValue || "",
       href: undefined as string | undefined,
     },
     {
       icon: <FaEnvelope />,
-      label: t("contact.email"),
+      label: c.email || "Email",
       value: "ubmarket2022@gmail.com",
       href: "mailto:ubmarket2022@gmail.com",
     },
     {
       icon: <FaPhone />,
-      label: t("contact.phone"),
+      label: c.phone || "Phone",
       value: "+359 8844 69860",
       href: "tel:+359884469860",
     },
     {
       icon: <FaClock />,
-      label: t("contact.hours"),
-      value: t("contact.hoursValue"),
+      label: c.hours || "Office Hours",
+      value: c.hoursValue || "",
       href: undefined as string | undefined,
     },
   ];
@@ -53,15 +56,15 @@ const contactItems = [
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
-          <span className="section-label">{t("contactsPage.label")}</span>
+          <span className="section-label">{cp.label || "Get in Touch"}</span>
           <h1
             className="section-title"
             style={{ fontFamily: "var(--font-display)", fontSize: "3rem" }}
           >
-            {t("contactsPage.heroTitle")}
+            {cp.heroTitle || "Contact Us"}
           </h1>
           <p className="section-subtitle" style={{ margin: "0 auto" }}>
-            {t("contactsPage.heroSubtitle")}
+            {cp.heroSubtitle}
           </p>
         </div>
       </section>
@@ -100,9 +103,9 @@ const contactItems = [
       {/* Social Links */}
       <section className={styles.socialSection}>
         <div className={styles.socialInner}>
-          <span className="section-label">{t("contact.social")}</span>
+          <span className="section-label">{c.social || "Follow Us"}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {t("contact.socialTitle")}
+            {c.socialTitle || "Connect on Social Media"}
           </h2>
           <div className={styles.socialGrid}>
             {socials.map((s) => (
@@ -124,9 +127,9 @@ const contactItems = [
       {/* Map */}
       <section className={styles.mapSection}>
         <div className={styles.mapInner}>
-          <span className="section-label">{t("contact.mapLabel")}</span>
+          <span className="section-label">{c.mapLabel || "Our Location"}</span>
           <h2 className="section-title" style={{ fontFamily: "var(--font-display)" }}>
-            {t("contact.mapTitle")}
+            {c.mapTitle || "Find Us in Varna, Bulgaria"}
           </h2>
           <iframe
             className={styles.map}
