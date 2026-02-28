@@ -7,6 +7,7 @@ import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
 import CookieConsent from "@/components/CookieConsent/CookieConsent";
+import ChatWidget from "@/components/chat/ChatWidget";
 import SchemaOrg from "@/components/SchemaOrg";
 import SetHtmlLang from "@/components/SetHtmlLang";
 
@@ -26,7 +27,12 @@ export async function generateMetadata({
 
   // Hreflang codes (ua → uk per ISO 639-1)
   const hreflangMap: Record<string, string> = {
-    en: "en", bg: "bg", ua: "uk", tr: "tr", ro: "ro", de: "de",
+    en: "en",
+    bg: "bg",
+    ua: "uk",
+    tr: "tr",
+    ro: "ro",
+    de: "de",
   };
 
   const languages: Record<string, string> = {};
@@ -75,6 +81,7 @@ export default async function LocaleLayout({
           <main>{children}</main>
           <Footer />
         </div>
+        <ChatWidget />
         <WhatsAppButton />
         <CookieConsent />
       </NextIntlClientProvider>

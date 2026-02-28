@@ -104,16 +104,17 @@
   padding: 8px;
 }
 
-/* ===== MOBILE MENU ===== */
+/* ===== MOBILE MENU (outside header to avoid backdrop-filter stacking context) ===== */
 .mobileMenu {
   position: fixed;
   inset: 0;
   top: var(--header-height, 80px);
-  background: rgba(10, 10, 10, 0.98);
+  background: rgba(10, 10, 10, 1);
   z-index: 999;
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow-y: auto;
 }
 
 .mobileNav {

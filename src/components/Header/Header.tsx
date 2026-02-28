@@ -23,15 +23,26 @@ export default function Header() {
     const handleScroll = () => {
       const currentY = window.scrollY;
       if (currentY > lastScrollY.current && currentY > 80) {
-        setHidden(true); // scrolling down
+        setHidden(true);
       } else {
-        setHidden(false); // scrolling up
+        setHidden(false);
       }
       lastScrollY.current = currentY;
     };
 
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  // Close mobile menu on resize to desktop
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth > 900) {
+        setMenuOpen(false);
+      }
+    };
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   const prefix = `/${locale}`;
@@ -53,50 +64,54 @@ export default function Header() {
   };
 
   return (
-    <header className={`${styles.header} ${hidden ? styles.headerHidden : ""}`}>
-      <div className={styles.container}>
-        <Link href={prefix} className={styles.logo}>
-          <Image
-            src="/icons/logo.webp"
-            alt="UB Market — Star Food"
-            width={50}
-            height={50}
-            priority
-          />
-          <span className={styles.logoText}>
-            <strong>UB Market</strong>
-          </span>
-        </Link>
+    <>
+      <header
+        className={`${styles.header} ${hidden ? styles.headerHidden : ""}`}
+      >
+        <div className={styles.container}>
+          <Link href={prefix} className={styles.logo}>
+            <Image
+              src="/icons/logo.webp"
+              alt="UB Market — Star Food"
+              width={50}
+              height={50}
+              priority
+            />
+            <span className={styles.logoText}>
+              <strong>UB Market</strong>
+            </span>
+          </Link>
 
-        <nav className={styles.nav}>
-          {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className={`${styles.navLink} ${
-                isActive(link.href) ? styles.active : ""
-              }`}
+          <nav className={styles.nav}>
+            {navLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`${styles.navLink} ${
+                  isActive(link.href) ? styles.active : ""
+                }`}
+              >
+                {link.label}
+              </Link>
+            ))}
+          </nav>
+
+          <Link href={`${prefix}/partners`} className={styles.partnerCta}>
+            {t("nav.partners")}
+          </Link>
+
+          <div className={styles.actions}>
+            <LanguageSwitcher />
+            <button
+              className={styles.menuToggle}
+              onClick={() => setMenuOpen(!menuOpen)}
+              aria-label="Toggle menu"
             >
-              {link.label}
-            </Link>
-          ))}
-        </nav>
-
-        <Link href={`${prefix}/partners`} className={styles.partnerCta}>
-          {t("nav.partners")}
-        </Link>
-
-        <div className={styles.actions}>
-          <LanguageSwitcher />
-          <button
-            className={styles.menuToggle}
-            onClick={() => setMenuOpen(!menuOpen)}
-            aria-label="Toggle menu"
-          >
-            {menuOpen ? <FaTimes /> : <FaBars />}
-          </button>
+              {menuOpen ? <FaTimes /> : <FaBars />}
+            </button>
+          </div>
         </div>
-      </div>
+      </header>
 
       {menuOpen && (
         <div className={styles.mobileMenu}>
@@ -123,6 +138,6 @@ export default function Header() {
           </nav>
         </div>
       )}
-    </header>
+    </>
   );
 }
