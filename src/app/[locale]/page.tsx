@@ -5,6 +5,8 @@ import TrustedBy from "@/components/TrustedBy/TrustedBy";
 import AboutPreview from "@/components/AboutPreview/AboutPreview";
 import ProductsGrid from "@/components/ProductsGrid/ProductsGrid";
 import HowWeWork from "@/components/HowWeWork/HowWeWork";
+import { getAllPosts } from "@/lib/blog";
+import LatestBlog from "@/components/LatestBlog/LatestBlog";
 import Logistics from "@/components/Logistics/Logistics";
 import CTASection from "@/components/CTASection/CTASection";
 import ContactStrip from "@/components/ContactStrip/ContactStrip";
@@ -27,9 +29,10 @@ export async function generateMetadata({
   const { locale } = await params;
   const baseUrl = "https://ub-market.com";
 
-  // Try to get translated meta, fall back to English
-  let title = "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company";
-  let description = "UB Market LTD — EU-registered food trading company. Wholesale sunflower oil, sugar, dairy. Export across Europe.";
+  let title =
+    "Star Food | Premium Sunflower Oil & Food Products — EU Trading Company";
+  let description =
+    "UB Market LTD — EU-registered food trading company. Wholesale sunflower oil, sugar, dairy. Export across Europe.";
 
   try {
     const t = await getTranslations({ locale, namespace: "meta" });
@@ -39,9 +42,13 @@ export async function generateMetadata({
     // Use fallback values
   }
 
-  // Hreflang alternates (ua → uk per ISO 639-1)
   const hreflangMap: Record<string, string> = {
-    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk",
+    en: "en",
+    bg: "bg",
+    tr: "tr",
+    ro: "ro",
+    de: "de",
+    ua: "uk",
   };
   const languages: Record<string, string> = {};
   for (const loc of routing.locales) {
@@ -67,8 +74,24 @@ export async function generateMetadata({
   };
 }
 
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
 
-export default function HomePage() {
+  const posts = getAllPosts(locale)
+    .slice(0, 3)
+    .map((p) => ({
+      slug: p.slug,
+      title: p.title,
+      description: p.description,
+      date: p.date,
+      category: p.category,
+      image: p.image,
+    }));
+
   return (
     <>
       <Hero />
@@ -78,6 +101,7 @@ export default function HomePage() {
       <ProductsGrid />
       <HowWeWork />
       <Logistics />
+      <LatestBlog posts={posts} />
       <CTASection />
       <ContactStrip />
       <MapSection />
