@@ -391,5 +391,12 @@
     "brandDescription": "Star Food registered EU trademark for premium sunflower oil by UB Market LTD.",
     "privateLabelTitle": "Private Label Sunflower Oil | Your Brand, Our Quality",
     "privateLabelDescription": "Private label sunflower oil production. Custom packaging, EU quality."
+  },
+  "latestBlog": {
+    "label": "Industry Insights",
+    "title": "Latest from Our Blog",
+    "subtitle": "Expert guides on sunflower oil trading, market trends, and European food industry.",
+    "readMore": "Read more",
+    "viewAll": "View All Articles"
   }
 }

@@ -1,81 +1,79 @@
+// src/app/sitemap.ts — Dynamic sitemap with hreflang alternates
 import { MetadataRoute } from "next";
 import { getPostSlugs, getPostBySlug } from "@/lib/blog";
-import { getAllSlugs } from "@/data/products";
 
 const BASE_URL = "https://ub-market.com";
-
 const locales = ["en", "bg", "tr", "ro", "de", "ua"];
 
-// ISO 639-1: Ukrainian = "uk", not "ua"
+// ISO 639-1 mapping (important: ua → uk for Ukrainian)
 const hreflangMap: Record<string, string> = {
   en: "en",
   bg: "bg",
   tr: "tr",
   ro: "ro",
   de: "de",
-  ua: "uk",
+  ua: "uk", // Ukrainian ISO 639-1 = "uk", NOT "ua"
 };
 
-// All static pages
-const staticPages = [
-  { path: "", changeFreq: "monthly" as const, priority: 1.0 },
-  { path: "/about", changeFreq: "monthly" as const, priority: 0.8 },
-  { path: "/products", changeFreq: "weekly" as const, priority: 0.9 },
-  { path: "/contacts", changeFreq: "monthly" as const, priority: 0.7 },
-  { path: "/blog", changeFreq: "weekly" as const, priority: 0.8 },
-  { path: "/brands/star-food", changeFreq: "monthly" as const, priority: 0.8 },
-  { path: "/partners", changeFreq: "monthly" as const, priority: 0.7 },
-  { path: "/quote", changeFreq: "monthly" as const, priority: 0.7 },
-  {
-    path: "/services/private-label",
-    changeFreq: "monthly" as const,
-    priority: 0.7,
-  },
-];
-
-function createEntries(
+function localizedEntry(
   path: string,
-  changeFreq: "daily" | "weekly" | "monthly",
+  changeFrequency: "daily" | "weekly" | "monthly",
   priority: number,
-  lastMod?: string,
-): MetadataRoute.Sitemap {
+  lastModified?: Date,
+): MetadataRoute.Sitemap[number] {
   const languages: Record<string, string> = {};
   for (const loc of locales) {
     languages[hreflangMap[loc]] = `${BASE_URL}/${loc}${path}`;
   }
   languages["x-default"] = `${BASE_URL}/en${path}`;
 
-  // One <url> per locale, all sharing the same hreflang alternates
-  return locales.map((loc) => ({
-    url: `${BASE_URL}/${loc}${path}`,
-    lastModified: lastMod ? new Date(lastMod) : new Date(),
-    changeFrequency: changeFreq,
+  return {
+    url: `${BASE_URL}/en${path}`,
+    lastModified: lastModified || new Date(),
+    changeFrequency,
     priority,
     alternates: { languages },
-  }));
+  };
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const entries: MetadataRoute.Sitemap = [];
+  const now = new Date();
 
-  // Static pages (9 pages × 6 locales = 54 entries)
-  for (const page of staticPages) {
-    entries.push(...createEntries(page.path, page.changeFreq, page.priority));
-  }
+  // Static pages
+  const staticPages = [
+    localizedEntry("", "monthly", 1.0, now),
+    localizedEntry("/about", "monthly", 0.8, now),
+    localizedEntry("/products", "weekly", 0.9, now),
+    localizedEntry("/contacts", "monthly", 0.7, now),
+    localizedEntry("/blog", "weekly", 0.8, now),
+    localizedEntry("/brands/star-food", "monthly", 0.8, now),
+    localizedEntry("/partners", "monthly", 0.7, now),
+    localizedEntry("/quote", "monthly", 0.7, now),
+    localizedEntry("/services/private-label", "monthly", 0.7, now),
+  ];
 
-  // Product pages — dynamic from data (6 products × 6 locales = 36 entries)
-  const productSlugs = getAllSlugs();
-  for (const slug of productSlugs) {
-    entries.push(...createEntries(`/products/${slug}`, "monthly", 0.7));
-  }
+  // Product pages
+  const productSlugs = [
+    "sunflower-oil",
+    "frying-oil",
+    "sugar",
+    "high-oleic-sunflower-oil",
+    "dairy-products",
+    "mayonnaise",
+  ];
+  const productPages = productSlugs.map((slug) =>
+    localizedEntry(`/products/${slug}`, "monthly", 0.7, now),
+  );
 
-  // Blog posts — auto-discovered (12 posts × 6 locales = 72 entries)
-  const blogSlugs = getPostSlugs();
-  for (const slug of blogSlugs) {
+  // Blog posts — dynamically from blog-posts.ts
+  const blogPages = getPostSlugs().map((slug) => {
     const post = getPostBySlug(slug, "en");
-    const lastMod = post?.date || undefined;
-    entries.push(...createEntries(`/blog/${slug}`, "monthly", 0.6, lastMod));
-  }
-
-  return entries;
+    return localizedEntry(
+      `/blog/${slug}`,
+      "monthly",
+      0.6,
+      post?.date ? new Date(post.date) : now,
+    );
+  });
+  return [...staticPages, ...productPages, ...blogPages];
 }
