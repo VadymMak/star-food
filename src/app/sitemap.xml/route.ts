@@ -1,4 +1,4 @@
-// src/app/sitemap.xml/route.ts — Manual XML sitemap with hreflang
+// src/app/sitemap.xml/route.ts — Full XML sitemap with hreflang
 import { getPostSlugs, getPostBySlug } from "@/lib/blog";
 
 const BASE_URL = "https://ub-market.com";
@@ -12,12 +12,14 @@ const hreflangMap: Record<string, string> = {
   ua: "uk",
 };
 
-function urlEntry(
+function urlEntries(
   path: string,
   changefreq: string,
   priority: string,
   lastmod?: string,
 ): string {
+  const mod = lastmod || new Date().toISOString();
+
   const alternates = locales
     .map(
       (loc) =>
@@ -25,30 +27,35 @@ function urlEntry(
     )
     .join("\n");
   const xDefault = `    <xhtml:link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${path}"/>`;
+  const allAlternates = `${alternates}\n${xDefault}`;
 
-  return `  <url>
-    <loc>${BASE_URL}/en${path}</loc>
-    <lastmod>${lastmod || new Date().toISOString()}</lastmod>
+  // Generate one <url> per locale, each with ALL alternates
+  return locales
+    .map(
+      (loc) => `  <url>
+    <loc>${BASE_URL}/${loc}${path}</loc>
+    <lastmod>${mod}</lastmod>
     <changefreq>${changefreq}</changefreq>
     <priority>${priority}</priority>
-${alternates}
-${xDefault}
-  </url>`;
+${allAlternates}
+  </url>`,
+    )
+    .join("\n");
 }
 
 export async function GET() {
   const now = new Date().toISOString();
 
   const staticPages = [
-    urlEntry("", "monthly", "1.0", now),
-    urlEntry("/about", "monthly", "0.8", now),
-    urlEntry("/products", "weekly", "0.9", now),
-    urlEntry("/contacts", "monthly", "0.7", now),
-    urlEntry("/blog", "weekly", "0.8", now),
-    urlEntry("/brands/star-food", "monthly", "0.8", now),
-    urlEntry("/partners", "monthly", "0.7", now),
-    urlEntry("/quote", "monthly", "0.7", now),
-    urlEntry("/services/private-label", "monthly", "0.7", now),
+    urlEntries("", "monthly", "1.0", now),
+    urlEntries("/about", "monthly", "0.8", now),
+    urlEntries("/products", "weekly", "0.9", now),
+    urlEntries("/contacts", "monthly", "0.7", now),
+    urlEntries("/blog", "weekly", "0.8", now),
+    urlEntries("/brands/star-food", "monthly", "0.8", now),
+    urlEntries("/partners", "monthly", "0.7", now),
+    urlEntries("/quote", "monthly", "0.7", now),
+    urlEntries("/services/private-label", "monthly", "0.7", now),
   ];
 
   const productSlugs = [
@@ -60,12 +67,12 @@ export async function GET() {
     "mayonnaise",
   ];
   const productPages = productSlugs.map((slug) =>
-    urlEntry(`/products/${slug}`, "monthly", "0.7", now),
+    urlEntries(`/products/${slug}`, "monthly", "0.7", now),
   );
 
   const blogPages = getPostSlugs().map((slug) => {
     const post = getPostBySlug(slug, "en");
-    return urlEntry(
+    return urlEntries(
       `/blog/${slug}`,
       "monthly",
       "0.6",
