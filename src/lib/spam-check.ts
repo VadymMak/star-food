@@ -64,8 +64,8 @@ export function getSpamScore(data: {
   message: string;
 }): number {
   let score = 0;
-  if (isFakeName(data.name)) score += 0.4;
-  if (isGibberish(data.message)) score += 0.4;
+  if (isFakeName(data.name)) score += 0.3;
+  if (isGibberish(data.message)) score += 0.7; // ← было 0.4, стало 0.7
 
   const disposable = [
     "mailinator.com",
