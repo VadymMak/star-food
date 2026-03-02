@@ -2,6 +2,7 @@
 // Schemas are in SchemaOrg component (locale-aware)
 // Header, Footer, WhatsApp are in [locale]/layout.tsx
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Playfair_Display, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 
@@ -79,11 +80,23 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning className={`${playfair.variable} ${sourceSans.variable}`}>
+    <html
+      lang="en"
+      suppressHydrationWarning
+      className={`${playfair.variable} ${sourceSans.variable}`}
+    >
       <head>
         <meta name="theme-color" content="#0a0a0a" />
       </head>
-      <body className={sourceSans.className}>{children}</body>
+      <body className={sourceSans.className}>
+        {children}
+        {process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY && (
+          <Script
+            src={`https://www.google.com/recaptcha/api.js?render=${process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}`}
+            strategy="lazyOnload"
+          />
+        )}
+      </body>
     </html>
   );
 }

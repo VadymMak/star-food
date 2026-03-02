@@ -1,4 +1,3 @@
-// src/components/ContactForm/ContactForm.tsx
 "use client";
 
 import { useTranslations } from "next-intl";
@@ -20,6 +19,7 @@ export default function ContactForm() {
     subject: "",
     message: "",
   });
+  const [honeypot, setHoneypot] = useState("");
   const [status, setStatus] = useState<
     "idle" | "sending" | "success" | "error"
   >("idle");
@@ -47,6 +47,25 @@ export default function ContactForm() {
     setStatus("sending");
 
     try {
+      // Get reCAPTCHA token if available
+      let recaptchaToken = "";
+      if (window.grecaptcha && process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY) {
+        try {
+          recaptchaToken = await new Promise<string>((resolve, reject) => {
+            window.grecaptcha.ready(() => {
+              window.grecaptcha
+                .execute(process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY!, {
+                  action: "contact_form",
+                })
+                .then(resolve)
+                .catch(reject);
+            });
+          });
+        } catch {
+          console.warn("reCAPTCHA failed, submitting without it");
+        }
+      }
+
       const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -57,6 +76,8 @@ export default function ContactForm() {
           subject: form.subject,
           message: form.message,
           locale,
+          website: honeypot,
+          recaptchaToken,
         }),
       });
 
@@ -92,6 +113,18 @@ export default function ContactForm() {
     <form className={styles.form} onSubmit={handleSubmit}>
       <h3 className={styles.formTitle}>{t("contactForm.title")}</h3>
       <p className={styles.formSubtitle}>{t("contactForm.subtitle")}</p>
+
+      {/* Honeypot — invisible to humans, bots fill it */}
+      <input
+        type="text"
+        name="website"
+        value={honeypot}
+        onChange={(e) => setHoneypot(e.target.value)}
+        style={{ position: "absolute", left: "-9999px", opacity: 0 }}
+        tabIndex={-1}
+        autoComplete="off"
+        aria-hidden="true"
+      />
 
       <div className={styles.row}>
         <div className={styles.field}>
