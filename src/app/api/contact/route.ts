@@ -1,17 +1,66 @@
-// src/app/api/contact/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
 import { sendTelegramMessage, formatContactNotification } from "@/lib/telegram";
 import { sendAutoReply } from "@/lib/auto-reply";
+import { getSpamScore } from "@/lib/spam-check";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const OWNER_EMAIL = ["ubmarket2022@gmail.com", "ubmarketsite@gmail.com"];
 const FROM_EMAIL = "Star Food <noreply@ub-market.com>";
 
+async function verifyRecaptcha(token: string): Promise<boolean> {
+  try {
+    const res = await fetch("https://www.google.com/recaptcha/api/siteverify", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams({
+        secret: process.env.RECAPTCHA_SECRET_KEY!,
+        response: token,
+      }),
+    });
+    const data = await res.json();
+    return data.success && data.score >= 0.5;
+  } catch {
+    return true; // fail open — don't block real users if Google is down
+  }
+}
+
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
-    const { name, email, phone, subject, message, locale } = body;
+    const {
+      name,
+      email,
+      phone,
+      subject,
+      message,
+      locale,
+      website,
+      recaptchaToken,
+    } = body;
+
+    // === LAYER 1: Honeypot ===
+    if (website) {
+      return NextResponse.json({ success: true }); // silent reject
+    }
+
+    // === LAYER 2: Text validation ===
+    const spamScore = getSpamScore({ name, email, message });
+    if (spamScore >= 0.6) {
+      console.log(
+        `[SPAM BLOCKED] score=${spamScore} name="${name}" email="${email}"`,
+      );
+      return NextResponse.json({ success: true }); // silent reject
+    }
+
+    // === LAYER 3: reCAPTCHA v3 ===
+    if (recaptchaToken && process.env.RECAPTCHA_SECRET_KEY) {
+      const isHuman = await verifyRecaptcha(recaptchaToken);
+      if (!isHuman) {
+        console.log(`[RECAPTCHA BLOCKED] email="${email}"`);
+        return NextResponse.json({ success: true }); // silent reject
+      }
+    }
 
     if (!name || !email || !message) {
       return NextResponse.json(
@@ -49,7 +98,7 @@ export async function POST(req: NextRequest) {
       formatContactNotification({ name, email, phone, subject, message }),
     ).catch((err) => console.error("Telegram error:", err));
 
-    // 3. AI auto-reply (direct call, no fetch)
+    // 3. AI auto-reply
     try {
       await sendAutoReply({
         type: "contact",
