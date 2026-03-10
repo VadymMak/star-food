@@ -1,8 +1,10 @@
 import createNextIntlPlugin from "next-intl/plugin";
-
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Prevent trailing slash double-redirects (fixes GSC redirect errors)
+  trailingSlash: false,
+
   // Image optimization
   images: {
     formats: ["image/webp", "image/avif"],
@@ -11,7 +13,6 @@ const nextConfig: NextConfig = {
   },
 
   // 301 Redirects — URLs without locale → /en/ versions
-  // Google transfers 90-99% SEO weight through 301
   async redirects() {
     return [
       { source: "/about", destination: "/en/about", permanent: true },
