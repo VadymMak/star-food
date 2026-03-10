@@ -10,13 +10,55 @@
     "privateLabel": "Private Label"
   },
   "hero": {
-    "badge": "International Food Trading",
-    "title1": "Premium",
-    "titleHighlight": "Sunflower Oil",
-    "title2": "& Food Products for Europe",
-    "subtitle": "UB Market LTD connects leading manufacturers with wholesale buyers across Europe. Reliable supply, competitive prices, road transport delivery.",
-    "cta1": "Request a Quote",
-    "cta2": "View Products"
+    "trust": {
+      "registered": "EU-Registered Company",
+      "countries": "12+ Countries",
+      "capacity": "500+ MT/month",
+      "certified": "ISO 22000 · HACCP"
+    },
+    "title1": "Sunflower Oil",
+    "titleHighlight": "Wholesale & Retail",
+    "title2": "Supply across Europe",
+    "subtitle": "EU-registered food trading company. Bulk B2B supply and bottled retail. FOB, CIF, DAP — flexible terms for any volume.",
+    "otherProducts": "See all products →",
+    "cards": {
+      "priceLabel": "Market price",
+      "cta": "Request Price",
+      "ctaRequest": "Inquire",
+      "comingSoon": "Available Soon",
+      "refined": {
+        "name": "Refined Sunflower Oil",
+        "desc": "Bulk supply · IBC · Tanker · Bottles",
+        "price": "~$1,500–1,800",
+        "note": "per MT · CIF Europe · updated weekly",
+        "imageAlt": "Refined sunflower oil production"
+      },
+      "higholeic": {
+        "name": "High-Oleic Sunflower Oil",
+        "desc": "HORECA · Food processing · QSR",
+        "price": "~$1,650–1,950",
+        "note": "per MT · CIF Europe · updated weekly",
+        "imageAlt": "High-oleic sunflower"
+      },
+      "meal": {
+        "name": "Sunflower Meal",
+        "desc": "Protein 30–32% · Animal feed · Bulk",
+        "price": "On Request",
+        "note": "Contact us for current availability",
+        "imageAlt": "Sunflower seeds for meal production"
+      }
+    }
+  },
+  "ticker": {
+    "marketUpdate": "Market Update",
+    "benchmark": "IMF Benchmark",
+    "refined": "Refined Oil",
+    "highOleic": "High-Oleic",
+    "meal": "Sunflower Meal",
+    "source": "Source: IMF via FRED",
+    "wholesale": "Wholesale",
+    "retail": "Retail",
+    "bottles": "Bottles"
   },
   "trust": {
     "years": "Years in Business",

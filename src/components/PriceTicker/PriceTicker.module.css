@@ -1,0 +1,183 @@
+/* src/components/PriceTicker/PriceTicker.module.css */
+
+.ticker {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 10px 28px;
+  background: rgba(212, 175, 55, 0.06);
+  border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.ticker::-webkit-scrollbar {
+  display: none;
+}
+
+/* ── Live indicator ── */
+.liveBlock {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.liveDot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #4caf50;
+  flex-shrink: 0;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+    box-shadow: 0 0 0 0 rgba(76, 175, 80, 0.5);
+  }
+  50% {
+    opacity: 0.8;
+    box-shadow: 0 0 0 5px rgba(76, 175, 80, 0);
+  }
+}
+
+.liveLabel {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #4caf50;
+  white-space: nowrap;
+}
+
+/* ── Price items row ── */
+.items {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.sep {
+  color: rgba(212, 175, 55, 0.25);
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+/* ── Single price item ── */
+.item {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.itemLabel {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.itemValue {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--gold);
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+}
+
+.unit {
+  font-size: 0.65rem;
+  font-weight: 500;
+  color: rgba(212, 175, 55, 0.55);
+  margin-left: 1px;
+}
+
+/* ── Loading skeleton ── */
+.skeleton {
+  display: inline-block;
+  width: 60px;
+  height: 13px;
+  background: linear-gradient(
+    90deg,
+    rgba(212, 175, 55, 0.1) 25%,
+    rgba(212, 175, 55, 0.2) 50%,
+    rgba(212, 175, 55, 0.1) 75%
+  );
+  background-size: 200% 100%;
+  border-radius: 3px;
+  animation: shimmer 1.4s ease infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.na {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+/* ── Source label ── */
+.source {
+  flex-shrink: 0;
+}
+
+.sourceText {
+  font-size: 0.8rem;
+  letter-spacing: 0.5px;
+  color: rgba(255, 255, 255, 0.7);
+  white-space: nowrap;
+  border-left: 1px solid rgba(212, 175, 55, 0.7);
+  padding-left: 14px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 900px) {
+  .source {
+    display: none;
+  }
+
+  .items {
+    gap: 8px;
+  }
+}
+
+@media (max-width: 640px) {
+  .ticker {
+    padding: 8px 16px;
+    gap: 10px;
+    justify-content: flex-start;
+  }
+
+  .liveLabel {
+    display: none;
+  }
+
+  .sep {
+    display: none;
+  }
+
+  .items {
+    gap: 14px;
+  }
+
+  .item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+  }
+}

@@ -9,14 +9,56 @@
     "partners": "Partner",
     "privateLabel": "Eigenmarke"
   },
+  "ticker": {
+    "marketUpdate": "Marktupdate",
+    "benchmark": "IWF Referenz",
+    "refined": "Raffiniertes Öl",
+    "highOleic": "High-Oleic",
+    "meal": "Sonnenblumenschrot",
+    "source": "Quelle: IWF / FRED",
+    "wholesale": "Großhandel",
+    "retail": "Einzelhandel",
+    "bottles": "Flaschen"
+  },
   "hero": {
-    "badge": "Internationaler Lebensmittelhandel",
-    "title1": "Premium",
-    "titleHighlight": "Sonnenblumenöl",
-    "title2": "und Lebensmittel für Europa",
-    "subtitle": "UB Market LTD verbindet führende Hersteller mit Großhandelskäufern in ganz Europa. Zuverlässige Versorgung, wettbewerbsfähige Preise, Straßentransport.",
-    "cta1": "Angebot Anfordern",
-    "cta2": "Produkte Ansehen"
+    "trust": {
+      "registered": "EU-registriertes Unternehmen",
+      "countries": "12+ Länder",
+      "capacity": "500+ MT/Monat",
+      "certified": "ISO 22000 · HACCP"
+    },
+    "title1": "Sonnenblumenöl",
+    "titleHighlight": "Groß- und Einzelhandel",
+    "title2": "Lieferungen in ganz Europa",
+    "subtitle": "In der EU registriertes Handelsunternehmen. B2B-Großlieferungen und Flaschenöl für den Einzelhandel. FOB, CIF, DAP.",
+    "otherProducts": "Alle Produkte →",
+    "cards": {
+      "priceLabel": "Marktpreis",
+      "cta": "Preis anfragen",
+      "ctaRequest": "Anfragen",
+      "comingSoon": "Demnächst",
+      "refined": {
+        "name": "Raffiniertes Sonnenblumenöl",
+        "desc": "Bulk · IBC · Tanker · Flaschen",
+        "price": "~$1.500–1.800",
+        "note": "pro MT · CIF Europa · wöchentlich aktualisiert",
+        "imageAlt": "Produktion raffiniertes Sonnenblumenöl"
+      },
+      "higholeic": {
+        "name": "High-Oleic Sonnenblumenöl",
+        "desc": "HORECA · Lebensmittelindustrie · QSR",
+        "price": "~$1.650–1.950",
+        "note": "pro MT · CIF Europa · wöchentlich aktualisiert",
+        "imageAlt": "High-oleic Sonnenblume"
+      },
+      "meal": {
+        "name": "Sonnenblumenschrot",
+        "desc": "Protein 30–32% · Tierfutter · Bulk",
+        "price": "Auf Anfrage",
+        "note": "Kontaktieren Sie uns für Verfügbarkeit",
+        "imageAlt": "Sonnenblumenkerne für Schrotproduktion"
+      }
+    }
   },
   "trust": {
     "years": "Jahre Erfahrung",
