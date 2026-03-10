@@ -9,14 +9,56 @@
     "partners": "Parteneri",
     "privateLabel": "Marcă Privată"
   },
+  "ticker": {
+    "marketUpdate": "Actualizare Piață",
+    "benchmark": "Referință FMI",
+    "refined": "Ulei Rafinat",
+    "highOleic": "High-Oleic",
+    "meal": "Șrot Floarea-Soarelui",
+    "source": "Sursă: FMI / FRED",
+    "wholesale": "En-gros",
+    "retail": "Retail",
+    "bottles": "Sticle"
+  },
   "hero": {
-    "badge": "Comerț Internațional cu Alimente",
-    "title1": "Ulei de",
-    "titleHighlight": "Floarea Soarelui",
-    "title2": "Premium și Produse Alimentare pentru Europa",
-    "subtitle": "UB Market LTD conectează producătorii de top cu cumpărătorii angro din toată Europa. Aprovizionare fiabilă, prețuri competitive, transport rutier.",
-    "cta1": "Solicită Ofertă",
-    "cta2": "Vezi Produsele"
+    "trust": {
+      "registered": "Companie înregistrată în UE",
+      "countries": "12+ Țări",
+      "capacity": "500+ MT/lună",
+      "certified": "ISO 22000 · HACCP"
+    },
+    "title1": "Ulei de Floarea-Soarelui",
+    "titleHighlight": "En-gros și Retail",
+    "title2": "Livrări în toată Europa",
+    "subtitle": "Companie comercială înregistrată în UE. Livrări B2B en-gros și ulei îmbuteliat pentru retail. FOB, CIF, DAP.",
+    "otherProducts": "Toate produsele →",
+    "cards": {
+      "priceLabel": "Prețul pieței",
+      "cta": "Solicită Preț",
+      "ctaRequest": "Informații",
+      "comingSoon": "În curând",
+      "refined": {
+        "name": "Ulei de Floarea-Soarelui Rafinat",
+        "desc": "Vrac · IBC · Cisternă · Sticle",
+        "price": "~$1.500–1.800",
+        "note": "per MT · CIF Europa · actualizat săptămânal",
+        "imageAlt": "Producție ulei rafinat"
+      },
+      "higholeic": {
+        "name": "Ulei de Floarea-Soarelui High-Oleic",
+        "desc": "HORECA · Industrie alimentară · QSR",
+        "price": "~$1.650–1.950",
+        "note": "per MT · CIF Europa · actualizat săptămânal",
+        "imageAlt": "Floarea-soarelui high-oleic"
+      },
+      "meal": {
+        "name": "Șrot de Floarea-Soarelui",
+        "desc": "Proteină 30–32% · Furaje · Vrac",
+        "price": "La Cerere",
+        "note": "Contactați-ne pentru disponibilitate",
+        "imageAlt": "Semințe floarea-soarelui pentru șrot"
+      }
+    }
   },
   "trust": {
     "years": "Ani Experiență",

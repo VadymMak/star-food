@@ -10,13 +10,55 @@
     "privateLabel": "Özel Marka"
   },
   "hero": {
-    "badge": "Uluslararası Gıda Ticareti",
-    "title1": "Premium",
-    "titleHighlight": "Ayçiçek Yağı",
-    "title2": "ve Avrupa İçin Gıda Ürünleri",
-    "subtitle": "UB Market LTD, Avrupa genelinde önde gelen üreticileri toptan alıcılarla buluşturur. Güvenilir tedarik, rekabetçi fiyatlar, karayolu taşımacılığı.",
-    "cta1": "Teklif İste",
-    "cta2": "Ürünleri Görüntüle"
+    "trust": {
+      "registered": "AB Kayıtlı Şirket",
+      "countries": "12+ Ülke",
+      "capacity": "500+ MT/ay",
+      "certified": "ISO 22000 · HACCP"
+    },
+    "title1": "Ayçiçek Yağı",
+    "titleHighlight": "Toptan ve Perakende",
+    "title2": "Tüm Avrupa'ya Teslimat",
+    "subtitle": "AB'de kayıtlı gıda ticaret şirketi. Toptan B2B teslimat ve şişelenmiş perakende yağ. FOB, CIF, DAP.",
+    "otherProducts": "Tüm ürünler →",
+    "cards": {
+      "priceLabel": "Piyasa fiyatı",
+      "cta": "Fiyat İste",
+      "ctaRequest": "Bilgi Al",
+      "comingSoon": "Yakında",
+      "refined": {
+        "name": "Rafine Ayçiçek Yağı",
+        "desc": "Dökme · IBC · Tanker · Şişe",
+        "price": "~$1.500–1.800",
+        "note": "MT başına · CIF Avrupa · haftalık güncellenir",
+        "imageAlt": "Rafine ayçiçek yağı üretimi"
+      },
+      "higholeic": {
+        "name": "Yüksek Oleikli Ayçiçek Yağı",
+        "desc": "HORECA · Gıda işleme · QSR",
+        "price": "~$1.650–1.950",
+        "note": "MT başına · CIF Avrupa · haftalık güncellenir",
+        "imageAlt": "Yüksek oleikli ayçiçek"
+      },
+      "meal": {
+        "name": "Ayçiçek Küspesi",
+        "desc": "Protein %30–32 · Hayvan yemi · Dökme",
+        "price": "Talep Üzerine",
+        "note": "Stok durumu için iletişime geçin",
+        "imageAlt": "Küspe üretimi için ayçiçeği tohumları"
+      }
+    }
+  },
+  "ticker": {
+    "marketUpdate": "Piyasa Güncellemesi",
+    "benchmark": "IMF Referans",
+    "refined": "Rafine Yağ",
+    "highOleic": "Yüksek Oleik",
+    "meal": "Ayçiçek Küspesi",
+    "source": "Kaynak: IMF / FRED",
+    "wholesale": "Toptan",
+    "retail": "Perakende",
+    "bottles": "Şişeler"
   },
   "trust": {
     "years": "Yıllık Deneyim",
