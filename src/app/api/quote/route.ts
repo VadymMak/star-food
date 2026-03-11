@@ -8,7 +8,57 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 const OWNER_EMAIL = ["ubmarket2022@gmail.com", "ubmarketsite@gmail.com"];
 const FROM_EMAIL = "Star Food <noreply@ub-market.com>";
 
+// ─── ANTI-SPAM ────────────────────────────────────────────────
+
+// Rate limit: max 3 запроса с одного IP за 60 секунд
+const rateLimitMap = new Map<string, { count: number; ts: number }>();
+
+function checkRateLimit(ip: string): boolean {
+  const now = Date.now();
+  const entry = rateLimitMap.get(ip);
+  if (!entry || now - entry.ts > 60_000) {
+    rateLimitMap.set(ip, { count: 1, ts: now });
+    return true;
+  }
+  entry.count++;
+  return entry.count <= 3;
+}
+
+// Мусорные строки: base64-подобные, без пробелов, много заглавных
+function isGarbage(str: string): boolean {
+  if (!str || str.length < 3) return false;
+  const upperRatio = (str.match(/[A-Z]/g) || []).length / str.length;
+  if (upperRatio > 0.4 && str.length > 10) return true;
+  if (str.length > 20 && !/[\s\-\.]/.test(str)) return true;
+  return false;
+}
+
+// Подозрительный email: we.ti.pix.ev.o.6.69@gmail.com
+function isSuspiciousEmail(email: string): boolean {
+  const local = email.split("@")[0] || "";
+  const dots = (local.match(/\./g) || []).length;
+  if (dots >= 3) return true;
+  if (/(\w\.){3,}/.test(local)) return true;
+  return false;
+}
+
+// ─────────────────────────────────────────────────────────────
+
 export async function POST(req: NextRequest) {
+  // 1. Rate limit
+  const ip =
+    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    req.headers.get("x-real-ip") ||
+    "unknown";
+
+  if (!checkRateLimit(ip)) {
+    console.warn(`[RATE LIMIT] IP: ${ip}`);
+    return NextResponse.json(
+      { success: false, error: "Too many requests" },
+      { status: 429 },
+    );
+  }
+
   try {
     const body = await req.json();
     const {
@@ -22,8 +72,16 @@ export async function POST(req: NextRequest) {
       deliveryTerms,
       message,
       locale,
+      honeypot, // скрытое поле — люди не заполняют
     } = body;
 
+    // 2. Honeypot — бот заполнил скрытое поле
+    if (honeypot) {
+      console.warn(`[HONEYPOT] IP: ${ip}`);
+      return NextResponse.json({ success: true }); // тихий reject
+    }
+
+    // 3. Обязательные поля
     if (!name || !email) {
       return NextResponse.json(
         { success: false, error: "Missing required fields" },
@@ -31,7 +89,34 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // 1. Send notification email to owner via Resend
+    // 4. Email валидация
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+    if (!emailRegex.test(email)) {
+      return NextResponse.json(
+        { success: false, error: "Invalid email" },
+        { status: 400 },
+      );
+    }
+
+    // 5. Подозрительный email
+    if (isSuspiciousEmail(email)) {
+      console.warn(`[SPAM EMAIL] IP: ${ip} email: ${email}`);
+      return NextResponse.json({ success: true }); // тихий reject
+    }
+
+    // 6. Мусорные строки в полях
+    if (
+      isGarbage(company || "") ||
+      isGarbage(name) ||
+      isGarbage(quantity || "")
+    ) {
+      console.warn(`[GARBAGE] IP: ${ip} company: ${company} name: ${name}`);
+      return NextResponse.json({ success: true }); // тихий reject
+    }
+
+    // ── Всё чисто — обрабатываем заявку ──────────────────────
+
+    // 1. Email уведомление владельцу через Resend
     try {
       await resend.emails.send({
         from: FROM_EMAIL,
@@ -58,7 +143,7 @@ export async function POST(req: NextRequest) {
       console.error("Resend email error:", emailErr);
     }
 
-    // 2. Send Telegram notification
+    // 2. Telegram уведомление
     await sendTelegramMessage(
       formatQuoteNotification({
         company,
@@ -72,7 +157,7 @@ export async function POST(req: NextRequest) {
       }),
     ).catch((err) => console.error("Telegram error:", err));
 
-    // 3. AI auto-reply (direct call, no fetch)
+    // 3. AI авто-ответ клиенту
     try {
       await sendAutoReply({
         type: "quote",
