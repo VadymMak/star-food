@@ -162,6 +162,27 @@
     "cta1": "Solicită Ofertă",
     "cta2": "Sună-ne Acum"
   },
+  "faq": {
+    "eyebrow": "ÎNTREBĂRI",
+    "title": "Întrebări frecvente",
+    "subtitle": "Tot ce trebuie să știți despre comenzile en-gros de ulei de floarea-soarelui și produse alimentare.",
+    "q1": "Care este cantitatea minimă de comandă (MOQ)?",
+    "a1": "Pentru ulei îmbuteliat — de la 1 palet (~600–800 litri). Pentru vrac (flexitank/IBC) — de la 1 tonă. Pentru zahăr — de la 1 tonă. Comenzile mari beneficiază de prețuri preferențiale.",
+    "q2": "Ce condiții de livrare sunt disponibile — FOB, CIF, DAP?",
+    "a2": "Lucrăm cu FOB (portul Varna), CIF (până la portul dvs.) și DAP (livrare la adresă în Europa). Condițiile optime depind de logistica dvs.",
+    "q3": "Cât costă uleiul de floarea-soarelui en-gros?",
+    "a3": "Ulei rafinat: ~$1.500–1.800 per MT CIF Europa. High-oleic: ~$1.650–1.950 per MT. Prețurile depind de cantitate, ambalaj și condiții de livrare. Solicitați o ofertă.",
+    "q4": "Ce formate de ambalaj sunt disponibile?",
+    "a4": "Sticle PET: 0,5L, 1L, 3L, 5L. Vrac: containere IBC (1.000L), flexitank (până la 24.000L), cisternă. Disponibil și ambalaj private label.",
+    "q5": "Aveți certificări ISO 22000 și HACCP?",
+    "a5": "Da. Toate produsele respectă standardele UE de siguranță alimentară: ISO 22000, HACCP, Non-GMO. Fiecare livrare include certificate de analiză și de origine.",
+    "q6": "Cât durează livrarea în Europa?",
+    "a6": "Livrare standard: 5–10 zile lucrătoare în UE. Germania, Austria: 5–7 zile. România, Bulgaria: 2–4 zile. Livrare express disponibilă la cerere.",
+    "q7": "Puteți produce produse sub marca noastră privată?",
+    "a7": "Da, oferim servicii complete de private label — de la design etichetă până la conformitate cu reglementările UE. Disponibil pentru ulei de floarea-soarelui și ulei de prăjit.",
+    "q8": "Este posibil să primim mostre înainte de comandă?",
+    "a8": "Da, mostrele sunt disponibile pentru evaluarea calității înainte de a plasa o comandă en-gros. Contactați echipa noastră de vânzări."
+  },
   "contact": {
     "address": "Adresă",
     "addressValue": "Bulgaria, Varna 9010\nStr. Sirma Voivoda, bl.1, ap. 21",

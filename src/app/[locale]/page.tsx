@@ -9,6 +9,7 @@ import { getAllPosts } from "@/lib/blog";
 import LatestBlog from "@/components/LatestBlog/LatestBlog";
 import Logistics from "@/components/Logistics/Logistics";
 import CTASection from "@/components/CTASection/CTASection";
+import FAQ from "@/components/FAQ/FAQ";
 import ContactStrip from "@/components/ContactStrip/ContactStrip";
 import MapSection from "@/components/MapSection/MapSection";
 
@@ -103,6 +104,7 @@ export default async function HomePage({
       <Logistics />
       <LatestBlog posts={posts} />
       <CTASection />
+      <FAQ />
       <ContactStrip />
       <MapSection />
     </>

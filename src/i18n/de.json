@@ -162,6 +162,27 @@
     "cta1": "Angebot Anfordern",
     "cta2": "Jetzt Anrufen"
   },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles Wissenswerte über die Bestellung von Sonnenblumenöl und Lebensmittelrohstoffen im Großhandel.",
+    "q1": "Was ist die Mindestbestellmenge (MOQ)?",
+    "a1": "Für abgefülltes Sonnenblumenöl: ab 1 Palette (~600–800 Liter). Für Bulk (Flexitank/IBC): ab 1 Tonne. Für Zucker: ab 1 Tonne. Großbestellungen erhalten Vorzugspreise.",
+    "q2": "Welche Lieferbedingungen sind verfügbar — FOB, CIF, DAP?",
+    "a2": "Wir arbeiten mit FOB (Hafen Varna), CIF (Kosten, Versicherung und Fracht bis zu Ihrem Hafen) und DAP (Geliefert bis zur Haustür in Europa). Die optimalen Bedingungen hängen von Ihrer Logistik ab.",
+    "q3": "Was kostet Sonnenblumenöl im Großhandel?",
+    "a3": "Raffiniertes Sonnenblumenöl: ~1.500–1.800 $/MT CIF Europa. High-Oleic: ~1.650–1.950 $/MT. Preise hängen von Menge, Verpackung und Lieferbedingungen ab. Jetzt Angebot anfordern.",
+    "q4": "Welche Verpackungsformate sind erhältlich?",
+    "a4": "PET-Flaschen: 0,5L, 1L, 3L, 5L. Bulk: IBC-Container (1.000L), Flexitank (20.000–24.000L), Tankwagen. Private-Label-Verpackung ebenfalls verfügbar.",
+    "q5": "Haben Sie ISO 22000 und HACCP-Zertifizierungen?",
+    "a5": "Ja. Alle Produkte entsprechen EU-Lebensmittelsicherheitsstandards: ISO 22000, HACCP, Non-GMO-Zertifizierung. Jede Lieferung enthält Analysezertifikate und Ursprungszertifikate.",
+    "q6": "Wie lange dauert die Lieferung nach Europa?",
+    "a6": "Standardlieferung: 5–10 Werktage innerhalb der EU. Deutschland, Österreich: 5–7 Tage. Rumänien, Bulgarien: 2–4 Tage. Expresslieferung auf Anfrage möglich.",
+    "q7": "Können Sie Produkte unter unserem eigenen Label herstellen?",
+    "a7": "Ja, wir bieten vollständigen Private-Label-Service an — von der Etikettengestaltung bis zur EU-Konformität. Verfügbar für Sonnenblumen- und Frittieröl. Mindestmenge gilt.",
+    "q8": "Ist es möglich, vor der Bestellung Muster zu erhalten?",
+    "a8": "Ja, Muster sind für die Qualitätsbewertung vor einer Großbestellung erhältlich. Kontaktieren Sie unser Vertriebsteam für die Musterlieferung."
+  },
   "contact": {
     "address": "Adresse",
     "addressValue": "Bulgarien, Varna 9010\nSirma Voivoda Str., Bl.1, Ap. 21",
