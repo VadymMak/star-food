@@ -49,10 +49,8 @@ export async function GET() {
     }
 
     const price = parseFloat(observation.value);
-    const date = observation.date; // "2026-01-01"
-
-    // Format date as "Jan 2026"
-    const formatted = new Date(date).toLocaleDateString("en-US", {
+    // Show current fetch date (FRED data updates monthly with ~6 week lag)
+    const formatted = new Date().toLocaleDateString("en-US", {
       month: "short",
       year: "numeric",
       timeZone: "UTC",
