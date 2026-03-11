@@ -58,7 +58,8 @@
     "source": "Източник: МВФ / FRED",
     "wholesale": "Едро",
     "retail": "Дребно",
-    "bottles": "Бутилки"
+    "bottles": "Бутилки",
+    "bottleSizes": "0.5L · 1L · 5L"
   },
   "trust": {
     "years": "Години на пазара",

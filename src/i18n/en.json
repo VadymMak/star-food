@@ -58,7 +58,8 @@
     "source": "Source: IMF via FRED",
     "wholesale": "Wholesale",
     "retail": "Retail",
-    "bottles": "Bottles"
+    "bottles": "Bottles",
+    "bottleSizes": "0.5L · 1L · 5L"
   },
   "trust": {
     "years": "Years in Business",
