@@ -58,7 +58,8 @@
     "source": "Kaynak: IMF / FRED",
     "wholesale": "Toptan",
     "retail": "Perakende",
-    "bottles": "Şişeler"
+    "bottles": "Şişeler",
+    "bottleSizes": "0.5L · 1L · 5L"
   },
   "trust": {
     "years": "Yıllık Deneyim",

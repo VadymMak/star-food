@@ -18,7 +18,8 @@
     "source": "Sursă: FMI / FRED",
     "wholesale": "En-gros",
     "retail": "Retail",
-    "bottles": "Sticle"
+    "bottles": "Sticle",
+    "bottleSizes": "0.5L · 1L · 5L"
   },
   "hero": {
     "trust": {

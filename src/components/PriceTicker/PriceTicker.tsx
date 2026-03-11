@@ -1,10 +1,5 @@
 "use client";
 
-// src/components/PriceTicker/PriceTicker.tsx
-// Shows IMF benchmark sunflower oil price from FRED API
-// + manual price ranges from env variables
-// Updates every 24h via server-side cache
-
 import { useEffect, useState } from "react";
 import { useTranslations } from "next-intl";
 import styles from "./PriceTicker.module.css";
@@ -16,16 +11,22 @@ interface PriceData {
   fallback: boolean;
 }
 
-// Manual price ranges — update in .env.local when needed
-// These are the "from~to" ranges shown on the cards
-const MANUAL_PRICES = {
+const WHOLESALE = {
   refined: { from: 1500, to: 1800 },
   highOleic: { from: 1650, to: 1950 },
   meal: { from: 230, to: 320 },
 };
 
-function formatPrice(n: number) {
+const RETAIL = {
+  refined: { from: 0.85, to: 1.1 },
+  highOleic: { from: 1.0, to: 1.3 },
+};
+
+function fMT(n: number) {
   return `$${n.toLocaleString("en-US")}`;
+}
+function fL(n: number) {
+  return `$${n.toFixed(2)}`;
 }
 
 export default function PriceTicker() {
@@ -48,78 +49,102 @@ export default function PriceTicker() {
 
   return (
     <div className={styles.ticker}>
-      {/* Left: live dot + label */}
-      <div className={styles.liveBlock}>
+      {/* LEFT: live indicator */}
+      <div className={styles.left}>
         <span className={styles.liveDot} />
-        <span className={styles.liveLabel}>{t("ticker.marketUpdate")}</span>
+        <div className={styles.leftText}>
+          <span className={styles.liveLabel}>{t("ticker.marketUpdate")}</span>
+          {data?.date && <span className={styles.date}>{data.date}</span>}
+        </div>
       </div>
 
-      {/* Price items */}
-      <div className={styles.items}>
-        {/* IMF Benchmark — from FRED API */}
-        <div className={styles.item}>
-          <span className={styles.itemLabel}>{t("ticker.benchmark")}</span>
-          <span className={styles.itemValue}>
-            {loading ? (
-              <span className={styles.skeleton} />
-            ) : data?.price ? (
-              <>
-                {formatPrice(data.price)}
+      {/* CENTER: two rows */}
+      <div className={styles.rows}>
+        {/* Row 1 — Wholesale */}
+        <div className={styles.row}>
+          <span className={styles.rowBadge + " " + styles.badgeWholesale}>
+            {t("ticker.wholesale")}
+          </span>
+          <div className={styles.items}>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.benchmark")}</span>
+              <span className={styles.itemValue}>
+                {loading ? (
+                  <span className={styles.skeleton} />
+                ) : data?.price ? (
+                  <>
+                    {fMT(data.price)}
+                    <span className={styles.unit}>/MT</span>
+                  </>
+                ) : (
+                  <span className={styles.na}>—</span>
+                )}
+              </span>
+            </div>
+            <span className={styles.sep}>·</span>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.refined")}</span>
+              <span className={styles.itemValue}>
+                {fMT(WHOLESALE.refined.from)}–{fMT(WHOLESALE.refined.to)}
                 <span className={styles.unit}>/MT</span>
-              </>
-            ) : (
-              <span className={styles.na}>—</span>
-            )}
-          </span>
+              </span>
+            </div>
+            <span className={styles.sep}>·</span>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.highOleic")}</span>
+              <span className={styles.itemValue}>
+                {fMT(WHOLESALE.highOleic.from)}–{fMT(WHOLESALE.highOleic.to)}
+                <span className={styles.unit}>/MT</span>
+              </span>
+            </div>
+            <span className={styles.sep}>·</span>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.meal")}</span>
+              <span className={styles.itemValue}>
+                {fMT(WHOLESALE.meal.from)}–{fMT(WHOLESALE.meal.to)}
+                <span className={styles.unit}>/MT</span>
+              </span>
+            </div>
+          </div>
         </div>
 
-        <span className={styles.sep}>·</span>
+        <div className={styles.rowDivider} />
 
-        {/* Refined Oil range */}
-        <div className={styles.item}>
-          <span className={styles.itemLabel}>{t("ticker.refined")}</span>
-          <span className={styles.itemValue}>
-            {formatPrice(MANUAL_PRICES.refined.from)}–
-            {formatPrice(MANUAL_PRICES.refined.to)}
-            <span className={styles.unit}>/MT</span>
+        {/* Row 2 — Retail */}
+        <div className={styles.row}>
+          <span className={styles.rowBadge + " " + styles.badgeRetail}>
+            {t("ticker.retail")}
           </span>
-        </div>
-
-        <span className={styles.sep}>·</span>
-
-        {/* High-Oleic range */}
-        <div className={styles.item}>
-          <span className={styles.itemLabel}>{t("ticker.highOleic")}</span>
-          <span className={styles.itemValue}>
-            {formatPrice(MANUAL_PRICES.highOleic.from)}–
-            {formatPrice(MANUAL_PRICES.highOleic.to)}
-            <span className={styles.unit}>/MT</span>
-          </span>
-        </div>
-
-        <span className={styles.sep}>·</span>
-
-        {/* Meal range */}
-        <div className={styles.item}>
-          <span className={styles.itemLabel}>{t("ticker.meal")}</span>
-          <span className={styles.itemValue}>
-            {formatPrice(MANUAL_PRICES.meal.from)}–
-            {formatPrice(MANUAL_PRICES.meal.to)}
-            <span className={styles.unit}>/MT</span>
-          </span>
+          <div className={styles.items}>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.refined")}</span>
+              <span className={styles.itemValueRetail}>
+                {fL(RETAIL.refined.from)}–{fL(RETAIL.refined.to)}
+                <span className={styles.unit}>/L</span>
+              </span>
+            </div>
+            <span className={styles.sep}>·</span>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.highOleic")}</span>
+              <span className={styles.itemValueRetail}>
+                {fL(RETAIL.highOleic.from)}–{fL(RETAIL.highOleic.to)}
+                <span className={styles.unit}>/L</span>
+              </span>
+            </div>
+            <span className={styles.sep}>·</span>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>{t("ticker.bottles")}</span>
+              <span className={styles.itemValueRetail}>
+                {t("ticker.bottleSizes")}
+              </span>
+            </div>
+          </div>
         </div>
       </div>
 
-      {/* Right: source + date */}
-      <div className={styles.source}>
-        {data?.date && (
-          <span className={styles.sourceText}>
-            {t("ticker.source")} · {data.date}
-          </span>
-        )}
-        {!loading && !data?.date && (
-          <span className={styles.sourceText}>{t("ticker.source")}</span>
-        )}
+      {/* RIGHT: source */}
+      <div className={styles.right}>
+        <span className={styles.sourceText}>{t("ticker.source")}</span>
       </div>
     </div>
   );

@@ -11,17 +11,17 @@
   overflow-x: auto;
   scrollbar-width: none;
 }
-
 .ticker::-webkit-scrollbar {
   display: none;
 }
 
-/* ── Live indicator ── */
-.liveBlock {
+/* ── LEFT: live indicator ── */
+.left {
   display: flex;
   align-items: center;
   gap: 8px;
   flex-shrink: 0;
+  align-self: center; /* ← добавь */
 }
 
 .liveDot {
@@ -45,6 +45,12 @@
   }
 }
 
+.leftText {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
 .liveLabel {
   font-size: 0.68rem;
   font-weight: 700;
@@ -54,13 +60,63 @@
   white-space: nowrap;
 }
 
-/* ── Price items row ── */
+.date {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7);
+  white-space: nowrap;
+}
+
+/* ── CENTER: two rows ── */
+.rows {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  flex: 1;
+}
+
+.rowDivider {
+  height: 1px;
+  background: rgba(212, 175, 55, 0.1);
+  margin: 4px 0;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Wholesale / Retail badge */
+.rowBadge {
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  white-space: nowrap;
+  min-width: 60px;
+  text-align: center;
+}
+
+.badgeWholesale {
+  background: rgba(212, 175, 55, 0.15);
+  color: var(--gold);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+.badgeRetail {
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+/* ── Items row ── */
 .items {
   display: flex;
   align-items: center;
   gap: 12px;
-  flex: 1;
-  justify-content: center;
   flex-wrap: nowrap;
 }
 
@@ -70,7 +126,7 @@
   flex-shrink: 0;
 }
 
-/* ── Single price item ── */
+/* ── Single item ── */
 .item {
   display: flex;
   align-items: baseline;
@@ -86,10 +142,21 @@
   color: rgba(255, 255, 255, 0.8);
 }
 
+/* Wholesale price — gold */
 .itemValue {
   font-size: 0.9rem;
   font-weight: 700;
   color: var(--gold);
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+}
+
+/* Retail price — muted white */
+.itemValueRetail {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.6);
   display: flex;
   align-items: baseline;
   gap: 2px;
@@ -131,9 +198,10 @@
   color: rgba(255, 255, 255, 0.2);
 }
 
-/* ── Source label ── */
-.source {
+/* ── RIGHT: source ── */
+.right {
   flex-shrink: 0;
+  align-self: center; /* ← добавь */
 }
 
 .sourceText {
@@ -146,35 +214,45 @@
 }
 
 /* ── Responsive ── */
-@media (max-width: 900px) {
-  .source {
+@media (max-width: 1100px) {
+  .right {
     display: none;
   }
+}
 
+@media (max-width: 900px) {
   .items {
     gap: 8px;
   }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 768px) {
   .ticker {
     padding: 8px 16px;
     gap: 10px;
-    justify-content: flex-start;
   }
-
   .liveLabel {
     display: none;
   }
+  .rowBadge {
+    font-size: 0.55rem;
+    padding: 2px 5px;
+  }
+  .itemLabel {
+    font-size: 0.7rem;
+  }
+}
 
+@media (max-width: 640px) {
+  .ticker {
+    justify-content: flex-start;
+  }
   .sep {
     display: none;
   }
-
   .items {
     gap: 14px;
   }
-
   .item {
     flex-direction: column;
     align-items: flex-start;

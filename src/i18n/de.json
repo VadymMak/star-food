@@ -18,7 +18,8 @@
     "source": "Quelle: IWF / FRED",
     "wholesale": "Großhandel",
     "retail": "Einzelhandel",
-    "bottles": "Flaschen"
+    "bottles": "Flaschen",
+    "bottleSizes": "0.5L · 1L · 5L"
   },
   "hero": {
     "trust": {
