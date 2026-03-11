@@ -12,7 +12,7 @@ import styles from "./QuoteForm.module.css";
 export default function QuoteForm() {
   const locale = useLocale();
   const t = useTranslations();
-const searchParams = useSearchParams();
+  const searchParams = useSearchParams();
   const preselectedProduct = searchParams.get("product") || "";
 
   const [formData, setFormData] = useState({
@@ -25,6 +25,7 @@ const searchParams = useSearchParams();
     quantity: "",
     deliveryTerms: "CIF",
     message: "",
+    honeypot: "",
   });
   const [status, setStatus] = useState<
     "idle" | "sending" | "success" | "error"
@@ -65,9 +66,7 @@ const searchParams = useSearchParams();
       <div className={styles.success}>
         <FaCheckCircle className={styles.successIcon} />
         <h3>{t("quoteForm.successTitle")}</h3>
-        <p>
-          {t("quoteForm.successText")}
-        </p>
+        <p>{t("quoteForm.successText")}</p>
         <button className="btn btn-outline" onClick={() => setStatus("idle")}>
           {t("quoteForm.sendAnother")}
         </button>
@@ -78,9 +77,7 @@ const searchParams = useSearchParams();
   return (
     <form className={styles.form} onSubmit={handleSubmit}>
       <h2 className={styles.title}>{t("quoteForm.title")}</h2>
-      <p className={styles.subtitle}>
-        {t("quoteForm.subtitle")}
-      </p>
+      <p className={styles.subtitle}>{t("quoteForm.subtitle")}</p>
 
       <div className={styles.grid}>
         <div className={styles.field}>
@@ -184,11 +181,21 @@ const searchParams = useSearchParams();
           value={formData.message}
           onChange={handleChange}
           rows={4}
-          placeholder={
-            t("quoteForm.messagePlaceholder")
-          }
+          placeholder={t("quoteForm.messagePlaceholder")}
         />
       </div>
+
+      {/* Honeypot — антиспам, скрыто от людей */}
+      <input
+        type="text"
+        name="honeypot"
+        value={formData.honeypot}
+        onChange={handleChange}
+        style={{ display: "none", position: "absolute", left: "-9999px" }}
+        tabIndex={-1}
+        autoComplete="off"
+        aria-hidden="true"
+      />
 
       <div className={styles.actions}>
         <button
@@ -201,15 +208,11 @@ const searchParams = useSearchParams();
             ? t("quoteForm.sending")
             : t("quoteForm.submit")}
         </button>
-        <p className={styles.noObligation}>
-          {t("quoteForm.noObligation")}
-        </p>
+        <p className={styles.noObligation}>{t("quoteForm.noObligation")}</p>
       </div>
 
       {status === "error" && (
-        <p className={styles.error}>
-          {t("quoteForm.errorText")}
-        </p>
+        <p className={styles.error}>{t("quoteForm.errorText")}</p>
       )}
     </form>
   );
