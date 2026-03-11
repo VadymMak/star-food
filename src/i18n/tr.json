@@ -162,6 +162,27 @@
     "cta1": "Teklif İste",
     "cta2": "Bizi Arayın"
   },
+  "faq": {
+    "eyebrow": "SSS",
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Toptan ayçiçek yağı ve gıda emtia siparişleri hakkında bilmeniz gereken her şey.",
+    "q1": "Minimum sipariş miktarı (MOQ) nedir?",
+    "a1": "Şişelenmiş yağ için — 1 palettten (~600–800 litre). Dökme (flexitank/IBC) için — 1 tondan. Şeker için — 1 tondan. Büyük siparişler tercihli fiyat alır.",
+    "q2": "Hangi teslimat koşulları mevcuttur — FOB, CIF, DAP?",
+    "a2": "FOB (Varna limanı), CIF (sigorta dahil limanınıza) ve DAP (Avrupa'da kapıya teslimat) koşullarıyla çalışıyoruz. En uygun koşul lojistiğinize göre belirlenir.",
+    "q3": "Toptan ayçiçek yağı ne kadar?",
+    "a3": "Rafine ayçiçek yağı: ~1.500–1.800 $/MT CIF Avrupa. Yüksek oleikli: ~1.650–1.950 $/MT. Fiyatlar miktar, ambalaj ve teslimat koşullarına göre değişir. Fiyat teklifi isteyin.",
+    "q4": "Hangi ambalaj formatları mevcuttur?",
+    "a4": "PET şişeler: 0,5L, 1L, 3L, 5L. Dökme: IBC konteynerler (1.000L), flexitank (24.000L'ye kadar), tanker. Özel etiket (private label) ambalaj da mevcuttur.",
+    "q5": "ISO 22000 ve HACCP sertifikalarınız var mı?",
+    "a5": "Evet. Tüm ürünler ISO 22000, HACCP ve Non-GMO dahil AB gıda güvenliği standartlarını karşılar. Her sevkiyata analiz ve menşe sertifikaları eşlik eder.",
+    "q6": "Avrupa'ya teslimat ne kadar sürer?",
+    "a6": "AB içinde standart teslimat: 5–10 iş günü. Almanya, Avusturya: 5–7 gün. Romanya, Bulgaristan: 2–4 gün. Acil siparişler için ekspres teslimat mevcuttur.",
+    "q7": "Ürünleri kendi özel etiketimiz altında üretebilir misiniz?",
+    "a7": "Evet, etiket tasarımından AB uyumuna kadar tam private label hizmeti sunuyoruz. Ayçiçek yağı ve kızartma yağı için mevcuttur. Minimum sipariş geçerlidir.",
+    "q8": "Sipariş vermeden önce numune almak mümkün mü?",
+    "a8": "Evet, toplu sipariş vermeden önce kalite değerlendirmesi için numune temin edilebilir. Numune teslimatı için satış ekibimizle iletişime geçin."
+  },
   "contact": {
     "address": "Adres",
     "addressValue": "Bulgaristan, Varna 9010\nSirma Voivoda Cd., b.1, d. 21",

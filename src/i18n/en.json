@@ -162,6 +162,27 @@
     "cta1": "Request a Quote",
     "cta2": "Call Us Now"
   },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about ordering sunflower oil and food commodities wholesale.",
+    "q1": "What is the minimum order quantity (MOQ)?",
+    "a1": "For bottled sunflower oil — from 1 pallet (~600–800 liters). For bulk (flexitank/IBC) — from 1 ton. For sugar — from 1 ton. Large orders receive preferential pricing.",
+    "q2": "What delivery terms are available — FOB, CIF, DAP?",
+    "a2": "We work with FOB (Free on Board, Varna port), CIF (Cost, Insurance, Freight — to your port), and DAP (Delivered at Place — door delivery across Europe). The best term depends on your logistics setup.",
+    "q3": "How much does wholesale sunflower oil cost?",
+    "a3": "Refined sunflower oil: ~$1,500–1,800 per MT CIF Europe. High-oleic sunflower oil: ~$1,650–1,950 per MT. Prices depend on quantity, packaging, and delivery terms. Request a quote for current pricing.",
+    "q4": "What packaging formats are available?",
+    "a4": "PET bottles: 0.5L, 1L, 3L, 5L. Bulk: IBC containers (1,000L), flexitank (20,000–24,000L), tanker trucks. Custom private label packaging is also available.",
+    "q5": "Do you have ISO 22000 and HACCP certification?",
+    "a5": "Yes. All UB Market products meet EU food safety standards including ISO 22000, HACCP, and Non-GMO verification. Every shipment includes certificates of analysis (COA) and certificates of origin.",
+    "q6": "How long does delivery to Europe take?",
+    "a6": "Standard delivery: 5–10 business days within the EU. Germany, Austria, Czech Republic — 5–7 days. Romania, Bulgaria — 2–4 days. Express options available for urgent orders.",
+    "q7": "Can you produce products under our private label?",
+    "a7": "Yes. We offer full private label service — from label design to EU regulatory compliance. Available for sunflower oil, frying oil, and other products. Minimum order applies.",
+    "q8": "Is it possible to get product samples before ordering?",
+    "a8": "Yes, samples are available for quality evaluation before placing a bulk order. Contact our sales team to arrange sample delivery to your location."
+  },
   "contact": {
     "address": "Address",
     "addressValue": "Bulgaria, Varna 9010\nSirma Voivoda St., b.1, ap. 21",
