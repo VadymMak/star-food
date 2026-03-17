@@ -80,6 +80,38 @@ Tedarikçi seçerken aşağıdaki sertifikalara dikkat edin:
 
 UB Market, yalnızca ISO 22000 ve HACCP tam sertifikalarına sahip üreticilerle çalışmaktadır.
 
+## Avrupa Pazarında Rekabetçi Avantajlar
+
+Avrupa ayçiçek yağı pazarında başarılı olmak için çok sayıda faktörü dikkate almak gerekir. **Fiyat rekabetçiliği** her zaman önemli olmakla birlikte, kalite ve güvenilirlik daha da kritik rol oynamaktadır. Alıcılar, özellikle uzun vadeli ortaklıklar kurma niyetinde olduklarında, tutarlı kalite, zamanında teslimat ve müşteri desteğine yüksek değer atfetmektedirler.
+
+Bulgaristan'dan işlem yapmanın en büyük avantajlarından biri, **Doğu Avrupa ve Batı Avrupa pazarlarına eşit mesafede olması**'dır. Bu durum, hem talep ve paydaş çeşitliliği sağlar hem de lojistik maliyetlerini optimize eder. Ayrıca, Bulgaristan'ın AB üyesi olması, tüm yasal uyum ve vergi konularında güven ve şeffaflık sağlamaktadır.
+
+**Uygun fiyat ve kalite dengesi** kurabilenler pazarda uzun süreli başarı elde edebilmektedir. UB Market, bu dengeyi sağlamak için tedarikçi seçimi aşamasından başlayarak kalite kontrolüne kadar tüm süreci titizlikle yönetmektedir.
+
+## Lojistik ve Nakliye Ayrıntıları
+
+Avrupa genelinde ayçiçek yağı taşımacılığı belirli standartlara ve düzenlemelere tabidir. Gıda ürünleri olarak, tanker ve konteynerler gıda seviyesi temizlik uygulamalarına uymalıdır. Karayolu nakliyesinde **ADR (Avrupa Tehlikeli Mallar Yönetmeliği) sertifikası** zorunludur.
+
+Yazın sıcak aylarda, yağın oksidasyon riski nedeniyle **kapalı ve gölgeli taşımacılık** tercih edilmelidir. Kış aylarında ise bazı yağ türleri kristalleşebileceğinden, **ısıtmalı tankerler** veya konteynerler kullanılması gerekebilir.
+
+Bulgaristan'dan ayrılan yağlar, **Tuna Nehri yoluyla Romen-Sırbistan rotasından** veya **Karadeniz limanlarından** ihraç edilebilir. Bunun yanında, **karayolu taşımacılığı** başta Orta Avrupa olmak üzere çoğu AB ülkesine daha hızlı ve güvenilir bir alternatiftir.
+
+## Yasal Düzenlemeler ve Uyum Gereksinimleri
+
+AB'ye ayçiçek yağı ihracatı yapan şirketler, **Gıda ve Vet Yönetmeliği (Regulation EC 178/2002)** başta olmak üzere kapsamlı yasal çerçeveye uymalıdır. Her sevkiyat, **sertifikasyon ve izlenebilirlik** belgelerini içermelidir.
+
+Ülkelere özgü gereklilikler de bulunmaktadır. Örneğin, bazı Batı Avrupa ülkeleri **kalıntı pestisit testleri** veya **ağır metal analizleri** talep edebilmektedir. Bu analiz maliyetleri (genellikle ton başına 50-150 dolar) satış fiyatlandırmasında dikkate alınmalıdır.
+
+Pazara yeni giren alıcılar için, ilk partiler genellikle **bağımsız laboratuvar tarafından sertifikasyonlu** olmalıdır. Bu, ürünün AB standartlarına tam uyumluluğunun ispatlanmasını sağlar.
+
+## Sezon Planlaması ve Stok Yönetimi
+
+Ayçiçek yağı pazarı mevsimsel dalgalanmalardan büyük ölçüde etkilenmektedir. **Ekim-Aralık ayları** hasat sonrası en yüksek arz ve en düşük fiyatları sunar. Bu dönemde satın alınan yağ, uygun soğutma ve depolama koşullarında 12-18 ay dayanabilir.
+
+**Mart-Ağustos ayları** ise nispeten kıyıttır. Bu dönemde seçen alıcılar daha yüksek fiyatlar ödemek zorunda kalabilir. Akıllı **stok yönetimi** stratejisi, yüksek fiyatları önlemek için ekim-kasım döneminde büyük miktarda tedarik yapılmasını sağlayabilir.
+
+Başlangıç alıcılarının sıklıkla yaptığı hata, **tüm ihtiyaçlarını bir kez almaya** çalışmaktır. Bunun yerine, **ayda 1-2 sipariş** yöntemi daha esnek ve riski daha az bir yaklaşımdır.
+
 ## Nasıl Sipariş Verilir
 
 UB Market'te sipariş süreci basit ve şeffaftır:

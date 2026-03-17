@@ -83,19 +83,43 @@ Der Straßentransport von Bulgarien in die DACH-Region erfolgt in der Regel inne
 - Bulgarien → Serbien → Ungarn → Österreich (alternative Route)
 - Lieferung an jede Adresse innerhalb der EU möglich (DAP-Bedingungen)
 
-## Häufig gestellte Fragen
+**Besonderheiten beim Transport in die Schweiz:**
+Die Schweiz als Nicht-EU-Mitglied erfordert zusätzliche Zollformalitäten und Dokumentation. Als etablierter EU-Exporteur verfügen wir über die notwendige Erfahrung, um reibungslose Zollabfertigungen zu gewährleisten. Die durchschnittliche Lieferzeit nach der Schweiz beträgt 4–6 Werktage. Wichtig ist die Einhaltung der schweizer Lebensmittelverordnungen und die entsprechende Kennzeichnung der Produkte in Deutsch, Französisch oder Italienisch.
 
-**Wie hoch sind die aktuellen Großhandelspreise?**
-Die Preise variieren je nach Qualität, Menge und Lieferbedingungen. Für aktuelle Angebote kontaktieren Sie uns direkt — wir erstellen Ihnen innerhalb von 24 Stunden ein individuelles Angebot.
+## Markttrends und Chancen für Großhandelseinkäufer
 
-**Was ist die Mindestbestellmenge?**
-Ab 1 Palette (ca. 800–1.000 kg) für PET-Flaschen, ab 22 Tonnen für Tankwagenlieferungen.
+Der Sonnenblumenölmarkt in Europa entwickelt sich dynamisch. Besonders hervorzuheben sind folgende Trends:
 
-**Können Sie IFS- oder BRC-Zertifikate vorweisen?**
-Ja, alle unsere Partner-Produzenten verfügen über die relevanten internationalen Zertifizierungen. Wir stellen gerne sämtliche Dokumentation zur Verfügung.
+**Nachhaltigkeitsfokus:** Europäische Einzelhandelsketten und Gastronomieketten fordern zunehmend Transparenz in der Lieferkette. Großhandelseinkäufer sollten ihre Lieferanten auf entsprechende ESG-Standards (Umwelt, Soziales, Unternehmensführung) überprüfen. Bulgarische Produzenten erfüllen dabei durchweg europäische Umweltstandards.
 
-## Ihr nächster Schritt
+**Gesundheitstrends:** High-Oleic-Varianten und Bio-Produkte verzeichnen zweistellige Wachstumsraten. Gourmet-Restaurants und Premium-Einzelhandelsketten zahlen für diese Segmente Aufschläge von 15–30 % gegenüber Standard-Raffiniertem Öl.
 
-UB Market verbindet osteuropäische Produzenten mit Großhandelseinkäufern in ganz Europa. Als in der EU registriertes Unternehmen mit Sitz in Bulgarien bieten wir kurze Lieferketten, wettbewerbsfähige Preise und verlässliche Qualität.
+**Preisvolatilität:** Die Rohstoffbörsen in Rotterdam und Hamburg bestimmen die täglichen Preisquotierungen. Einkäufer sollten mit ihren Lieferanten klare Preisgleitklauseln vereinbaren, um sich vor extremen Schwankungen zu schützen. Mehrjahresverträge mit festgelegten Preistranchierungen bieten Planungssicherheit.
 
-[Fordern Sie jetzt Ihr individuelles Angebot an →](/de/quote)
+## Praktische Einkaufstipps für B2B-Käufer
+
+**Verhandlungsstrategien:**
+- Größere Bestellmengen (ab 50 Tonnen pro Jahr) führen zu deutlichen Rabatten
+- Ganzjährige Verträge erhalten in der Regel bessere Konditionen als Einzelkäufe
+- Lagerverwaltungsverträge (Vendor-Managed Inventory) reduzieren Ihre Lagerhaltungskosten
+
+**Qualitätskontrolle:**
+Fordern Sie Labortestberichte für jede Lieferung an. Wichtige Parameter sind Säurewert, Peroxidzahl und Gehalt an Transfetten. Dies vermeidet Reklamationen und Einzelhandelsbeanstandungen.
+
+**Lagerhaltung und Lagerbeständigkeit:**
+Sonnenblumenöl sollte an kühlen, dunklen Orten gelagert werden. Die optimale Lagerungstemperatur liegt zwischen 10–15 °C. Unter diesen Bedingungen bleibt raffiniertes Sonnenblumenöl etwa 12–18 Monate haltbar. Eine sachgerechte Lagerverwaltung und regelmäßige Bestandsrotation (FIFO-Prinzip) sind essentiell, um Qualitätsverluste zu minimieren.
+
+## Regulatorische Anforderungen und Compliance
+
+**EU-Verordnung (EG) Nr. 1169/2011 (Lebensmittelinformationsverordnung):**
+Alle Etiketten müssen Nährwertangaben, Allergeninformationen und das Mindesthaltbarkeitsdatum enthalten. Die Kennzeichnung muss in der Landessprache des Importlandes erfolgen. Dies ist besonders beim Vertrieb in Österreich und der Schweiz zu beachten.
+
+**Rückverfolgbarkeit (Traceability):**
+Im Falle von Qualitätsproblemen muss die vollständige Rückverfolgbarkeit vom Hersteller bis zum Endkunden gewährleistet sein. Dies erfordert ein strukturiertes Dokumentationssystem, das alle Chargen und deren Lagerpositionen erfasst.
+
+**Inspektionen und Audits:**
+Mit deutschen und österreichischen Lebensmittelaufsichtsbehörden sollten Sie rechnen, dass Importe stichprobenartig überprüft werden. Seriöse Lieferanten bieten daher proaktiv Inspektionsprotokolle und entsprechende Dokumentation an.
+
+## Vergleich mit anderen Pflanzenölen
+
+Während Olivenöl und Rapsöl bedeutende Marktanteile haben, bleibt Sonnenblumenöl das kosteneffektivste Öl für hochvolumige Industrie- und Gastronomieanwendungen. Der Preis pro Liter ist in der Regel 30–50 % günstiger als kaltgepresstes Olivenöl, bietet aber dennoch gleichbleibende Qualität und Geschmacksneutralität. Dies macht es zur idealen Wahl für Frittierölbedarf, Salatdressings und industrielle Verarbeitung.

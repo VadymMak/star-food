@@ -98,6 +98,31 @@ For food trading, choosing the right Incoterm affects your total cost, risk expo
 - You're a retailer or small distributor without a logistics team
 - You want a clear, all-inclusive price
 
+## EU Regulations and Compliance Considerations
+
+When trading food products under any Incoterm within the EU, both sellers and buyers must comply with EU food safety regulations, regardless of who handles logistics. All sunflower oil and food commodities must meet EU standards for quality, labeling, and traceability. Under FOB, the buyer assumes responsibility for ensuring goods meet import requirements at the destination country, while under CIF and DAP, the seller typically manages these certifications during transit. UB Market ensures all shipments include required documentation: certificates of origin, phytosanitary certificates, and food safety certificates compliant with EFSA standards. Transport vehicles must also maintain proper temperature and hygiene conditions — particularly important for oils, which can degrade if exposed to extreme heat or light during long journeys.
+
+## Hidden Costs to Consider in Each Incoterm
+
+While the table above shows typical price premiums, several hidden costs often surprise first-time importers:
+
+**FOB additional costs:**
+- Port handling and loading surcharges ($15-25/ton)
+- Freight brokerage fees if using intermediaries
+- Insurance (typically $20-40/ton for food products)
+- Potential demurrage fees if port delays occur
+
+**CIF additional costs:**
+- Port handling on import side ($10-15/ton)
+- Local inland transport from port to warehouse
+- Customs broker fees for import clearance
+- Storage fees if goods arrive before you're ready to receive them
+
+**DAP additional costs:**
+- None — everything is included in the quoted price, making budgeting simpler and more transparent
+
+For smaller orders (under 10 tons), DAP often becomes the most economical choice when you factor in all hidden costs, because the seller spreads administrative and logistics overhead across multiple shipments.
+
 ## How UB Market Handles Trade Terms
 
 At UB Market, we offer all three Incoterms for sunflower oil and other food products:

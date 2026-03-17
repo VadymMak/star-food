@@ -17,7 +17,7 @@ Für Gastronomiebetriebe ist die Wahl des Frittieröls eine der wichtigsten betr
 | Rauchpunkt | 230 °C | 230 °C | 220 °C | 235 °C |
 | Geschmack | Neutral | Sehr neutral | Leicht nussig | Neutral |
 | Frittierbeständigkeit | Mittel | Hoch | Mittel-hoch | Hoch |
-| Ölwechsel-Intervall | 3–4 Tage | 7–10 Tage | 4–5 Tage | 6–8 Tage |
+| Ölwechsel-Intervall | 3–4 Tage | 7–10 Tage | 4–5 Tage | 6–8 Tage | 
 | Preis/Liter (Großhandel) | 1,10–1,30 € | 1,50–1,80 € | 1,20–1,40 € | 0,90–1,10 € |
 | Gesundheitsprofil | Gut | Sehr gut | Gut | Weniger günstig |
 | Nachhaltigkeitsimage | Gut | Gut | Gut | Kontrovers |
@@ -55,10 +55,51 @@ In Deutschland gelten strenge Vorschriften für die Verwendung von Frittierölen
 - **Dokumentation** der Ölwechsel-Intervalle empfohlen
 - **HACCP-konforme Frittierprozesse** sind Pflicht
 
-## Unsere Empfehlung für die DACH-Gastronomie
+## Praktische Tipps für die Ölverwaltung in Ihrer Küche
 
-Für die meisten Gastronomiebetriebe in Deutschland, Österreich und der Schweiz empfehlen wir **High-Oleic-Sonnenblumenöl** als Hauptfrittieröl. Es vereint Wirtschaftlichkeit, Qualität und ein positives Gesundheitsimage.
+Die richtige Lagerung und Handhabung von Frittieröl ist essentiell für die Qualität und Wirtschaftlichkeit. Lagern Sie Öle an kühlen, dunklen Orten zwischen 10–20 °C, um Oxidationsprozesse zu verlangsamen. Direktes Sonnenlicht und Wärmequellen beschleunigen den Abbau der Ölqualität erheblich. Achten Sie darauf, dass Lagertanks und Behälter vollständig verschlossen sind, um Kontaminationen und Feuchtigkeitseintritt zu vermeiden.
 
-UB Market liefert High-Oleic und konventionelles Sonnenblumenöl in allen gängigen Gebindegrößen direkt an Ihren Betrieb.
+Die regelmäßige Kontrolle des Öls mit einfachen Teststreifen oder professionellen Analysegeräten hilft Ihnen, den optimalen Wechselzeitpunkt zu bestimmen. Dies spart nicht nur Kosten, sondern garantiert auch konsistente Qualität Ihrer Frittierprodukte. Viele Gastronomibetriebe sparen unnötige Kosten ein, indem sie das Öl zu früh wechseln – mit modernen Testsystemen können Sie die maximale Lebensdauer voll ausschöpfen.
 
-[Angebot für Ihr Restaurant anfordern →](/de/quote)
+## Kostenanalyse: Die versteckten Ausgaben beim Frittieröl
+
+Bei der Kalkulation sollten Sie nicht nur den Einkaufspreis berücksichtigen. Die Gesamtkostenrechnung ist entscheidend:
+
+**Direkte Kosten:**
+- Einkaufspreis pro Liter
+- Lieferkosten und Mindestbestellmengen
+- Lagerhaltungskosten
+
+**Indirekte Kosten:**
+- Häufigere Ölwechsel = mehr Arbeitszeit
+- Entsorgungskosten für gebrauchtes Öl (reguliert in der EU)
+- Qualitätsverluste und Reklamationen durch zu altes Öl
+- Energiekosten für Fritteuse-Aufheizen mit minderwertigem Öl
+
+High-Oleic-Sonnenblumenöl mag teurer in der Anschaffung sein, aber über einen Monat betrachtet ist oft das teurere Öl die günstigere Lösung. Ein Restaurant mit täglich 50 Liter Frittierbedarf spart mit High-Oleic-Öl etwa 20–30 % der Ölgesamtkosten ein.
+
+## EU-Regulierungen und ihre praktischen Auswirkungen
+
+Als EU-registriertes Unternehmen mit Sitz in Bulgarien unterliegen alle unsere Produkte strengsten europäischen Standards. Die **EU-Verordnung 1169/2011** regelt die Kennzeichnung von Lebensmitteln, einschließlich Frittieröle. Alle angebotenen Öle müssen vollständige Allergenkennzeichnungen tragen und Herkunftsangaben dokumentieren.
+
+Die **EU-Verordnung 1107/2008** regelt die Grenzwerte für Kontaminanten in Pflanzenölen. Dies beinhaltet maximale Grenzwerte für Pestizide und andere Rückstände. Alle bei UB Market angebotenen Öle erfüllen diese Standards und werden regelmäßig laborgeprüft.
+
+Für die Entsorgung von Frittieröl gelten in allen EU-Ländern unterschiedliche Regelungen. In vielen Ländern ist die Entsorgung über den Restmüll verboten – gebrauchtes Öl muss über spezialisierte Entsorgungsunternehmen oder als Rohstoff für Biokraftstoffe verarbeitet werden. UB Market arbeitet mit Entsorgungspartnern zusammen, um Ihnen einen reibungslosen Prozess zu garantieren.
+
+## Lieferkette und Logistik für Großmengen
+
+Als etablierter B2B-Partner liefern wir Frittieröle in optimalen Mengen für Großverbraucher. Unsere Liefernetzwerk in Europa ermöglicht schnelle und zuverlässige Belieferung zu wettbewerbsfähigen Konditionen. Bei Bestellungen größerer Mengen bieten wir flexible Zahlungsbedingungen und regelmäßige Lieferpläne an, die sich an Ihrem Betriebskalender orientieren.
+
+Die Lagerung von Frittieröl in größeren Mengen erfordert sachgerechte Lagertanks mit UV-Schutz und Temperaturkontrolle. Viele unserer Kunden nutzen 1.000-Liter-Behälter oder größere Tankanlangen, um Lieferfrequenzen zu reduzieren und damit Transportkosten zu sparen. Ein durchschnittliches Restaurant mit fünf Fritteuren verbraucht etwa 200–300 Liter pro Woche. Mit einer optimalen Lagergröße reduzieren Sie die Lieferkomplexität und profitieren von Rabattgestaffeln bei höheren Bestellmengen.
+
+## Qualitätskontrolle und Lieferantenauswahl
+
+Bei der Wahl eines Öl-Lieferanten sollten Sie nicht nur auf den Preis achten, sondern auch auf die Qualitätskontrolle und Lieferverlässlichkeit. Seriöse Großhändler wie UB Market bieten **Analysezertifikate** für jede Charge, die dokumentieren, dass die Öle den EU-Standards entsprechen. Dies ist besonders wichtig im Hinblick auf potenzielle Lebensmittelkontrollen durch Behörden.
+
+Ein weiterer wichtiger Aspekt ist die **Temperaturstabilität** während des Transports. Öle sollten in isolierten Tankwagen transportiert werden, um Qualitätsverluste durch Hitzeeinwirkung zu vermeiden. UB Market verfügt über spezialisierte Transportfahrzeuge, die Ihre Öle unter optimalen Bedingungen liefern. Dies ist besonders im Sommer entscheidend, wenn Außentemperaturen von 35 °C und mehr die Ölqualität gefährden können.
+
+## Nachhaltige Ölwirtschaft und Unternehmensverantwortung
+
+Die europäische Gastronomie setzt zunehmend auf nachhaltig gewonnene Frittieröle. Sunfloweröl aus zertifizierten Quellen und mit FSC-Nachweisen wird von Gästen und Behörden immer stärker honoriert. UB Market arbeitet mit europäischen Produzenten zusammen, die transparent über Anbaumethoden berichten und ökologische Standards einhalten.
+
+Recycling von gebrauchtem Frittieröl ist nicht nur eine Umweltfrage, sondern kann auch ein Kostenfaktor sein. In einigen EU-Ländern erhalten Gastronomibetriebe Vergütungen für die Abgabe von Altöl, das zu Biokraftstoffen verarbeitet wird. Dies kann bei hohem Ölaufkommen einen zusätzlichen Einnahmestrom darstellen. Fragen Sie Ihren lokalen Entsorgungspartner nach entsprechenden Programmen.

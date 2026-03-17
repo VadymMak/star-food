@@ -88,19 +88,33 @@ România beneficiază de o poziție geografică privilegiată:
 | Cluj-Napoca | 780 km | 10–12 ore |
 | Timișoara | 650 km | 8–10 ore |
 
+## Considerații pentru cumpărătorii en gros din România
+
+Atunci când evaluați furnizorii de ulei de floarea soarelui, trebuie să analizați mai mult decât prețul per kilogram. Costul total de proprietate include taxe vamale, transportul, asigurarea și riscurile asociate variației cursului de schimb.
+
+**Sfaturi practici pentru negociere:**
+
+- **Contracte pe termen lung** — Furnizoriasigură prețuri mai stabile și prioritate în perioadele de cerere ridicată
+- **Platforma de date de piață** — Urmăriți cotațiile de referință pe ICE Futures și CBOT (Chicago Board of Trade)
+- **Inspectii de calitate** — Cereți teste de laborator independente înainte de primire
+- **Clauze de forță majoră** — Protejați-vă împotriva perturbărilor în lanțul de aprovizionare (conflicte, calamități naturale)
+- **Negoțiați termenii de plată** — În comerțul en gros, condiții de 30–60 zile sunt standard pentru comenzi regulate
+
+## Tendințe pe piața uleiului de floarea soarelui în 2025
+
+Piața este marcată de mai mulți factori structurali:
+
+**Instabilitatea ofertei** — Conflictele din regiunea Mării Negre continuă să afecteze exporturile. Furnizoriasignate din UE (Bulgaria, România) sunt mai fiabile pe termen scurt, deși la prețuri ușor mai mari.
+
+**Cererea pentru variante speciale crește** — Uleiul high-oleic și produsele non-GMO certificat se vând cu prime de 15–25% peste uleiul standard. Consumatorii din Europa de Vest sunt dispuși să plătească mai mult pentru calitate și transparență.
+
+**Consolidarea industriei de procesare** — Rafinerii mari absorb capacitate din piață. Ca mic cumpărător, este important să vă aliniați cu furnizori care nu depind exclusiv de contracte cu procesatori mari.
+
+**Reglementări UE mai stricte** — Eticheta de sănătate obligatorie pentru acizi grași trans, trasabilitate pe blockchain în anumite sectoare. Asigurați-vă că furnizorii dumneavoastră sunt în conformitate deplină.
+
 ## Întrebări frecvente
 
 **Care sunt prețurile actuale en gros?**
 Prețurile variază în funcție de calitate, cantitate și condiții de livrare. Contactați-ne pentru o ofertă personalizată — răspundem în 24 de ore.
 
-**Care este cantitatea minimă de comandă?**
-De la 1 palet (~800–1.000 kg) pentru sticle PET, de la 22 tone pentru cisterne.
-
-**Puteți livra direct în România?**
-Da, livrăm DAP la orice adresă din România. Ca vecini direcți, timpul de tranzit este minim.
-
-## Următorul pas
-
-UB Market conectează producătorii din Europa de Est cu cumpărătorii en gros din toată Europa. Ca și companie înregistrată în UE, cu sediul în Bulgaria — vecina directă a României — oferim lanțuri de aprovizionare scurte, prețuri competitive și calitate constantă.
-
-[Solicitați oferta dvs. personalizată →](/ro/quote)
+**Care este cantitatea minimă de comand

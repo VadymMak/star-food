@@ -56,6 +56,41 @@ HOSO are un gust și mai neutru decât uleiul rafinat convențional. Produsele p
 
 În ciuda prețului mai mare per litru, HOSO este **mai economic** în calculul total.
 
+## Context de piață și cerere europeană
+
+Piața uleiului High-Oleic a crescut semnificativ în ultimii ani pe território UE. Restaurantele, bufetele și bucătăriile industriale din România, Bulgaria și alte state membre au adoptat masiv HOSO datorită beneficiilor evidente. În țări precum Italia, Spania și Franța, utilizarea HOSO este deja o practică standard în sectorul HoReCa premium.
+
+Deoarece UB Market este înregistrată în UE și bazată în Bulgaria, avem acces direct la furnizorii de HOSO de cea mai înaltă calitate din regiunea Dunării și din alte centre de producție europene. Aceasta ne permite să oferim prețuri competitive și livrări rapide către clienții din România și în toată Europa.
+
+## Reglementări UE privind uleiul de prăjire
+
+Standardele europene pentru uleiul de prăjire sunt strict reglementate prin **Regulamentul (UE) nr. 1881/2006** și prin recomandările naționale. Limitele pentru compuși polari totali sunt:
+- **27%** în majoritatea țărilor UE
+- **24%** în unele state membre (inclusiv Bulgaria și România, prin orientări naționale)
+
+HOSO ajunge la aceste limite mult mai lent decât uleiul convențional, ceea ce înseamnă perioade mai lungi de utilizare și mai puține costuri de întreținere. De plus, riscul de a depăși limitele legale este semnificativ mai mic.
+
+## Stabilitate termică și oxidare
+
+Temperatura de fumigație a HOSO este mai înaltă decât cea a uleiului convențional:
+- **HOSO**: ~240–250°C
+- **Convențional**: ~210–220°C
+
+Aceasta are implicații directe pentru:
+- Prăjire mai eficientă cu temperaturi stabile
+- Formarea mai lentă de polimeri și compuși nocivi
+- Protecție mai bună a nutrienților în alimente
+- Texture și culoare mai uniformă a produselor finale
+
+## Avantaje logistice și de aprovizionare
+
+Ca distribuitor B2B din Europa, UB Market vă oferă:
+- **Livrări în 2–5 zile** către orice locație în România sau în UE
+- **Prețuri cu volum** pentru comenzi de 100+ litri
+- **Conformitate garantată** cu certificatele de calitate și documentele sanitare europene
+- **Suport tehnic** pentru trecerea de la uleiul convențional, inclusiv sfaturi de optimizare a fritezelor
+- **Flexibilitate de plată** și condiții comerciale adaptate nevoilor dumneavoastră
+
 ## Dimensiuni disponibile
 
 UB Market livrează ulei High-Oleic în următoarele formate:
@@ -63,6 +98,24 @@ UB Market livrează ulei High-Oleic în următoarele formate:
 - Canistre de 20 litri
 - Containere IBC de 1.000 litri
 - Vrac (cisternă)
+
+## Sfaturi practice pentru schimbarea la HOSO
+
+Dacă lucrați deja cu friteză profesională, tranziția la HOSO este simplă:
+- **Nu este necesară schimbarea echipamentelor** — HOSO funcționează în orice friteuză standard
+- **Curățarea**: înainte de trecere, o curățare minuțioasă a fritezei este recomandată
+- **Testare inițială**: vă sugerăm să testați cu o canistră de 10 litri pentru a verifica comportamentul în sistemul dumneavoastră
+- **Ajustări de temperatură**: unele friteze pot necesita mici ajustări pentru a optimiza temperatura și eficiența energetică
+
+## Certificări și standarde de calitate
+
+Toți furnizorii de HOSO cu care lucrează UB Market respectă:
+- **ISO 9001** (managementul calității)
+- **ISO 22000** (siguranța alimentară)
+- **Standarde ECOCERT** (pentru producția ecologică, acolo unde este aplicabil)
+- **Certificări de origine UE** (transparență asupra provenienței materiei prime)
+
+Aceste certificări garantează că uleiul pe care îl primiți este de cea mai înaltă calitate și conform reglementărilor sanitare europene.
 
 ## Trecerea la High-Oleic
 

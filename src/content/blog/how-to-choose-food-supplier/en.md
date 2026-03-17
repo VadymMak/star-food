@@ -78,6 +78,28 @@ The supplier should be willing to sign a proper sales contract covering: product
 7. "Can you send product samples?"
 8. "What is your lead time from order to delivery?"
 
+## Market Context and Regulatory Environment
+
+The European food trading market operates under strict oversight from national authorities and EFSA (European Food Safety Authority) regulations. As a buyer, understanding this regulatory landscape helps you assess supplier credibility more effectively.
+
+All suppliers selling into the EU must comply with **Regulation (EC) No 178/2002** (General Food Law) and maintain complete traceability from farm to consumer. This means your supplier should have documented supply chains, including details about their raw material sources. For sunflower oil specifically, suppliers must declare processing methods, country of origin, and any refining procedures used.
+
+Bulgaria, where UB Market is based, has been an EU member since 2007 and operates under the same stringent food safety framework as other EU nations. Bulgarian food producers are regularly inspected by the Bulgarian Food Safety Agency and must adhere to identical standards as suppliers in Germany, France, or any other EU country.
+
+When evaluating a supplier, request their last inspection report or official food safety audit results. Transparency about regulatory compliance is a sign of a professional operation.
+
+## Practical Tips for First-Time Negotiations
+
+**Start with small orders.** Before committing to large volumes, place a test order of 5-10 tons (or the equivalent for your product category). This allows you to verify quality without major financial risk.
+
+**Clarify delivery terms early.** Different Incoterms have major cost and liability implications. FOB (Free on Board) means the supplier arranges loading; CIF (Cost, Insurance, Freight) means the supplier covers shipping costs; DAP (Delivered at Place) is the most comprehensive but expensive. Understand which party bears risk and cost at each stage.
+
+**Verify insurance coverage.** Ask whether the supplier carries product liability insurance and what limits are covered. This protects you if the product causes issues downstream.
+
+**Request product specifications in writing.** Don't rely on verbal descriptions. Specifications should cover: appearance, viscosity, acidity, peroxide value (for oils), moisture content, density, and any contaminants tested for. These become your quality benchmark for every delivery.
+
+**Establish a dispute resolution process.** What happens if a shipment arrives with quality issues? A clear contractual process (testing protocols, who pays for retesting, timeline for remediation) prevents costly conflicts later.
+
 ## Why Choose UB Market
 
 UB Market meets all 10 criteria:

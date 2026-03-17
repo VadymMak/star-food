@@ -77,6 +77,24 @@ The per-ton price of HOSO is higher, but the **total cost of ownership** tells a
 
 Despite costing **$150-250 more per ton**, HOSO saves EUR 2,000-4,750 annually for a typical restaurant because you use **60% less oil** over the same period.
 
+## EU Market Context & Regulatory Advantages
+
+The European market is increasingly shifting toward high-oleic oils due to tightening food safety and labeling regulations. The **EU's promotion of healthier oils** — particularly for fried foods served in public establishments — has driven institutional adoption across Italy, Spain, France, and Germany.
+
+Additionally, many EU member states now require **nutritional information on restaurant menus** in specific sectors. HOSO's superior fatty acid profile helps restaurants meet these requirements without compromising taste or frying performance. German and Austrian HORECA establishments in particular have reported strong switching rates to HOSO over the past three years.
+
+From a sourcing perspective, Bulgaria's position as a major sunflower producer and EU member means HOSO sourced from Bulgarian suppliers carries **zero tariff risk** and full EU compliance certification — a significant advantage over imports from non-EU regions.
+
+## Storage & Shelf Life Considerations
+
+High-oleic sunflower oil's superior oxidative stability isn't limited to the fryer — it also extends storage life in your warehouse.
+
+- **Unopened containers**: HOSO remains stable for **18-24 months** from production date under cool, dark conditions
+- **Standard sunflower oil**: 12-15 months under the same conditions
+- **Opened IBC/flexi-tank**: Both types should be used within 3-4 months once exposed to air
+
+For B2B buyers managing inventory across multiple locations, HOSO's extended shelf life reduces spoilage losses and simplifies rotation protocols. Store in temperatures below 20°C (ideally 15-18°C) away from direct sunlight for optimal results.
+
 ## Available Packaging for HORECA
 
 | Format | Volume | Best For |

@@ -31,6 +31,18 @@ Fiyatları etkileyen temel faktörler:
 
 Türkiye'ye teslimatlar coğrafi yakınlık nedeniyle Batı Avrupa'ya kıyasla genellikle daha uygun fiyatlıdır.
 
+## AB Düzenlemeleri ve Uygunluk Gereksinimleri
+
+2026 yılında AB'ye ayçiçek yağı satışı yapan tüm tedarikçiler katı gıda güvenliği standartlarına uymalıdır. UB Market olarak, tüm ürünlerimiz **FSSC 22000** sertifikası ve **EU 1935/2004** gıda kontaktı düzenlemesine tam olarak uygun şekilde sağlanmaktadır.
+
+**Önemli standartlar:**
+- **EC 1169/2011:** Besin etiketi ve alerjen bilgisi gereksinimleri
+- **EC 2073/2005:** Gıda mikrobiyolojik kriterleri
+- **EC 1881/2006:** Kontaminant maksimum seviyeleri
+- **AB Organik Sertifikasyonu:** İsteğe bağlı, premium ürünler için mevcut
+
+Tüm sevkiyatlar menşe sertifikası, analitik raporlar ve uygunluk deklarasyonları ile birlikte gönderilmektedir. Blokzincir takip sistemi sayesinde her partinin tam geri izlenebilirliği garantilidir.
+
 ## 12 Aylık Fiyat Dinamiği
 
 - **İlkbahar 2025:** Mevsimsel talep artışıyla $1.150-1.250/ton'a yükseliş
@@ -63,21 +75,41 @@ Türkiye'ye teslimatlar coğrafi yakınlık nedeniyle Batı Avrupa'ya kıyasla g
 | Soya | $950-1.000 | Düşüyor |
 | Zeytinyağı | $4.500-6.000 | Yükseliyor |
 
-## 2026 Tahminleri
+## Pazar Analizi ve Ticari Fırsatlar
 
-- **Q1 2026:** $1.050-1.150/ton — mevsimsel yükseliş
-- **Q2 2026:** $1.100-1.200/ton — yeni hasat öncesi zirve
-- **Q3 2026:** $1.000-1.100/ton — yeni hasat baskısı
-- **Q4 2026:** $1.050-1.150/ton — stabilizasyon
+2026 yılı ayçiçek yağı pazarında alıcılar için birkaç önemli fırsat barındırmaktadır. **Karadeniz Bölgesi üreticileri** (Bulgaristan, Romanya, Ukrayna) daha rekabetçi fiyatlandırma sunmakta ve kısa teslimat süreleri sağlamaktadır. AB merkezli tedarikçiler olarak, UB Market'in Bulgaristan merkezli operasyonları Rotterdam, Hamburg ve diğer Kuzey Avrupa limanlarına doğrudan erişim sunmaktadır.
 
-## En İyi Fiyatı Nasıl Alırsınız
+Şeker ve diğer gıda ürünleri ithalatçılarının karşılaştığı bir fırsat da **paket anlaşmaları**dır. Ayçiçek yağı ve şekeri birlikte temin etmek, lojistik maliyetleri azaltırken kontrat fiyatlandırmasında ek indirimler sağlamaktadır. Gıda üreticileri ve distribütörler için bu kombinasyon envanter yönetimini basitleştirmekte ve karbon ayak izini düşürmektedir.
 
-**Büyük hacimde sipariş verin.** 20 ton ve üzeri siparişler en düşük birim fiyatı sağlar.
+**Ticari Tavsiyeler Alıcılar İçin:**
 
-**Önceden planlayın.** En uygun fiyatlar hasat sonrası dönemde (ekim-aralık).
+Ayçiçek yağında en iyi fiyatlandırma elde etmek için alıcılar **3-6 aylık vadeli sözleşmeler** düşünmelidir. Bu, spot piyasası fiyat dalgalanmalarına karşı koruma sunmasının yanı sıra, uzun vadeli planlama için istikrar sağlar. Özellikle gıda üreticileri ve margarinler üretenler için, stokastik arz ve talep dinamikleri nedeniyle hedge stratejileri önemlidir.
 
-**Uygun ambalajı seçin.** Dökme yağ, şişelenmiş yağdan ton başına $150-250 daha ucuzdur.
+Küçük ve orta ölçekli ithalatçılar için **toplu satın alma konsorsiyumu** oluşturmak maliyetleri %5-10 oranında düşürebilir. UB Market, 50 tondan başlayan toplu siparişler için özel indirimler sunmaktadır. Kargo paylaşımı yoluyla, birden fazla alıcı aynı konteyner sevkiyatından faydalanabilir ve deniz nakliyesi ücretlerini orantılı olarak bölüşebilir.
 
-**Doğrudan çalışın.** UB Market aracı komisyonu olmadan doğrudan fiyat sunar.
+## Lojistik ve Teslimat Seçenekleri
 
-[Güncel Fiyat Teklifi Alın →](/tr/quote)
+UB Market müşterilerine çeşitli lojistik çözümleri sunmaktadır. **FOB (Free on Board) Karadeniz** seçeneği, alıcılara kendi taşımacılık şirketlerini seçme esnekliği tanırken, **CIF (Cost, Insurance and Freight)** hizmetleri tüm sevkiyat sorumluluklarını şirket üzerine almaktadır.
+
+Ortalama kargo süresi:
+- **Karadeniz'den Rotterdam'a:** 14-18 gün
+- **Karadeniz'den İstanbul'a:** 3-5 gün
+- **Karadeniz'den Akdeniz limanlarına:** 7-10 gün
+
+Dökme (bulk) sevkiyatlar için minimum 25 tonluk siparişler alınmakta, konteyner (20ft/40ft) seçeneği de müşteri tercihine göre sağlanmaktadır. Esnekli ödeme koşulları düzenli müşteriler için mevcuttur; L/C (Letter of Credit) ve T/T (Telegraphic Transfer) ödeme yöntemleri kabul edilmektedir.
+
+## Pazar Eğilimleri ve Geleceğe Yönelik Projeksiyonlar
+
+2026 yılının ikinci yarısında, iklim koşulları oluşmazsa ayçiçek yağı fiyatlarının nispeten istikrarlı kalması beklenmektedir. Ancak, **jeopolitik risklerin** Karadeniz Bölgesi üretimini etkileyebileceği göz önünde bulundurulmalıdır. Geniş yayılı ticari anlaşmalar yapan alıcılar, bu tür belirsizlikleri azaltabilmek için çeşitlendirilmiş tedarikçi portföyü tutmalıdır.
+
+AB'nin enerji güvenliğine olan ilgisi, biyodizel üretimine yönelik talep artışını sürdürmektedir. Bu da ayçiçek yağı talebini desteklemektedir. Aynı zamanda, **gıda sektörü inovasyonu** (özellikle düşük yağlı ve sağlık odaklı ürünler) yüksek oleik ayçiçek yağının pazar payını artırmaktadır.
+
+## İş Ortaklığı ve Uzun Vadeli Anlaşmalar
+
+UB Market, uzun vadeli iş ilişkileri kurmak isteyen alıcılarla **yıllık tedarik sözleşmeleri** konusunda müzakere yapmaktadır. Bu sözleşmeler, piyasa fiyatlarında belirli indirimler ve aylık teslimat takvimi garantileri sunmaktadır. Düzenli alıcılar için ön ödeme gerekliliği kademeli olarak azaltılabilir ve kredi koşulları iyileştirilebilir.
+
+Teknik destek ve ürün özelleştirme konularında da UB Market tam hizmet sağlamaktadır. Örneğin, özel rafine standartları veya paketleme ihtiyaçları bulunan müşteriler için özel üretim seçenekleri mevcuttur. Sipariş öncesi analitik testler ve ürün örnekleri sağlanabilmektedir.
+
+**İletişim ve Sorgu:**
+
+Fiyat teklifi almak, uzun vadeli sözleşme müzakere etmek veya teknik detaylar hakkında bilgi edinmek için UB Market satış ekibiyle doğrudan temas kurabilirsiniz. Müşteri memnuniyeti, hızlı yanıt süreleri ve profesyonel danışmanlık, şirketin temel ilkeleridir.
