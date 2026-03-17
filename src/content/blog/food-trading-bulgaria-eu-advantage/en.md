@@ -86,6 +86,43 @@ Together, these five factors create a **compounding advantage**:
 
 This is why UB Market chose Bulgaria as its base.
 
+## EU Food Safety & Compliance: Why This Matters for Buyers
+
+When sourcing from Bulgaria, you're operating under **identical regulatory frameworks** as any other EU-based supplier. All food commodities sold through UB Market comply with:
+
+- **EFSA (European Food Safety Authority)** standards for pesticide residues, heavy metals, and contaminants
+- **EU Regulation 2021/953** on food labeling and traceability
+- **FSSC 22000** food safety management certification (standard for trading companies)
+- **ISO 9001** quality management systems
+- **HACCP principles** for hazard analysis and risk management
+
+Bulgarian food producers operate under the same inspection regime as German, French, or Dutch facilities. The European Commission conducts annual audits of Bulgarian food authorities to ensure compliance. In practice, Bulgarian sunflower oil, sugar, and grain products meet or exceed Western European quality standards — often at lower cost due to operational efficiency rather than compromised quality.
+
+For B2B buyers, this eliminates a major sourcing risk: you get EU-standard quality without the premium pricing of Western European intermediaries.
+
+## Logistics: How Products Move from Bulgaria to Your Door
+
+Bulgaria's position creates efficient supply chains for most European destinations:
+
+- **Sofia to Western Europe**: 24-48 hours by truck (Romania, Hungary, Austria, Germany border)
+- **Varna Port to North Europe**: 4-6 days by ship to Rotterdam, Hamburg, or Baltic ports
+- **Black Sea to Mediterranean**: 2-3 days to Greece, Spain, Italy
+- **Customs clearance**: Same-day processing for EU shipments (no border inspections required)
+
+UB Market leverages both **road transport** (for smaller orders, faster delivery) and **sea freight** (for bulk commodities like sunflower oil in tanker trucks or containers). The choice depends on order size, destination, and urgency.
+
+For example, a typical **20-ton sunflower oil shipment** to Germany costs approximately EUR 0.08-0.12/kg for transport when consolidated with other orders — significantly cheaper than sourcing directly from Western European refineries.
+
+## Sourcing Decisions: What This Means for Your Business
+
+If you're currently sourcing food commodities from Western European traders, a Bulgaria-based supplier offers a **cost arbitrage opportunity** without sacrificing quality or compliance. The realistic savings range from **10-25%** depending on the product and order size:
+
+- **Sunflower oil**: Direct access to Black Sea production + domestic crushing capacity = competitive FOB/CIF pricing
+- **Sugar**: Gateway to Central European producers (Serbia, Romania) with transparent pricing
+- **Grains & pulses**: Access to both domestic Bulgarian production and Ukrainian supplies (subject to geopolitical conditions)
+
+The key is working with a supplier that understands EU regulations, has established relationships with producers, and can provide traceability documentation — all of which UB Market provides as standard.
+
 ## Work with UB Market
 
 Ready to source food products through Bulgaria's EU gateway?

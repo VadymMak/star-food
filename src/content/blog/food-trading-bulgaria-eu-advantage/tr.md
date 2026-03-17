@@ -53,8 +53,108 @@ Bulgaristan'dan tipik teslimat süreleri:
 | İtalya | 1.200-1.500 km | 3-4 gün |
 | Almanya | 1.500-1.800 km | 4-5 gün |
 
-## UB Market — Bulgaristan'daki Partneriniz
+Bulgaristan üzerinden yapılan ihracat, doğrudan Doğu Avrupa'dan gelen ürünleri AB pazarına en hızlı şekilde ulaştırmak isteyen ithalatçılar için ideal bir çözümdür. Özellikle ayçiçek yağı, şeker ve diğer tarım ürünleri ticaretinde, lojistik maliyetleri minimalize etmek uzun dönem kârlılık için kritik önem taşır.
 
-UB Market LTD, Karadeniz'e doğrudan erişimi olan stratejik bir şehir olan Varna'da kayıtlıdır. Bu sayede en düşük lojistik maliyetlerle yağ tedarik edip Türkiye dahil tüm AB ülkelerine gümrüksüz teslimat yapabiliyoruz.
+## AB Gıda Güvenliği Standartları ve Uyum
 
-[UB Market Ortağı Olun →](/tr/partners)
+Bulgaristan'da kayıtlı bir şirket olarak, UB Market tüm AB gıda güvenliği düzenlemelerine tamamen uyum sağlar. Bu, şunları kapsamaktadır:
+
+- **FSSC 22000** (Gıda Güvenliği Yönetim Sistemi) sertifikasyonu
+- **TR-CU** ve **DSTU** standartlarına uygun ürün tedariki
+- Düzenli hijyen ve kalite denetimlerine tabi işletme
+- Gümrük belgelerinin ve sertifikaların tam düzeni
+- AB içi QR kod takip sistemleri ile ürün izlenebilirliği
+
+Türkiye, Moldova ve Ukrayna'dan ithal edilen ürünler, Bulgaristan'da kontrol edilerek AB standartlarına uygun hale getirilir. Bu, alıcı tarafında hukuki riskleri önemli ölçüde azaltır.
+
+## Sunflower Oil (Ayçiçek Yağı) Ticareti İçin Neden Bulgaristan?
+
+Ayçiçek yağı, küresel tarım ticaretinde en talep gören ürünlerden biridir. Özellikle 2022'den sonra Ukrayna'daki tedarik sorunları nedeniyle, alternatif kökenlerden sağlama stratejileri gümrük yapılandırması gerektirmektedir.
+
+Bulgaristan'da kayıtlı bir şirket aracılığıyla:
+- **Türkiye'den** doğrudan ithal, AB sertifikasıyla
+- **Romanya, Sırbistan** gibi komşu ülkelerden tedarik
+- Tüm AB pazarında **gümrüksüz satış**
+- **Varna limanı** aracılığıyla deniz yolu ihracatı (Çin, Hindistan, Orta Doğu)
+
+Bu yapı, yağ ithalatçılarının tedarik zincirini çeşitlendirmesine ve riskleri azaltmasına olanak tanır.
+
+## Şeker (Şekerpancarı Şekeri) ve Diğer Ürünler
+
+Bulgaristan ve Romanya, Avrupa'nın önemli şeker üreticileridir. Bölgesel tedarik ağlarından avantaj sağlamak için:
+
+- **Yerel üreticiler** ile doğrudan anlaşmalar
+- **Depo ve lojistik altyapısı** tamamıyla AB standartlarında
+- **Fiyat avantajı**: Doğu Avrupa üretim maliyetleri, Batı Avrupa ön muhasebesi
+
+Gıda endüstrisi için toplu alım yapan şirketler, Bulgaristan'daki bir ortakla çalışarak ortalama **%15-25 maliyet tasarrufu** elde edebilir.
+
+## Gümrük ve Vergi Yönetimi
+
+AB ile gümrüksüz ticaret yapmanın arkasında karmaşık gümrük ve KDV düzenlemeleri vardır. Bulgaristan'da kayıtlı bir şirketin avantajları:
+
+- **İntrastat raporlaması**: Basitleştirilmiş AB içi ticaret belgesi
+- **KDV mahsuplaşması**: İthalatın ve ihracatın KDV yönetimi
+- **Gümrük depo sistemi**: Ürünleri geçici olarak depolama imkanı
+- **Telafi ve geri ödeme süreçleri**: AB içi işlemlerde hızlı çözüm
+
+UB Market, tüm bu süreçleri işler hale getirerek, alıcıların yalnızca ürün kalitesi ve fiyatı konusunda endişe etmesini sağlar.
+
+## Satın Almacılar İçin Pratik Bilgiler
+
+B2B alıcılar, Bulgaristan'da bir ihracat ortağı seçerken dikkat etmeleri gereken önemli noktalar bulunmaktadır:
+
+### Sertifikalar ve Belgeler
+
+Ürünlerin AB pazarına girişinden önce kontrol edilmesi gerekir:
+- **Analiz raporu**: Ürünün kimyasal ve fiziksel özelliklerinin onayı
+- **Gümrük beyannamesi**: NCTS (Yeni Gümrük Transit Sistemi) belgesi
+- **Menşe sertifikası**: Türkiye, Moldova veya Romanya'dan hangi ürün geldiği
+- **Phytosanitary sertifikası**: Tarım ürünleri için bitki sağlığı belgesi
+
+### Toplu Alım Fiyatlandırması
+
+Bulgaristan üzerinden sağlanan ürünlerde maliyet yapısı şöyledir:
+- **FOB Varna fiyatı**: Liman çıkışında gemi nakliyesiz fiyat
+- **CIF (Limanında Teslimat)**: Sigorta ve nakliye hariç fiyat
+- **DDP (Yükleme Noktasına Teslimat)**: Tüm maliyetler dahil nihai fiyat
+
+Minimum sipariş miktarları (MOQ) genellikle **20 tondan** başlar. Daha büyük siparişler (%5-15 arası) daha avantajlı fiyatlar sağlayabilir.
+
+### Depo Kapasitesi ve Stok Yönetimi
+
+Bulgaristan'daki depolama tesisleri, hassas ürünler (yağ, şeker) için kontrollü ortamda tutulur:
+- **Sıcaklık kontrolü**: 15-25°C arası sabit muhafaza
+- **Nem kontrolü**: Tarım ürünleri için %60-65 nem seviyesi
+- **Izlenebilirlik**: Lot numarası ve batch kodları ile takip
+- **Sevkiyat hazırlığı**: Ürünlerin detaylı envanteri ve paketlenişi
+
+Stok yönetiminde, ortaklar genellikle **"Just-in-Time" (JIT) sistemi** ile çalışır; bu sayede alıcılar ihtiyaçlarına göre kısa vadede sipariş verebilir.
+
+### Ödeme Koşulları ve Risk Yönetimi
+
+Uluslararası gıda ticaretinde ödeme güvenliği kritiktir:
+- **Akreditif (L/C)**: Klasik dış ticaret finansmanı yöntemi
+- **T/T (Havale)**: İlk %50 peşin, geri kalan sevkiyat sonrası
+- **Open Account**: Yerleşik ve uzun vadeli ortaklarla uygulanan model
+- **Sigorta**: Mal değerinin %100'ünü kapsayan deniz ve taşıma sigortası
+
+AB dahilinde işlem yapıldığından, **INCOTERMS 2020** kuralları geçerlidir. Alıcı ve satıcı arasında anlaşmazlık halinde AB'nin hukuki çerçevesi koruma sağlar.
+
+### Sezonsal Talepler ve Fiyat Dalgalanmaları
+
+Ayçiçek yağı ve şeker gibi tarım ürünlerinin fiyatları mevsimsel değişikliklere tabidir:
+- **Hasat mevsimi** (Ağustos-Ekim): Daha düşük fiyatlar
+- **Kış ayları** (Şubat-Nisan): Depo maliyetleri artmış, fiyatlar yüksek
+- **Küresel faktörler**: Hava koşulları, döviz kuru, jeopolitik gelişmeler
+
+Profesyonel satın almacılar, sezonsal trendi takip ederek **forward booking** (gelecek teslimat siparişi) ile fiyat sabitleme yapabilir.
+
+### Kalite Kontrolü Prosesi
+
+Her sevkiyat öncesinde üçlü kalite kontrolü uygulanır:
+1. **Üreticide kontrol**: Kaynakta yapılan ilk muayene
+2. **Bulgaristan'da depodan çıkış**: Gümrük ve laboratuvar testi
+3. **Alıcı tarafında**: Taşıma sonrası varış kontrolü
+
+Bu sistem, herhangi bir sorunun hızlıca çözülmesini ve sorumluluğun netleştirilmesini sağlar.

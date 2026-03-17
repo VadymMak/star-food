@@ -57,16 +57,70 @@ In mehreren EU-Ländern werden die Grenzwerte für polare Verbindungen in Fritti
 
 Trotz des höheren Einkaufspreises pro Liter ist HOSO in der Gesamtkostenbetrachtung **günstiger** als konventionelles Sonnenblumenöl.
 
-## Verfügbare Gebindegrößen
+## Marktentwicklung und Verfügbarkeit in Europa
 
-UB Market liefert High-Oleic-Sonnenblumenöl in folgenden Formaten:
-- 10-Liter-Kanister (Bag-in-Box)
-- 20-Liter-Kanister
-- 1.000-Liter-IBC-Container
-- Bulk (Tankwagen)
+Der europäische Markt für High-Oleic-Sonnenblumenöl wächst kontinuierlich. Das ist nicht zufällig: Verschärfte Lebensmittelsicherheitsvorschriften in der EU, kombiniert mit steigendem Kostendruck in der HORECA-Branche, treiben die Nachfrage nach HOSO in die Höhe. 
 
-## Ihr Umstieg auf High-Oleic
+In Deutschland, Frankreich und den Benelux-Ländern hat sich HOSO bereits als Standard in gehobenen Restaurants und Catering-Unternehmen etabliert. Auch in Mittel- und Osteuropa gewinnt das Produkt an Bedeutung. Als EU-registrierter Anbieter mit Sitz in Bulgarien können wir Sie mit effizienten Lieferketten versorgen und nutzen dabei kurze Transportwege innerhalb der Europäischen Union.
 
-Wir beraten Sie gerne beim Umstieg auf High-Oleic-Sonnenblumenöl und erstellen Ihnen ein individuelles Angebot basierend auf Ihrem Verbrauch und Ihren Anforderungen.
+Die Verfügbarkeit von hochwertigem HOSO war lange Zeit begrenzt. Heute bieten spezialisierte Ölmühlen in der Ukraine, Ungarn und Rumänien zuverlässige Liefermengen an. UB Market arbeitet mit geprüften Produzenten zusammen, die moderne Raffinierungstechnologien einsetzen und strenge EU-Qualitätsstandards einhalten.
 
-[Jetzt Beratungsgespräch vereinbaren →](/de/quote)
+## Technische Spezifikationen und Qualitätsmerkmale
+
+Beim Kauf von High-Oleic-Sonnenblumenöl sollten Sie auf folgende Kennwerte achten:
+
+- **Ölsäuregehalt**: Mindestens 80 %, idealerweise 85 %+
+- **Jodzahl**: 80–100 (bestimmt den Oxidationsgrad)
+- **Peroxidzahl**: Unter 5 meq O₂/kg (Frische des Öls)
+- **Säurezahl**: Unter 0,3 mg KOH/g (Raffinationsqualität)
+- **Gehalt an Tocopherolen**: 400–600 mg/kg (natürliche Antioxidantien)
+
+Diese Parameter gewährleisten, dass Sie ein stabiles, langlebiges und sicheres Frittieröl erhalten. UB Market stellt für jede Lieferung umfassende Analyseberichte bereit, die von unabhängigen Laboren durchgeführt werden.
+
+## Lagerhaltung und Transport
+
+High-Oleic-Sonnenblumenöl erfordert nicht die gleichen strengen Lagerbedingungen wie konventionelles Öl, sollte aber dennoch unter optimalen Bedingungen gelagert werden:
+
+- **Temperatur**: 15–20 °C, konstant (Lagerungsdauer bis 18 Monate möglich)
+- **Lichteinstrahlung**: Dunkelheit bevorzugt (lichtundurchlässige Container verwenden)
+- **Luftdichte**: Verschlossene Behälter (Oxidation minimieren)
+
+Unsere Lieferungen erfolgen in robusten Edelstahlcontainern oder lebensmittelgeprüften IBC-Tanks, die den europäischen Transportstandards (ADR-Richtlinien) vollständig entsprechen. Dies reduziert das Risiko von Qualitätsverlusten während des Transports erheblich.
+
+## Regulatorischer Rahmen in der EU
+
+Die Europäische Behörde für Lebensmittelsicherheit (EFSA) hat sich ausführlich mit High-Oleic-Ölen beschäftigt. Zusammengefasst gelten folgende Regelungen:
+
+- **Deklaration**: HOSO muss korrekt als „High-Oleic-Sonnenblumenöl" gekennzeichnet sein
+- **Grenzwerte für Frittieröle**: Richtlinie 2009/32/EG begrenzt polare Verbindungen auf 25 % in vielen EU-Ländern
+- **Nährwertkennzeichnung**: Der hohe Anteil an einfach ungesättigten Fettsäuren kann auf dem Etikett hervorgehoben werden und bietet Ihnen einen zusätzlichen Verkaufsvorteil gegenüber konventionellen Ölen
+
+## Praktische Anwendungstipps für Großküchen und Restaurants
+
+Bei der Umstellung auf High-Oleic-Sonnenblumenöl sollten Sie folgende bewährte Praktiken beachten:
+
+- **Übergangsphase**: Tauschen Sie das Öl vollständig aus — eine Mischung aus HOSO und konventionellem Öl mindert die Vorteile
+- **Personalschulung**: Informieren Sie Ihr Küchenpersonal über die längeren Wechselintervalle, um Verwechslungen zu vermeiden
+- **Dokumentation**: Führen Sie Öl-Wechselprotokolle, um die tatsächlichen Einsparungen zu belegen und zukünftige Budgetierungen zu optimieren
+- **Geschmackstests**: Führen Sie Testfrittierungen durch, besonders bei kritischen Produkten wie Pommes frites oder Schnitzeln
+
+## Lieferkette und Partnerschaften bei UB Market
+
+Als Großhändler mit europäischer Zertifizierung bieten wir umfassende Unterstützung beim Einkauf von High-Oleic-Sonnenblumenöl. Unsere Geschäftsbeziehungen zu vertrauenswürdigen Produzenten ermöglichen uns:
+
+- **Mengenstaffeln**: Attraktive Preise ab 500 Litern, optimalere Konditionen ab 5.000 Litern
+- **Flexible Lieferzeitpunkte**: Anpassung an Ihre Lagerverwaltung und saisonalen Bedarf
+- **Zusatzservices**: Beratung zu Lagerverwaltung, technische Schulungen und regelmäßige Qualitätsupdates
+- **Zuverlässige Logistik**: Lieferungen innerhalb von 5–10 Arbeitstagen in ganz Europa
+
+Unsere B2B-Kunden profitieren zusätzlich von transparenten Preismodellen und langfristigen Lieferverträgen mit stabilen Konditionen.
+
+## Vergleich mit anderen Premium-Ölen
+
+High-Oleic-Sonnenblumenöl konkurriert zunehmend mit anderen Premium-Frittierölen auf dem europäischen Markt:
+
+- **Gegenüber Palmöl**: HOSO ist umweltverträglicher, erfüllt zunehmend strenge Nachhaltigkeitsanforderungen und hat ein besseres Image bei Verbrauchern
+- **Gegenüber Rapsöl**: HOSO ist stabiler bei hohen Temperaturen und erzeugt weniger unerwünschte Geschmacksnoten
+- **Gegenüber Erdnussöl**: HOSO ist preislich konkurrenzfähiger und für Allergiker-freundliche Küchen besser geeignet
+
+Diese Unterschiede machen HOSO zu einer wirtschaftlich und qualitativ überzeugenden Wahl für professionelle Einsätze.

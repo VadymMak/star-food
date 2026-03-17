@@ -77,11 +77,48 @@ When evaluating sugar suppliers, check for:
 4. **Packaging quality** — Proper food-grade packaging
 5. **Documentation** — COA, phytosanitary certificates, origin documents
 
+## EU Regulations and Compliance
+
+Sugar trading within the EU is subject to strict regulatory frameworks. All suppliers must comply with **Regulation (EU) 2019/1381** regarding the transparency and sustainability of the EU risk management model for the food chain. Additionally, beet sugar producers must follow **EU marketing standards for sugar** which specify purity requirements, labeling, and traceability.
+
+For importers and distributors, it's crucial to verify that suppliers maintain proper documentation including:
+
+- **Certificate of Analysis (CoA)** confirming ICUMSA grade and composition
+- **Food safety certificates** (ISO 22000 or FSSC 22000 certification preferred)
+- **Phytosanitary certificates** for cross-border EU transport
+- **EU origin documentation** proving the sugar meets local sourcing claims if marketed as such
+
+As an EU-registered company, UB Market ensures all shipments comply with these requirements, reducing compliance risk for your business.
+
+## Supply Chain and Logistics Considerations
+
+The geographic advantage of European beet sugar cannot be overstated. Unlike cane sugar shipments from tropical regions — which require 4-6 weeks of ocean transport and involve higher carbon emissions — beet sugar can reach most European buyers within 1-2 weeks by road or rail.
+
+**Key logistics advantages:**
+
+- **Shorter lead times** — Essential for just-in-time manufacturing
+- **Lower transport costs** — Road delivery is more economical than maritime shipping
+- **Reduced spoilage risk** — Shorter transit times mean better product preservation
+- **Flexibility** — Easier to arrange emergency shipments or adjust orders mid-season
+- **Better traceability** — Intra-European logistics are more transparent and auditable
+
+For bulk purchases (20+ tons), most suppliers including UB Market offer consolidated shipments that reduce per-unit transport costs significantly. Negotiating multi-month contracts can further improve pricing and guarantee availability during peak demand periods (typically Q4).
+
+## Seasonal Factors
+
+European beet sugar production follows a seasonal harvest cycle, typically running from **August through December**, with processing continuing into early 2026. This means:
+
+- **Best pricing:** January-March (post-harvest, high stock levels)
+- **Tight supply:** June-August (pre-harvest period)
+- **Price volatility:** April-July (lowest stock in warehouses)
+
+Forward planning is essential. Buyers should consider securing supply contracts in Q4 to lock in prices for the following 6-12 months, ensuring stable costs and uninterrupted supply.
+
 ## UB Market's Sugar Supply
 
-While sunflower oil is our primary product, we also supply wholesale beet sugar to European buyers. Our Bulgarian and Eastern European supply network gives us access to competitive pricing.
+While sunflower oil is our primary product, we also supply wholesale beet sugar to European buyers. Our Bulgarian and Eastern European supply network gives us access to competitive pricing and reliable year-round availability.
 
-**Available:** ICUMSA 45 and ICUMSA 100-150, packed in 50kg bags or 1-ton big bags. Delivery across EU via road transport.
+**Available:** ICUMSA 45 and ICUMSA 100-150, packed in 50kg bags or 1-ton big bags. Delivery across EU via road transport. We maintain stock throughout the year and can accommodate both small distributors and large industrial buyers.
 
 ---
 

@@ -86,6 +86,28 @@ Trade between EU member states is significantly simpler: no customs duties, no b
 6. **Market intelligence** — Price trends, forecasts, regulatory changes
 7. **Problem resolution** — Mediation for delays and quality claims
 
+## Key Considerations for Food Importers
+
+When selecting a trading partner, importers should evaluate several factors beyond price alone. **Reliability and consistency** matter significantly — delays in food shipments can disrupt entire supply chains and result in spoilage. A trading company's track record with timely delivery and product stability is crucial.
+
+**Minimum order quantities (MOQs)** vary by product and supplier. Sunflower oil traders typically work with MOQs of 20-25 metric tons per shipment, though UB Market can accommodate smaller volumes for established partners. Negotiating MOQs depends on your business size and storage capacity.
+
+**Seasonal fluctuations** also impact pricing and availability. Sunflower harvests in Eastern Europe and Ukraine typically occur August-September, with prices fluctuating based on global supply conditions. Savvy buyers plan procurement schedules around these cycles and consider forward contracts to lock in favorable pricing.
+
+**Certifications and compliance** are non-negotiable. Ensure your supplier provides organic certifications (if required), non-GMO verification, allergen declarations, and compliance with FSSC 22000 or equivalent food safety standards. This documentation protects your business and your customers.
+
+## Market Dynamics: Why Eastern Europe Matters
+
+Bulgaria and neighboring Eastern European countries have become major hubs for food trading within the EU for several reasons:
+
+- **Production capacity** — Abundant sunflower cultivation and advanced refining infrastructure
+- **Cost efficiency** — Competitive processing and logistics costs compared to Western Europe
+- **EU membership** — Full access to single market without tariffs or complex customs procedures
+- **Geographic positioning** — Strategic location bridging Eastern suppliers and Western demand
+- **Established expertise** — Decades of trading tradition and reliable networks
+
+This positioning makes Bulgaria an ideal base for traders serving markets across Europe, from Scandinavia to the Mediterranean.
+
 ## Why Work with UB Market?
 
 UB Market is an EU-registered trading company based in Bulgaria — positioned at the crossroads of Eastern European production and Western European demand. We specialize in sunflower oil and food commodities.

@@ -64,8 +64,26 @@ Uleiul de floarea soarelui se tranzacționează internațional în dolari americ
 3. **Cantități mai mari** — De la 100 tone/lună, condiții semnificativ mai bune
 4. **Condiții FOB** — Mai ieftin dacă aveți propria logistică
 
-## Solicitați o ofertă actualizată
+## Dinamica pieței europene și tendințele de consum
 
-Prețurile pe piața uleiului se schimbă săptămânal. Pentru o cotație actuală, contactați-ne direct.
+Europa de Vest rămâne cel mai mare consumator de ulei de floarea soarelui din regiune, cu cerere constantă pentru industria alimentară și cosmetică. Germania, Franța și Italia sunt principalii importatori ai produselor din UE, iar cererea lor se menține stabilă la aproximativ 8–9 milioane tone anual. Tendința crescândă verso uleiul High-Oleic reflectă preferința consumatorilor pentru produse cu profil nutrițional îmbunătățit și cu stabilitate termică mai bună în procesele de gătit și producție industrială.
 
-[Solicitați cotație de preț →](/ro/quote)
+Piața este influențată și de cerințele din sectorul HORECA și retail modern, care solicită din ce în ce mai mult livrări mici (plin de camioane parțiale) cu frecvență înaltă, lucru care avantajează furnizorii cu baze de distribuție apropiate. UB Market, cu sediul în Bulgaria și o rețea logistică eficientă în regiune, poate raspunde rapid la comenzile cu livrare în 3–7 zile către orice punct din Europa de Vest.
+
+## Reglementări UE și certificări în domeniu
+
+Uleiul de floarea soarelui comercializat în UE trebuie să respecte Regulamentul (UE) 2019/1381 și standardele FEFAC pentru materii prime pentru furajere, precum și Regulamentul (CE) 1881/2006 privind limitele de contaminanți. Toți furnizorii de încredere, inclusiv UB Market, dețin certificări ISO 22000 și implementează HACCP, asigurând traceabilitate completă de la producător la client final.
+
+Pentru sectorul alimentar, certificarea Bio este din ce în ce mai solicitată. Marja de preț pentru ulei certificat organic este de 15–25% peste prețurile standard, dar cererea a crescut 40% în ultimii doi ani. Aceasta reprezintă o oportunitate importantă pentru cumpărătorii care doresc să diversifice portofoliul lor de produse premium.
+
+## Strategii de aprovizionare și managementul stocurilor
+
+Mulți importatori români și europeni folosesc o strategie mixtă de aprovizionare: aproximativ 60% din volum pe contracte anuale la preț negociat, iar 40% pe spot market pentru a profita de fluctuații sezoniere. Această abordare necesită relații solide cu furnizori fiabili și o predictibilitate bună a pieței.
+
+Stocajul eficient este crucial. Uleiul de floarea soarelui poate fi depozitat 12–18 luni în condiții optime (temperatură 15–20°C, umiditate 50–70%), dar calitatea se deteriorează dacă sunt expuse la lumină și oxigen. Furnizorii serios oferă servicii de depozitare în condiții controlate, cu posibilitate de scoatere din stoc tranzacțională — ceea ce reduce riscul pentru cumpărător și optimizează fluxul de numerar.
+
+## Impactul fluctuațiilor sezoniere și oportunități de arbitraj
+
+Sezonalitatea este un factor major pe piața uleiului de floarea soarelui. După recolte (iulie–octombrie), prețurile scad cu 5–10% datorită ofertei mari de materie primă nouă. În schimb, primăvara și vara (aprilie–septembrie), când stocurile se reduc, prețurile cresc cu 8–15%. Cumpărătorii sofisticați profită de aceasta în două moduri: achiziționează volume mari imediat după recolte și păstrează în stoc, sau negociază forward contracts pe termen lung cu furnizori pentru a fixa prețuri favorabile în perioadele scumpe.
+
+Volatilitatea pieței este legată și de factorii climatici. Seceta în regiunile de producție din Ucraina sau România poate reduce instantaneu disponibilitatea și crește prețurile pe piață în săptămâni. Furnizorii cu acces
