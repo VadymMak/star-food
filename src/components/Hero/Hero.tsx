@@ -2,9 +2,36 @@
 import PriceTicker from "@/components/PriceTicker/PriceTicker";
 import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import styles from "./Hero.module.css";
+
+interface OilEntry {
+  volume: string;
+  packaging: string;
+  type: string;
+  price: number | null;
+}
+
+interface ProductPrices {
+  updatedAt: string;
+  oils: Record<string, OilEntry[]>;
+}
+
+function findPrice(
+  items: OilEntry[],
+  volume: string,
+  type?: string,
+): number | null {
+  const found = items.find(
+    (i) =>
+      i.volume === volume &&
+      i.price !== null &&
+      (type ? i.type?.toLowerCase().includes(type.toLowerCase()) : true),
+  );
+  return found?.price ?? null;
+}
 
 const CARDS = [
   {
@@ -13,11 +40,14 @@ const CARDS = [
     altKey: "hero.cards.refined.imageAlt",
     nameKey: "hero.cards.refined.name",
     descKey: "hero.cards.refined.desc",
-    priceKey: "hero.cards.refined.price",
     noteKey: "hero.cards.refined.note",
     href: "quote",
     product: "sunflower-oil-refined",
     available: true,
+    // ключи для цен из prices.json
+    oilKey: "Sunflower Oil",
+    sizes: ["1L", "10L"],
+    bulkLabel: "Bulk",
   },
   {
     key: "higholeic",
@@ -25,11 +55,13 @@ const CARDS = [
     altKey: "hero.cards.higholeic.imageAlt",
     nameKey: "hero.cards.higholeic.name",
     descKey: "hero.cards.higholeic.desc",
-    priceKey: "hero.cards.higholeic.price",
     noteKey: "hero.cards.higholeic.note",
     href: "quote",
     product: "sunflower-oil-high-oleic",
     available: true,
+    oilKey: "High Oleic Sunflower Oil",
+    sizes: ["5L", "10L"],
+    bulkLabel: "Bulk",
   },
   {
     key: "meal",
@@ -37,17 +69,27 @@ const CARDS = [
     altKey: "hero.cards.meal.imageAlt",
     nameKey: "hero.cards.meal.name",
     descKey: "hero.cards.meal.desc",
-    priceKey: "hero.cards.meal.price",
     noteKey: "hero.cards.meal.note",
     href: "contacts",
     product: "",
     available: false,
+    oilKey: null,
+    sizes: [],
+    bulkLabel: null,
   },
 ];
 
 export default function Hero() {
   const locale = useLocale();
   const t = useTranslations();
+  const [prices, setPrices] = useState<ProductPrices | null>(null);
+
+  useEffect(() => {
+    fetch("/api/product-prices")
+      .then((r) => r.json())
+      .then((d: ProductPrices) => setPrices(d))
+      .catch(() => {});
+  }, []);
 
   return (
     <section className={styles.hero}>
@@ -68,6 +110,10 @@ export default function Hero() {
           const href = card.available
             ? `/${locale}/${card.href}${card.product ? `?product=${card.product}` : ""}`
             : `/${locale}/${card.href}`;
+
+          const oilItems = card.oilKey
+            ? (prices?.oils?.[card.oilKey] ?? [])
+            : [];
 
           return (
             <Link
@@ -104,15 +150,55 @@ export default function Hero() {
                   </div>
 
                   <div className={styles.cardFooter}>
-                    <div className={styles.priceBlock}>
-                      <span className={styles.priceLabel}>
-                        {t("hero.cards.priceLabel")}
-                      </span>
-                      <span className={styles.price}>{t(card.priceKey)}</span>
-                      <span className={styles.priceNote}>
-                        {t(card.noteKey)}
-                      </span>
-                    </div>
+                    {/* Prices block */}
+                    {card.available && card.oilKey ? (
+                      <div className={styles.priceBlock}>
+                        <span className={styles.priceLabel}>
+                          {t("hero.cards.priceLabel")}
+                        </span>
+                        {/* Bottle sizes with real prices */}
+                        <div className={styles.priceSizes}>
+                          {card.sizes.map((vol) => {
+                            const p = findPrice(oilItems, vol);
+                            return (
+                              <span key={vol} className={styles.sizeItem}>
+                                <span className={styles.sizeVol}>{vol}</span>
+                                <span className={styles.sizePrice}>
+                                  {p ? `€${p.toFixed(2)}` : "—"}
+                                </span>
+                              </span>
+                            );
+                          })}
+                          {card.bulkLabel && (
+                            <span className={styles.sizeItem}>
+                              <span className={styles.sizeVol}>
+                                {card.bulkLabel}
+                              </span>
+                              <span className={styles.sizePriceRequest}>
+                                {t("hero.cards.ctaRequest")}
+                              </span>
+                            </span>
+                          )}
+                        </div>
+                        <span className={styles.priceNote}>
+                          {t(card.noteKey)}
+                        </span>
+                      </div>
+                    ) : (
+                      /* Meal card — On Request */
+                      <div className={styles.priceBlock}>
+                        <span className={styles.priceLabel}>
+                          {t("hero.cards.priceLabel")}
+                        </span>
+                        <span className={styles.price}>
+                          {t("hero.cards.meal.price")}
+                        </span>
+                        <span className={styles.priceNote}>
+                          {t(card.noteKey)}
+                        </span>
+                      </div>
+                    )}
+
                     <span className={styles.cardCta}>
                       {card.available
                         ? t("hero.cards.cta")
