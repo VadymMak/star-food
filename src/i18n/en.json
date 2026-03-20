@@ -91,27 +91,35 @@
     "items": {
       "sunflower-oil": {
         "name": "Sunflower Oil",
-        "description": "Refined, deodorized, winterized. PET bottles (0.5–10L) and bulk tank trucks."
+        "description": "Unrefined and RBDW sunflower oil. PET bottles 0.5–10L, plastic canisters 10–20L, and bulk tanker."
+      },
+      "high-oleic": {
+        "name": "High-Oleic Sunflower Oil",
+        "description": "RBDW high-oleic sunflower oil. PET bottles 5–10L, plastic canisters 10–20L, and bulk tanker."
+      },
+      "rapeseed-oil": {
+        "name": "Rapeseed Oil (Canola)",
+        "description": "Refined and deodorized rapeseed oil. PET bottles 5–10L, 20L canister, and bulk tanker."
+      },
+      "soybean-oil": {
+        "name": "Soybean Oil",
+        "description": "Refined and deodorized soybean oil. PET bottles 5–10L, 20L canister, and bulk tanker."
       },
       "frying-oil": {
-        "name": "Frying Oil",
-        "description": "High-stability oil for professional food service and industrial frying applications."
+        "name": "Deep-Frying Oil",
+        "description": "High-stability deep-frying oils for HoReCa and industrial use. Sunflower, high-oleic, rapeseed, and soybean varieties."
+      },
+      "mayonnaise": {
+        "name": "Mayonnaise & Ketchup",
+        "description": "Mayonnaise 30% and 67% fat. Ketchup Lagidny. Plastic buckets 1.8–10kg for food service."
+      },
+      "dairy": {
+        "name": "Milk UHT",
+        "description": "UHT long-life milk in Tetra Pak 1L. Shelf-stable, suitable for B2B wholesale across Europe."
       },
       "sugar": {
         "name": "Beet Sugar",
         "description": "Premium white beet sugar. Available in 25kg, 50kg bags and big bags."
-      },
-      "high-oleic": {
-        "name": "High-Oleic Sunflower Oil",
-        "description": "Refined high-oleic variety — bottled and bulk. Ideal for health-conscious markets."
-      },
-      "dairy": {
-        "name": "Dairy Products",
-        "description": "Milk, butter, and dairy derivatives from certified European producers."
-      },
-      "mayonnaise": {
-        "name": "Mayonnaise & Condiments",
-        "description": "Traditional and industrial mayonnaise, sauces, and condiment products."
       }
     }
   },

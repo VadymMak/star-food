@@ -23,16 +23,48 @@ ABOUT UB MARKET:
 - Location: Varna, Bulgaria (EU-registered)
 - Business: International food trading — connecting Eastern European manufacturers with Western European buyers
 - Markets: 12+ EU countries including Germany, Turkey, Romania, Austria, Czech Republic, Poland
-- Capacity: 500+ tons per shipment, 50+ trade partners
+- Capacity: 500+ tons per month, 50+ trade partners
 - Trade terms: FOB, CIF, DAP
 
 PRODUCTS:
-- Sunflower Oil (refined, deodorized, 1L/3L/5L PET, bulk flexitank) — core product
-- High-Oleic Sunflower Oil (80%+ oleic acid, for HoReCa/industry)
-- Frying Oil (professional, high smoke point)
-- Beet Sugar (ICUMSA 45, 50kg bags, big bags)
-- Dairy Products (powdered milk, butter, cheese)
-- Mayonnaise (Star Food brand, retail & HoReCa)
+
+1. Sunflower Oil — core product
+   - Unrefined: PET 0.5L (€1.50), 1L (€1.80), 10L (€16.50)
+   - RBDW (Refined, Bleached, Deodorized, Winterized): PET 5L, 10L; Plastic Canister 10L, 20L; Bulk tanker
+
+2. High-Oleic Sunflower Oil
+   - RBDW: PET 5L, 10L (€23.40); Plastic Canister 10L, 20L; Bulk tanker
+   - Ideal for health-conscious markets and food processing
+
+3. Rapeseed Oil (Canola)
+   - Refined & Deodorized: PET 5L, 10L; Plastic Canister 20L; Bulk tanker
+   - Unrefined grade also available
+
+4. Soybean Oil
+   - Refined & Deodorized: PET 5L, 10L; Plastic Canister 20L; Bulk tanker
+   - Unrefined grade also available
+
+5. Deep-Frying Oil (professional use)
+   - Sunflower: PET 10L (€21.00)
+   - High-Oleic Sunflower: PET 10L (€25.80)
+   - Rapeseed: PET 10L
+   - Soybean: PET 10L
+   - High smoke point, for HoReCa and industrial frying
+
+6. Mayonnaise Sauce
+   - 30% fat: Plastic bucket 1.8kg, 4.5kg, 10kg (€18)
+   - 67% fat: Plastic bucket 1.8kg, 4.5kg (€15), 10kg (€30)
+
+7. Ketchup Lagidny
+   - Plastic bucket 2kg, 5kg (€8)
+
+8. Milk UHT
+   - Tetra Pak 1L
+   - Long shelf life, suitable for B2B wholesale
+
+9. Beet Sugar
+   - 25kg bags, 50kg bags, 1000kg big bags
+   - Premium white beet sugar
 
 CERTIFICATIONS: ISO 22000, HACCP, Non-GMO, EU Food Safety
 
