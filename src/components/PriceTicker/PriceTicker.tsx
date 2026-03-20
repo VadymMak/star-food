@@ -11,41 +11,70 @@ interface PriceData {
   fallback: boolean;
 }
 
+interface OilEntry {
+  volume: string;
+  packaging: string;
+  type: string;
+  price: number | null;
+}
+
+interface ProductPrices {
+  updatedAt: string;
+  oils: Record<string, OilEntry[]>;
+}
+
+// Wholesale (рыночные цены IMF/FRED) — меняются редко вручную
 const WHOLESALE = {
   refined: { from: 1500, to: 1800 },
   highOleic: { from: 1650, to: 1950 },
   meal: { from: 230, to: 320 },
 };
 
-const RETAIL = {
-  refined: { from: 0.85, to: 1.1 },
-  highOleic: { from: 1.0, to: 1.3 },
-};
-
 function fMT(n: number) {
   return `$${n.toLocaleString("en-US")}`;
 }
-function fL(n: number) {
-  return `$${n.toFixed(2)}`;
+function fEUR(n: number) {
+  return `€${n.toFixed(2)}`;
+}
+
+// Из массива вариантов находим цену по объёму
+function findPrice(items: OilEntry[], volume: string): number | null {
+  const found = items.find((i) => i.volume === volume && i.price !== null);
+  return found?.price ?? null;
 }
 
 export default function PriceTicker() {
   const t = useTranslations();
-  const [data, setData] = useState<PriceData | null>(null);
+  const [fredData, setFredData] = useState<PriceData | null>(null);
+  const [prices, setPrices] = useState<ProductPrices | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    // FRED API (wholesale benchmark)
     fetch("/api/prices")
       .then((r) => r.json())
-      .then((d: PriceData) => {
-        setData(d);
+      .then((d: PriceData) => setFredData(d))
+      .catch(() =>
+        setFredData({ price: null, date: null, source: "IMF", fallback: true }),
+      );
+
+    // Client prices from prices.json
+    fetch("/api/product-prices")
+      .then((r) => r.json())
+      .then((d: ProductPrices) => {
+        setPrices(d);
         setLoading(false);
       })
-      .catch(() => {
-        setData({ price: null, date: null, source: "IMF", fallback: true });
-        setLoading(false);
-      });
+      .catch(() => setLoading(false));
   }, []);
+
+  // Retail prices from prices.json
+  const sunflowerItems = prices?.oils?.["Sunflower Oil"] ?? [];
+  const highOleicItems = prices?.oils?.["High Oleic Sunflower Oil"] ?? [];
+
+  const refined1L = findPrice(sunflowerItems, "1L");
+  const refined10L = findPrice(sunflowerItems, "10L");
+  const highOleic10 = findPrice(highOleicItems, "10L");
 
   return (
     <div className={styles.ticker}>
@@ -54,7 +83,9 @@ export default function PriceTicker() {
         <span className={styles.liveDot} />
         <div className={styles.leftText}>
           <span className={styles.liveLabel}>{t("ticker.marketUpdate")}</span>
-          {data?.date && <span className={styles.date}>{data.date}</span>}
+          {fredData?.date && (
+            <span className={styles.date}>{fredData.date}</span>
+          )}
         </div>
       </div>
 
@@ -71,9 +102,9 @@ export default function PriceTicker() {
               <span className={styles.itemValue}>
                 {loading ? (
                   <span className={styles.skeleton} />
-                ) : data?.price ? (
+                ) : fredData?.price ? (
                   <>
-                    {fMT(data.price)}
+                    {fMT(fredData.price)}
                     <span className={styles.unit}>/MT</span>
                   </>
                 ) : (
@@ -110,25 +141,61 @@ export default function PriceTicker() {
 
         <div className={styles.rowDivider} />
 
-        {/* Row 2 — Retail */}
+        {/* Row 2 — Retail (from prices.json) */}
         <div className={styles.row}>
           <span className={styles.rowBadge + " " + styles.badgeRetail}>
             {t("ticker.retail")}
           </span>
           <div className={styles.items}>
             <div className={styles.item}>
-              <span className={styles.itemLabel}>{t("ticker.refined")}</span>
+              <span className={styles.itemLabel}>{t("ticker.refined")} 1L</span>
               <span className={styles.itemValueRetail}>
-                {fL(RETAIL.refined.from)}–{fL(RETAIL.refined.to)}
-                <span className={styles.unit}>/L</span>
+                {loading ? (
+                  <span className={styles.skeleton} />
+                ) : refined1L ? (
+                  <>
+                    {fEUR(refined1L)}
+                    <span className={styles.unit}>/btl</span>
+                  </>
+                ) : (
+                  <span className={styles.na}>—</span>
+                )}
               </span>
             </div>
             <span className={styles.sep}>·</span>
             <div className={styles.item}>
-              <span className={styles.itemLabel}>{t("ticker.highOleic")}</span>
+              <span className={styles.itemLabel}>
+                {t("ticker.refined")} 10L
+              </span>
               <span className={styles.itemValueRetail}>
-                {fL(RETAIL.highOleic.from)}–{fL(RETAIL.highOleic.to)}
-                <span className={styles.unit}>/L</span>
+                {loading ? (
+                  <span className={styles.skeleton} />
+                ) : refined10L ? (
+                  <>
+                    {fEUR(refined10L)}
+                    <span className={styles.unit}>/btl</span>
+                  </>
+                ) : (
+                  <span className={styles.na}>—</span>
+                )}
+              </span>
+            </div>
+            <span className={styles.sep}>·</span>
+            <div className={styles.item}>
+              <span className={styles.itemLabel}>
+                {t("ticker.highOleic")} 10L
+              </span>
+              <span className={styles.itemValueRetail}>
+                {loading ? (
+                  <span className={styles.skeleton} />
+                ) : highOleic10 ? (
+                  <>
+                    {fEUR(highOleic10)}
+                    <span className={styles.unit}>/btl</span>
+                  </>
+                ) : (
+                  <span className={styles.na}>—</span>
+                )}
               </span>
             </div>
             <span className={styles.sep}>·</span>

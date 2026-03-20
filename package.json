@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "update-prices": "/Users/vadymmak/anaconda3/bin/python data/scripts/update-prices.py ~/Downloads/UB\\ Market_Product\\ List.xlsx && npx tsx data/scripts/generate-embeddings.ts"
   },
   "dependencies": {
     "dotenv": "^17.3.1",
@@ -15,6 +16,7 @@
     "next": "16.1.6",
     "next-intl": "^4.8.3",
     "openai": "^6.25.0",
+    "pandas": "^0.0.3",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-icons": "^5.5.0",

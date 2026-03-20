@@ -1,3 +1,182 @@
-.inner { max-width: var(--max-w, 1200px); margin: 0 auto; padding: 0 20px; }
-.breadcrumbSection { padding-top: calc(var(--header-height, 80px) + 16px); background: var(--dark, #0a0a0a); }
-.section { padding: 40px 0 80px; background: var(--dark, #0a0a0a); }
+.inner {
+  max-width: var(--max-w, 1200px);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.breadcrumbSection {
+  padding-top: calc(var(--header-height, 80px) + 16px);
+  background: var(--dark, #0a0a0a);
+}
+.section {
+  padding: 40px 0 80px;
+  background: var(--dark, #0a0a0a);
+}
+/* ── Добавь в конец quote.module.css ── */
+
+.priceTableWrap {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 8px;
+  padding: 24px;
+  margin-bottom: 32px;
+}
+
+.priceTableHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.priceTableLabel {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.priceTableDate {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.priceTableLoading {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  padding: 16px 0;
+}
+
+.priceTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.priceTable th {
+  text-align: left;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.priceTable td {
+  padding: 10px 12px;
+  color: rgba(255, 255, 255, 0.85);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.priceTable tr:last-child td {
+  border-bottom: none;
+}
+
+.priceTable tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.priceCell {
+  font-weight: 700;
+  color: var(--gold) !important;
+}
+
+.priceCellNA {
+  color: var(--text-muted) !important;
+  font-style: italic;
+}
+
+.bulkRow td {
+  color: var(--text-muted) !important;
+  font-size: 0.85rem;
+}
+
+/* Contact buttons */
+.contactOptions {
+  display: flex;
+  gap: 12px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.whatsappBtn,
+.phoneBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 28px;
+  border-radius: 40px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.whatsappBtn {
+  background: #25d366;
+  color: #fff;
+}
+
+.whatsappBtn:hover {
+  background: #1fba57;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.35);
+}
+
+.phoneBtn {
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.phoneBtn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(212, 175, 55, 0.4);
+  color: var(--gold);
+  transform: translateY(-1px);
+}
+
+/* Divider */
+.formDivider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 32px 0;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.formDivider::before,
+.formDivider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .priceTable th:nth-child(3),
+  .priceTable td:nth-child(3) {
+    display: none;
+  }
+
+  .priceTableWrap {
+    padding: 16px;
+    overflow-x: auto;
+  }
+
+  .whatsappBtn,
+  .phoneBtn {
+    flex: 1;
+    justify-content: center;
+  }
+}
