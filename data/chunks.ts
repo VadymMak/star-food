@@ -14,7 +14,7 @@ export const chunks: ContentChunk[] = [
     id: "about-intro",
     category: "about",
     content:
-      "UB Market LTD is a European food trading company registered in Bulgaria, specializing in wholesale sunflower oil, sugar, dairy products, and other food commodities for international B2B trade.",
+      "UB Market LTD is a European food trading company registered in Bulgaria, specializing in wholesale vegetable oils, mayonnaise, ketchup, milk, and other food commodities for international B2B trade.",
   },
   {
     id: "about-location",
@@ -41,42 +41,76 @@ export const chunks: ContentChunk[] = [
       "UB Market has been operating in the European food trade market, building partnerships with over 50 partners across 12+ countries. The company has capacity to handle 500+ tons of product per shipment.",
   },
 
-  // ===== PRODUCTS =====
+  // ===== PRODUCTS — OILS =====
   {
-    id: "product-sunflower-oil",
+    id: "product-sunflower-oil-unrefined",
     category: "products",
     content:
-      "Star Food Sunflower Oil — premium refined, deodorized sunflower oil. Available in 1L, 3L, 5L PET bottles and bulk (flexitank, IBC). Non-GMO certified, suitable for cooking, frying, and food production.",
+      "Sunflower Oil Unrefined — available in PET bottles: 0.5L (€1.50), 1L (€1.80), 10L (€16.50). Non-GMO certified. Suitable for cooking and food production.",
+  },
+  {
+    id: "product-sunflower-oil-rbdw",
+    category: "products",
+    content:
+      "Sunflower Oil RBDW (Refined, Bleached, Deodorized, Winterized) — available in PET bottles 5L and 10L, plastic canisters 10L and 20L, and bulk tanker. All types also available as bulk in a tanker.",
   },
   {
     id: "product-high-oleic",
     category: "products",
     content:
-      "High-Oleic Sunflower Oil — specialty oil with 80%+ oleic acid content. Ideal for deep frying in HoReCa and food industry. Extended frying life, neutral taste, premium quality.",
+      "High-Oleic Sunflower Oil RBDW — available in PET bottles 5L and 10L (€23.40), plastic canisters 10L and 20L, and bulk tanker. Ideal for health-conscious markets, food processing, and extended shelf life.",
+  },
+  {
+    id: "product-rapeseed-oil",
+    category: "products",
+    content:
+      "Rapeseed Oil (Canola) — refined and deodorized grade available in PET bottles 5L and 10L, plastic canister 20L, and bulk tanker. Unrefined grade also available in bulk tanker.",
+  },
+  {
+    id: "product-soybean-oil",
+    category: "products",
+    content:
+      "Soybean Oil — refined and deodorized grade available in PET bottles 5L and 10L, plastic canister 20L, and bulk tanker. Unrefined grade also available in bulk tanker.",
   },
   {
     id: "product-frying-oil",
     category: "products",
     content:
-      "Professional Frying Oil — specially formulated for commercial deep frying. High smoke point, extended usage life, consistent results. Popular with restaurants, fast food chains, and food manufacturers.",
+      "Deep-Frying Oil — professional high-stability oils for HoReCa and industrial frying. Available: Sunflower 10L PET (€21.00), High-Oleic Sunflower 10L PET (€25.80), Rapeseed 10L PET, Soybean 10L PET. High smoke point, consistent results.",
+  },
+
+  // ===== PRODUCTS — CONDIMENTS =====
+  {
+    id: "product-mayonnaise-30",
+    category: "products",
+    content:
+      "Mayonnaise Sauce 30% fat — available in plastic buckets: 1.8kg, 4.5kg, and 10kg (€18). Suitable for HoReCa and food service.",
+  },
+  {
+    id: "product-mayonnaise-67",
+    category: "products",
+    content:
+      "Mayonnaise Sauce 67% fat — available in plastic buckets: 1.8kg, 4.5kg (€15), and 10kg (€30). High fat content for professional food production.",
+  },
+  {
+    id: "product-ketchup",
+    category: "products",
+    content:
+      "Ketchup Lagidny — available in plastic buckets: 2kg and 5kg (€8). Suitable for HoReCa, restaurants, and food service.",
+  },
+
+  // ===== PRODUCTS — DAIRY & OTHER =====
+  {
+    id: "product-milk-uht",
+    category: "products",
+    content:
+      "Milk UHT — long-life ultra-pasteurized milk in Tetra Pak 1L. Shelf-stable, suitable for B2B wholesale and export across Europe.",
   },
   {
     id: "product-sugar",
     category: "products",
     content:
-      "Wholesale Beet Sugar — EU-origin white crystal sugar (ICUMSA 45). Available in 50kg bags and big bags (1000kg). Suitable for food production, bakeries, and retail packaging.",
-  },
-  {
-    id: "product-dairy",
-    category: "products",
-    content:
-      "Dairy Products — including powdered milk (whole and skimmed), butter, and cheese for wholesale. EU-certified, suitable for food manufacturing and export.",
-  },
-  {
-    id: "product-mayonnaise",
-    category: "products",
-    content:
-      "Mayonnaise — produced under the Star Food brand. Available in various packaging formats for retail and HoReCa. Classic recipe with high-quality sunflower oil base.",
+      "Beet Sugar — premium white beet sugar available in 25kg bags, 50kg bags, and 1000kg big bags. Suitable for food production, bakeries, and retail packaging.",
   },
 
   // ===== CERTIFICATIONS =====
@@ -104,7 +138,7 @@ export const chunks: ContentChunk[] = [
     id: "logistics-capacity",
     category: "logistics",
     content:
-      "Shipping capacity: full truckloads (FTL) of 20-24 tons, or flexitank containers for bulk liquid oils. The company can handle orders from 1 pallet to 500+ tons.",
+      "Shipping capacity: full truckloads (FTL) of 20-24 tons, or bulk tankers for liquid oils. The company can handle orders from 1 pallet to 500+ tons.",
   },
   {
     id: "logistics-countries",
@@ -124,7 +158,7 @@ export const chunks: ContentChunk[] = [
     id: "process-moq",
     category: "process",
     content:
-      "Minimum order quantity varies by product. For sunflower oil: from 1 pallet (around 600-800 liters). For sugar: from 1 ton. For bulk orders, contact the sales team for the best pricing.",
+      "Minimum order quantity varies by product. For bottled sunflower oil: from 1 pallet (around 600-800 liters). For bulk oils: from 1 ton. For sugar: from 1 ton. For bulk orders, contact the sales team for the best pricing.",
   },
   {
     id: "process-payment",
@@ -141,10 +175,16 @@ export const chunks: ContentChunk[] = [
       "Prices depend on product type, quantity, packaging, and delivery terms (FOB/CIF/DAP). For current prices, contact the sales team via the website quote form or email. Bulk orders receive preferential pricing.",
   },
   {
-    id: "pricing-market",
+    id: "pricing-retail-oils",
     category: "pricing",
     content:
-      "Sunflower oil market prices fluctuate based on crop yields and global demand. Average European export price is around $1,100-1,200 per ton. UB Market provides competitive wholesale pricing.",
+      "Retail bottle prices: Sunflower Oil Unrefined 0.5L — €1.50, 1L — €1.80, 10L — €16.50. High-Oleic Sunflower Oil 10L — €23.40. Deep-Frying Sunflower Oil 10L — €21.00. Deep-Frying High-Oleic 10L — €25.80.",
+  },
+  {
+    id: "pricing-condiments",
+    category: "pricing",
+    content:
+      "Condiment prices: Mayonnaise 30% fat 10kg bucket — €18. Mayonnaise 67% fat 4.5kg bucket — €15, 10kg bucket — €30. Ketchup Lagidny 5kg bucket — €8. All prices on request for smaller pack sizes.",
   },
 
   // ===== PRIVATE LABEL =====
@@ -188,7 +228,7 @@ export const chunks: ContentChunk[] = [
     id: "faq-custom-packaging",
     category: "faq",
     content:
-      "Custom packaging is available for most products. Options include PET bottles (1L, 3L, 5L), bag-in-box, flexitank for bulk, IBC containers, and custom retail packaging under private label.",
+      "Custom packaging is available for most products. Options include PET bottles (0.5L, 1L, 5L, 10L), plastic canisters (10L, 20L), bulk tanker for oils, and plastic buckets (1.8kg, 4.5kg, 10kg) for condiments.",
   },
   {
     id: "faq-delivery-time",

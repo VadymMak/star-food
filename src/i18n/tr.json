@@ -91,27 +91,35 @@
     "items": {
       "sunflower-oil": {
         "name": "Ayçiçek Yağı",
-        "description": "Rafine, deodorize, kışa dayanıklı. PET şişeler (0,5–10L) ve dökme tankerler."
-      },
-      "frying-oil": {
-        "name": "Kızartma Yağı",
-        "description": "Profesyonel gıda hizmetleri ve endüstriyel kızartma için yüksek stabiliteli yağ."
-      },
-      "sugar": {
-        "name": "Pancar Şekeri",
-        "description": "Premium beyaz pancar şekeri. 25kg, 50kg çuvallar ve big bag olarak."
+        "description": "Rafine edilmemiş ve RBDW ayçiçek yağı. PET şişeler 0,5–10L, plastik bidonlar 10–20L ve dökme tanker."
       },
       "high-oleic": {
         "name": "Yüksek Oleik Ayçiçek Yağı",
-        "description": "Rafine yüksek oleik çeşidi — şişe ve dökme. Sağlık bilincine sahip pazarlar için ideal."
+        "description": "RBDW yüksek oleik ayçiçek yağı. PET şişeler 5–10L, plastik bidonlar 10–20L ve dökme tanker."
       },
-      "dairy": {
-        "name": "Süt Ürünleri",
-        "description": "Sertifikalı Avrupa üreticilerinden süt, tereyağı ve süt türevleri."
+      "rapeseed-oil": {
+        "name": "Kolza Yağı (Kanola)",
+        "description": "Rafine edilmiş ve koku giderimi yapılmış kolza yağı. PET şişeler 5–10L, 20L bidon ve dökme tanker."
+      },
+      "soybean-oil": {
+        "name": "Soya Yağı",
+        "description": "Rafine edilmiş ve koku giderimi yapılmış soya yağı. PET şişeler 5–10L, 20L bidon ve dökme tanker."
+      },
+      "frying-oil": {
+        "name": "Kızartma Yağı",
+        "description": "HoReCa ve endüstriyel kullanım için yüksek kararlılıklı kızartma yağları. Ayçiçek, yüksek oleik, kolza ve soya çeşitleri."
       },
       "mayonnaise": {
-        "name": "Mayonez ve Soslar",
-        "description": "Geleneksel ve endüstriyel mayonez, soslar ve çeşni ürünleri."
+        "name": "Mayonez ve Ketçap",
+        "description": "Mayonez sosu %30 ve %67 yağ. Lagidny ketçap. Gıda hizmetleri için 1,8–10 kg plastik kovalar."
+      },
+      "dairy": {
+        "name": "UHT Süt",
+        "description": "Tetra Pak 1L'de UHT uzun ömürlü süt. Raf kararlı, Avrupa genelinde B2B toptan satışa uygun."
+      },
+      "sugar": {
+        "name": "Pancar Şekeri",
+        "description": "Premium beyaz pancar şekeri. 25 kg, 50 kg çuval ve büyük çuvallarda mevcuttur."
       }
     }
   },

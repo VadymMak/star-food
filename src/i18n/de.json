@@ -91,27 +91,35 @@
     "items": {
       "sunflower-oil": {
         "name": "Sonnenblumenöl",
-        "description": "Raffiniert, desodoriert, winterfest. PET-Flaschen (0,5–10L) und Tanklastwagen."
-      },
-      "frying-oil": {
-        "name": "Frittieröl",
-        "description": "Hochstabiles Öl für professionelle Gastronomie und industrielles Frittieren."
-      },
-      "sugar": {
-        "name": "Rübenzucker",
-        "description": "Premium weißer Rübenzucker. Verfügbar in 25kg, 50kg Säcken und Big Bags."
+        "description": "Unraffiniertes und RBDW Sonnenblumenöl. PET-Flaschen 0,5–10L, Plastikkanister 10–20L und Tankwagen."
       },
       "high-oleic": {
         "name": "High-Oleic Sonnenblumenöl",
-        "description": "Raffinierte High-Oleic-Sorte — in Flaschen und Bulk. Ideal für gesundheitsbewusste Märkte."
+        "description": "RBDW High-Oleic Sonnenblumenöl. PET-Flaschen 5–10L, Plastikkanister 10–20L und Tankwagen."
       },
-      "dairy": {
-        "name": "Milchprodukte",
-        "description": "Milch, Butter und Milchderivate von zertifizierten europäischen Herstellern."
+      "rapeseed-oil": {
+        "name": "Rapsöl (Canola)",
+        "description": "Raffiniertes und desodoriertes Rapsöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen."
+      },
+      "soybean-oil": {
+        "name": "Sojaöl",
+        "description": "Raffiniertes und desodoriertes Sojaöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen."
+      },
+      "frying-oil": {
+        "name": "Frittieröl",
+        "description": "Hochstabiles Frittieröl für HoReCa und industriellen Einsatz. Sonnenblumen-, High-Oleic-, Raps- und Sojavarianten."
       },
       "mayonnaise": {
-        "name": "Mayonnaise und Gewürze",
-        "description": "Traditionelle und industrielle Mayonnaise, Soßen und Gewürzprodukte."
+        "name": "Mayonnaise & Ketchup",
+        "description": "Mayonnaise-Sauce 30% und 67% Fett. Ketchup Lagidny. Kunststoffeimer 1,8–10 kg für die Gastronomie."
+      },
+      "dairy": {
+        "name": "UHT-Milch",
+        "description": "UHT-Haltbarmilch in Tetra Pak 1L. Lagerstabil, geeignet für den B2B-Großhandel in ganz Europa."
+      },
+      "sugar": {
+        "name": "Rübenzucker",
+        "description": "Premium weißer Rübenzucker. Erhältlich in 25-kg-, 50-kg-Säcken und Big Bags."
       }
     }
   },

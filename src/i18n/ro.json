@@ -90,28 +90,36 @@
     "requestPrice": "Solicită Preț",
     "items": {
       "sunflower-oil": {
-        "name": "Ulei de Floarea Soarelui",
-        "description": "Rafinat, dezodorizat, winterizat. Sticle PET (0,5–10L) și cisterne vrac."
+        "name": "Ulei de Floarea-Soarelui",
+        "description": "Ulei de floarea-soarelui nerafinat și RBDW. Sticle PET 0,5–10L, bidoane plastice 10–20L și cisternă vrac."
+      },
+      "high-oleic": {
+        "name": "Ulei de Floarea-Soarelui High-Oleic",
+        "description": "Ulei de floarea-soarelui RBDW high-oleic. Sticle PET 5–10L, bidoane plastice 10–20L și cisternă vrac."
+      },
+      "rapeseed-oil": {
+        "name": "Ulei de Rapiță (Canola)",
+        "description": "Ulei de rapiță rafinat și dezodorizat. Sticle PET 5–10L, bidon 20L și cisternă vrac."
+      },
+      "soybean-oil": {
+        "name": "Ulei de Soia",
+        "description": "Ulei de soia rafinat și dezodorizat. Sticle PET 5–10L, bidon 20L și cisternă vrac."
       },
       "frying-oil": {
         "name": "Ulei de Prăjit",
-        "description": "Ulei cu stabilitate ridicată pentru servicii alimentare profesionale și prăjire industrială."
+        "description": "Uleiuri de prăjit cu stabilitate ridicată pentru HoReCa și uz industrial. Varietăți de floarea-soarelui, high-oleic, rapiță și soia."
+      },
+      "mayonnaise": {
+        "name": "Maioneză și Ketchup",
+        "description": "Sos de maioneză 30% și 67% grăsime. Ketchup Lagidny. Găleți din plastic 1,8–10 kg pentru servicii alimentare."
+      },
+      "dairy": {
+        "name": "Lapte UHT",
+        "description": "Lapte UHT de lungă durată în Tetra Pak 1L. Stabil la raft, potrivit pentru vânzări en-gros B2B în Europa."
       },
       "sugar": {
         "name": "Zahăr din Sfeclă",
-        "description": "Zahăr alb premium din sfeclă. Disponibil în saci de 25kg, 50kg și big bags."
-      },
-      "high-oleic": {
-        "name": "Ulei de Floarea Soarelui High-Oleic",
-        "description": "Varietate rafinată high-oleic — în sticle și vrac. Ideal pentru piețele orientate spre sănătate."
-      },
-      "dairy": {
-        "name": "Produse Lactate",
-        "description": "Lapte, unt și derivate lactate de la producători europeni certificați."
-      },
-      "mayonnaise": {
-        "name": "Maioneză și Condimente",
-        "description": "Maioneză tradițională și industrială, sosuri și produse de condimentare."
+        "description": "Zahăr alb premium din sfeclă. Disponibil în saci de 25 kg, 50 kg și big bags."
       }
     }
   },
