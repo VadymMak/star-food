@@ -1,0 +1,188 @@
+{
+  "updatedAt": "2026-03-20",
+  "oils": {
+    "Sunflower Oil": [
+      {
+        "volume": "0.5L",
+        "packaging": "PET Bottle",
+        "type": "Unrefined",
+        "price": 1.5
+      },
+      {
+        "volume": "1L",
+        "packaging": "PET Bottle",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": 1.8
+      },
+      {
+        "volume": "5L",
+        "packaging": "PET Bottle",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": 16.5
+      },
+      {
+        "volume": "10L",
+        "packaging": "Plastic Canister",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": null
+      },
+      {
+        "volume": "20L",
+        "packaging": "Plastic Canister",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "Deep-frying oil",
+        "price": 21.0
+      }
+    ],
+    "High Oleic Sunflower Oil": [
+      {
+        "volume": "5L",
+        "packaging": "PET Bottle",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": 23.4
+      },
+      {
+        "volume": "10L",
+        "packaging": "Plastic Canister",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": null
+      },
+      {
+        "volume": "20L",
+        "packaging": "Plastic Canister",
+        "type": "RBDW (Refined, Bleached, Deodorized, Winterized)",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "Deep-frying oil",
+        "price": 25.8
+      }
+    ],
+    "Rapeseed Oil (Canola)": [
+      {
+        "volume": "5L",
+        "packaging": "PET Bottle",
+        "type": "Refined, Deodorized",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "Refined, Deodorized",
+        "price": null
+      },
+      {
+        "volume": "20L",
+        "packaging": "Plastic Canister",
+        "type": "Refined, Deodorized",
+        "price": null
+      }
+    ],
+    "Soybean Oil": [
+      {
+        "volume": "5L",
+        "packaging": "PET Bottle",
+        "type": "Refined, Deodorized",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "Refined, Deodorized",
+        "price": null
+      },
+      {
+        "volume": "20L",
+        "packaging": "Plastic Canister",
+        "type": "Refined, Deodorized",
+        "price": null
+      },
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "Deep-frying oil",
+        "price": null
+      }
+    ],
+    "Rapeseed Oil": [
+      {
+        "volume": "10L",
+        "packaging": "PET Bottle",
+        "type": "Deep-frying oil",
+        "price": null
+      }
+    ]
+  },
+  "condiments": {
+    "Mayonnaise sauce": [
+      {
+        "weight": "1.8kg",
+        "type": "0.3",
+        "price": null
+      },
+      {
+        "weight": "4.5kg",
+        "type": "0.3",
+        "price": null
+      },
+      {
+        "weight": "10kg",
+        "type": "0.3",
+        "price": 18.0
+      },
+      {
+        "weight": "1.8kg",
+        "type": "0.67",
+        "price": null
+      },
+      {
+        "weight": "4.5kg",
+        "type": "0.67",
+        "price": 15.0
+      },
+      {
+        "weight": "10kg",
+        "type": "0.67",
+        "price": 30.0
+      }
+    ],
+    "Ketchup": [
+      {
+        "weight": "2kg",
+        "type": "Lagidny",
+        "price": null
+      },
+      {
+        "weight": "5kg",
+        "type": "Lagidny",
+        "price": 8.0
+      }
+    ],
+    "Milk": [
+      {
+        "volume": "1L",
+        "type": "UHT",
+        "price": null
+      }
+    ]
+  }
+}
