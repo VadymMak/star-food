@@ -83,7 +83,7 @@ export default async function HomePage({
   const { locale } = await params;
 
   const posts = getAllPosts(locale)
-    .slice(0, 3)
+    .slice(0, 6)
     .map((p) => ({
       slug: p.slug,
       title: p.title,
