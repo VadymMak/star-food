@@ -1,5 +1,4 @@
 "use client";
-
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
@@ -23,13 +22,27 @@ interface PostData {
   content: string;
 }
 
+interface RelatedPost {
+  slug: string;
+  title: string;
+  description: string;
+  date: string;
+  image: string;
+}
+
 interface Props {
   post: PostData | null;
   slug: string;
   locale: string;
+  relatedPosts?: RelatedPost[];
 }
 
-export default function BlogPostClient({ post, slug, locale }: Props) {
+export default function BlogPostClient({
+  post,
+  slug,
+  locale,
+  relatedPosts = [],
+}: Props) {
   const t = useTranslations();
 
   if (!post) {
@@ -98,13 +111,11 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-
       <section className={styles.breadcrumbSection}>
         <div className={styles.inner}>
           <Breadcrumbs items={breadcrumbItems} />
         </div>
       </section>
-
       <section className={styles.headerSection}>
         <div className={styles.inner}>
           <span className={styles.category}>{post.category}</span>
@@ -120,7 +131,6 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
           </div>
         </div>
       </section>
-
       <section className={styles.heroImage}>
         <div className={styles.inner}>
           <div className={styles.imageWrap}>
@@ -135,7 +145,6 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
           </div>
         </div>
       </section>
-
       <section className={styles.bodySection}>
         <div className={styles.inner}>
           <div className={styles.bodyGrid}>
@@ -144,6 +153,7 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
                 {post.content}
               </ReactMarkdown>
 
+              {/* CTA */}
               <div className={styles.cta}>
                 <h3>{t("blogPost.ctaTitle")}</h3>
                 <p>{t("blogPost.ctaText")}</p>
@@ -151,8 +161,30 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
                   <FaEnvelope /> {t("blogPost.ctaButton")}
                 </Link>
               </div>
-            </article>
 
+              {/* Author Box */}
+              <div className={styles.authorBox}>
+                <div className={styles.authorImage}>
+                  <Image
+                    src="/icons/logo.webp"
+                    alt="UB Market Trading Team"
+                    width={64}
+                    height={64}
+                    style={{ borderRadius: "50%", objectFit: "cover" }}
+                  />
+                </div>
+                <div className={styles.authorInfo}>
+                  <span className={styles.authorLabel}>
+                    {t("blogPost.writtenBy") || "Written by"}
+                  </span>
+                  <h4 className={styles.authorName}>UB Market Trading Team</h4>
+                  <p className={styles.authorBio}>
+                    {t("blogPost.authorBio") ||
+                      "EU food trading experts with 12+ countries of experience. ISO 22000 & HACCP certified. Specializing in sunflower oil, frying oil, and sugar wholesale since 2020."}
+                  </p>
+                </div>
+              </div>
+            </article>
             <aside className={styles.sidebar}>
               <TableOfContents />
             </aside>
@@ -165,6 +197,53 @@ export default function BlogPostClient({ post, slug, locale }: Props) {
           </div>
         </div>
       </section>
+
+      {/* You might also enjoy */}
+      {relatedPosts.length > 0 && (
+        <section className={styles.relatedPostsSection}>
+          <div className={styles.inner}>
+            <h2 className={styles.relatedPostsTitle}>
+              {t("blogPost.youMightAlsoEnjoy") || "You might also enjoy"}
+            </h2>
+            <div className={styles.relatedPostsGrid}>
+              {relatedPosts.map((related) => {
+                const relatedDate = new Date(related.date).toLocaleDateString(
+                  locale,
+                  { year: "numeric", month: "long", day: "numeric" },
+                );
+                return (
+                  <Link
+                    key={related.slug}
+                    href={`/${locale}/blog/${related.slug}`}
+                    className={styles.relatedPostCard}
+                  >
+                    <div className={styles.relatedPostImage}>
+                      <Image
+                        src={related.image}
+                        alt={related.title}
+                        fill
+                        sizes="33vw"
+                        style={{ objectFit: "cover" }}
+                      />
+                    </div>
+                    <div className={styles.relatedPostBody}>
+                      <time className={styles.relatedPostDate}>
+                        {relatedDate}
+                      </time>
+                      <h3 className={styles.relatedPostTitle}>
+                        {related.title}
+                      </h3>
+                      <p className={styles.relatedPostDesc}>
+                        {related.description}
+                      </p>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      )}
     </>
   );
 }

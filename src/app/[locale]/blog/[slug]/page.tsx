@@ -1,9 +1,7 @@
 // src/app/[locale]/blog/[slug]/page.tsx
-// Server component — reads post, generates OG metadata, delegates rendering to client
-
 import { Metadata } from "next";
 import { routing } from "@/i18n/routing";
-import { getPostBySlug, getPostSlugs } from "@/lib/blog";
+import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog";
 import BlogPostClient from "@/components/BlogPostClient/BlogPostClient";
 
 const BASE_URL = "https://ub-market.com";
@@ -12,37 +10,34 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
-// Generate static params for all post slugs
 export async function generateStaticParams() {
   const slugs = getPostSlugs();
   const locales = ["en", "bg", "tr", "ro", "de", "ua"];
-
   return slugs.flatMap((slug) => locales.map((locale) => ({ locale, slug })));
 }
 
-// OG metadata for social sharing
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug, locale } = await params;
   const post = getPostBySlug(slug, locale);
-
   if (!post) {
     return { title: "Article Not Found" };
   }
-
   const ogImage = post.ogImage
     ? `${BASE_URL}${post.ogImage}`
     : `${BASE_URL}${post.image}`;
-
-  // Hreflang alternates (ua → uk per ISO 639-1)
   const hreflangMap: Record<string, string> = {
-    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk",
+    en: "en",
+    bg: "bg",
+    tr: "tr",
+    ro: "ro",
+    de: "de",
+    ua: "uk",
   };
   const languages: Record<string, string> = {};
   for (const loc of routing.locales) {
     languages[hreflangMap[loc] || loc] = `${BASE_URL}/${loc}/blog/${slug}`;
   }
   languages["x-default"] = `${BASE_URL}/en/blog/${slug}`;
-
   return {
     title: `${post.title} | UB Market`,
     description: post.description,
@@ -51,14 +46,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: post.description,
       url: `${BASE_URL}/${locale}/blog/${slug}`,
       siteName: "UB Market",
-      images: [
-        {
-          url: ogImage,
-          width: 1200,
-          height: 630,
-          alt: post.title,
-        },
-      ],
+      images: [{ url: ogImage, width: 1200, height: 630, alt: post.title }],
       type: "article",
       publishedTime: post.date,
     },
@@ -79,5 +67,33 @@ export default async function BlogPostPage({ params }: Props) {
   const { slug, locale } = await params;
   const post = getPostBySlug(slug, locale);
 
-  return <BlogPostClient post={post} slug={slug} locale={locale} />;
+  // Get 3 related posts — same category first, then others, exclude current
+  const allPosts = getAllPosts(locale);
+  const related = allPosts
+    .filter((p) => p.slug !== slug)
+    .sort((a, b) => {
+      // same category first
+      if (post && a.category === post.category && b.category !== post.category)
+        return -1;
+      if (post && b.category === post.category && a.category !== post.category)
+        return 1;
+      return 0;
+    })
+    .slice(0, 3)
+    .map((p) => ({
+      slug: p.slug,
+      title: p.title,
+      description: p.description,
+      date: p.date,
+      image: p.image,
+    }));
+
+  return (
+    <BlogPostClient
+      post={post}
+      slug={slug}
+      locale={locale}
+      relatedPosts={related}
+    />
+  );
 }
