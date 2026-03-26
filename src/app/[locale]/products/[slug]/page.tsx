@@ -11,6 +11,117 @@ import { generateProductSchema, generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
 import styles from "./product.module.css";
 
+const PRODUCT_BLOGS: Record<string, { slug: string; title: string }[]> = {
+  "sunflower-oil": [
+    {
+      slug: "sunflower-oil-wholesale-guide",
+      title: "Complete Guide to Buying Sunflower Oil Wholesale",
+    },
+    {
+      slug: "refined-vs-crude-sunflower-oil",
+      title: "Refined vs Crude Sunflower Oil: Full Comparison",
+    },
+    {
+      slug: "sunflower-oil-prices-europe-2026",
+      title: "Sunflower Oil Prices in Europe 2026",
+    },
+  ],
+  "high-oleic-sunflower-oil": [
+    {
+      slug: "high-oleic-sunflower-oil-horeca",
+      title: "High-Oleic Sunflower Oil for HoReCa",
+    },
+    {
+      slug: "sunflower-oil-prices-europe-2026",
+      title: "Sunflower Oil Prices in Europe 2026",
+    },
+    {
+      slug: "best-frying-oil-restaurants",
+      title: "Best Frying Oil for Restaurants 2026",
+    },
+  ],
+  "frying-oil": [
+    {
+      slug: "best-frying-oil-restaurants",
+      title: "Best Frying Oil for Restaurants 2026",
+    },
+    {
+      slug: "high-oleic-sunflower-oil-horeca",
+      title: "High-Oleic Sunflower Oil for HoReCa",
+    },
+    {
+      slug: "sunflower-oil-packaging-guide",
+      title: "Sunflower Oil Packaging Guide",
+    },
+  ],
+  "rapeseed-oil": [
+    {
+      slug: "how-to-choose-food-supplier",
+      title: "How to Choose a Food Supplier in Europe",
+    },
+    {
+      slug: "sunflower-oil-packaging-guide",
+      title: "Sunflower Oil Packaging Guide",
+    },
+    {
+      slug: "how-food-trading-works-europe",
+      title: "How Food Trading Works in Europe",
+    },
+  ],
+  "soybean-oil": [
+    {
+      slug: "how-to-choose-food-supplier",
+      title: "How to Choose a Food Supplier in Europe",
+    },
+    {
+      slug: "sunflower-oil-packaging-guide",
+      title: "Sunflower Oil Packaging Guide",
+    },
+    {
+      slug: "how-food-trading-works-europe",
+      title: "How Food Trading Works in Europe",
+    },
+  ],
+  mayonnaise: [
+    {
+      slug: "how-food-trading-works-europe",
+      title: "How Food Trading Works in Europe",
+    },
+    {
+      slug: "how-to-choose-food-supplier",
+      title: "How to Choose a Food Supplier in Europe",
+    },
+    {
+      slug: "food-trading-bulgaria-eu-advantage",
+      title: "Bulgaria as EU Food Trading Hub",
+    },
+  ],
+  "dairy-products": [
+    {
+      slug: "food-trading-bulgaria-eu-advantage",
+      title: "Bulgaria as EU Food Trading Hub",
+    },
+    {
+      slug: "how-food-trading-works-europe",
+      title: "How Food Trading Works in Europe",
+    },
+  ],
+  sugar: [
+    {
+      slug: "wholesale-beet-sugar-europe",
+      title: "Wholesale Beet Sugar in Europe 2026",
+    },
+    {
+      slug: "how-to-choose-food-supplier",
+      title: "How to Choose a Food Supplier in Europe",
+    },
+    {
+      slug: "food-trading-bulgaria-eu-advantage",
+      title: "Bulgaria as EU Food Trading Hub",
+    },
+  ],
+};
+
 export default function ProductPage() {
   const params = useParams();
   const slug = params.slug as string;
@@ -38,8 +149,8 @@ export default function ProductPage() {
   const productName = translated?.name || product.name;
   const productDesc = translated?.description || product.description;
 
-  // Get related products (exclude current)
   const related = products.filter((p) => p.slug !== slug).slice(0, 3);
+  const relatedBlogs = PRODUCT_BLOGS[product.slug] || [];
 
   const breadcrumbItems = [
     { label: t("nav.home"), href: `/${locale}` },
@@ -232,6 +343,28 @@ export default function ProductPage() {
           </div>
         </div>
       </section>
+
+      {/* Related Blog Posts */}
+      {relatedBlogs.length > 0 && (
+        <section className={styles.relatedSection}>
+          <div className={styles.inner}>
+            <h2 className={styles.relatedTitle}>
+              {t("productPage.relatedArticles") || "Related Articles"}
+            </h2>
+            <div className={styles.relatedGrid}>
+              {relatedBlogs.map((blog) => (
+                <Link
+                  key={blog.slug}
+                  href={`/${locale}/blog/${blog.slug}`}
+                  className={styles.relatedCard}
+                >
+                  <h3 className={styles.relatedName}>{blog.title}</h3>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </>
   );
 }
