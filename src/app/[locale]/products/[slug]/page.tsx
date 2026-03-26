@@ -11,113 +11,139 @@ import { generateProductSchema, generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
 import styles from "./product.module.css";
 
-const PRODUCT_BLOGS: Record<string, { slug: string; title: string }[]> = {
+const PRODUCT_BLOGS: Record<
+  string,
+  { slug: string; title: string; image: string }[]
+> = {
   "sunflower-oil": [
     {
       slug: "sunflower-oil-wholesale-guide",
       title: "Complete Guide to Buying Sunflower Oil Wholesale",
+      image: "/images/vegetable-oil.webp",
     },
     {
       slug: "refined-vs-crude-sunflower-oil",
       title: "Refined vs Crude Sunflower Oil: Full Comparison",
+      image: "/images/vegetable-oil.webp",
     },
     {
       slug: "sunflower-oil-prices-europe-2026",
       title: "Sunflower Oil Prices in Europe 2026",
+      image: "/images/our-products.webp",
     },
   ],
   "high-oleic-sunflower-oil": [
     {
       slug: "high-oleic-sunflower-oil-horeca",
       title: "High-Oleic Sunflower Oil for HoReCa",
+      image: "/images/frying-oil.webp",
     },
     {
       slug: "sunflower-oil-prices-europe-2026",
       title: "Sunflower Oil Prices in Europe 2026",
+      image: "/images/our-products.webp",
     },
     {
       slug: "best-frying-oil-restaurants",
       title: "Best Frying Oil for Restaurants 2026",
+      image: "/images/frying-oil.webp",
     },
   ],
   "frying-oil": [
     {
       slug: "best-frying-oil-restaurants",
       title: "Best Frying Oil for Restaurants 2026",
+      image: "/images/frying-oil.webp",
     },
     {
       slug: "high-oleic-sunflower-oil-horeca",
       title: "High-Oleic Sunflower Oil for HoReCa",
+      image: "/images/frying-oil.webp",
     },
     {
       slug: "sunflower-oil-packaging-guide",
       title: "Sunflower Oil Packaging Guide",
+      image: "/images/vegetable-oil.webp",
     },
   ],
   "rapeseed-oil": [
     {
       slug: "how-to-choose-food-supplier",
       title: "How to Choose a Food Supplier in Europe",
+      image: "/images/contact-us.webp",
     },
     {
       slug: "sunflower-oil-packaging-guide",
       title: "Sunflower Oil Packaging Guide",
+      image: "/images/vegetable-oil.webp",
     },
     {
       slug: "how-food-trading-works-europe",
       title: "How Food Trading Works in Europe",
+      image: "/images/our-location.webp",
     },
   ],
   "soybean-oil": [
     {
       slug: "how-to-choose-food-supplier",
       title: "How to Choose a Food Supplier in Europe",
+      image: "/images/contact-us.webp",
     },
     {
       slug: "sunflower-oil-packaging-guide",
       title: "Sunflower Oil Packaging Guide",
+      image: "/images/vegetable-oil.webp",
     },
     {
       slug: "how-food-trading-works-europe",
       title: "How Food Trading Works in Europe",
+      image: "/images/our-location.webp",
     },
   ],
   mayonnaise: [
     {
       slug: "how-food-trading-works-europe",
       title: "How Food Trading Works in Europe",
+      image: "/images/our-location.webp",
     },
     {
       slug: "how-to-choose-food-supplier",
       title: "How to Choose a Food Supplier in Europe",
+      image: "/images/contact-us.webp",
     },
     {
       slug: "food-trading-bulgaria-eu-advantage",
       title: "Bulgaria as EU Food Trading Hub",
+      image: "/images/about-us.webp",
     },
   ],
   "dairy-products": [
     {
       slug: "food-trading-bulgaria-eu-advantage",
       title: "Bulgaria as EU Food Trading Hub",
+      image: "/images/about-us.webp",
     },
     {
       slug: "how-food-trading-works-europe",
       title: "How Food Trading Works in Europe",
+      image: "/images/our-location.webp",
     },
   ],
   sugar: [
     {
       slug: "wholesale-beet-sugar-europe",
       title: "Wholesale Beet Sugar in Europe 2026",
+      image: "/images/sugar.webp",
     },
     {
       slug: "how-to-choose-food-supplier",
       title: "How to Choose a Food Supplier in Europe",
+      image: "/images/contact-us.webp",
     },
     {
       slug: "food-trading-bulgaria-eu-advantage",
       title: "Bulgaria as EU Food Trading Hub",
+      image: "/images/about-us.webp",
     },
   ],
 };
@@ -358,6 +384,15 @@ export default function ProductPage() {
                   href={`/${locale}/blog/${blog.slug}`}
                   className={styles.relatedCard}
                 >
+                  <div className={styles.relatedImage}>
+                    <Image
+                      src={blog.image}
+                      alt={blog.title}
+                      fill
+                      sizes="33vw"
+                      style={{ objectFit: "cover" }}
+                    />
+                  </div>
                   <h3 className={styles.relatedName}>{blog.title}</h3>
                 </Link>
               ))}
