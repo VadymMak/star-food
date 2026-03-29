@@ -23,8 +23,13 @@ export function generateProductSchema(product: Product, locale: string, translat
     },
     offers: {
       "@type": "Offer",
+      url: `${BASE_URL}/${locale}/products/${product.slug}`,
       availability: "https://schema.org/InStock",
-      priceCurrency: "USD",
+      price: 0,
+      priceCurrency: "EUR",
+      priceValidUntil: new Date(new Date().getFullYear() + 1, 0, 1)
+        .toISOString()
+        .split("T")[0],
       seller: {
         "@type": "Organization",
         name: "UB Market LTD",
