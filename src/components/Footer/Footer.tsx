@@ -46,11 +46,11 @@ export default function Footer() {
         <p className={styles.credit}>
           Label design by{" "}
           <a
-            href="https://akillustrator.com"
+            href="https://formaink.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Anastasiia Kolisnyk — AK Illustrator
+            Anastasiia Kolisnyk — FormaInk Studio
           </a>
         </p>
 
