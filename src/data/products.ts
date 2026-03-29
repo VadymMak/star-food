@@ -85,7 +85,7 @@ export const products: Product[] = [
     id: "soybean-oil",
     slug: "soybean-oil",
     name: "Soybean Oil",
-    image: "/images/vegetable-oil.webp",
+    image: "/images/soybean-oil.webp",
     description:
       "Refined and deodorized soybean oil. PET bottles 5–10L, plastic canister 20L, and bulk tanker. Unrefined grade available on request.",
     specs: {
