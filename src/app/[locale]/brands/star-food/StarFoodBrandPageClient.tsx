@@ -196,7 +196,7 @@ export default function StarFoodBrandPage() {
                 {t("brandPage.designedByText")}
               </p>
               <a
-                href="https://akillustrator.com"
+                href="https://formaink.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.designLink}
