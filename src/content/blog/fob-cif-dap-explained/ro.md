@@ -1,100 +1,208 @@
 ---
-title: "FOB, CIF și DAP — Termenii comerciali Incoterms explicați pentru cumpărătorii de alimente"
-date: "2026-03-15"
-description: "Ce înseamnă FOB, CIF și DAP în comerțul internațional cu alimente? Explicație clară a celor mai importante clauze comerciale."
+title: "FOB, CIF sau DAP — Ce Incoterm Ar Trebui să Aleagă Cumpărătorii de Alimente în Europa 2026?"
+description: "Ghid practic pentru termenii comerciali FOB, CIF și DAP pentru cumpărătorii B2B de produse alimentare în Europa — comparații reale de costuri și care termen economisește cel mai mult."
+date: "2026-02-12"
+category: "trading"
 image: "/images/our-location.webp"
-tags: ["Incoterms", "FOB", "CIF", "DAP", "comerț"]
-readingTime: 7
+readingTime: 11
+ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
-## Incoterms — Limbajul comerțului internațional
 
-Incoterms (International Commercial Terms) sunt termeni comerciali standardizați care definesc responsabilitățile și riscurile între cumpărător și vânzător. Pentru comerțul en gros cu alimente, trei clauze sunt deosebit de relevante: **FOB**, **CIF** și **DAP**.
+**TL;DR:** FOB, CIF și DAP sunt cei trei Incoterms folosiți în majoritatea tranzacțiilor europene cu alimente. Pentru majoritatea cumpărătorilor B2B din România sub 100 tone per comandă, DAP cu camionul din Bulgaria este cea mai rapidă și mai transparentă opțiune — Varna la București în 4–5 ore, Varna la Cluj în 8–9 ore, fără taxe portuare ascunse.
 
-## FOB — Free on Board (Franco la Bord)
+---
 
-La condiția FOB, vânzătorul livrează marfa la portul de încărcare convenit. Din acel punct, toate costurile și riscurile trec la cumpărător.
+### Răspuns Rapid: FOB vs CIF vs DAP pentru Ulei de Floarea-Soarelui 2026
 
-**Responsabilitatea vânzătorului:**
-- Producție și control de calitate
-- Transport la port/punct de încărcare
-- Formalități vamale de export
-- Încărcare pe camion/navă
+- **FOB Marea Neagră:** preț de bază ~$1.100–1.200/t — dvs. gestionați tot transportul
+- **CIF Rotterdam:** ~$1.180–1.300/t — vânzătorul plătește transportul până la port
+- **DAP depozitul dvs.:** ~$1.245–1.320/t — vânzătorul livrează la ușa dvs.
+- **Cea mai bună alegere pentru România:** DAP cu camion — Varna→București 4–5h
+- **Timpi de livrare din Varna:** București 4–5h · Cluj 8–9h · Timișoara 10–11h · Constanța 2–3h
+- **Costuri ascunse la FOB:** adăugați $60–120/t pentru transport + asigurare + taxe vamale
 
-**Responsabilitatea cumpărătorului:**
-- Transportul principal (navlu)
-- Asigurarea transportului
-- Formalități vamale de import
-- Descărcare și livrare finală
+---
 
-**Avantaj:** Cel mai mic preț de achiziție — controlați transportul și asigurarea.
+## Ce sunt Incoterms și de ce contează pentru cumpărătorii de alimente din România?
 
-## CIF — Cost, Insurance and Freight (Cost, Asigurare și Navlu)
+Un distribuitor de alimente din Cluj mi-a povestit prima lui experiență cu importul de ulei de floarea-soarelui. A primit o ofertă FOB la $1.120 per tonă și a acceptat-o — părea mai ieftină decât alternativa DAP. Trei săptămâni mai târziu, după ce a calculat toate costurile reale — camionul de la Varna la Cluj, asigurarea, taxele vamale, agentul vamal — prețul final a fost de $1.262 per tonă. Oferta noastră DAP Cluj era $1.240 per tonă. "Data viitoare iau DAP direct," mi-a spus. "Mi-am dat seama că ceea ce părea mai scump era de fapt mai ieftin."
 
-La CIF, vânzătorul preia suplimentar costurile de navlu și asigurarea de transport până la portul de destinație.
+Această poveste se repetă constant în rândul importatorilor români care cumpără pentru prima dată din Bulgaria sau Ucraina. Oferta FOB arată mai atractivă la prima vedere — dar când aduni toate costurile reale, de obicei nu este.
 
-**Responsabilitatea vânzătorului:**
-- Toate serviciile FOB
-- Navlu principal până la portul de destinație
-- Asigurare de transport (acoperire minimă ICC-C)
+Incoterms — prescurtare de la International Commercial Terms — sunt reguli standardizate publicate de Camera Internațională de Comerț (ICC). Versiunea actuală este Incoterms 2020. Ele definesc un element esențial al oricărui contract comercial internațional: cine plătește ce și cine poartă riscul la fiecare etapă a unei livrări.
 
-**Responsabilitatea cumpărătorului:**
-- Descărcare la portul de destinație
-- Formalități vamale de import
-- Livrare la depozit
+UB Market LTD livrează ulei de floarea-soarelui, ulei de prăjit, zahăr și alte produse alimentare în 12+ țări europene sub toți cei trei Incoterms principali. Centrul nostru logistic se află în Varna, Bulgaria. Proximitatea geografică față de România — Varna este la granița bulgaro-română, accesibilă pe autostrada A2 — face din DAP cu camionul opțiunea logistică ideală pentru majoritatea clienților noștri români.
 
-**Avantaj:** Mai puțin efort de coordonare — navlul și asigurarea sunt incluse în preț.
+## Ce înseamnă FOB în comerțul cu alimente și pentru cine este potrivit?
 
-## DAP — Delivered at Place (Livrat la Locul Convenit)
+FOB înseamnă Free on Board — Franco la Bord. Sub FOB, vânzătorul este responsabil pentru mărfuri până la momentul încărcării lor pe vas sau camion în portul de origine. Din acel moment, toate costurile și riscurile trec la cumpărător.
 
-La DAP, vânzătorul livrează marfa până la locul de destinație convenit. Doar descărcarea rămâne în responsabilitatea cumpărătorului.
+**Vânzătorul gestionează sub FOB:** producția produsului, transportul la portul de origine, încărcarea pe mijlocul de transport, vămuirea la export.
 
-**Responsabilitatea vânzătorului:**
-- Toate serviciile CIF
-- Transport până la destinație (depozitul dvs.)
-- Toate riscurile pe parcursul tranzitului
+**Cumpărătorul gestionează sub FOB:** transportul maritim sau rutier de la portul de origine, asigurarea mărfii pentru întregul parcurs, vămuirea la import în țara destinatară, transportul de la portul de destinație sau punctul de preluare până la propriul depozit.
 
-**Responsabilitatea cumpărătorului:**
-- Descărcare
-- Formalități vamale de import (dacă este în afara UE)
+| FOB în detaliu                      | Realitate pentru cumpărătorii din România        |
+| ----------------------------------- | ------------------------------------------------ |
+| Prețul ofertei                      | Cel mai mic — doar prețul produsului             |
+| Costuri suplimentare                | Camion + asigurare + taxe vamale + agent vamal   |
+| Costuri suplimentare tipice România | +$55–100/t în funcție de destinație              |
+| Transferul riscului                 | La încărcare în portul de origine                |
+| Efort administrativ                 | Ridicat — coordonați totul de la port            |
+| Cel mai bun pentru                  | Cumpărători mari (100+ t) cu contracte logistice |
 
-**Avantaj:** Confort maxim — livrare „la rampă".
+Pentru cumpărătorii din România, FOB înseamnă concret: trebuie să contractați un transportator care să preia marfa din Varna. Un camion Varna–București costă aproximativ €40–50 per tonă. Varna–Cluj €60–70 per tonă. Varna–Timișoara €70–80 per tonă. La acestea se adaugă asigurarea €10–12 per tonă, taxele vamale (zero în cadrul UE pentru produse comunitare), agentul vamal €8–12 per tonă.
 
-## Tabel comparativ
+Un producător de alimente din Ploiești care importă regulat 120–150 tone per trimestru a ales FOB cu succes: are un contract pe termen lung cu o firmă de transport din Giurgiu care îi oferă €38 per tonă pentru ruta Varna–Ploiești. La acest volum și cu aceste condiții, economisește €12–18 per tonă față de DAP. Acesta este scenariul pentru care FOB este conceput.
 
-| Clauză | Responsabilitate vânzător | Responsabilitate cumpărător | Nivel de preț |
-|--------|--------------------------|---------------------------|--------------|
-| FOB | Până la încărcare + export | Navlu + asigurare + import | Cel mai mic |
-| CIF | + Navlu + asigurare | Descărcare + import + livrare | Mediu |
-| DAP | Până la depozitul dvs. | Doar descărcare | Cel mai mare |
+**Când FOB este alegerea corectă:**
 
-## Avantajul DAP România — Bulgaria
+- Importați regulat minimum 100 tone și aveți parteneri de transport stabili
+- Doriți control complet asupra rutelor și transportatorilor
+- Aveți departament logistic intern sau lucrați cu un expeditor fix
+- Puteți negocia tarife avantajoase prin volum
 
-Fiind vecini direcți, condiția **DAP** pentru livrări din Bulgaria în România este deosebit de avantajoasă:
-- Distanțe scurte = costuri reduse de transport
-- Fără formalități vamale (ambele sunt în UE)
-- Timp de livrare de doar 5–12 ore în funcție de destinație
-- Prețul DAP este foarte aproape de prețul FOB
+## Ce înseamnă CIF și când are sens să îl alegeți?
 
-## Recomandarea noastră
+CIF înseamnă Cost, Insurance, and Freight — Cost, Asigurare și Navlu. Sub CIF, vânzătorul organizează și plătește transportul principal și asigurarea minimă până la portul de destinație specificat. Riscul se transferă totuși la cumpărător în momentul încărcării la origine — un aspect important în caz de litigiu.
 
-Pentru clienții din România, recomandăm **DAP** — primiți un preț total clar, fără costuri ascunse, cu livrare directă la depozitul dumneavoastră.
+**Vânzătorul gestionează sub CIF:** tot din FOB, plus transportul principal până la portul de destinație, asigurarea maritimă minimă în valoare de 110% din valoarea facturii.
 
-## Cum să alegeți Incoterm-ul potrivit pentru afacerea dumneavoastră
+**Cumpărătorul gestionează sub CIF:** vămuirea la import la portul de destinație, transportul de la port la propriul depozit, asigurarea suplimentară dacă este necesară.
 
-Alegerea condiției de livrare depinde de mai mulți factori specifici operațiunilor dvs. En gros. Dacă dispuneți de o echipă dedicată logisticii și doriți să negociați tarifele de transport în mod independent, **FOB** este cea mai flexibilă și economică opțiune. Această variantă este ideală pentru cumpăratori cu volume mari care pot obține tarife mai bune din partea transportatorilor prin negociere directă.
+| CIF în detaliu              | Realitate pentru cumpărătorii din România            |
+| --------------------------- | ---------------------------------------------------- |
+| Prețul ofertei              | Mediu — include transportul și asigurarea principală |
+| Costuri suplimentare        | Taxe portuare + transport local + agent vamal        |
+| Costuri suplimentare tipice | +$30–65/t                                            |
+| Transferul riscului         | La încărcare în portul de origine                    |
+| Efort administrativ         | Mediu                                                |
+| Cel mai bun pentru          | Importatori cu acces la port                         |
 
-Pentru companii de dimensiuni medii care preferă predictibilitate și transparență, **CIF** oferă un echilibru între control și confort. Navlul și asigurarea sunt deja cotate și incluse în preț, ceea ce elimină surprizele și simplifica bugetarea. Totuși, trebuie să rețineți că la CIF, responsabilitatea pentru marfă trece de la vânzător la cumpărător la momentul încărcării pe navă — deci trebuie să monitorizați transportul și să aveți politici clare de asigurare.
+CIF Rotterdam este prețul de referință pentru piețele europene de uleiuri vegetale. Când publicațiile de specialitate citează "ulei de floarea-soarelui $1.250/t CIF Rotterdam", acesta este prețul livrat la portul Rotterdam, inclusiv transportul de la Marea Neagră. Nu include transportul de la Rotterdam la depozitul dvs. din București, Brașov sau Iași — aceasta costă suplimentar €65–90 per tonă în funcție de distanță.
 
-**DAP** este ideală pentru operațiuni frecvente și relații de lungă durată cu furnizori de încredere. Deși prețul poate părea mai mare inițial, costurile ascunse și complicațiile logistice sunt eliminate. Pentru comerțul cu oțet, ulei de floarea-soarelui, zahăr și alte produse alimentare care necesită handling atent, DAP garantează că marfa ajunge în starea dorită și la timp.
+Pentru un importator din Constanța care are acces direct la facilitățile portuare, CIF Constanța poate fi o soluție eficientă: nava ajunge, marfa este preluată, cumpărătorul gestionează doar vămuirea și eventualul transport local. Distanța Varna–Constanța pe mare este de doar câteva ore.
 
-## Aspecte legale și reglementări EU relevante pentru selectarea Incoterm-ului
+**Când CIF este alegerea corectă:**
 
-În contextul comercial european, Incoterm-urile interacționează cu reglementări strict definite de UE. Pentru produsele alimentare cum sunt uleiul de floarea-soarelui și zahărul, trebuie respectate standardele de siguranță alimentară FSSC 22000 și certificările de export/import specifice. La FOB și CIF, vânzătorul din Bulgaria trebuie să asigure conformitatea cu regulamentele UE privind controlul calității și documentația de export. La DAP, responsabilitatea logistică extinsă înseamnă că transportatorul trebuie să mențină lanțul de răcire și documentația de trasabilitate pe toată ruta.
+- Sunteți localizat în apropierea unui port major — Constanța, Galați
+- Aveți agent vamal și transport local deja organizat
+- Cumpărați cantități mari pentru care transportul maritim este economic (50+ tone)
+- Doriți ca vânzătorul să gestioneze transportul internațional principal
 
-Documentele de transport obligatorii — CMR pentru transport rutier, conosament pentru transport maritim — trebuie completate conform Incoterm-ului ales. La FOB și CIF, cumpărătorul este responsabil pentru transportul internațional și trebuie să asigure documentele respective. La DAP, vânzătorul gestionează întreaga documentație, ceea ce reduce riscurile administrative pentru cumpărător.
+## Ce înseamnă DAP și de ce este cel mai popular printre cumpărătorii B2B din România?
 
-## Impactul Incoterm-ului asupra prețului final și calculării costurilor
+DAP înseamnă Delivered at Place — Livrat la Destinație. Sub DAP, vânzătorul livrează mărfurile la destinația specificată de dvs. — depozitul, fabrica sau orice altă adresă indicată. Vânzătorul suportă toate costurile și riscurile până în momentul în care camionul ajunge la intrarea dvs.
 
-Costurile de transport și logistică variază semnificativ în funcție de Incoterm. La FOB din Bulgaria, transportul maritim la Rotterdam sau transport rutier în Europa Centrală costă în medie 40–60 EUR/tonă pentru uleiul de floarea-soarelui, iar asigurarea adaugă 2–3%. La CIF, vânzătorul preia aceste costuri și le transferă cumpărătorului prin majorarea prețului bazei — de obicei 5–8% peste preț FOB. La DAP, distanța până la destinație și accesibilitatea rutieră influențează substantial costul final — pentru România, diferența DAP vs. FOB este de doar 3–5% datorită distanțelor scurte.
+**Vânzătorul gestionează sub DAP:** producția, ambalarea, întregul transport de la fabrică la adresa dvs., asigurarea mărfii pe tot parcursul, toate documentele de tranzit, vămuirea la export.
 
-Calculul complet trebuie să includă și taxele vamale. Pentru comerț intra-UE (Bulgaria-România), vamele sunt zero, dar pentru exporturi în Turcia, Regno Unito sau țări terțe, tarifele pot adăuga 10–20% la valoare. Aleg
+**Cumpărătorul gestionează sub DAP:** vămuirea la import (în tranzacțiile în cadrul UE nu există taxe vamale), descărcarea mărfii la destinație.
+
+| DAP în detaliu              | Realitate pentru cumpărătorii din România                   |
+| --------------------------- | ----------------------------------------------------------- |
+| Prețul ofertei              | Cel mai mare — dar cu adevărat totul inclus                 |
+| Costuri suplimentare        | Doar descărcarea, adesea inclusă                            |
+| Costuri suplimentare tipice | Aproape zero                                                |
+| Transferul riscului         | La destinația specificată de dvs.                           |
+| Efort administrativ         | Minim                                                       |
+| Cel mai bun pentru          | Majoritatea cumpărătorilor B2B, IMM-uri, primii importatori |
+
+Timpii de livrare cu camionul din Varna, Bulgaria pentru destinații din România:
+
+- Varna → Constanța: 2–3 ore (Podul Prieteniei sau feribot Calafat–Vidin alternativ)
+- Varna → București: 4–5 ore (via A2/E81)
+- Varna → Ploiești: 5–6 ore
+- Varna → Brașov: 6–7 ore
+- Varna → Cluj-Napoca: 8–9 ore
+- Varna → Timișoara: 10–11 ore
+- Varna → Iași: 6–7 ore (via Galați)
+
+Un distribuitor din Brașov a comparat cele trei opțiuni pentru 24 tone de ulei rafinat. FOB Varna $1.120/t — adăugând transport Varna–Brașov €65/t, asigurare €12/t, agent vamal €10/t, taxe portuare €15/t — total FOB: ~$1.242/t. DAP Brașov: $1.270/t. Diferența era de doar $28 per tonă. Pentru această diferență, el primea marfa direct la depozit în 7 ore, fără nicio coordonare logistică. A ales DAP și continuă să comande lunar.
+
+## Cum se compară FOB, CIF și DAP în costul real total?
+
+Exemplu concret: 24 tone ulei de floarea-soarelui rafinat RBDW, livrat din Varna, Bulgaria la un depozit din București.
+
+| Element de cost               | FOB Varna    | CIF Rotterdam | DAP București |
+| ----------------------------- | ------------ | ------------- | ------------- |
+| Prețul produsului             | $1.120/t     | $1.210/t      | $1.245/t      |
+| Camion Varna–București        | €45/t        | —             | inclus        |
+| Taxe portuare (THC)           | €15/t        | €22/t         | —             |
+| Asigurare marfă               | €12/t        | inclusă       | inclusă       |
+| Agent vamal                   | €8/t         | €8/t          | —             |
+| Transport Rotterdam–București | —            | €78/t         | —             |
+| **Total pe tonă**             | **~$1.220**  | **~$1.378**   | **~$1.245**   |
+| **Total 24 tone**             | **~$29.280** | **~$33.072**  | **~$29.880**  |
+
+Concluzie clară: DAP București este semnificativ mai ieftin decât CIF Rotterdam și marfa ajunge direct la depozit în 4–5 ore. FOB este ușor mai ieftin decât DAP în acest exemplu — dar implică coordonarea unui camion, asigurare și agent vamal. Pentru $25/t diferență, DAP oferă zero efort administrativ.
+
+## Ce costuri ascunse surprind cel mai frecvent importatorii la primul import?
+
+**Costuri ascunse la FOB care sunt adesea neglijate:**
+
+- Taxa minimă a expeditorului pentru partide mici sub 10 tone: pauschal €300–500 per expediere
+- Suprataxă carburant (BAF): €8–15 per tonă la transport maritim, variabil zilnic
+- Taxe de manipulare în portul de origine: €12–20 per tonă
+- Taxe de staționare (demurrage) dacă încărcarea întârzie: €500–1.500 per zi
+- Documentație suplimentară dacă vânzătorul nu o include în preț
+
+**Costuri ascunse la CIF care surprind:**
+
+- Terminal Handling Charge (THC) la portul de destinație: €10–22 per tonă
+- Taxe de depozitare dacă nu puteți descărca imediat: €40–150 per zi
+- Transport local de la port la depozit: €35–80 per tonă
+- Agent vamal la destinație: €150–400 sumă fixă per expediere
+- Asigurare suplimentară dacă valoarea încărcăturii depășește minimul inclus în CIF
+
+**Costuri ascunse la DAP:**
+
+- Practic niciuna — acesta este principalul avantaj al DAP
+- Descărcarea: de obicei inclusă, maximum €100–200 sumă fixă
+- Suprataxă pentru fereastră de timp fixă dacă aveți constrângeri stricte de program
+
+Pentru IMM-urile românești fără departament logistic dedicat, DAP înseamnă în primul rând predictibilitate bugetară. Prețul fix DAP intră direct în calculul de cost, fără ajustări ulterioare.
+
+## Ce documentație este obligatorie pentru comerțul cu alimente?
+
+Indiferent de Incoterm-ul ales, UB Market livrează cu fiecare expediere:
+
+- **Certificat de Analiză (CoA)** de la laborator acreditat terț — profil acizi grași, număr de peroxid, acizi grași liberi, pesticide, metale grele
+- **Certificat de Origine EUR.1** — permite tratament vamal preferențial în cadrul UE
+- **Certificat Fitosanitar** — obligatoriu pentru produse alimentare de origine vegetală
+- **Factură comercială și listă de colete** — în română la cerere
+- **Declarație de Conformitate** conform Regulamentului (UE) nr. 1169/2011
+- **Declarație Non-GMO** — la cerere, relevant pentru magazine naturiste și bio
+- **Certificat ISO 22000 și HACCP** al fabricii producătoare
+- **Certificat Halal** — la cerere
+
+Toate documentele respectă cerințele ANSVSA (Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor) și reglementările europene în vigoare. UB Market LTD este înregistrată în Bulgaria — stat membru UE — și toate produsele circulă sub regimul liberei circulații a mărfurilor în interiorul Uniunii Europene.
+
+## Ce Incoterm aleg clienții UB Market din România în practică?
+
+Pe baza comenzilor procesate în 2025–2026 pentru clienții din România:
+
+- **DAP: 71%** din comenzile din România — distribuitori, retaileri, furnizori HoReCa
+- **CIF: 18%** — importatori cu acces la portul Constanța sau Galați
+- **FOB: 11%** — producători mari cu contracte logistice proprii
+
+Tendința este puternic orientată spre DAP. De la extinderea autostrăzii A2 și îmbunătățirea conexiunilor rutiere Bulgaria–România, un camion din Varna poate ajunge în București în 4–5 ore și în Cluj în 8–9 ore. Viteza și simplitatea au convins majoritatea importatorilor români că DAP este soluția optimă pentru comenzi sub 100 tone.
+
+## Cum solicitați Incoterm-ul corect în cererea dvs. de ofertă?
+
+Când contactați UB Market sau orice alt furnizor de alimente pentru o ofertă, fiți specifici de la bun început. O solicitare vagă de "preț ulei de floarea-soarelui" va genera implicit o ofertă FOB — care arată mai ieftină dar vine cu costuri ascunse.
+
+Includeți întotdeauna aceste informații în solicitarea dvs.:
+
+1. **Produs și calitate:** RBDW Rafinat / High-Oleic / Brut
+2. **Cantitate:** tone sau litri exacți
+3. **Condiție de livrare:** DAP [orașul dvs.], sau CIF [portul], sau FOB [portul de origine]
+4. **Calendar:** data de livrare dorită sau intervalul de timp
+5. **Ambalare:** vrac flexitank / IBC 1.000L / sticle PET + dimensiune
+6. **Cerințe de certificare:** ISO 22000, Non-GMO, Halal, Bio
+
+UB Market răspunde la toate solicitările B2B în 24 de ore cu o ofertă detaliată care include toate opțiunile de Incoterm, prețurile actuale și o listă completă de documentație. La cerere, pregătim un tabel comparativ FOB vs. CIF vs. DAP pentru dimensiunea dvs. specifică de comandă și destinația de livrare.
+
+---
+
+Gata să discutați cele mai bune condiții comerciale pentru comanda dvs.? **[Solicitați o ofertă](/ro/quote)** — indicați-ne locația de livrare și vă vom recomanda Incoterm-ul cel mai avantajos pentru volumul dvs.
+
+_Surse: Regulile ICC Incoterms 2020, date logistice UB Market 2025–2026, indici europeni ai tarifelor de transport Q1 2026._

@@ -1,165 +1,178 @@
 ---
-title: "Ayçiçek Yağı Ambalaj Rehberi — PET Şişelerden Tankerlere"
+title: "Ayçiçek Yağı Ambalaj Rehberi — B2B Alıcılar 2026'da Hangi Formatı Seçmeli?"
+description: "Toptan alıcılar için kapsamlı ayçiçek yağı ambalaj rehberi — PET şişeler, IBC konteynerler, flexitanklar ve cisternler maliyet, raf ömrü, lojistik ve en iyi kullanım durumuna göre karşılaştırıldı."
 date: "2026-04-01"
-description: "Toptan ayçiçek yağı ticaretinde ambalaj seçenekleri rehberi — PET şişeler, IBC konteynerler, flexitanklar ve tankerler."
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
-readingTime: 8
-tags: ["ambalaj", "PET", "flexitank", "lojistik"]
+readingTime: 9
+ogImage: "/images/blog/sunflower-oil-packaging-guide/og.jpg"
 ---
-## Ambalaj Seçimi Neden Önemli
 
-Doğru ambalaj, toplam maliyeti, raf ömrünü, lojistiği ve hedef pazarınızı etkiler. Doğru seçim her partide binlerce dolar tasarruf sağlayabilir.
+**TL;DR:** Ayçiçek yağı ambalajları 1L PET şişelerden (en yüksek maliyet, tüketime hazır) dökme cistern teslimatına (en düşük maliyet, depolama tankı gerektirir) kadar uzanır. Çoğu Avrupalı B2B alıcı için pratik seçim 10–18L bidonlar (HoReCa), IBC 1.000L konteynerler (gıda üreticileri) ve flexitanklar 20–24 ton (toptan distribütörler) arasındadır. Ambalaj kararı litro başına maliyetinizi, raf ömrünü, lojistik gereksinimleri ve son pazarı doğrudan etkiler.
 
-## Ambalaj Seçenekleri
+---
 
-### PET Şişeler (1L, 3L, 5L)
+### Hızlı Cevap: Ayçiçek Yağı Ambalaj Fiyatları 2026
 
-Standart perakende formatı. Tüketicilerin raflarda görmeye alışkın olduğu şeffaf plastik şişeler.
+| Format                                 | Hacim        | Fiyat (EUR)     | En iyi kullanım     |
+| -------------------------------------- | ------------ | --------------- | ------------------- |
+| Rafine edilmemiş ayçiçek yağı 0,5L PET | Palet başına | €1,50/şişe      | Perakende, test     |
+| High-Oleic Ayçiçek Yağı 10L PET        | Palet başına | **€23,40/adet** | HoReCa kızartma     |
+| Derin Kızartma Ayçiçek Yağı 10L PET    | Palet başına | **€21,00/adet** | HoReCa, restoranlar |
+| Derin Kızartma High-Oleic 10L PET      | Palet başına | **€25,80/adet** | Premium kızartma    |
+| Tüm Yağlar 20L bidon / Tanker          | Dökme        | Talep üzerine   | Toptan, fabrikalar  |
+| IBC Konteyner 1.000L                   | 1–20 adet    | Talep üzerine   | Gıda üreticileri    |
 
-**Kime uygun:** Perakende zincirleri, küçük HORECA, online mağazalar
-**Minimum sipariş:** 1 palet (~800-1.200 şişe)
-**Ek maliyet:** +$200-250/ton
-**Raf ömrü:** 12-18 ay
+---
 
-### PET Şişeler (10L, 18L)
+## Ambalaj seçimi neden yağın fiyatı kadar önemlidir?
 
-Yeme-içme işletmeleri için büyük format.
+İstanbul'dan bir gıda distribütörü IBC konteynerlerde 5 ton ayçiçek yağı için test siparişi verdi. Üç ay sonra düzenli bir sözleşme için geri döndü — ama restoran müşterileri onları tercih ettiği için 10L bidonlara geçmek istedi. Geçiş ton başına €120 daha fazla maliyete neden oldu. Planlanan 200 tonluk yıllık hacminde bu, ilk siparişi vermeden önce müşterilerinin gerçek kullanım gereksinimlerini düşünmediği için yılda €24.000 gereksiz fazladan demekti.
 
-**Kime uygun:** Restoranlar, yemekhaneler, küçük üreticiler
-**Ek maliyet:** +$100-150/ton
+Ambalaj seçimi bir ayrıntı değildir. Toplam maliyetinizi, müşterilerinizin kullanım gereksinimlerini, ürünün ne kadar süre sabit kalacağını ve boşaltma için özel ekipmana ihtiyacınız olup olmadığını belirler. Yanlış karar gerçek paraya mal olur — ya gereksiz ambalaj primleriyle ya da aşağı akışta operasyonel sürtünmeyle.
 
-### IBC Konteynerler (1.000L)
+Bu rehber, UB Market'in ayçiçek yağı için sunduğu her ambalaj formatını dürüst maliyet karşılaştırmaları ve hangi formatın hangi iş modeline uyduğuna dair rehberlik ile ele almaktadır.
 
-Metal çerçeve içinde plastik tank. Çok kullanımlık.
+Türk alıcılar için UB Market, Varna'dan İstanbul'a yalnızca 5–6 saatlik karayolu mesafesi ile coğrafi önemli bir avantaja sahiptir. Bu, hem CIF İstanbul hem de DAP seçeneklerinin rekabetçi teslimat süreleriyle sunulabildiği anlamına gelir. Ayrıca Türkiye-AB Gümrük Birliği kapsamında Bulgaristan'dan ithal edilen ürünler bazı tarife avantajlarından yararlanabilmektedir.
 
-**Kime uygun:** Orta hacimler, gıda üretim tesisleri
-**Minimum sipariş:** 1-20 konteyner
-**Ek maliyet:** +$50-80/ton
+## PET şişeler nedir ve ne zaman seçilmelidir?
 
-### Flexitank (20-24 ton)
+PET (polietilen tereftalat) şişeler, tüketiciye yönelik perakende için standart ayçiçek yağı formatıdır. 1L ve 5L boyutlar son tüketicilerin süpermarket raflarında bulduğu şeydir; 10L ve 18L formatlar profesyonel mutfaklarda ve gıda hizmetlerinde kullanılır.
 
-Standart deniz konteynerlerinin içine yerleştirilen tek kullanımlık esnek tanklar. Uluslararası ticaret için en popüler format.
+**0,5L ve 1L PET şişeler**
 
-**Kime uygun:** Büyük toptan, uluslararası ticaret
-**Minimum sipariş:** 20-24 ton
-**Ek maliyet:** +$20-30/ton
+Yalnızca perakende veya küçük ölçekli HoReCa uygulamaları için. Fiyat: 0,5L şişe başına €1,50 — küçük teslimatlar için katalogumuzda en uygun giriş noktası. Bir palet yaklaşık 1.200–1.800 adet 0,5L kapasitesindedir.
 
-### Tanker (20-40 ton)
+0,5L/1L şişe seçme zamanı:
 
-Büyük hacim doğrudan teslimat için özel tankerler.
+- Tüketicilere yönelik perakende distribütörüsünüz — süpermarketler, bakkallar
+- Tüketici satışı için özel markalı bir marka oluşturuyorsunuz
+- Ölçeklendirmeden önce küçük miktarlarla yeni bir pazarı test ediyorsunuz
 
-**Kime uygun:** Büyük alıcılar, rafineriler, gıda fabrikaları
-**Ek maliyet:** Baz fiyat (en düşük)
+**5L PET şişeler**
 
-## Maliyet Karşılaştırması
+Perakende ile yemek hizmetleri arasındaki pratik orta format. Otellerin kahvaltı operasyonları, küçük restoranlar ve Türkiye'deki özel gıda perakendecileri için popüler.
 
-| Format | Hacim | Ek Maliyet | Litre Başı Fiyat |
-|--------|-------|-----------|-----------------|
-| PET 1L | Şişe | +$200-250/ton | En yüksek |
-| PET 5L | Şişe | +$150-200/ton | Yüksek |
-| PET 10-18L | Şişe | +$100-150/ton | Orta-yüksek |
-| IBC 1.000L | 1-20 adet | +$50-80/ton | Orta |
-| Flexitank | 20-24 ton | +$20-30/ton | Düşük |
-| Tanker | 20-40 ton | Baz fiyat | En düşük |
+**10L ve 18L PET bidonlar**
 
-## Ambalaj Seçimi Yaparken Dikkate Alınması Gereken Faktörler
+Avrupa'daki profesyonel mutfaklar için baskın format. 10L bidon özel ekipman gerektirmeden kolayca kullanılabilir — mutfak çalışanı kaldırır, döker ve boşaldığında atar. Pompa gerekmez. Geri lojistik yok.
 
-Doğru ambalaj seçimi, sadece maliyete değil, aynı zamanda işletmenizin hedef pazarına, depolama kapasitesine ve lojistik imkanlarına bağlıdır. Avrupa pazarında, özellikle AB ülkelerinde, gıda ürünleri için kesin düzenlemeler uygulanmaktadır.
+UB Market'ten 10L PET formatlar için güncel fiyatlar (Mart 2026 güncellendi):
 
-**Hedef Pazarın Gereksinimleri**
+- **High-Oleic Ayçiçek Yağı 10L → €23,40/adet**
+- **Derin Kızartma Ayçiçek Yağı 10L → €21,00/adet**
+- **Derin Kızartma High-Oleic Ayçiçek Yağı 10L → €25,80/adet**
 
-Perakende ürünler için tüketiciler, kolay kullanılabilir şişe boyutlarını tercih ederler. Öte yandan, endüstriyel gıda üreticileri daha büyük hacimleri ve maliyeti düşük seçenekleri tercih etmektedir. Bulgaryamedya merkezli olarak, biz Avrupa'daki çeşitli pazarların talep modellerini derinlemesine biliriz.
+Bu üç format, restoran ve otel mutfakları için farklı ihtiyaçlara hitap eder. Standart derin kızartma yağı (€21,00) en ekonomik seçenektir; high-oleic seçenek (€23,40) daha uzun kızartma döngüsü sunar ve toplam maliyeti düşürür; derin kızartma high-oleic (€25,80) en uzun ömürlü premium seçenektir.
 
-**Depolama ve Lojistik Kapasitesi**
+10–18L bidon seçme zamanı:
 
-PET şişeler ve IBC konteynerler, depolama alanı açısından farklı gereksinimler sunar. Küçük işletmeler, standart şişelerin paletler halinde yığılabilmesinden yararlanabilir. Daha büyük alıcılar için, flexitank ve tanker seçenekleri depo alanını optimize eder. Lojistik maliyeti hesaplanırken, ürünün denemeden geçeceği yolun uzunluğunu ve taşıma şeklini göz önünde bulundurmak önemlidir.
+- Restoranlar, oteller, catering şirketleri veya kurumsal mutfaklar tedarik ediyorsunuz
+- Müşterilerinizin kalıcı yağ depolama altyapısı yok
+- Kolay stok rotasyonuna izin veren bir format istiyorsunuz
 
-**AB Düzenlemeleri ve Uygunluk**
+**PET formatlar için raf ömrü:** Standart rafine RBDW için 12–18 ay. 20°C altında, doğrudan güneş ışığından uzakta saklayın. Koyu renkli PET UV koruması sağlar; şeffaf şişeler raf ömrünü %10–15 azaltır. Türkiye'nin sıcak yazları göz önünde bulundurulduğunda, depolama sıcaklıklarını kontrol altında tutmak özellikle önemlidir.
 
-Avrupa Birliği'nde gıda ambalajlaması, 1935/2004 sayılı Direktif kapsamında kesin kurallara tabidir. PET şişeler, uluslararası gıda güvenliği standartlarını karşılamalıdır. UB Market olarak, tüm ambalajlarımız bu gereksinimleri tam olarak yerine getirmekte ve sertifikasyonlar hazır bulunmaktadır.
+## IBC konteynerler nedir ve kim kullanır?
 
-## Farklı Ambalaj Türlerinin Avantaj ve Dezavantajları
+IBC (Intermediate Bulk Container) konteynerler, bir çelik kafese monte edilmiş 1.000 litrelik yeniden kullanılabilir plastik tanklardır. Gıda üreticileri, büyük HoReCa distribütörleri ve sürekli üretim süreçlerinde ayçiçek yağı tüketen endüstriyel alıcılar için çalışma formatıdır.
 
-**PET Şişeler**
+**Pratik avantajlar:**
 
-Avantajlar: Görünümlü, tüketiciye çekici, tek şişelik satışa uygun, kısmi miktarlar halinde siparişe açık.
+- Standart boyut, forklift erişimi olan her Avrupa deposuna sığar
+- Çelik kafes, çok modlu taşımacılık sırasında işleme hasarına karşı korur
+- İki kat üst üste istiflenebilir, depo yoğunluğunu maksimize eder
+- Gıda üretiminde yerinde temizleme protokolleri iyi yerleşmiştir
 
-Dezavantajlar: Yüksek ambalaj maliyeti, paletleme ve nakliye maliyeti, plastik atık problemi.
+**Dökme üzerine ek maliyet:** $50–80/ton — kapalı sistem depolama ve dozlama koruması sağlarken herhangi bir şişelenmiş formattan önemli ölçüde daha düşük.
 
-**IBC Konteynerler**
+**İade lojistiği:** Konteynerler yeniden kullanılabilir varlıklardır — geri dönmeleri gerekir. Çoğu alıcı iade lojistiğini bir sonraki giden kamyonda düzenler. İade döngüleri için planlamanızda 2–3 hafta hesaba katın.
 
-Avantajlar: Çok kullanımlık, uzun süreli kullanılabilme, orta maliyet, depo açısından yer tasarrufu.
+**IBC'de raf ömrü:** Mühürlü, uygun şekilde temizlenmiş konteynerlerde rafine RBDW için 12 ay.
 
-Dezavantajler: Kirlilik veya hasar riskleri, konteyner iade gereksinimleri, daha yüksek yönetim maliyeti.
+IBC seçme zamanı:
 
-**Flexitank**
+- Yağı bileşen olarak kullanan gıda üreticisisiniz (mayonez, soslar, fırın ürünleri)
+- Forklift erişiminiz ve uygun depolama alanınız var
+- Çeyrek başına 5–100 ton tüketiyorsunuz
+- HACCP uyumlu kapalı sistem dozlamayı destekleyen format istiyorsunuz
 
-Avantajlar: Uluslararası ticaret için ideal, en düşük ton başına maliyet, hızlı nakliye, konteyner verimliliği.
+## Flexitank nedir ve neden en popüler toptan format?
 
-Dezavantajlar: Minimum sipariş hacmi (20-24 ton), bir kez kullanım, uygun teçhizat gereksinimleri.
+Flexitank, standart 20 fit'lik bir nakliye konteynerinin içine yerleştirilmiş tek kullanımlık polietilen bir torbadır. Ayçiçek yağı ile doldurulduğunda, 20–24 ton — yaklaşık bir kamyon yükü kadar — mühürlü, gıda onaylı bir ortamda kapasitesine ulaşır.
 
-**Tanker Taşıması**
+Flexitanklar, bitkisel yağlarda uluslararası dökme ticaret için standart formattır. Ayçiçek yağının Bulgaristan ve Ukrayna'dan Avrupa, Orta Doğu ve Asya pazarlarına rekabetçi biçimde taşınmasını sağlayan şey bunlardır.
 
-Avantajlar: En düşük birim maliyet, kalite kontrol kolay, direkt teslimat, büyük partiler için ideal.
+**Flexitankların maliyette neden kazandığı:**
 
-Dezavantajlar: Çok büyük minimum sipariş, özel nakliye altyapısı gerekli, yalnızca toptan alıcılar için uygun.
+- Ambalaj iade lojistiği yok — torba kullanımdan sonra imha edilir
+- Standart ISO nakliye konteynerine sığar — taşıma için özel ekipman yok
+- Varna tesisimizde standart pompa bağlantısıyla yükleme
+- Deponuzda temel bir pompa ve hortumla boşaltma — her alıcı erişebilir
 
-## Sezonsal Talep ve Fiyat Dalgalanmaları
+**Temel FOB üzerine ek maliyet:** $20–30/ton — uygun ürün koruması sağlayan herhangi bir formattaki en düşük ambalaj ek maliyeti. Rafine RBDW için $1.100–1.200/ton'luk FOB Varna fiyatımıza $20–30 flexitank maliyeti eklendiğinde, 20+ ton alıcıları için mevcut en maliyet etkin seçeneklerden biri elde edilir.
 
-Ayçiçek yağı pazarı mevsimsel dalgalanmalara tabidir. Hasat sonrası (Eylül-Kasım) fiyatlar tipik olarak daha düşüktür, çünkü arz yoğundur. Kış aylarında ise fiyatlar yükselme eğilimi gösterir. Akıllı alıcılar, hasat sezonunda flexitank veya tanker siparişleriyle yıl boyunca gereksinimlerini karşılayan depolama ve stok yapmaları tavsiye edilmektedir.
+**Flexitanktaki raf ömrü:** 6–9 ay — tek duvarlı polietilen torba daha az bariyer koruma sunduğundan IBC veya şişelerden daha kısa. Flexitank sipariş eden çoğu alıcı için ürün 3–4 ay içinde tüketilir, bu da bu raf ömrünü tamamen işlevsel kılar.
 
-## Ambalaj Seçimiyle İlgili Sık Sorulan Sorular
+İstanbul'dan bir gıda toptan distribütörü IBC'den flexitanka geçişini şöyle anlattı: "İlk flexitank'ı boşalttığımızda karmaşık görünüyordu. Üçüncü teslimattta rutin oldu. Ton başına ambalaj maliyetimizi €65 azalttık ve her IBC'yi ayrı yönetmek yerine konteyner tamamen boşalana kadar sahamızda kaldığı için depo işlem süremizi azalttık. Varna'dan İstanbul'a bir haftadan kısa sürede kapıya teslim alıyoruz."
 
-**Hangisi daha uygun: IBC mi yoksa Flexitank mi?**
+Flexitank seçme zamanı:
 
-Bu, ticari hacminize ve lojistik altyapınıza bağlıdır. IBC konteynerler 1-20 ton arasında siparişler için idealdir ve tekrar kullanılabilir. Flexitank, 20 tonu aşan partiler için daha ekonomiktir ve uluslararası nakliye için tasarlanmıştır.
+- Teslimat başına minimum siparişiniz 20+ ton
+- Boşaltma için temel bir pompa kurabiliyorsunuz
+- Dökme veya yarı dökme satış yapan toptan distribütörüsünüz
+- Karadeniz menşeinden ithalat yapıyorsunuz ve en maliyet etkin deniz/kara nakliye seçeneğini istiyorsunuz
+- Varna–İstanbul 5–6 saatte karayoluyla erişilebiliyor; CIF İstanbul da mevcut
 
-**PET şişeler için minimum sipariş kaç şişedir?**
+## Dökme cistern teslimatı nedir ve kim ihtiyaç duyar?
 
-Minimum sipariş genellikle 1 palet (yaklaşık 800-1.200 şişe) olarak belirlenmiştir. Ancak, daha büyük siparişlerde (10-20 palet veya daha fazla) ton başına maliyet önemli ölçüde azalabilir.
+Dökme cisternler, 20–40 ton sıvı yağı Varna tesisimizden doğrudan depolama tanklarınıza taşıyan özel gıda sınıfı karayolu tankerleridir. Ara ambalaj yok — yağ doğrudan bir tanktan diğerine geçer.
 
-**Konteyner döngüsü ne kadar sürer?**
+Bu, litro başına maliyet bazında en düşük maliyetli seçenektir ve kalıcı paslanmaz çelik depolama tanklarına, giriş borularına, bir pompaya ve dökme sıvı teslimatlarını almak ve belgelemek için prosedürlere sahip olmanızı gerektirir.
 
-IBC konteynerler, genellikle 6-8 hafta içinde iade edilmesi beklenir. Uluslararası gönderimlerde bu süre 8-12 haftaya çıkabilir. Iade etmeme durumunda ek taşıyıcı maliyeti söz konusudur.
+**Cistern teslimatı kullanan tipik alıcılar:**
 
-## Lojistik Planlama ve Taşıma Seçenekleri
+- Dahili rafinasyon için ham ayçiçek yağı satın alan rafineriler
+- Endüstriyel margarin ve shortening üreticileri
+- Yılda 50–500+ ton kullanan büyük ölçekli gıda işleyiciler
+- Biyoyakıt üreticileri
 
-Doğru ambalaj seçimi, taşıma yöntemiyle yakından ilişkilidir. Kara taşımacılığı, deniz taşımacılığı, hava kargo ve demiryolu gibi farklı seçenekler vardır. Bulgaryamedya'daki UB Market, Avrupa çapında güvenilir lojistik ortaklarıyla çalışmaktadır.
+**Teslim süresi:** 7–14 gün koordinasyon gerektirir. Tankerların ürünler arasında katı gıda sınıfı temizlik protokolleri vardır.
 
-**Kara Taşımacılığı (Karayolu)**
+**Önerilmez:** kalıcı sıvı depolama altyapısı olmayan alıcılar için.
 
-Avrupa içinde kısa mesafeler için en uygun seçenek. PET şişeler ve IBC konteynerler kara taşımacılığına uygundur. Transit süresi genellikle 2-7 gündür, coğrafi konuma bağlı olarak değişir.
+## Özel etiket ve Star Food markalı formatlar nasıl çalışır?
 
-**Deniz Taşımacılığı**
+**Star Food markalı şişeler** — Tescilli markamız, İngilizce, Bulgarca, Yunanca, Lehçe ve Ukraynacada etiketler. Tasarım veya kurulum maliyeti yok. Tüm PET şişe formatları için mevcut. Yeni pazar test eden alıcılar için en hızlı rafa hazır ürün yolu.
 
-Daha uzak pazarlara ve ülkelere açık denizde taşıma, flexitank ve tanker seçenekleri için ideal. Maliyeti düşük olmakla birlikte, transit süresi 15-30 gün arasında değişir. Türkiye, Rusya, Çin ve diğer uzak pazarlara gönderimler için deniz taşımacılığı tercih edilir.
+**Özel etiket** — Bizim yağımızda sizin markanız. Özelliklerinize göre tedarik eder, işler, doldurur, etiketler ve paletliyoruz. Minimum sipariş: genellikle SKU başına bir palet. Teslimat süresi: ilk sipariş için 2–3 hafta, tekrar siparişler için 1 hafta. Türk pazarı için Helal sertifikalı ürünler de talep üzerine temin edilebilir.
 
-**Kombine Taşıma (Multimodal)**
+**Etiketsiz dökme** — IBC, flexitank veya cistern teslimatı etiketsiz. Son ambalajlamayı kendi tesisinizdeyapıyorsunuz. En hızlı teslimat, en düşük maliyet. Tam ürün belgesi — CoA, Menşe Belgesi ve fitosanitere sertifikası — dahil.
 
-Karayolu ve deniz taşımacılığının kombinasyonu. Bulgaryamedya'daki UB Market, İstanbul ve diğer Türkiye limanlarına via karayolu, sonra deniz taşımacılığı seçeneğini sunmaktadır.
+## Ayçiçek yağı ambalajı için hangi AB düzenlemeleri geçerlidir?
 
-## Kalite Kontrol ve Ambalaj Uygunluğu
+**AB Yönetmeliği 1169/2011 — Gıda etiketlemesi**
+Etiketlenmiş her ayçiçek yağı ürününde zorunlu unsurlar: ürün adı ("Rafine Ayçiçek Yağı"), net miktar, son kullanma tarihi, saklama talimatları, sorumlu operatörün adı ve adresi, menşe ülke ve 100ml başına beslenme beyanı.
 
-Ayçiçek yağı, ışığa ve oksidasyona duyarlı bir üründür. Seçilen ambalaj, ürünün kalitesini koruyabilmelidir.
+Türkiye'nin AB'den farklı kendi etiketleme gereksinimleri bulunmaktadır. Türkiye pazarına yönelik özel etiket ürünler için bize başvurduğunuzda, Türk Gıda, Tarım ve Hayvancılık Bakanlığı'nın gereksinimlerini karşılayan etiket tasarımı konusunda rehberlik sunabiliriz.
 
-**PET Şişelerin Kalite Özellikleri**
+**AB Yönetmeliği 10/2011 — Gıdayla temas eden plastikler**
+Tüm PET şişeler, IBC iç yüzeyleri ve flexitank torbaları, mineral yağlar, plastikleştiriciler ve diğer kirleticilerin gıdalara göç sınırlarına uymalıdır. Ambalaj tedarikçilerimiz AB akredite test sertifikasyonları tutar.
 
-- UV koruma özellikleri
-- Oksijen bariyeri kapasitesi
-- Nem direnci
-- Raf ömrü uzatıcı özellikleri
+## İş modeliniz için doğru ambalaj formatını nasıl seçersiniz?
 
-**IBC ve Flexitank Kalitesi**
+**Perakende distribütörü → PET şişeler 1L/5L seçin**, Star Food veya özel etiket. Süpermarket müşterileriniz bu formatı bekler. Raf ömrü ve tüketici kullanımı bu kullanım durumu için optimize edilmiştir.
 
-- İç yüzey temizliği ve uygunluğu
-- Sızıntı önleyici kapaklar
-- Plastik kalitesi kontrol edilmişliğiniz
+**Restoran ve oteller tedarik ediyorsunuz → 10L veya 18L bidon seçin**. Müşterilerinizin özel ekipmana ihtiyacı yok. Fiyatlarımız: Derin Kızartma Ayçiçek Yağı €21,00 · High-Oleic Ayçiçek Yağı €23,40 · Derin Kızartma High-Oleic €25,80 per 10L. HoReCa katalogumuzda en çok talep edilen formatlar; CIF İstanbul veya DAP teslimat da mümkün.
 
-UB Market, tüm ambalaj tedarikçileriyle sıkı kalite kontrol sözleşmeleri yapmıştır. Her sipariş öncesi numune testleri yapılmaktadır.
+**Gıda üreticisi → IBC 1.000L seçin**. Kapalı sistem dozlama, HACCP uyumlu, herhangi bir şişelenmiş formattan daha düşük maliyet. İade lojistiği düzenli tedarik ilişkileri için yönetilebilir.
 
-## Çevresel Etki ve Sürdürülebilirlik
+**20+ ton ithal eden toptan distribütör → flexitank seçin**. En düşük ambalaj maliyeti, Varna'dan kamyon veya deniz taşımacılığı için en maliyet etkin dökme format. Boşaltma için pompa gerektirir. CIF İstanbul da mevcut.
 
-Avrupa'daki gıda işletmeleri, giderek daha fazla çevresel sorumluluğu önemsemektedir. PET plastik, geri dönüştürülebilir bir malzeme olmasına rağmen, üretimi karbon yoğundur. IBC konteynerler, çok kullanımlı olduğu için daha sürdürülebilir bir seçimdir. Flexitank ve tankerler ise tek kullanım olsa da, daha az ambalaj atığı üretmektedir.
+**Tank deponuz var → dökme cistern seçin**. Mutlak en düşük maliyet. Yalnızca altyapınız varsa uygulanabilir.
 
-UB Market, sürdürülebilir ticari uygulamalara bağlıdır ve müşterilerine çevresel etkisi düşük ambalaj seçenekleri sunmaya çalışmaktadır.
+---
+
+Sipariş vermeye hazır mısınız? **[Teklif isteyin](/tr/quote)** — ambalaj tercihinizi, hacminizi ve teslimat adresinizi bildirin; belirli formatınız için güncel fiyatlarla 24 saat içinde yanıt verelim.
+
+_Kaynaklar: AB Yönetmeliği 1169/2011, AB Yönetmeliği 10/2011, UB Market ambalaj verileri Q1 2026, gıdayla temas eden maddeler için EFSA kılavuzları._

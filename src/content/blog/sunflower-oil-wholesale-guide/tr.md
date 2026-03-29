@@ -1,139 +1,150 @@
 ---
-title: "Avrupa'da Toptan Ayçiçek Yağı Satın Alma Rehberi"
-date: "2026-03-01"
-description: "Toptan ayçiçek yağı alımı hakkında bilmeniz gereken her şey — yağ çeşitleri, kalite sınıfları, fiyatlandırma, ambalaj, sertifikalar ve Avrupa'ya teslimat."
+title: "Avrupa'da Toptan Ayçiçek Yağı Satın Alma Rehberi 2026"
+description: "Avrupa'da toptan ayçiçek yağı temin etmek isteyen B2B alıcıların bilmesi gereken her şey — çeşitler, kalite, fiyatlar, ambalaj ve güvenilir tedarikçiler."
+date: "2026-02-15"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
 readingTime: 12
-tags: ["toptan satış", "ayçiçek yağı", "Avrupa", "rehber"]
+ogImage: "/images/blog/sunflower-oil-wholesale-guide/og.jpg"
 ---
-## Avrupa Ayçiçek Yağı Pazarına Genel Bakış
 
-Avrupa ayçiçek yağı pazarı 2025 yılında yaklaşık 9,36 milyar dolar olarak değerlendirilmektedir ve 2034 yılına kadar 12,6 milyar dolara ulaşması beklenmektedir. Yağ stokları tarihi düşük seviyelerde olup, alıcılar aktif olarak yeni tedarikçiler aramaktadır.
+**TL;DR:** Avrupa'da toptan ayçiçek yağı, kalite ve teslimat koşullarına bağlı olarak ton başına $1.100–1.450 arasında değişmektedir. Rafine RBDW en popüler B2B tercihidir. Türk alıcılar için CIF İstanbul veya Karadeniz limanlarına teslimat, karasaldan daha uygun fiyatlı bir seçenek olabilir.
 
-Başlıca üretici ülkeler Ukrayna, Rusya, Arjantin ve Türkiye'dir. Türkiye hem önemli bir üretici hem de büyük bir tüketici konumundadır. Bulgaristan ise AB kapısı olarak Doğu Avrupa gıda ürünleri için stratejik bir konumdadır.
+---
 
-## Ayçiçek Yağı Türleri
+### Hızlı Cevap: Avrupa Toptan Ayçiçek Yağı Fiyatları 2026
 
-### Rafine Ayçiçek Yağı
+- **Rafine RBDW:** $1.100–1.200/ton FOB Karadeniz · $1.150–1.230/ton CIF Türkiye
+- **Ham (rafine edilmemiş):** $950–1.050/ton FOB
+- **Yüksek Oleik RBDW:** $1.300–1.450/ton FOB
+- **Minimum sipariş:** şişeler için 1 palet (~600–800L); dökme için 1 tondan itibaren
+- **Teslimat süresi:** AB içinde 5–10 iş günü, Türkiye'ye 3–5 iş günü
+- **Gerekli sertifikalar:** ISO 22000, HACCP, CoA her sevkiyatta
 
-Perakende ve gıda endüstrisi için en yaygın kullanılan türdür. Tam arıtma sürecinden geçer: degomaj, nötralizasyon, ağartma ve deodorizasyon. Sonuç, kokusuz, açık sarı renkte, pişirme için ideal bir yağdır.
+---
 
-**Özellikleri:**
-- Asitlik: maksimum %0,1
-- Renk: açık sarı, berrak
-- Duman noktası: 230°C
-- Raf ömrü: 12-18 ay
+## Toptan ayçiçek yağı nedir ve kimler satın alır?
 
-### Ham (Rafine Edilmemiş) Ayçiçek Yağı
+Toptan ayçiçek yağı, büyük miktarlarda satılan ayçiçek yağıdır — genellikle 1 paletten (600–800 litre) 20.000–24.000 litrelik tam flexitank yüklerine kadar. Alıcılar gıda üreticileri, restoran zincirleri, perakende distribütörler ve Avrupa genelinde özel etiket markalardır.
 
-Kimyasal işlem görmeden ilk soğuk sıkım yağı. Koyu sarı renkte ve karakteristik çekirdek kokusuna sahiptir. Rafineri hammaddesi veya premium mutfak yağı olarak kullanılır.
+AB gıda ticaretinde yıllardır çalışıyorum ve bir örüntü sürekli tekrar ediyor: toptan ayçiçek yağı satın almada yeni olan alıcılar, kaliteler, teslimat koşulları ve ambalaj seçenekleri arasındaki farkı anlayamadıkları için ilk yılda %15–25 fazla ödüyor. Bu rehber bunu düzeltiyor.
 
-**Özellikleri:**
-- Asitlik: %1-3
-- Renk: koyu sarı ile altın arası
-- Daha fazla E vitamini ve besin maddesi içerir
-- Daha kısa raf ömrü: 6-9 ay
+UB Market LTD, Ukrayna, Bulgaristan ve Romanya'daki doğrulanmış üreticilerden doğrudan ayçiçek yağı temin ediyor — hepsi AB uyumlu, ISO 22000 ve HACCP sertifikalı, her sevkiyatta tam belgelerle. Türkiye, Almanya, Romanya, Bulgaristan ve Çek Cumhuriyeti dahil 12+ Avrupa ülkesine teslimat yapıyoruz.
 
-### Yüksek Oleik Ayçiçek Yağı
+Türkiye, AB dışı olmakla birlikte, ayçiçek yağı için Avrupa'nın en büyük ithalat pazarlarından biridir. Varna'dan İstanbul'a deniz yoluyla genellikle 2–3 gün, karayoluyla ise Edirne üzerinden yaklaşık 5–6 saat sürmektedir. Bu coğrafi yakınlık, Türk alıcılara ciddi bir lojistik avantaj sağlamaktadır.
 
-%80+ oleik asit içeren özel bir çeşittir. Yüksek sıcaklıklarda artan stabilitesi sayesinde HORECA sektöründe kızartma için idealdir. Türkiye'deki restoran zincirleri bu yağa hızla geçiş yapmaktadır.
+İstanbul'dan bir gıda distribütörü, 2025 yılında Batı Avrupalı bir aracıdan doğrudan Bulgaristan tedarikine geçti. Maliyetleri ton başına $1.280'den $1.160 CIF İstanbul'a düştü. 150 tonluk üç aylık hacimde bu, çeyrek başına yaklaşık $18.000 tasarruf anlamına geliyordu.
 
-## Kalite Sınıfları
+## Toptan ayçiçek yağının farklı kaliteleri nelerdir?
 
-| Sınıf | Asitlik | Kullanım Alanı |
-|-------|---------|----------------|
-| Birinci (Grade 1) | < %0,1 | Perakende, HORECA |
-| İkinci (Grade 2) | %0,1-0,3 | Gıda endüstrisi |
-| Üçüncü (Grade 3) | %0,3-1,0 | Teknik kullanım |
+Her ayçiçek yağı aynı değildir. Kaliteleri anlamak doğru satın almanın ilk adımıdır.
 
-UB Market olarak yalnızca en yüksek kalite olan Grade 1 yağ ile çalışmaktayız.
+| Kalite                 | İşlem                                                 | Renk       | Kullanım                           | Fiyat aralığı    |
+| ---------------------- | ----------------------------------------------------- | ---------- | ---------------------------------- | ---------------- |
+| Ham (rafine edilmemiş) | Yalnızca preslenmiş                                   | Koyu sarı  | Gıda üretimi, daha fazla rafinaj   | $950–1.050/ton   |
+| Rafine RBDW            | Rafine, ağartılmış, kokusu giderilmiş, kışlandırılmış | Açık altın | Perakende, HoReCa, gıda hizmetleri | $1.100–1.200/ton |
+| Yüksek Oleik RBDW      | Özel çeşit, rafine edilmiş                            | Açık altın | Derin kızartma, uzun raf ömrü      | $1.300–1.450/ton |
+| Organik Rafine         | Sertifikalı organik, rafine                           | Açık altın | Premium perakende, sağlık gıdası   | +%15–20 prim     |
 
-## Fiyatlandırmayı Etkileyen Faktörler
+**Gıda üreticileri için en iyi:** Ham ayçiçek yağı — en düşük fiyat, yerinde işlenir.
 
-**Mevsimsellik.** Fiyatlar genellikle hasat sonrası (ekim-kasım) en düşük seviyede olup ilkbahar ve yaz aylarında yükselir.
+**HoReCa ve perakende için en iyi:** Rafine RBDW — nötr tat, uzun raf ömrü, kullanıma hazır. Türk gıda mevzuatı olan TSE standartlarıyla tam uyumlu.
 
-**Sipariş hacmi.** Büyük siparişler (20+ ton) küçük partilere kıyasla önemli indirimler sağlar. Fark ton başına 100-250 dolara ulaşabilir.
+**Yoğun kızartma yapan restoranlar için en iyi:** Yüksek Oleik — standart rafineden 2–3× daha fazla kızartma döngüsü, döngü başına daha düşük toplam maliyet.
 
-**Teslimat koşulları.** FOB (Gemi Bordasında Teslim) — teslimat dahil olmayan temel fiyat. CIF (Mal Bedeli, Sigorta ve Navlun) — alıcının limanına teslimat dahil. DAP (Belirlenen Yerde Teslim) — deponuza kadar tam teslimat.
+## Ayçiçek yağı için hangi teslimat koşullarını seçmelisiniz?
 
-**Ambalaj türü.** Dökme yağ (bulk) en ucuzudur. PET şişeler ton başına 150-250 dolar ek maliyet getirir.
+| Koşul          | Anlamı                                          | En iyi                              | Tipik fiyat farkı      |
+| -------------- | ----------------------------------------------- | ----------------------------------- | ---------------------- |
+| FOB Karadeniz  | Menşe limanından nakliyeyi siz düzenlersiniz    | Kendi lojistiği olan büyük alıcılar | En düşük taban fiyatı  |
+| CIF Türkiye    | Satıcı Türkiye'ye nakliye ve sigortayı düzenler | Türk alıcılar                       | FOB'a göre +$50–80/ton |
+| DAP [şehriniz] | Deponuza kamyon ile teslim edilir               | AB'deki alıcıların çoğu             | En kullanışlı seçenek  |
 
-## Ambalaj Seçenekleri
+**Türk alıcılar için CIF Türkiye genellikle en iyi seçenektir.**
 
-| Format | Hacim | Ek Maliyet | Kime Uygun |
-|--------|-------|-----------|------------|
-| PET 1L, 3L, 5L | Şişe | +$150-250/ton | Perakende |
-| PET 10L, 18L | Şişe | +$100-150/ton | HORECA |
-| IBC 1000L | 1-20 konteyner | +$50-80/ton | Orta hacim |
-| Flexitank | 20-24 ton | +$20-30/ton | Büyük toptan |
-| Tanker | 20-40 ton | Temel fiyat | Endüstriyel |
+Karadeniz'den Türkiye'ye deniz nakliyesi genellikle 2–3 gün sürer. Alternatif olarak karayolu ile:
 
-## Kalite Sertifikaları
+- Varna → İstanbul: 5–6 saat (E87 yolu üzerinden)
+- Varna → Ankara: 10–11 saat
+- Varna → İzmir: 12–13 saat
 
-Tedarikçi seçerken aşağıdaki sertifikalara dikkat edin:
+Küçük ve orta ölçekli Türk alıcılar için (20–50 ton) kamyon ile DAP İstanbul çoğu zaman en uygun maliyetli seçenektir. Büyük alıcılar (100+ ton) için daha iyi fiyatlandırma ile CIF Türkiye tercih edilir.
 
-- **ISO 22000** — gıda güvenliği yönetim sistemi
-- **HACCP** — tehlike analizi ve kritik kontrol noktaları
-- **Non-GMO** — GDO içermediğinin onayı
-- **AB Uygunluk Belgesi** — Avrupa'da ticaret için zorunlu
+## Hangi ambalaj formatları mevcuttur?
 
-UB Market, yalnızca ISO 22000 ve HACCP tam sertifikalarına sahip üreticilerle çalışmaktadır.
+| Format        | Hacim            | En iyi                  | Dökmeye göre fiyat |
+| ------------- | ---------------- | ----------------------- | ------------------ |
+| PET şişeler   | 0,5L, 1L, 3L, 5L | Perakende, özel etiket  | +$180–220/ton      |
+| Plastik bidon | 10L, 20L         | HoReCa, gıda hizmetleri | +$100–150/ton      |
+| IBC konteyner | 1.000L           | Büyük gıda üreticileri  | +$20–40/ton        |
+| Flexitank     | 20.000–24.000L   | Endüstriyel alıcılar    | Taban fiyat        |
 
-## Avrupa Pazarında Rekabetçi Avantajlar
+**Halal sertifikası:** Türk pazarı için halal sertifikalı ürünler sunuyoruz. Halal sertifikası talep edilmesi durumunda lütfen teklifinizde belirtin.
 
-Avrupa ayçiçek yağı pazarında başarılı olmak için çok sayıda faktörü dikkate almak gerekir. **Fiyat rekabetçiliği** her zaman önemli olmakla birlikte, kalite ve güvenilirlik daha da kritik rol oynamaktadır. Alıcılar, özellikle uzun vadeli ortaklıklar kurma niyetinde olduklarında, tutarlı kalite, zamanında teslimat ve müşteri desteğine yüksek değer atfetmektedirler.
+## Bir tedarikçiden hangi sertifikaları talep etmelisiniz?
 
-Bulgaristan'dan işlem yapmanın en büyük avantajlarından biri, **Doğu Avrupa ve Batı Avrupa pazarlarına eşit mesafede olması**'dır. Bu durum, hem talep ve paydaş çeşitliliği sağlar hem de lojistik maliyetlerini optimize eder. Ayrıca, Bulgaristan'ın AB üyesi olması, tüm yasal uyum ve vergi konularında güven ve şeffaflık sağlamaktadır.
+**Şirket düzeyinde:**
 
-**Uygun fiyat ve kalite dengesi** kurabilenler pazarda uzun süreli başarı elde edebilmektedir. UB Market, bu dengeyi sağlamak için tedarikçi seçimi aşamasından başlayarak kalite kontrolüne kadar tüm süreci titizlikle yönetmektedir.
+- ISO 22000 (gıda güvenliği yönetim sistemi)
+- HACCP uyumluluk sertifikası
+- AB şirket tescil belgesi
 
-## Lojistik ve Nakliye Ayrıntıları
+**Her sevkiyat için:**
 
-Avrupa genelinde ayçiçek yağı taşımacılığı belirli standartlara ve düzenlemelere tabidir. Gıda ürünleri olarak, tanker ve konteynerler gıda seviyesi temizlik uygulamalarına uymalıdır. Karayolu nakliyesinde **ADR (Avrupa Tehlikeli Mallar Yönetmeliği) sertifikası** zorunludur.
+- Analiz Sertifikası (CoA) akredite laboratuvardan
+- Menşe belgesi
+- Fitosaniter sertifika
+- GDO'suz doğrulama (gerekirse)
+- Helal sertifikası (Türkiye pazarı için)
 
-Yazın sıcak aylarda, yağın oksidasyon riski nedeniyle **kapalı ve gölgeli taşımacılık** tercih edilmelidir. Kış aylarında ise bazı yağ türleri kristalleşebileceğinden, **ısıtmalı tankerler** veya konteynerler kullanılması gerekebilir.
+CoA'da kontrol edilecek temel parametreler:
 
-Bulgaristan'dan ayrılan yağlar, **Tuna Nehri yoluyla Romen-Sırbistan rotasından** veya **Karadeniz limanlarından** ihraç edilebilir. Bunun yanında, **karayolu taşımacılığı** başta Orta Avrupa olmak üzere çoğu AB ülkesine daha hızlı ve güvenilir bir alternatiftir.
+- Serbest yağ asidi içeriği: rafine yağ için maks %0,3
+- Peroksit değeri: maks 10 meq/kg
+- Nem içeriği: %0,5'in altında
 
-## Yasal Düzenlemeler ve Uyum Gereksinimleri
+## Ayçiçek yağı fiyatları yıl içinde nasıl değişir?
 
-AB'ye ayçiçek yağı ihracatı yapan şirketler, **Gıda ve Vet Yönetmeliği (Regulation EC 178/2002)** başta olmak üzere kapsamlı yasal çerçeveye uymalıdır. Her sevkiyat, **sertifikasyon ve izlenebilirlik** belgelerini içermelidir.
+**Ocak–Mart:** Hasat sonrası arz zirvesi. Fiyatlar genellikle en düşük seviyede.
 
-Ülkelere özgü gereklilikler de bulunmaktadır. Örneğin, bazı Batı Avrupa ülkeleri **kalıntı pestisit testleri** veya **ağır metal analizleri** talep edebilmektedir. Bu analiz maliyetleri (genellikle ton başına 50-150 dolar) satış fiyatlandırmasında dikkate alınmalıdır.
+**Nisan–Haziran:** Ekim öncesi belirsizlik. Fiyatlar %5–10 artma eğiliminde. Vadeli sözleşmeler için iyi zaman.
 
-Pazara yeni giren alıcılar için, ilk partiler genellikle **bağımsız laboratuvar tarafından sertifikasyonlu** olmalıdır. Bu, ürünün AB standartlarına tam uyumluluğunun ispatlanmasını sağlar.
+**Temmuz–Eylül:** Yeni hasat piyasaya giriyor. Fiyatlar 6 haftada %10–15 keskin düşebilir.
 
-## Sezon Planlaması ve Stok Yönetimi
+**Ekim–Aralık:** Hasat sonrası satış sezonu. Yüksek arz, rekabetçi fiyatlar.
 
-Ayçiçek yağı pazarı mevsimsel dalgalanmalardan büyük ölçüde etkilenmektedir. **Ekim-Aralık ayları** hasat sonrası en yüksek arz ve en düşük fiyatları sunar. Bu dönemde satın alınan yağ, uygun soğutma ve depolama koşullarında 12-18 ay dayanabilir.
+## Toptan ayçiçek yağı satın alırken en sık yapılan hatalar nelerdir?
 
-**Mart-Ağustos ayları** ise nispeten kıyıttır. Bu dönemde seçen alıcılar daha yüksek fiyatlar ödemek zorunda kalabilir. Akıllı **stok yönetimi** stratejisi, yüksek fiyatları önlemek için ekim-kasım döneminde büyük miktarda tedarik yapılmasını sağlayabilir.
+**Hata 1 — Yalnızca ton başına fiyata odaklanmak**
+En ucuz ton başına fiyat nadiren en ucuz toplam maliyettir.
 
-Başlangıç alıcılarının sıklıkla yaptığı hata, **tüm ihtiyaçlarını bir kez almaya** çalışmaktır. Bunun yerine, **ayda 1-2 sipariş** yöntemi daha esnek ve riski daha az bir yaklaşımdır.
+**Hata 2 — Kaliteyi net belirtmemek**
+"Ayçiçek yağı" tam bir spesifikasyon değildir. Her zaman belirtin: rafine mi ham mi, RBDW mi standart mı, yüksek oleik mi standart oleik mi.
 
-## Nasıl Sipariş Verilir
+**Hata 3 — Yalnızca deniz nakliyesi tekliflerini kabul etmek**
+Orta ölçekli Türk alıcılar için Bulgaristan'dan kamyon ile DAP İstanbul çoğu zaman daha hızlı ve eşit veya daha ucuzdur.
 
-UB Market'te sipariş süreci basit ve şeffaftır:
+**Hata 4 — CoA olmadan sipariş vermek**
+Akredite laboratuvardan alınan CoA sizi yasal olarak korur.
 
-1. **Talep** — web sitemizdeki form veya e-posta yoluyla talebinizi gönderirsiniz
-2. **Teklif** — 24 saat içinde kişisel fiyat teklifinizi hazırlarız
-3. **Mutabakat** — hacim, ambalaj ve teslimat koşullarını görüşürüz
-4. **Üretim** — sipariş üreticiye iletilir
-5. **Teslimat** — Avrupa genelinde karayolu taşımacılığı (12+ ülke)
+**Hata 5 — AB dışı satıcılardan satın almak**
+AB dışından ithalat gümrük vergileri, daha uzun teslimat süreleri ekler.
 
-## Sık Sorulan Sorular
+## Rekabetçi toptan fiyat nasıl talep edilir?
 
-**Minimum sipariş miktarı nedir?**
-PET şişeler için 1 paletten, dökme yağ için 20 tondan itibaren.
+Hızlı ve doğru bir teklif için bu bilgileri sağlayın:
 
-**Kendi markamla sipariş verebilir miyim?**
-Evet! Özel marka (private label) hizmeti sunuyoruz — siz etiket tasarımınızı sağlarsınız, biz üretir ve paketleriz.
+1. **Ürün:** Rafine RBDW / Ham / Yüksek Oleik
+2. **Hacim:** ton veya litre cinsinden
+3. **Ambalaj:** dökme flexitank / IBC / PET şişeler + boyut
+4. **Teslimat koşulu:** şehrinize DAP, veya FOB, veya CIF
+5. **Zaman çizelgesi:** ne zaman ihtiyacınız var
+6. **Sertifikasyon gereksinimleri:** Helal, Organik, GDO'suz
 
-**Teslimat süreleri nedir?**
-Avrupa genelinde standart karayolu teslimatı — mesafeye bağlı olarak 5-10 iş günü. Türkiye'ye teslimat 1-2 gün gibi kısa sürede gerçekleşir.
+UB Market tüm toptan taleplere 24 saat içinde ayrıntılı fiyat listesiyle yanıt verir.
 
-**Kalite güvencesi nasıl?**
-Her parti, asitlik, peroksit sayısı, renk ve nem içeriği analizini içeren kalite sertifikası ile birlikte gönderilir.
+---
 
-[Fiyat Teklifi İsteyin →](/tr/quote)
+İşletmeniz için rekabetçi toptan ayçiçek yağı fiyatları mı arıyorsunuz? **[Teklif isteyin](/tr/quote)** — güncel piyasa fiyatları, belgeler ve teslimat seçenekleri dahil tam teklifle 24 saat içinde yanıt veriyoruz.
+
+_Kaynaklar: IMF Global Fiyat Endeksi, USDA WASDE Raporu 2026, UB Market dahili fiyatlandırma verileri Q1 2026._
