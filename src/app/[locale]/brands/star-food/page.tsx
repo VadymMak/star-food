@@ -28,7 +28,7 @@ export async function generateMetadata({
 
   // Hreflang alternates (ua → uk per ISO 639-1)
   const hreflangMap: Record<string, string> = {
-    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk",
+    en: "en", bg: "bg", tr: "tr", ro: "ro", de: "de", ua: "uk", el: "el",
   };
   const languages: Record<string, string> = {};
   for (const loc of routing.locales) {

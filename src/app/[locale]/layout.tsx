@@ -33,6 +33,7 @@ export async function generateMetadata({
     tr: "tr",
     ro: "ro",
     de: "de",
+    el: "el",
   };
 
   const languages: Record<string, string> = {};

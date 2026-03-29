@@ -50,6 +50,7 @@ export async function generateMetadata({
     ro: "ro",
     de: "de",
     ua: "uk",
+    el: "el",
   };
   const languages: Record<string, string> = {};
   for (const loc of routing.locales) {
