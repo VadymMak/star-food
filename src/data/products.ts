@@ -101,7 +101,7 @@ export const products: Product[] = [
     id: "frying-oil",
     slug: "frying-oil",
     name: "Deep-Frying Oil",
-    image: "/images/frying-oil.webp",
+    image: "/images/deepfrying-oil.webp",
     description:
       "High-stability deep-frying oils for professional food service and industrial use. Available in sunflower, high-oleic, rapeseed, and soybean varieties.",
     tag: "HoReCa",
