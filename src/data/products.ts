@@ -22,7 +22,7 @@ export const products: Product[] = [
     id: "sunflower-oil",
     slug: "sunflower-oil",
     name: "Sunflower Oil",
-    image: "/images/rapeseed-oil.webp",
+    image: "/images/vegetable-oil.webp",
     description:
       "Unrefined and RBDW (Refined, Bleached, Deodorized, Winterized). PET bottles 0.5–10L, plastic canisters 10–20L, and bulk tanker.",
     tag: "Popular",
@@ -69,7 +69,7 @@ export const products: Product[] = [
     id: "rapeseed-oil",
     slug: "rapeseed-oil",
     name: "Rapeseed Oil (Canola)",
-    image: "/images/vegetable-oil.webp",
+    image: "/images/rapeseed-oil.webp",
     description:
       "Refined and deodorized rapeseed oil. PET bottles 5–10L, plastic canister 20L, and bulk tanker. Unrefined and refined grades available.",
     specs: {
