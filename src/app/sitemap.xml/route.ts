@@ -2,7 +2,7 @@
 import { getPostSlugs, getPostBySlug } from "@/lib/blog";
 
 const BASE_URL = "https://ub-market.com";
-const locales = ["en", "bg", "tr", "ro", "de", "ua"];
+const locales = ["en", "bg", "tr", "ro", "de", "ua", "el"];
 const hreflangMap: Record<string, string> = {
   en: "en",
   bg: "bg",
@@ -10,6 +10,7 @@ const hreflangMap: Record<string, string> = {
   ro: "ro",
   de: "de",
   ua: "uk",
+  el: "el",
 };
 
 function urlEntries(

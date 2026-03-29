@@ -12,7 +12,7 @@ interface Props {
 
 export async function generateStaticParams() {
   const slugs = getPostSlugs();
-  const locales = ["en", "bg", "tr", "ro", "de", "ua"];
+  const locales = ["en", "bg", "tr", "ro", "de", "ua", "el"];
   return slugs.flatMap((slug) => locales.map((locale) => ({ locale, slug })));
 }
 
@@ -32,6 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ro: "ro",
     de: "de",
     ua: "uk",
+    el: "el",
   };
   const languages: Record<string, string> = {};
   for (const loc of routing.locales) {

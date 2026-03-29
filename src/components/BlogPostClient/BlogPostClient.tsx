@@ -56,7 +56,7 @@ export default function BlogPostClient({
     );
   }
 
-  const formattedDate = new Date(post.date).toLocaleDateString(locale, {
+  const formattedDate = new Date(post.date).toLocaleDateString("en-GB", {
     year: "numeric",
     month: "long",
     day: "numeric",

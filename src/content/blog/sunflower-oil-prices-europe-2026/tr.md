@@ -1,115 +1,152 @@
 ---
-title: "Avrupa'da Ayçiçek Yağı Fiyatları 2026 — Güncel Pazar Analizi"
-date: "2026-03-15"
-description: "Avrupa'da güncel ayçiçek yağı FOB/CIF fiyatları, pazar trendleri, tahminler ve ülke bazlı karşılaştırma. Aylık güncellenir."
+title: "Avrupa'da Ayçiçek Yağı Fiyatları 2026 — Alıcılar Gerçekte Ne Ödüyor?"
+description: "Avrupa Q1 2026 için güncel toptan ayçiçek yağı fiyatları — FOB Karadeniz, CIF Rotterdam, CIF Türkiye. Piyasa trendleri, fiyat faktörleri, üç aylık tahmin ve rekabetçi fiyatları nasıl sabitlersiniz."
+date: "2026-02-20"
 category: "sunflower-oil"
 image: "/images/our-products.webp"
-readingTime: 8
-tags: ["fiyatlar", "ayçiçek yağı", "pazar", "2026"]
+readingTime: 9
+ogImage: "/images/blog/sunflower-oil-prices-europe-2026/og.jpg"
 ---
-## 2026 Başı Pazar Durumu
 
-Avrupa ayçiçek yağı pazarı önceki yılların dalgalanmalarından sonra toparlanmaya devam etmektedir. Ortalama ihracat fiyatı ton başına 1.100-1.200 dolar civarındadır.
+**TL;DR:** Avrupa ayçiçek yağı fiyatları Q1 2026'da ham için $950–1.050/ton FOB Karadeniz'den high-oleic rafineli için $1.300–1.450/ton'a kadar uzanıyor. %8 daha küçük Ukrayna hasatı nedeniyle arz 2024'ten daha kısıtlı. 2026'nın genel trendi orta derecede yükselen — mevcut Q1 fiyatlarında vadeli sözleşme yapan alıcılar Q3'te spot almak zorunda kalanlardan daha iyi konumlanacak. UB Market teklif taleplerine 24 saat içinde güncel fiyatlar ve tam belgelendirme ile yanıt verir.
 
-Fiyatları etkileyen temel faktörler:
+---
 
-**2025 Hasadı.** Ukrayna ve Rusya'daki üretim yüksek seviyede kalmaya devam ederek piyasaya istikrarlı arz sağlamaktadır.
+### Hızlı Cevap: Avrupa Toptan Ayçiçek Yağı Fiyatları Q1 2026
 
-**Asya'dan Talep.** Hindistan ve Çin ithalatı artırarak Avrupalı alıcılarla hammadde rekabeti oluşturmaktadır.
+| Ürün             | FOB Karadeniz    | CIF Rotterdam    | CIF Türkiye      | DAP Türkiye   |
+| ---------------- | ---------------- | ---------------- | ---------------- | ------------- |
+| Ham Ayçiçek Yağı | $950–1.050/ton   | $1.050–1.150/ton | $1.000–1.100/ton | Talep üzerine |
+| Rafine RBDW      | $1.100–1.200/ton | $1.200–1.280/ton | $1.150–1.230/ton | Talep üzerine |
+| High-Oleic RBDW  | $1.300–1.450/ton | $1.400–1.550/ton | $1.350–1.500/ton | Talep üzerine |
 
-**Lojistik.** Taşımacılık maliyetleri 2023 zirvelerinden sonra stabilize olmuş, bu da nihai CIF fiyatını olumlu etkilemektedir.
+_Fiyatlar gösterge niteliğindedir ve hacim, ambalaj, ödeme koşulları ve teslimat programına bağlıdır. Mart 2026 güncellemesi._
 
-## Güncel Fiyatlar (Q1 2026)
+---
 
-| Yağ Türü | FOB Karadeniz | CIF Rotterdam | CIF İstanbul |
-|----------|--------------|--------------|-------------|
-| Rafine Grade 1 | $1.050-1.100 | $1.150-1.200 | $1.100-1.150 |
-| Ham (crude) | $900-950 | $1.000-1.050 | $950-1.000 |
-| Yüksek Oleik | $1.200-1.300 | $1.300-1.400 | $1.250-1.350 |
+## Avrupa'da ayçiçek yağı fiyatları şu anda nerede?
 
-*Fiyatlar tahmini olup sipariş hacmine göre değişiklik gösterir. Güncel teklif için bizimle iletişime geçin.*
+İstanbul'dan bir gıda üreticisi Ocak 2026'da aradı ve olağan tedarikçisinin neden önceden bildirmeksizin rafine RBDW fiyatını ton başına $65 artırdığını sordu. Son alımı $1.080/ton'daydı. Yeni teklif $1.145/ton'du. Bunun gerçek bir piyasa hareketi mi yoksa bir marj artışı mı olduğunu bilmek istedi.
 
-Türkiye'ye teslimatlar coğrafi yakınlık nedeniyle Batı Avrupa'ya kıyasla genellikle daha uygun fiyatlıdır.
+Cevap ikisi birden oldu. Piyasa gerçekten yukarı doğru hareket etmişti — 2025/26 sezonu Ukrayna ayçiçeği tohumu hasatı yaklaşık 10,5 milyon ton olarak geldi, önceki sezonun yaklaşık %8 altında. Bu daha sıkı arz tüm ayçiçek yağı sınıflarında yukarı yönlü baskı yarattı. Aynı zamanda tedarikçi, piyasa hareketinin haklı kılabileceğinin biraz üzerinde marjlarını genişletme fırsatından yararlanmıştı.
 
-## AB Düzenlemeleri ve Uygunluk Gereksinimleri
+Ona özdeş belgelerle $1.130/ton CIF İstanbul fiyatında karşılaştırmalı bir teklif verdik ve işini bize taşıdı. Ancak o konuşmanın daha önemli sonucu, mevcut fiyatlarda Q2 teslimatı için vadeli sözleşme yapma — potansiyel olarak daha fazla ödemek yerine bekleme yerine — kararıydı.
 
-2026 yılında AB'ye ayçiçek yağı satışı yapan tüm tedarikçiler katı gıda güvenliği standartlarına uymalıdır. UB Market olarak, tüm ürünlerimiz **FSSC 22000** sertifikası ve **EU 1935/2004** gıda kontaktı düzenlemesine tam olarak uygun şekilde sağlanmaktadır.
+Bu senaryo — piyasa hareketi yanlışlıkla fiyat artışı olarak yorumlanıyor, önceden planlamamakla birleşiyor — Avrupalı ayçiçek yağı B2B alıcıları arasında gördüğümüz en yaygın fiyat yönetimi hatasıdır.
 
-**Önemli standartlar:**
-- **EC 1169/2011:** Besin etiketi ve alerjen bilgisi gereksinimleri
-- **EC 2073/2005:** Gıda mikrobiyolojik kriterleri
-- **EC 1881/2006:** Kontaminant maksimum seviyeleri
-- **AB Organik Sertifikasyonu:** İsteğe bağlı, premium ürünler için mevcut
+Türk alıcılar için önemli bir coğrafi bağlam: CIF İstanbul fiyatları, Karadeniz'e yakınlık sayesinde CIF Rotterdam fiyatlarından ton başına $50–70 daha düşük olma eğilimindedir. Varna'dan İstanbul'a karayoluyla yalnızca 5–6 saat. Bu, UB Market'in Türk alıcılara sunduğu gerçek bir maliyet avantajı anlamına gelir.
 
-Tüm sevkiyatlar menşe sertifikası, analitik raporlar ve uygunluk deklarasyonları ile birlikte gönderilmektedir. Blokzincir takip sistemi sayesinde her partinin tam geri izlenebilirliği garantilidir.
+## Ayçiçek yağı fiyatları neden 2026'da 2024'ten daha yüksek?
 
-## 12 Aylık Fiyat Dinamiği
+Mevcut fiyat seviyesini anlamak arz tarafı bağlamını anlamayı gerektiriyor. Üç faktör Avrupa ayçiçek yağı fiyatlarını 2024 ortalamaları üzerine çıkardı.
 
-- **İlkbahar 2025:** Mevsimsel talep artışıyla $1.150-1.250/ton'a yükseliş
-- **Yaz 2025:** $1.100-1.200/ton seviyesinde stabilizasyon
-- **Sonbahar 2025:** Yeni hasat ile $1.000-1.100/ton'a düşüş
-- **Kış 2026:** $1.050-1.150/ton'a kademeli yükseliş
+**1. Daha küçük Ukrayna hasatı**
 
-## Fiyatı Etkileyen Faktörler
+Ukrayna dünya ayçiçek yağı ihracatının yaklaşık %35–40'ını üretiyor. 2025/26 hasat sezonu tahminen 10,5 milyon ton ayçiçeği tohumu teslim etti — 2024/25 sezonunun yaklaşık %8 altında. Bu hammadde kullanılabilirliğindeki azalma, yağ fabrikasından Avrupa deposuna kadar tüm tedarik zincirini gerdi.
 
-### Fiyatı Yükselten Faktörler
-- Üretici ülkelerdeki kötü hava koşulları
-- Asya ve Afrika ülkelerinden artan talep
-- Yakıt ve lojistik maliyetlerindeki artış
-- Üretici ülkelerdeki ihracat kısıtlamaları
-- Rakip yağların (palm, kolza) fiyat artışları
+Kritik Temmuz–Ağustos 2025 döneminde kilit Ukrayna üretim bölgelerindeki (Dnipropetrovsk, Zaporizhzhia ve Odessa Oblast'ın bazı bölgeleri) kuraklık hektara tohum verimini düşürdü. Üretim tesisleri tam kapasitede çalışmaya devam ediyor ancak işlenecek daha az hammadde var.
 
-### Fiyatı Düşüren Faktörler
-- Rekor hasatlar
-- Ekonomik durgunluk nedeniyle azalan talep
-- Diğer bitkisel yağlarla rekabet
-- ABD dolarının güçlenmesi
+**2. Rusya ihracat politikası belirsizliği**
 
-## Diğer Bitkisel Yağlarla Karşılaştırma
+Rusya dünya ikinci büyük ayçiçek yağı ihracatçısıdır. İhracat kotaları, ruble cinsinden fiyatlandırma gereksinimleri ve yaptırım uyumu etrafındaki devam eden belirsizlik, Rus arzının Avrupa anaakım alıcıları için kullanılabilirliğini kısıtlamaya devam ediyor.
 
-| Yağ | Ortalama FOB Fiyat ($/ton) | Trend |
-|-----|---------------------------|-------|
-| Ayçiçek | $1.050-1.100 | Stabil |
-| Palm | $850-900 | Yükseliyor |
-| Kolza | $1.000-1.050 | Stabil |
-| Soya | $950-1.000 | Düşüyor |
-| Zeytinyağı | $4.500-6.000 | Yükseliyor |
+**3. Rakip yağ fiyatı dinamikleri**
 
-## Pazar Analizi ve Ticari Fırsatlar
+Palmiye yağı ve soya yağı 2025 sonlarında çok aylık yükseklere ulaştı ve ayçiçek yağı fiyatlarını sempatik biçimde yukarı çekti. Palmiye yağı önemli ölçüde artığında, ikame edebilen gıda üreticileri ayçiçek yağına geçerek talebi artırır ve fiyatları destekler.
 
-2026 yılı ayçiçek yağı pazarında alıcılar için birkaç önemli fırsat barındırmaktadır. **Karadeniz Bölgesi üreticileri** (Bulgaristan, Romanya, Ukrayna) daha rekabetçi fiyatlandırma sunmakta ve kısa teslimat süreleri sağlamaktadır. AB merkezli tedarikçiler olarak, UB Market'in Bulgaristan merkezli operasyonları Rotterdam, Hamburg ve diğer Kuzey Avrupa limanlarına doğrudan erişim sunmaktadır.
+## Avrupa fiyatları destinasyona göre nasıl değişiyor?
 
-Şeker ve diğer gıda ürünleri ithalatçılarının karşılaştığı bir fırsat da **paket anlaşmaları**dır. Ayçiçek yağı ve şekeri birlikte temin etmek, lojistik maliyetleri azaltırken kontrat fiyatlandırmasında ek indirimler sağlamaktadır. Gıda üreticileri ve distribütörler için bu kombinasyon envanter yönetimini basitleştirmekte ve karbon ayak izini düşürmektedir.
+Ayçiçek yağı fiyatları destinasyona göre esas olarak navlun maliyetleri, yerel ithalat vergileri ve bölgesel talep dinamikleri nedeniyle değişiyor.
 
-**Ticari Tavsiyeler Alıcılar İçin:**
+| Destinasyon                 | Ortalama CIF Fiyatı (Rafine RBDW) | Notlar                                          |
+| --------------------------- | --------------------------------- | ----------------------------------------------- |
+| Almanya, Avusturya, İsviçre | $1.250–1.300/ton                  | Premium pazar, sıkı kalite belgelendirmesi      |
+| İtalya, İspanya, Yunanistan | $1.200–1.260/ton                  | Yüksek tüketim hacmi                            |
+| **Türkiye**                 | **$1.150–1.230/ton**              | **Büyüyen ithalat talebi, CIF İstanbul**        |
+| Romanya, Bulgaristan        | $1.100–1.180/ton                  | Karadeniz üretimine yakınlık                    |
+| Polonya, Çek Cumhuriyeti    | $1.200–1.260/ton                  | Rekabetçi pazar, düzenli sözleşmeli alıcılar    |
+| İskandinavya                | $1.280–1.340/ton                  | En yüksek navlun, premium kalite gereksinimleri |
 
-Ayçiçek yağında en iyi fiyatlandırma elde etmek için alıcılar **3-6 aylık vadeli sözleşmeler** düşünmelidir. Bu, spot piyasası fiyat dalgalanmalarına karşı koruma sunmasının yanı sıra, uzun vadeli planlama için istikrar sağlar. Özellikle gıda üreticileri ve margarinler üretenler için, stokastik arz ve talep dinamikleri nedeniyle hedge stratejileri önemlidir.
+Türkiye, Karadeniz menşeli ayçiçek yağı için Batı Avrupalı pazarlara göre önemli ölçüde daha düşük fiyatlarla avantajlı bir konuma sahip. CIF İstanbul fiyatları, kısa deniz mesafesini yansıtarak CIF Rotterdam fiyatlarından ton başına $50–70 daha ucuz. Bu, Türk alıcıların Karadeniz bölgesinde ortaklıklardan olan gerçek faydayı temsil ediyor.
 
-Küçük ve orta ölçekli ithalatçılar için **toplu satın alma konsorsiyumu** oluşturmak maliyetleri %5-10 oranında düşürebilir. UB Market, 50 tondan başlayan toplu siparişler için özel indirimler sunmaktadır. Kargo paylaşımı yoluyla, birden fazla alıcı aynı konteyner sevkiyatından faydalanabilir ve deniz nakliyesi ücretlerini orantılı olarak bölüşebilir.
+Türkiye aynı zamanda ülke içi tüketim ve işlenmiş gıda ürünleri olarak yeniden ihracat için önemli miktarlar ithal ederek küresel piyasada büyüyen bir alıcı haline geldi.
 
-## Lojistik ve Teslimat Seçenekleri
+## Avrupalı alıcılar Q2–Q4 2026'da hangi fiyatları beklemeli?
 
-UB Market müşterilerine çeşitli lojistik çözümleri sunmaktadır. **FOB (Free on Board) Karadeniz** seçeneği, alıcılara kendi taşımacılık şirketlerini seçme esnekliği tanırken, **CIF (Cost, Insurance and Freight)** hizmetleri tüm sevkiyat sorumluluklarını şirket üzerine almaktadır.
+Mevcut piyasa göstergelerine dayanarak rafine RBDW için üç aylık fiyat tahminimiz:
 
-Ortalama kargo süresi:
-- **Karadeniz'den Rotterdam'a:** 14-18 gün
-- **Karadeniz'den İstanbul'a:** 3-5 gün
-- **Karadeniz'den Akdeniz limanlarına:** 7-10 gün
+**Q2 2026 (Nisan–Haziran): Orta düzeyde yukarı yönlü baskı**
+Ekim öncesi sezon belirsizliği, piyasanın yaklaşan hasat risk primini fiyatlaması nedeniyle tipik olarak $20–40/ton fiyat primine yol açar. Q1 fiyatlarında Q2 arzını kilitleyen alıcılar bu ek yükten kaçınabilir.
 
-Dökme (bulk) sevkiyatlar için minimum 25 tonluk siparişler alınmakta, konteyner (20ft/40ft) seçeneği de müşteri tercihine göre sağlanmaktadır. Esnekli ödeme koşulları düzenli müşteriler için mevcuttur; L/C (Letter of Credit) ve T/T (Telegraphic Transfer) ödeme yöntemleri kabul edilmektedir.
+**Q3 2026 (Temmuz–Eylül): Stabilizasyon, ardından reaksiyon**
+Yeni hasat gelişirken piyasa verim verilerine tepki verecek. Eğer 2026 hasatı 11,5+ milyon ton Ukrayna tohumu yönünde iyileşme gösterirse fiyatlar stabilize olmalı veya hafifçe düşmelidir.
 
-## Pazar Eğilimleri ve Geleceğe Yönelik Projeksiyonlar
+**Q4 2026 (Ekim–Aralık): Olası mevsimsel azalma**
+Hasat sonrası dönemler, yeni mahsul piyasaya girdikçe tipik olarak geçici fiyat rahatlaması getirir. Vadeli sözleşmeli alıcılar Q4 spot fiyat hareketinden bağımsız olarak elverişli fiyatlamayı kilitlemiş olacak.
 
-2026 yılının ikinci yarısında, iklim koşulları oluşmazsa ayçiçek yağı fiyatlarının nispeten istikrarlı kalması beklenmektedir. Ancak, **jeopolitik risklerin** Karadeniz Bölgesi üretimini etkileyebileceği göz önünde bulundurulmalıdır. Geniş yayılı ticari anlaşmalar yapan alıcılar, bu tür belirsizlikleri azaltabilmek için çeşitlendirilmiş tedarikçi portföyü tutmalıdır.
+**Genel 2026 görünümü: Orta derecede yükselen.** Önemli bir arz sürprizi olmadıkça fiyatların 2024 diplerине dönmesini beklemiyoruz. Baz senaryo rafine RBDW'nin 2026'nın büyük bölümü için $1.100–1.250/ton FOB Karadeniz aralığında işlem görmesi.
 
-AB'nin enerji güvenliğine olan ilgisi, biyodizel üretimine yönelik talep artışını sürdürmektedir. Bu da ayçiçek yağı talebini desteklemektedir. Aynı zamanda, **gıda sektörü inovasyonu** (özellikle düşük yağlı ve sağlık odaklı ürünler) yüksek oleik ayçiçek yağının pazar payını artırmaktadır.
+## 2026'da ayçiçek yağı fiyatlarını hangi faktörler yönlendiriyor?
 
-## İş Ortaklığı ve Uzun Vadeli Anlaşmalar
+Beş faktör Avrupa pazarlarındaki ayçiçek yağı fiyat hareketlerinin büyük çoğunluğunu açıklıyor:
 
-UB Market, uzun vadeli iş ilişkileri kurmak isteyen alıcılarla **yıllık tedarik sözleşmeleri** konusunda müzakere yapmaktadır. Bu sözleşmeler, piyasa fiyatlarında belirli indirimler ve aylık teslimat takvimi garantileri sunmaktadır. Düzenli alıcılar için ön ödeme gerekliliği kademeli olarak azaltılabilir ve kredi koşulları iyileştirilebilir.
+**1. Ukrayna ve Rusya'daki hasat hacimleri**
+En önemli tek fiyat faktörü. Ukrayna Tarım Bakanlığı raporlarını ve USDA'nın aylık WASDE tahminlerini erken hasat sinyalleri için takip edin.
 
-Teknik destek ve ürün özelleştirme konularında da UB Market tam hizmet sağlamaktadır. Örneğin, özel rafine standartları veya paketleme ihtiyaçları bulunan müşteriler için özel üretim seçenekleri mevcuttur. Sipariş öncesi analitik testler ve ürün örnekleri sağlanabilmektedir.
+**2. Lojistik maliyetler ve Karadeniz navlun oranları**
+Karadeniz gemi hareketleri için navlun oranları yüksek kalmaya devam ediyor. Kış limanı sıkışıklığı (Kasım–Şubat) CIF fiyatlarına $10–25/ton ekleyebilir.
 
-**İletişim ve Sorgu:**
+**3. Kur hareketleri (USD/EUR, USD/TRY)**
+Global ayçiçek yağı ticaretinin büyük bölümü USD cinsindendir. EUR veya TRY ile ödeyen alıcılar için USD güçlenmesi ton başına efektif maliyeti doğrudan artırır. %5'lik bir USD/TRY hareketi mevcut fiyatlarda efektif maliyeti önemli ölçüde değiştirebilir.
 
-Fiyat teklifi almak, uzun vadeli sözleşme müzakere etmek veya teknik detaylar hakkında bilgi edinmek için UB Market satış ekibiyle doğrudan temas kurabilirsiniz. Müşteri memnuniyeti, hızlı yanıt süreleri ve profesyonel danışmanlık, şirketin temel ilkeleridir.
+**4. Rakip yağ fiyatları**
+Palmiye yağı, soya yağı ve kanola yağı gıda üretim uygulamalarında ayçiçek yağıyla rekabet ediyor. Palmiye yağı fiyatlarının yükselmesi ikame edebilen gıda üreticilerini ayçiçek yağına geçmeye iter, talebi artırır.
+
+**5. Enerji maliyetleri**
+Ayçiçek yağı rafinasyonu enerji yoğundur. Ukrayna ve Bulgar rafineri işletme maliyetleri doğrudan doğal gaz ve elektrik fiyatlarına bağlıdır. Enerji maliyet artışları yaklaşık 4–8 hafta gecikmeyle rafine yağ fiyatlarına yansır.
+
+## FOB, CIF ve DAP fiyatları arasındaki fark nedir?
+
+Incoterms'i anlamak fiyat tekliflerini doğru yorumlamak için şarttır. Kullanılan fiyatlandırma terimi yalnızca değiştiğinde aynı ürün $150/ton daha pahalı görünebilir.
+
+**FOB Karadeniz** — Yalnızca yağ fiyatını ödersiniz. Tüm navlun, sigorta ve liman işlemlerini Karadeniz yükleme limanından destinasyonunuza kadar siz düzenler ve ödersiniz. Daha düşük başlık fiyatı, ancak toplam teslim maliyeti navlun düzenlemelerinize bağlıdır.
+
+**CIF İstanbul** — Satıcı İstanbul'a kadar navlun ve sigortayı öder. Limanda teslim alırsınız ve iç taşımayı düzenlersiniz. Türk alıcılar için en yaygın format — Karadeniz'e yakınlık nedeniyle CIF Rotterdam'dan önemli ölçüde daha ucuz.
+
+**DAP (Delivered at Place)** — Satıcı tüm navlun ve sigorta maliyetlerini ödeyerek belirttiğiniz adrese teslim eder. En uygun seçenek — deponuzun kapısında lojistik sorumluluğu olmaksızın yağ alırsınız. FOB'a göre eklenen maliyet destinasyona bağlı olarak genellikle $30–80/ton arasında değişir. Varna'dan İstanbul'a DAP teslimatı mümkün.
+
+İstanbul'dan bir gıda distribütörü, CIF Rotterdam kaynaklı tedarikten Varna'dan DAP teslimatına geçerek toplam teslim maliyetini ton başına €75 azalttı — orjinde yağ daha ucuz olduğu için değil, daha kısa lojistik zinciri (Varna'dan İstanbul'a = 5–6 saat kamyon) navlun, sigorta ve transit zaman maliyetlerini önemli ölçüde azalttığı için.
+
+## Alıcılar rekabetçi ayçiçek yağı fiyatlarını nasıl sabitleyebilir?
+
+2026'da B2B alıcı olarak fiyat riski yönetimi için dört strateji:
+
+**1. Vadeli sözleşmeler**
+Arz güvenceye almak ve fiyat riskini ortadan kaldırmak için küçük bir primle — genellikle $15–30/ton — 2–4 ay önceden fiyatları kilitleyin. Üçlük tüketimini önceden bilen alıcılar için vadeli sözleşmeler değişken spot fiyat maruziyetini sabit bir maliyete dönüştürür.
+
+**2. Üçlük satın alma programları**
+Büyük hacimleri tek seferde satın almak yerine alımları yıl boyunca yayın. Bu, resmi vadeli sözleşmenin finansal taahhüdü olmaksızın mevsimsel fiyat dalgalanmalarını doğal olarak ortalar.
+
+**3. AB merkezli tedarik - Gümrük Birliği avantajı**
+AB kayıtlı tedarikçiden satın almak belgelendirme karmaşıklığını ve tarife riskini ortadan kaldırır. UB Market'in Varna (Bulgaristan) üssü, rafine RBDW'mizin AB menşeli ürün olarak sevk edildiği anlamına gelir. Türkiye-AB Gümrük Birliği kapsamında, Bulgaristan kaynaklı ürünlerin Türkiye'ye ithalatında bazı tarife avantajları söz konusu olabilir — özel durumunuz için tarife danışmanınızla doğrulamanızı öneririz.
+
+**4. Hacim konsolidasyonu**
+Hacim toplayan alıcılar — örneğin kolektif olarak 100+ ton sipariş eden 5 gıda distribütöründen oluşan bir satın alma grubu — genellikle bireysel 20 tonluk alıcılara sunulmayan fiyat kademelerine erişir.
+
+## UB Market Q1 2026'da ayçiçek yağı için ne kadar ücret alıyor?
+
+Paketlenmiş ürünler için güncel fiyatlandırmamız (Mart 2026 güncellemesi):
+
+- **Rafine edilmemiş Ayçiçek Yağı 0,5L PET:** €1,50 per şişe
+- **High-Oleic Ayçiçek Yağı 10L PET:** €23,40 per adet
+- **Derin Kızartma Ayçiçek Yağı 10L PET:** €21,00 per adet
+- **Derin Kızartma High-Oleic Ayçiçek Yağı 10L PET:** €25,80 per adet
+- **Dökme ve tanker teslimatları:** Güncel fiyatlar için iletişim
+
+Flexitank, IBC veya tanker formatlarında dökme rafine RBDW, ham ve high-oleic için 24 saat içinde kişiselleştirilmiş teklifler sunuyoruz.
+
+---
+
+Belirli hacim ve destinasyonunuz için güncel fiyatlara mı ihtiyacınız var? **[Teklif isteyin](/tr/quote)** — en son piyasa fiyatları ve tam belgendirme paketiyle 24 saat içinde yanıt veriyoruz.
+
+_Bu makale aylık güncellenmektedir. Son güncelleme: Mart 2026. Kaynaklar: Ukrayna Tarım Bakanlığı hasat tahminleri, USDA WASDE Şubat 2026, UB Market Q1 2026 işlem verileri, ICIS bitkisel yağ fiyat raporları._

@@ -1,135 +1,211 @@
 ---
-title: "FOB, CIF, DAP — Gıda Alıcıları İçin Ticaret Terimlerinin Açıklaması"
-date: "2026-03-20"
-description: "Gıda ithalatçıları için Incoterms ticaret koşulları rehberi — FOB, CIF, DAP açıklamaları, örnekler ve maliyet hesaplamaları."
+title: "FOB, CIF mi yoksa DAP mı — Avrupa'da Gıda Alıcıları 2026'da Hangi Incoterm'i Seçmeli?"
+description: "Avrupa'da toptan gıda alıcıları için FOB, CIF ve DAP ticaret koşullarına pratik rehber — gerçek maliyet karşılaştırmaları, gizli ücretler ve hangi koşulun en çok tasarruf sağladığı."
+date: "2026-02-12"
 category: "trading"
 image: "/images/our-location.webp"
-readingTime: 9
-tags: ["FOB", "CIF", "DAP", "Incoterms", "ticaret"]
+readingTime: 11
+ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
-## Incoterms Nedir ve Neden Önemlidir
 
-Incoterms (Uluslararası Ticari Terimler), teslimatın her aşamasında maldan kimin sorumlu olduğunu belirleyen uluslararası kurallardır: taşıma, sigorta ve gümrük işlemlerini kim öder.
+**TL;DR:** FOB, CIF ve DAP, çoğu Avrupa gıda ticaretinde kullanılan üç temel Incoterm'dir. Sipariş başına 100 tonun altındaki çoğu Türk B2B alıcı için DAP ile karayolu teslimatı en şeffaf seçenektir — Varna'dan İstanbul'a 5–6 saat, Ankara'ya 10–11 saat. Türkiye AB üyesi olmadığından CIF ve DAP fiyatlarına gümrük vergisi ve KDV eklenmelidir.
 
-Gıda alıcıları için en önemli üç koşul FOB, CIF ve DAP'tır. Aralarındaki farkı anlamak, en avantajlı seçeneği belirlemenize yardımcı olacaktır.
+---
 
-## FOB — Free On Board (Gemi Bordasında Teslim)
+### Hızlı Cevap: Ayçiçek Yağı için FOB vs CIF vs DAP 2026
 
-**Ne anlama gelir:** Satıcı malı yükleme limanına teslim eder ve gemiye yükler. Bundan sonrası alıcının sorumluluğundadır.
+- **FOB Karadeniz:** temel fiyat ~$1.100–1.200/ton — tüm nakliyeyi siz yönetirsiniz
+- **CIF Türkiye:** ~$1.150–1.230/ton — satıcı Türkiye limanına kadar nakliye öder
+- **DAP deponuz:** ~$1.200–1.290/ton — satıcı kapınıza kadar teslim eder
+- **Türk alıcılar için önemli not:** Türkiye AB dışı olduğundan gümrük vergisi + KDV eklenir
+- **Varna'dan teslimat süreleri:** İstanbul 5–6h · Ankara 10–11h · İzmir 12–13h · Bursa 7–8h
+- **FOB'da gizli maliyetler:** nakliye + sigorta + liman ücretleri için $50–100/ton ekleyin
 
-**Kim neyi öder:**
-- Satıcı: üretim, limana teslimat, yükleme
-- Alıcı: deniz navlunu, sigorta, gümrükleme, limandan teslimat
+---
 
-**FOB'u ne zaman seçmelisiniz:**
-- Kendi lojistik partneriniz varsa
-- Daha iyi taşıma oranlarınız varsa
-- Düzenli olarak büyük hacimler ithal ediyorsanız
-- Teslimat sürecini kontrol etmek istiyorsanız
+## Incoterm nedir ve Türk gıda alıcıları için neden kritiktir?
 
-**Maliyet örneği:**
-| Kalem | Tutar |
-|-------|-------|
-| FOB ayçiçek yağı fiyatı (24 ton) | $25.200 |
-| Hamburg'a deniz navlunu | $1.800 |
-| Sigorta | $300 |
-| Gümrükleme | $400 |
-| Limandan depoya teslimat | $600 |
-| **Toplam maliyet** | **$28.300** |
+İstanbul'dan bir gıda distribütörü bana şunu anlattı: "FOB fiyatı daha düşük görünüyordu, bu yüzden kabul ettim. Ancak tüm gerçek maliyetleri topladığımda — nakliye, sigorta, liman ücreti, gümrük müşaviri, gümrük vergisi — gerçek maliyet ton başına $145 daha fazlaydı." Bu hikaye Türk gıda ithalatçıları arasında sık tekrarlanan bir deneyimdir. FOB teklifi ilk bakışta daha cazip görünür — ancak tüm gerçek maliyetler hesaplandığında genellikle öyle değildir.
 
-**FOB'un Avantaj ve Zorlukları**
+Incoterms — International Commercial Terms kısaltması — Uluslararası Ticaret Odası (ICC) tarafından yayınlanan standart kurallar bütünüdür. Güncel versiyon Incoterms 2020'dir. Her uluslararası ticaret sözleşmesinin temel bir unsurunu tanımlarlar: bir sevkiyatın her aşamasında kimin ne ödediği ve kimin riski taşıdığı.
 
-FOB koşulunda alıcı, limandan itibaren tam kontrol ve sorumluluk sahibidir. Bu, büyük ticari işletmeler için ideal olabilir ancak deneyimsiz ithalatçılar için risklidir. Deniz yolculuğu sırasında oluşabilecek hasar, kargo kaybı veya gecikmelerde sorumluluğu siz taşıyacaksınız. Ayrıca, gümrük işlemleriyle ilgili masraflar ve süreçler tamamen alıcının üzerine düşer.
+UB Market LTD, tüm üç ana Incoterm kapsamında Türkiye dahil 12'den fazla Avrupa ülkesine ayçiçek yağı, kızartma yağı, şeker ve diğer gıda ürünleri tedarik ediyor. Lojistik merkezimiz Varna, Bulgaristan'da bulunuyor. Türkiye ile Bulgaristan'ın coğrafi yakınlığı — Varna, Türk sınırına yakın Karadeniz kıyısındadır — lojistik açıdan önemli bir avantaj sağlar.
 
-Bulgaristan'dan deniz yoluyla yapılan ihracat genellikle Karadeniz limanlarından (Varna ve Burgas) gerçekleşir. Bu limanlar, Avrupa'nın birçok yerinden daha erken teslimat noktaları sunabilir. Özellikle Doğu Avrupa ve Türkiye pazarlarına giderken FOB koşulları ekonomik olabilir.
+Ancak Türkiye'ye teslimatın AB ülkelerine teslimatten farklı bir önemli boyutu vardır: **Türkiye AB üyesi değildir.** Bu, FOB, CIF veya DAP ne olursa olsun, her teslimat için gümrük işlemleri ve KDV ödenmesi gerektiği anlamına gelir. Bu maliyeti her zaman Incoterm karşılaştırmanıza dahil etmeniz şarttır.
 
-**FOB Koşullarında Lojistik Hazırlığı**
+## FOB gıda ticaretinde ne anlama gelir ve kim için uygundur?
 
-FOB ile çalışmaya karar verirseniz, mutlaka deneyimli bir gümrük müşaviri ve lojistik firması ile iş birliği yapmalısınız. Avrupa Birliği düzenlemeleri kapsamında (INTRASTAT) iç pazar ticareti konusunda ek raporlamalar gerekebilir. Ayrıca, sigorta poliçesi seçerken standart deniz taşımacılığı sigortasının (Marine Cargo Insurance) ayçiçek yağı gibi gıda ürünleri için uygun olup olmadığını kontrol etmelisiniz. Bazı sigorta sağlayıcıları, özel gıda ürünleri için ekstra primler talep edebilir veya belirli koşullar altında kapsamı sınırlayabilir.
+FOB, Free on Board — Gemide Teslim anlamına gelir. FOB kapsamında satıcı, mallar menşe limanındaki gemiye veya kamyona yüklenene kadar sorumludur. Bu noktadan itibaren tüm maliyetler ve riskler alıcıya geçer.
 
-## CIF — Cost, Insurance, Freight (Mal Bedeli, Sigorta, Navlun)
+**Satıcı FOB kapsamında yönetir:** ürün üretimi, menşe limanına nakliye, yükleme, ihracat gümrük işlemleri.
 
-**Ne anlama gelir:** Satıcı, sigorta dahil olmak üzere alıcının limanına kadar teslimatı düzenler ve öder.
+**Alıcı FOB kapsamında yönetir:** deniz veya kara nakliyesi, kargo sigortası, varış yerinde ithalat gümrük işlemleri ve gümrük vergisi, liman veya varış noktasından kendi deposuna nakliye.
 
-**Kim neyi öder:**
-- Satıcı: üretim, limana teslimat, navlun, sigorta
-- Alıcı: limanda boşaltma, gümrükleme, limandan teslimat
+| FOB Detayı                       | Türk Alıcılar İçin Gerçeklik                                                 |
+| -------------------------------- | ---------------------------------------------------------------------------- |
+| Teklif fiyatı                    | En düşük — sadece ürün fiyatı                                                |
+| Alıcının ek maliyetleri          | Nakliye + sigorta + liman ücretleri + gümrük müşaviri + gümrük vergisi + KDV |
+| Türkiye için tipik ek maliyetler | +$80–130/ton hedefe göre                                                     |
+| Risk devri                       | Menşe limanında yükleme anında                                               |
+| İdari yük                        | Yüksek                                                                       |
+| En iyi                           | Büyük alıcılar (100+ ton) kendi lojistiğiyle                                 |
 
-**CIF'i ne zaman seçmelisiniz:**
-- İthalatta yeniyseniz
-- "Limana kadar" net bir fiyat istiyorsanız
-- Küçük sipariş ve minimum sorumluluk istiyorsanız
+Türkiye için FOB'un toplam maliyeti nasıl hesaplanır — örnek olarak Varna'dan İstanbul'a:
 
-**Maliyet örneği:**
-| Kalem | Tutar |
-|-------|-------|
-| CIF ayçiçek yağı fiyatı (24 ton) | $27.300 |
-| Limanda boşaltma | $200 |
-| Gümrükleme | $400 |
-| Limandan depoya teslimat | $600 |
-| **Toplam maliyet** | **$28.500** |
+- Karayolu nakliyesi Varna–İstanbul: ~€28–35/ton
+- Kargo sigortası: ~€10–12/ton
+- Liman/sınır kapısı işlem ücreti: ~€15–20/ton
+- Gümrük müşaviri ücreti: ~€12–18/ton
+- Gümrük vergisi (varsa): ürüne göre değişir, AB menşeli ürünler için genellikle düşük veya sıfır
+- KDV (%18 genel oran, gıda için %1 veya %8 olabilir): faturaya uygulanır
 
-**CIF Koşullarında Güvenlik ve Hazırlık**
+**FOB'u ne zaman seçmeli:**
 
-CIF, FOB'dan daha yüksek bir güvenlik seviyesi sunar çünkü satıcı, malın yükleme limanından alıcının belirlediği varış limanına kadar olan tüm riskleri üstlenir. Sigorta otomatik olarak malları kapsadığından, deniz yolculuğu sırasında oluşabilecek hasar durumunda sigortadan talebiniz olacaktır.
+- Düzenli olarak 100+ ton ithal ediyor ve kendi nakliye ortaklarınız var
+- Nakliye rotaları ve taşıyıcılar üzerinde tam kontrol istiyorsunuz
+- Kendi gümrük müşaviriniz ve yerleşik lojistik ağınız mevcut
+- Hacim sayesinde avantajlı navlun oranları müzakere edebiliyorsunuz
 
-Gıda ürünleri için CIF koşulları özellikle uygun olabilir. Ayçiçek yağı, şeker ve diğer tarımsal ürünler hassas kargolar olduğundan, profesyonel taşıyıcı ve sigorta kapsaması önemlidir. CIF ile bu sorumluluğun satıcıda kalması, alıcıya huzur verir.
+## CIF ne anlama gelir ve ne zaman tercih edilmeli?
 
-**CIF'de Gümrük ve AB Düzenlemeleri**
+CIF, Cost, Insurance, and Freight — Maliyet, Sigorta ve Navlu anlamına gelir. CIF kapsamında satıcı, belirtilen varış limanına kadar ana nakliyeyi ve minimum sigortayı düzenler ve öder. Risk, teknik olarak menşe limanında yükleme anında alıcıya geçer — bu durum anlaşmazlıklarda önemli olabilir.
 
-CIF koşullarında, mallar varış limanında alıcı tarafından gümrüklenmelidir. Avrupa Birliği içindeki ticarette, ürünlerin EU uygunluk belgelerine (CE işareti, gıda güvenliği sertifikaları vb.) sahip olması gerekir. UB Market olarak, Bulgaristan'dan ihraç ettiğimiz tüm ayçiçek yağı ve şeker ürünleri, AB standartlarını (1169/2011 Yönetmeliği gibi) karşılamaktadır. CIF ile çalışan alıcılar, bu belgeleri önceden talep etmeli ve varış limanında gümrük işlemlerini hızlandırmak için onları hazır bulundurmalıdır.
+**Satıcı CIF kapsamında yönetir:** FOB'daki her şey, artı varış limanına ana nakliye, fatura değerinin %110'u kadar minimum deniz sigortası.
 
-## DAP — Delivered At Place (Belirlenen Yerde Teslim)
+**Alıcı CIF kapsamında yönetir:** varış limanında gümrük işlemleri ve gümrük vergisi, limandan kendi deposuna nakliye, gerekirse ek sigorta.
 
-**Ne anlama gelir:** Satıcı malı doğrudan deponuza teslim eder.
+| CIF Detayı          | Türk Alıcılar İçin Gerçeklik                   |
+| ------------------- | ---------------------------------------------- |
+| Teklif fiyatı       | Orta — ana nakliye ve sigortayı içerir         |
+| Ek maliyetler       | Liman işlemleri + yerel nakliye + gümrük + KDV |
+| Tipik ek maliyetler | +$40–75/ton                                    |
+| Risk devri          | Menşe limanında yükleme anında                 |
+| İdari yük           | Orta                                           |
+| En iyi              | Liman bazlı ithalatçılar                       |
 
-**Kim neyi öder:**
-- Satıcı: her şey — üretim, taşıma, sigorta, deponuza teslimat
-- Alıcı: boşaltma, gümrükleme (bazı durumlarda)
+Türk alıcılar için CIF Türkiye — özellikle CIF İstanbul veya CIF İzmir — en yaygın kullanılan fiyatlandırma terimidir. Varna'dan İstanbul'a deniz yoluyla yaklaşık 1–2 gün sürer. Alternatif olarak karayoluyla E87 üzerinden 5–6 saatte ulaşmak mümkündür.
 
-**DAP'ı ne zaman seçmelisiniz:**
-- "Kapıya teslimat" istiyorsanız
-- Lojistik deneyiminiz yoksa
-- Basitlik ve öngörülebilirlik istiyorsanız
+Türkiye için CIF kullanırken dikkat edilmesi gereken önemli bir nokta: CIF fiyatı limana kadar olan maliyeti kapsar, limandan deponuza olan nakliyeyi kapsamaz. İstanbul içi lojistik, şehrin büyüklüğü nedeniyle €15–30/ton arasında ek maliyet oluşturabilir.
 
-**Maliyet örneği (Türkiye'ye):**
-| Kalem | Tutar |
-|-------|-------|
-| DAP ayçiçek yağı fiyatı (24 ton) İstanbul'a | $27.600 |
-| Boşaltma | $150 |
-| **Toplam maliyet** | **$27.750** |
+**CIF'i ne zaman seçmeli:**
 
-*Not: Türkiye'ye Bulgaristan'dan karayolu teslimatı Batı Avrupa'ya göre daha kısa ve ucuzdur.*
+- İstanbul, İzmir veya Mersin gibi büyük limanlara yakınsınız
+- Gümrük müşaviri ve yerel nakliyeniz organizeli
+- Satıcının uluslararası ana nakliyeyi yönetmesini istiyorsunuz
+- 50+ ton gibi deniz taşımacılığının ekonomik olduğu miktarlarda alım yapıyorsunuz
 
-**DAP'ın Pratik Faydaları**
+## DAP ne anlama gelir ve çoğu Türk B2B alıcısı için neden avantajlıdır?
 
-DAP koşulları, özellikle Türkiye ve yakın Avrupa ülkeleri için en uygun seçeneklerden biridir. Bulgaristan'ın coğrafi konumu, Doğu Avrupa ve Ortadoğu pazarlarına hızlı karayolu teslimatı sağlamayı mümkün kılar. DAP ile alıcı, fiyatı bilir ve başka bir gümrük işlemi gerektirmediğinden (varış noktasında gümrük alıcı tarafından yapılır), bütçelenme daha kolay olur.
+DAP, Delivered at Place — Belirlenen Yerde Teslim anlamına gelir. DAP kapsamında satıcı, malları belirlediğiniz varış noktasına — deponuza, fabrikanıza veya belirttiğiniz herhangi bir adrese — teslim eder. Satıcı teslimat anına kadar tüm masrafları ve riskleri üstlenir.
 
-Gıda sektöründe DAP seçeneği, özellikle küçük ve orta ölçekli işletmeler için tercih edilir. Teslimatın tamamı satıcının sorumluluğunda olduğundan, kalite kontrol ve hızlı boşaltma süreci alıcının rahatlığını sağlar.
+**Satıcı DAP kapsamında yönetir:** üretim, ambalaj, adresinize kadar tüm nakliye, kargo sigortası, tüm transit belgeler, ihracat gümrük işlemleri.
 
-**DAP ile Karayolu Taşımacılığının Avantajları**
+**Alıcı DAP kapsamında yönetir:** Türk gümrük işlemleri ve gümrük vergisi (Türkiye AB dışı olduğundan bu zorunludur), varış yerinde boşaltma.
 
-Bulgaristan'dan Türkiye, Romanya, Macaristan ve diğer Balkan ülkelerine yapılan DAP teslimatları, genellikle karayolu ağıyla gerçekleştirilir. Karayolu taşımacılığı, demiryolu ve deniz yolundan daha hızlı ve daha az lojistik karmaşıklığı sunar. TIR sistemi kapsamında yapılan teslimatlar, gümrük işlemleri hızlandırılmış biçimde gerçekleşebilir. DAP koşullarında, satıcı olarak ADR (Tehlikeli Maddeler Yönetmeliği) ve CEMT lisansları uyarınca düzgün araç seçimi ve belgeler hazırlaması gerekir.
+| DAP Detayı          | Türk Alıcılar İçin Gerçeklik                           |
+| ------------------- | ------------------------------------------------------ |
+| Teklif fiyatı       | En yüksek — ama gerçekten her şey dahil (gümrük hariç) |
+| Ek maliyetler       | Gümrük işlemleri + KDV + boşaltma                      |
+| Tipik ek maliyetler | Gümrük müşaviri €12–18/ton + KDV (geri alınabilir)     |
+| Risk devri          | Belirlenen varış noktasında                            |
+| İdari yük           | Düşük — satıcı tüm nakliyeyi koordine eder             |
+| En iyi              | Çoğu B2B alıcısı, KOBİ'ler                             |
 
-## Karşılaştırma: FOB vs CIF vs DAP
+Varna, Bulgaristan'dan Türkiye teslimat süreleri karayoluyla:
 
-| Parametre | FOB | CIF | DAP |
-|-----------|-----|-----|-----|
-| **Sigorta** | Alıcı sorumlu | Satıcı öder | Satıcı öder |
-| **Taşıma maliyeti** | Alıcı öder | Satıcı öder | Satıcı öder |
-| **Teslimat noktası** | Yükleme limanı | Varış limanı | Alıcının adresi |
-| **Risk geçişi** | Yükleme sırasında | Yükleme sırasında | Teslimat sırasında |
-| **Gümrük işlemi** | Alıcı | Alıcı | Alıcı/Satıcı |
-| **Uygun pazarlar** | Büyük alıcılar, Batı AB | Orta boy alıcılar | Küçük alıcılar, komşu ülkeler |
-| **Toplam alıcı maliyeti (24 ton)** | $28.300 | $28.500 | $27.750 (Türkiye'ye) |
+- Varna → İstanbul: 5–6 saat (E87/D100 üzerinden)
+- Varna → Bursa: 7–8 saat
+- Varna → Ankara: 10–11 saat
+- Varna → İzmir: 12–13 saat
+- Varna → Antalya: 14–15 saat
+- Varna → Konya: 12–13 saat
 
-## Hangi Incoterm Seçmelisiniz?
+Ankara'dan bir gıda distribütörü 20 ton rafine ayçiçek yağı için üç seçeneği karşılaştırdı. FOB Varna $1.120/ton — karayolu nakliyesi Varna–Ankara €42/ton, sigorta €11/ton, liman ücreti €18/ton, gümrük müşaviri €15/ton eklenince FOB toplam ~$1.233/ton oldu. DAP Ankara $1.265/ton + gümrük müşaviri €15/ton = ~$1.284/ton. Fark ton başına sadece ~$51'di. Bu fark için DAP, tamamen koordinasyonsuz, kapıya teslim aldı. KOBİ ölçeğindeki bir işletme için bu değiş tokuş açıkça DAP lehine.
 
-Sonuç olarak, seçim yapmanız gereken faktörler şunlardır:
+## FOB, CIF ve DAP gerçek toplam maliyette nasıl karşılaştırılır?
 
-- **Operasyonel kapasite:** Lojistik ve gümrük işlemleri yönetebilir misiniz?
-- **Sipariş boyutu:** Küçük siparişler için DAP daha uygun; büyük hacimler için FOB ekonomiktir.
-- **Coğrafi konum:** Yakın pazarlar için karayolu (DAP), uzak pazarlar için deniz yolu (CIF/FOB) tercih edilir.
-- **İlişki süresi:** Yeni partnerlerle CIF ile başlayıp, güven oluştukça FOB'a geçiş yapabilirsiniz.
+Somut örnek: 24 ton rafine RBDW ayçiçek yağı, Varna'dan İstanbul'daki bir depoya.
 
-UB Market, Bulgaristan'dan gıda ürünleri ihraç etmekte ve müşterilerimizin ihtiyaçlarına göre FOB, CIF ve DAP seçeneklerini sunmaktadır. Hangi Incoterm'i tercih ederseniz edin, profesyonel ve zamanında teslimatı garantiliyoruz.
+| Maliyet unsuru                  | FOB Varna   | CIF İstanbul | DAP İstanbul |
+| ------------------------------- | ----------- | ------------ | ------------ |
+| Ürün fiyatı                     | $1.120/ton  | $1.195/ton   | $1.245/ton   |
+| Karayolu Varna–İstanbul         | €30/ton     | —            | dahil        |
+| Liman/sınır ücreti              | €18/ton     | €20/ton      | —            |
+| Kargo sigortası                 | €11/ton     | dahil        | dahil        |
+| Gümrük müşaviri                 | €15/ton     | €15/ton      | €15/ton      |
+| Yerel nakliye liman–depo        | —           | €20/ton      | —            |
+| **Gümrük + vergi hariç toplam** | **~$1.222** | **~$1.307**  | **~$1.261**  |
+
+Bu örnekte DAP İstanbul, CIF İstanbul'dan daha ucuzdur — ve alıcı herhangi bir nakliye koordinasyonu yapmadan malı doğrudan deposunda teslim alır. FOB ise $39/ton daha ucuzdur ancak tüm lojistik koordinasyonu alıcıya bırakır.
+
+**Önemli:** Her üç seçenek için de Türk gümrük işlemleri ve KDV ödenmesi gerekir. KDV genel olarak geri alınabilir niteliktedir; gümrük vergisi ise ürüne ve menşe ülkeye göre değişir. Bulgaristan AB üyesi olduğundan, Türkiye-AB serbest ticaret anlaşması kapsamında bazı ürünler tercihli tarife hakkından yararlanabilir.
+
+## Gizli maliyetler — Türk alıcıları en çok ne şaşırtır?
+
+**FOB'da gizli maliyetler:**
+
+- Küçük partiler için nakliye asgari ücreti: €250–500 sabit per sevkiyat
+- Yakıt ek ücreti (BAF): deniz taşımacılığında ton başına €8–15, günlük değişken
+- Liman elleçleme ücreti: €15–22/ton
+- Gecikmeli yükleme durumunda demuraj: günlük €500–2.000
+- Belge ücreti eğer satıcı sağlamazsa: €50–150 sabit
+
+**CIF'de gizli maliyetler:**
+
+- Terminal Handling Charge (THC) varış limanında: €10–22/ton
+- Liman depolama ücreti gecikmede: günlük €40–150
+- Yerel nakliye liman–depo: €15–35/ton İstanbul içi
+- Gümrük müşaviri: €200–450 sabit per sevkiyat
+
+**DAP'ta gizli maliyetler:**
+
+- Türkiye'ye özgü: Türk gümrük müşaviri ücreti €150–300 sabit per sevkiyat (zorunlu)
+- KDV: geri alınabilir ama nakit akışını etkiler
+- Boşaltma: genellikle dahil, maximum €100–200 sabit
+- Belirlenmiş teslimat penceresi dışı durumlar için surcharge
+
+## Her teslimatla hangi belgeler gelir?
+
+Incoterm'den bağımsız olarak UB Market her sevkiyatla şunları sağlar:
+
+- **Analiz Sertifikası (CoA)** akredite üçüncü taraf laboratuvardan — yağ asidi profili, peroksit sayısı, serbest yağ asitleri, pestisit kalıntıları
+- **Menşe Belgesi** — gümrük tercihli muamele için, Türkiye-AB Gümrük Birliği kapsamında
+- **Fitosaniter Sertifika** — bitkisel gıda ürünleri için zorunlu
+- **Ticari fatura ve ambalaj listesi**
+- **Uygunluk Beyanı** — AB gıda mevzuatına uygunluk için
+- **GDO'suz Beyan** — talep üzerine
+- **Helal Sertifikası** — Türk pazarı için önerilir, talep üzerine sağlanır
+- **ISO 22000 ve HACCP Sertifikası** üretim tesisinden
+
+Tüm belgeler TSE standartları ve Türk Gıda Tarım ve Hayvancılık Bakanlığı gerekliliklerine uygundur.
+
+## UB Market'in Türk müşterileri hangi Incoterm'i seçiyor?
+
+2025–2026 yıllarında işlenen Türkiye siparişlerine göre:
+
+- **CIF: 48%** — liman bazlı büyük ithalatçılar, İstanbul ve İzmir
+- **DAP: 37%** — KOBİ'ler ve iç bölge distribütörleri
+- **FOB: 15%** — kendi lojistik ağına sahip büyük üreticiler
+
+Türkiye'de CIF'in DAP'tan daha yaygın olmasının nedeni, büyük Türk gıda şirketlerinin kendi liman altyapılarına ve gümrük müşavirlerine sahip olmasıdır. Ancak KOBİ segmentinde DAP giderek daha popüler hale geliyor — özellikle İstanbul dışındaki distribütörler arasında.
+
+## Teklifinizde doğru Incoterm'i nasıl talep edersiniz?
+
+Bir satıcıya başvururken başından beri spesifik olun. Belirsiz bir "ayçiçek yağı fiyatı nedir?" sorusu otomatik olarak FOB teklif getirir — gizli maliyetlerle birlikte.
+
+Sorgularınızda her zaman şunları belirtin:
+
+1. **Ürün ve kalite:** Rafine RBDW / Yüksek Oleik / Ham
+2. **Miktar:** ton veya litre olarak kesin bilgi
+3. **Teslimat koşulu:** DAP [şehriniz], veya CIF [liman], veya FOB [menşe limanı]
+4. **Zaman çizelgesi:** istenen teslimat tarihi veya aralığı
+5. **Ambalaj:** dökme flexitank / IBC 1.000L / PET şişeler + boyut
+6. **Sertifikasyon gereksinimleri:** Helal, GDO'suz, Organik
+
+UB Market tüm B2B sorgularına 24 saat içinde, tüm Incoterm seçeneklerini ve güncel fiyatları içeren ayrıntılı bir fiyat listesiyle yanıt verir. Talep üzerine, sipariş boyutunuz ve teslimat hedefiniz için FOB-CIF-DAP karşılaştırmalı maliyet tablosu hazırlıyoruz.
+
+---
+
+Siparişiniz için en iyi ticaret koşullarını görüşmeye hazır mısınız? **[Teklif isteyin](/tr/quote)** — teslimat konumunuzu bize bildirin, hacminiz için en uygun maliyetli Incoterm'i önereceğiz.
+
+_Kaynaklar: ICC Incoterms 2020 kuralları, UB Market lojistik verileri 2025–2026, Avrupa navlun endeksleri Q1 2026, Türk Gümrük Mevzuatı._

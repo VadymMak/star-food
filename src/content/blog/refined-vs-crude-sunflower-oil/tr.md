@@ -1,158 +1,181 @@
 ---
-title: "Rafine ve Ham Ayçiçek Yağı Karşılaştırması — Toptan Alıcılar İçin Rehber"
-date: "2026-04-01"
-description: "Rafine ve ham ayçiçek yağının detaylı karşılaştırması — özellikler, fiyatlar, kullanım alanları ve işiniz için hangisi daha uygun."
+title: "Rafine vs Ham Ayçiçek Yağı — B2B Alıcılar 2026'da Hangisini Seçmeli?"
+description: "Rafine ve ham ayçiçek yağı için kapsamlı alıcı rehberi — işleme yöntemleri, kalite parametreleri, gerçek fiyatlar ve hangi türün işletmenize uyduğu. CoA kontrol listesi ve karar çerçevesi ile birlikte."
+date: "2026-03-05"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
-readingTime: 8
-tags: ["rafine yağ", "ham yağ", "karşılaştırma", "kalite"]
+readingTime: 10
+ogImage: "/images/blog/refined-vs-crude-sunflower-oil/og.jpg"
 ---
-## Temel Fark
 
-Rafine ve ham (crude) ayçiçek yağı, aynı hammaddeden üretilmelerine rağmen temelden farklı iki üründür.
+**TL;DR:** Ham ayçiçek yağı (CSO) Karadeniz FOB $950–1.050/ton'a mal olur ve rafineriler, biyodizel üreticileri ile oleokimyasal fabrikalar tarafından kullanılır. Rafine RBDW ayçiçek yağı $1.100–1.200/ton olup gıda distribütörleri, HoReCa operatörleri ve gıda üreticileri için tercihtir. $150–200/ton rafinasyon primi şunları sağlar: nötr tat, 220–230°C duman noktası, 12–18 ay raf ömrü ve doğrudan tüketici satışı için AB gıda güvenliği yönetmeliklerine uyum.
 
-**Ham yağ** — kimyasal işlem görmemiş ilk presleme yağıdır. Doğal renk, koku ve besin değerlerini korur.
+---
 
-**Rafine yağ** — tam arıtma döngüsünden geçmiş yağdır: degomaj, nötralizasyon, ağartma ve deodorizasyon. Berrak, nötr tatlı yağ, pişirme için idealdir.
+### Hızlı Cevap: Rafine vs Ham Ayçiçek Yağı 2026
 
-## Karşılaştırma Tablosu
+| Parametre            | Ham (CSO)                         | Rafine RBDW                       |
+| -------------------- | --------------------------------- | --------------------------------- |
+| Karadeniz FOB fiyatı | $950–1.050/ton                    | $1.100–1.200/ton                  |
+| Serbest yağ asitleri | %1,0–3,0                          | ≤ %0,1                            |
+| Duman noktası        | 160–180°C                         | 220–230°C                         |
+| Raf ömrü             | 4–6 ay                            | 12–18 ay                          |
+| Renk                 | Koyu altın/kehribar               | Açık sarı, berrak                 |
+| Tat                  | Fındıksı, karakteristik           | Nötr                              |
+| En iyi kullanım      | Rafineriler, biyodizel, tüccarlar | Distribütörler, HoReCa, perakende |
+| AB gıda satışı       | Yalnızca rafineri aracılığıyla    | Doğrudan satışa hazır             |
 
-| Parametre | Rafine | Ham |
-|-----------|--------|-----|
-| Asitlik | < %0,1 | %1-3 |
-| Renk | Açık sarı | Koyu sarı, altın |
-| Koku | Nötr | Belirgin, çekirdek kokulu |
-| Tat | Nötr | Belirgin |
-| Duman noktası | 230°C | 160-170°C |
-| E Vitamini | Azalmış | Korunmuş |
-| Raf ömrü | 12-18 ay | 6-9 ay |
-| FOB Fiyat | $1.050-1.100/ton | $900-950/ton |
+---
 
-## Rafinasyon Süreci
+## Ham ve rafine ayçiçek yağı arasındaki seçim B2B alıcılar için neden önemlidir?
 
-Rafinasyon beş temel aşamadan oluşur:
+İstanbul'dan bir tüccar bir keresinde "ayçiçek yağı — en ucuz seçeneğiniz" için teklif istedi. Ona iki fiyat gönderdik: ham için $975/ton ve rafine için $1.145/ton. Ton başına sayı daha düşük olduğu için 30 ton ham yağ sipariş etti.
 
-**1. Degomaj** — su veya asitle fosfolipidlerin giderilmesi.
+Üç hafta sonra geri aradı. Müşterisi — İstanbul'da bir gıda distribütörü — sevkiyatı reddetti. Distribütörün sözleşmeleri maksimum %0,3 SYA içerikli rafine yağ gerektiriyordu. Aldığı ham yağın %1,8 SYA içeriği vardı ve koyu kehribar renkli olup doğrudan gıda dağıtımı için tamamen uygunsuzdu.
 
-**2. Nötralizasyon** — sodyum hidroksitle serbest yağ asitlerinin giderilmesi, asitliği %0,05-0,1'e düşürür.
+Başından beri bizden doğru ürünü sipariş etmiş olsaydı ödeyeceğinden ton başına €125 daha fazla olan €1.270/ton DAP İstanbul fiyatıyla yerel bir aracıdan acil rafine yağ ayarlamak ve ödemek zorunda kaldı. Ucuz ham yağ sonunda onu rafine seçeneğinden çok daha pahalıya mal etti.
 
-**3. Ağartma** — pigmentlerin giderilmesi için aktif kilden geçirme.
+Bu hikaye ilk kez alım yapanlar arasında düzenli olarak tekrarlanıyor. Ham/rafine seçimi en ucuz fiyatı bulmakla ilgili değil — ürün özelliğini belirli işletme uygulamanızla eşleştirmekle ilgilidir. Bu rehber bu eşleştirmeyi doğru yapmanızı açıklıyor.
 
-**4. Vinterizasyon** — depolamada berraklığı sağlamak için mumsu maddelerin giderilmesi amacıyla soğutma.
+## Ham ayçiçek yağı nedir ve nasıl üretilir?
 
-**5. Deodorizasyon** — yüksek sıcaklıkta buhar işlemi ile koku ve tadın giderilmesi.
+Ham ayçiçek yağı (CSO), ayçiçeği tohumlarının preslenmesi veya solvent ekstraksiyonunun doğrudan ürünüdür. Tohumlar temizlendikten, şartlandırıldıktan ve preslendikten sonra elde edilen yağ, katı parçacıkları gidermek için yalnızca temel filtrasyondan geçer. Kimyasal işlem uygulanmaz. Yağ, ayçiçeği tohumunda doğal olarak bulunan her bileşiği korur: fosfolipidler, mumlar, serbest yağ asitleri, renk pigmentleri ve uçucu aromatik bileşikler.
 
-## Rafinasyon Kalitesi ve Standartlar
+**Ham yağ üretim süreci dört adımda:**
 
-AB'de ayçiçek yağı kalitesi EN 12922 ve ISO 6925 standartlarıyla kontrol edilir. Rafine yağ, Grade 1 sınıfında en titiz şartları karşılamalıdır:
+1. **Tohum hazırlama** — yağ verimini maksimize etmek için temizleme, kurutma ve kabuk soyma
+2. **Mekanik presleme** — ekspeller veya vida presi mevcut yağın %85–90'ını çıkarır
+3. **Solvent ekstraksiyonu** — heksan ekstraksiyonu pres kekinden kalan %10–15'i kurtarır
+4. **Temel filtrasyon** — askıdaki tohum parçacıklarını giderir, kimyasal işlem yok
 
-- **Asitlik değeri:** % 0,1'den az
-- **Peroksit değeri:** 5 mEq/kg'dan az
-- **Saflık:** 200°C'de filtreleme kalıntısı 5 mg/l'den az
+Sonuç, karakteristik fındık aromalı, yüksek doğal E vitamini içeriğine sahip ve önemli miktarda fosfolipid ve serbest yağ asidi bulunan koyu altın ile kehribar renkli bir yağdır. Bu, çoğu gıda uygulaması için bitmiş ürün değildir — daha fazla işlem gerektiren bir ara üründür.
 
-Bu standartlara uyum, Avrupa Birliği ülkelerinde satış için zorunludur. UB Market olarak, tüm ürünlerimiz bu belgelendirmeleri taşır ve bağımsız laboratuvarlar tarafından düzenli olarak test edilir. Bu sayede müşterilerimiz AB normlarında yüksek kaliteli ürün aldıklarından emin olabilir.
+**Ham ayçiçek yağı için tipik kalite parametreleri:**
 
-## Pazar Bağlamı ve Fiyat Dinamikleri
+- Serbest yağ asitleri (SYA): %1,0–3,0
+- Peroksit değeri: 15 meq/kg'a kadar
+- Nem: %0,2'ye kadar
+- Fosfor: 100–600 ppm
+- Renk (Lovibond): 35Y / 6R veya daha koyu
+- Raf ömrü: Mühürlü kaplarda 4–6 ay
 
-Ayçiçek yağı piyasası, tarım dönemlerine ve jeopolitik faktörlere duyarlıdır. Ukrayna ve Rusya, dünyanın en büyük ayçiçek üreticileri olduğundan, bu bölgelerdeki gelişmeler fiyatları doğrudan etkiler. 2023-2024 döneminde, arz zincirindeki sorunlar nedeniyle rafine yağ fiyatları rekabetçi kalmıştır.
+## Rafine ayçiçek yağı nedir ve rafinasyon süreci ne yapar?
 
-**Alıcılar için önemli noktalar:**
+Rafine, Beyazlatılmış, Deodorize Edilmiş, Kışlatılmış (RBDW) ayçiçek yağı, koyu ve keskin ham yağı her süpermarkette ve ticari mutfakta bulunan açık renkli, nötr tatlı ürüne dönüştüren beş aşamalı endüstriyel bir arıtma sürecinden geçer.
 
-- Uzun vadeli kontratlar ile fiyat istikrarı sağlayabilirsiniz
-- Kargo ve depolama masraflarını önceden planlamalısınız
-- Sezon başında (hasat sonrası) daha uygun fiyatlı tedarik mümkündür
-- Toplu alışlar (%10 ton+) daha iyi oranlar sunabilir
+Her rafinasyon aşaması belirli bileşikleri giderir ve belirli bir amaca hizmet eder:
 
-AB pazarında ayçiçek yağına olan talep, özellikle gıda işleme sektöründe istikrarlı artış göstermektedir. Polonya, Romanya ve Fransa gibi ülkelerde margarincilik ve konserve üretimi, rafine yağın başlıca alıcılarıdır. Aynı zamanda, sağlık bilincinin artmasıyla premium ham yağlara da artan bir ilgi söz konusudur.
+**Aşama 1 — Zamkalaştırma (Degumming)**
+Fosfolipidler (zamklar) su veya asit işlemiyle giderilir. Fosfolipidler yağı bulanıklaştırır ve yüksek sıcaklıkta kızartmada kararmalara neden olabilir. Gıda kaliteli rafine yağ için giderilmesi zorunludur.
 
-## Her Tür Nerede Kullanılır
+**Aşama 2 — Nötralizasyon (Deacidifikasyon)**
+Serbest yağ asitleri kostik soda (NaOH) yıkamasıyla giderilir. Bu adım SYA'yı ham yağdaki %1,0–3,0'dan rafine yağdaki ≤ %0,1'e düşürür. Yüksek SYA içeriği ransiditeye ve kötü aromalara neden olur — bunların giderilmesi rafine yağa nötr tadını ve uzun raf ömrünü kazandırır.
 
-### Rafine Yağ
-- Perakende (marketler, mağazalar)
-- Restoranlar ve HORECA
-- Gıda endüstrisi (fırıncılık, konserve, sos)
-- Margarin üretimi
-- Kızartma ve pişirme
+**Aşama 3 — Ağartma (Bleaching)**
+Ağartma toprağı (aktive kil) renk pigmentlerini, artık fosfolipidleri ve eser metalleri adsorplar. Bu adım koyu kehribar ham yağı açık sarı rafine ürüne dönüştürür. Ayrıca pestisit kalıntılarını ve diğer kontaminantları giderir.
 
-### Ham Yağ
-- Premium mutfak yağı (salatalar için)
-- Rafineri hammaddesi
-- Kozmetik ve ilaç üretimi
-- Teknik kullanım
-- Biyodizel üretimi
+**Aşama 4 — Kışlatma (Winterization/Dewaxing)**
+Yağı 5–8°C'ye soğutmak mumların kristalleşmesine ve çökmesine neden olur. Bu mumların giderilmesi yağın düşük sıcaklıklarda depolanırken bulanıklaşmasını önler — Kuzey Avrupa pazarlarında raf stabilitesi ve soğutulmuş gıda ürünleri için önemli.
 
-## Lojistik ve Taşıma Detayları
+**Aşama 5 — Deodorizasyon**
+Yüksek sıcaklık (230–270°C) ve vakum altında buhar distilasyonu uçucu aromatik bileşikleri giderir — ham yağın karakteristik fındık kokusundan sorumlu maddeler. Bu adım rafine yağı tat ve koku olarak tamamen nötr yapar.
 
-Ayçiçek yağı, yoğunluğu 0,920-0,930 g/cm³ olan sıvı bir ürün olduğundan, nakli ve depolanması belirli şartlar gerektirir.
+**Rafine RBDW ayçiçek yağı kalite parametreleri:**
 
-**Depolama koşulları:**
+- Serbest yağ asitleri (SYA): ≤ %0,1
+- Peroksit değeri: ≤ 5 meq/kg
+- Nem: ≤ %0,05
+- Renk (Lovibond): 12Y / 1,2R
+- Duman noktası: 220–230°C
+- Raf ömrü: 12–18 ay
 
-- Sıcaklık: 15-25°C arasında stabil tutulmalı
-- Işık: Doğrudan güneş ışığından korunmalı
-- Nem: %65'i aşmamalı
-- Havalandırma: Düzenli hava dolaşımı sağlanmalı
+## Ham ve rafine ayçiçek yağı her kalite parametresinde nasıl karşılaştırılır?
 
-**Taşıma seçenekleri:**
+| Parametre            | Ham Ayçiçek Yağı  | Rafine RBDW                     | Neden Önemli                                |
+| -------------------- | ----------------- | ------------------------------- | ------------------------------------------- |
+| Serbest yağ asitleri | %1,0–3,0          | ≤ %0,1                          | Yüksek SYA = ransidite, kötü aromalar       |
+| Peroksit değeri      | 15 meq/kg'a kadar | ≤ 5 meq/kg                      | Yüksek peroksit = oksidasyon, kısa raf ömrü |
+| Renk (Lovibond)      | 35Y / 6R+         | 12Y / 1,2R                      | Gıda ürünlerindeki görünüm                  |
+| Duman noktası        | 160–180°C         | 220–230°C                       | Kızartma uygunluğu                          |
+| Fosfor               | 100–600 ppm       | ≤ 2 ppm                         | Fritözlerde köpürme ve kararma              |
+| Mum içeriği          | Mevcut            | Giderilmiş                      | Şişelerde soğuk bulanıklık                  |
+| Nem                  | %0,2'ye kadar     | ≤ %0,05                         | Stabilite ve mikrobiyolojik güvenlik        |
+| Trans yağlar         | Minimum           | Minimum (uygun deodorizasyonda) | AB Yönetmeliği 2019/649 uyumu               |
+| E vitamini           | 600–700 mg/kg     | 400–500 mg/kg                   | İşlemle azalmış ama hâlâ önemli             |
+| Raf ömrü             | 4–6 ay            | 12–18 ay                        | Distribütörler için stok yönetimi           |
+| Koku/tat             | Fındıksı, güçlü   | Tamamen nötr                    | Son ürün kabul edilebilirliği               |
 
-- **Tanker kamyon:** 25-30 ton kapasiteli, kimyasal tankerler idealdir
-- **Konteyner:** 20ft IBC konteyner (1.000 litre) veya plastik ışınlı kaplar
-- **Demiryolu:** Avrupa'da karlı çünkü daha düşük maliyetli ve çevreye daha uygun
-- **Gemi:** Büyük hacimli sevkiyatlar için en ekonomik seçenek
+## Ham yağ ve rafine yağ Türkiye ve AB'de 2026'da ne kadara mal olur?
 
-EU gümrük düzenlemeleri uyarınca, ayçiçek yağı tarife kodlaması 1512.19.10'dur. Belgeler HS kodu, orijin belgesi (Certificate of Origin) ve ticari fatura olmalıdır. Bulgaria'dan sevkiyat yapılan ürünler, "Menşei Belgesi" ile AB'nin hiçbir ülkesinde gümrük vergisine tabi değildir.
+UB Market'ten güncel Q1 2026 fiyatları:
 
-Taşımacı seçerken, AD (Avrupa Anlaşmasına göre Tehlikeli Mallar) belgesine sahip firmalarla çalışmalısınız. Ayçiçek yağı, belirli şartlar altında yanıcı sınıfında yer almaktadır ve bu nedenle sigortalanması zorunludur. Sigorta maliyeti genelde kargo değerinin %0,5-1,5'i arasında değişir.
+| Tür                  | Karadeniz FOB   | CIF Rotterdam   | CIF İstanbul    | DAP Türkiye          |
+| -------------------- | --------------- | --------------- | --------------- | -------------------- |
+| Ham (CSO)            | $950–1.050/t    | $1.020–1.120/t  | $990–1.080/t    | Teklif için iletişim |
+| Rafine RBDW          | $1.100–1.200/t  | $1.170–1.280/t  | $1.140–1.240/t  | Teklif için iletişim |
+| High-Oleic RBDW      | $1.300–1.450/t  | $1.370–1.540/t  | $1.340–1.510/t  | Teklif için iletişim |
+| **Rafinasyon primi** | **+$150–200/t** | **+$150–200/t** | **+$150–200/t** | —                    |
 
-## İşiniz İçin Hangisini Seçmelisiniz
+Türk alıcılar için önemli bir not: Varna'dan İstanbul'a karayoluyla yalnızca 5–6 saatte ulaşılır. Bu, UB Market'in CIF İstanbul veya DAP seçenekleriyle rakabetçi teslimat süreleri sunabildiği anlamına gelir. Türkiye-AB Gümrük Birliği kapsamında Bulgaristan'dan ithal edilen ürünlerde bazı tarife avantajları da söz konusu olabilir.
 
-**Rafine seçin, eğer:**
-- Distribütör veya perakende zinciriyseniz
-- Müşterileriniz restoran ve kafelersa
-- Yüksek sıcaklıkta pişirme için yağ gerekiyorsa
-- Uzun raf ömrü önemliyse
+$150–200/ton rafinasyon primi, rafineri gerçek işleme maliyetlerini yansıtır: enerji (deodorizasyon için buhar ve ısı), kimyasallar (kostik soda, ağartma toprağı), işgücü ve rafinasyon sırasındaki verim kaybı (ham yağ rafine edilirken yaklaşık %3–5 hacim kaybeder).
 
-**Ham seçin, eğer:**
-- Kendi rafineriniz varsa
-- Doğal bileşenlerden premium ürün üretiyorsanız
-- Kozmetik veya ilaç sektöründeyseniz
+## Ham ayçiçek yağı için spesifik kullanım alanları nelerdir?
 
-## Kalite Kontrolü: Alıcı Olarak Nelere Dikkat Etmeli
+Ham ayçiçek yağı bir tüketici gıda ürünü değildir. Endüstriyel bir hammaddedir. Ham yağ seçmesi gereken alıcılar şu spesifik durumlardan birine sahiptir:
 
-Ayçiçek yağı satın alırken, aşağıdaki kontroller yapılmalıdır:
+**Rafineriler ve kırma fabrikaları** — Ham yağın birincil alıcısı. Rafineriler CSO'yu yerel veya ihracat pazarları için rafine yağa işlemek üzere satın alır. Bulgaristan, Romanya ve Macaristan, Ukrayna ve Bulgaristan ham yağı satın alan aktif rafinasyon kapasitelerine sahiptir.
 
-- **COA (Certificate of Analysis):** Her kargo ile gelmelidir
-- **Görsel muayene:** Renk ve berraklık kontrol edilmeli
-- **Koku testi:** Anormal kokular hemen reddedilebilir
-- **Asitlik analizi:** Laboratuvar testleriyle doğrulanmalıdır
-- **Peroksit değeri:** Çevre koşulları nedeniyle eski ürünlerde yüksek olabilir
+**Biyodizel üreticileri** — Ayçiçek yağı, Yenilenebilir Enerji Direktifi kapsamında Avrupa'da biyodizel üretimi için hammadde olarak kullanılır. Transesterifikasyon için saflık değil yağ asidi profili önemli olduğundan ham yağ bu uygulama için kabul edilebilir.
 
-## Tedarik Stratejileri ve Ticari Şartlar
+**Oleokimyasal üreticileri** — Yağ asitleri, gliserol, sabunlar ve diğer oleokimyasal türevlerin üreticileri ham yağı hammadde olarak kullanabilir.
 
-UB Market ile çalışan B2B müşterilerimiz, çeşitli ödeme ve teslimat seçeneklerinden yararlanabilir:
+**Emtia tüccarları** — Karadeniz'de ham yağ satın alıp hedef pazarlarındaki rafinerilere satan şirketler. UB Market, AB kayıtlı bir aracı olarak tam belgelendirme ve ticaret finansmanı ile bu tüccarları destekler.
 
-- **FOB (Free on Board):** Yük gemisinin üzerine koyma noktasında teslimat
-- **CIF (Cost, Insurance and Freight):** Kargo ve sigorta dahil
-- **LC (Letter of Credit):** Uluslararası ticaret için güvenli ödeme yöntemi
+## Rafine ayçiçek yağı için spesifik kullanım alanları nelerdir?
 
-Minimum sipariş miktarı 20 tondan başlamakta, daha büyük siparişlerde özel fiyatlandırma uygulanmaktadır. Uzun vadeli müşterilerimiz için esnek ödeme koşulları ve depo kredisi imkanı sunulmaktadır.
+**Gıda perakende ve dağıtım** — Süpermarket kalitesindeki her ayçiçek yağı ürünü rafine edilmiştir. AB tüketici gıda güvenliği standartları ve perakendeci standartları, doğrudan tüketici satışı için rafine yağ gerektirir.
 
-## AB Ticari Mevzuatı ve Uyum Zorunlulukları
+**HoReCa ve yemek hizmetleri** — Restoranlar, oteller ve catering şirketleri, yüksek duman noktası (220–230°C) ve nötr tat gerektiren yağa ihtiyaç duyar. Duman noktası 160–180°C olan ve güçlü fındık tadı taşıyan ham yağ ticari kızartma için uygun değildir. Türkiye'de Tarım ve Orman Bakanlığı, gıda işletmelerinde kızartma yağı kalitesini denetlemektedir.
 
-Ayçiçek yağının AB pazarında satılabilmesi için birkaç önemli yasal şartın yerine getirilmesi gerekmektedir. **1169/2011 AB Tüzüğü**, tüm gıda ürünlerinin etiketleme ve bilgilendirme standartlarını belirler. Bu kapsamda, ambalajlı ürünlerde besin bilgisi, alerjen uyarıları ve ürün menşei açıkça belirtilmelidir.
+**Gıda üretimi** — Mayonez, salata sosları, margarin, pişmiş ürünler, atıştırmalıklar ve konserve balık hepsi rafine yağ gerektirir. Nötr tat, tutarlı kalite ve uzun raf ömrü endüstriyel gıda üretimi için vazgeçilmezdir.
 
-**Organik sertifikasyon**, premium ham yağlar için giderek daha önemli hale gelmektedir. Eğer ürünü "bio" veya "organik" olarak pazarlamak istiyorsanız, AB Organik Tüzüğü (834/2007) kapsamında sertifikalanmanız zorunludur. Bu belge, ithal ürünler için tanınan kuruluşlardan alınmalıdır.
+**Özel etiket şişeleme** — Kendi markası altında perakende veya HoReCa satışı için ayçiçek yağı şişeleyen her şirket rafine yağa ihtiyaç duyar. Helal sertifikalı rafine ayçiçek yağı Türk pazarı için talep üzerine temin edilebilir.
 
-**Gıda güvenliği belgelendirmesi** (FSSC 22000 veya ISO 22000) ise, özellikle endüstriyel alıcılar tarafından sıkça talep edilmektedir. UB Market, bu sertifikatlara sahip tedarikçilerle çalışır ve müşterilerine tam belgeli ürünler sunar.
+## CoA her tür için ne göstermeli?
 
-## Fiyat Trendleri ve Pazar Tahmini
+**Ham yağ CoA için şunları talep edin:**
 
-2024 yılında, ayçiçek yağı fiyatları küresel arz dinamikleri tarafından belirlenmeye devam etmektedir. Ukrayna'dan gelen ürünlerin azalması, Avrupa pazarında hafif bir fiyat yükselişi yaratmıştır. Ancak alternatif kaynaklar (Arjantin, Çin, Hindistan) devreye girmesiyle, aşırı fiyat artışları önlenmiştir.
+- Serbest yağ asidi içeriği — hedef ≤ %3,0, üzerindeyse reddedin
+- Nem ve uçucu maddeler — hedef ≤ %0,2
+- Peroksit değeri — hedef ≤ 15 meq/kg
+- Fosfor içeriği — aşağı akış rafinasyonu için önemli
+- Mum içeriği — kışlatma planlaması için ilgili
+- Pestisit kalıntıları — AB MRL limitlerinin altında
+- Lovibond rengi — kalite sınıflandırması için
 
-**Kısa vadeli beklentiler:**
-- Kış aylarında fiyatlarda hafif iyileşme bekleniyor
-- Bahar sezonunda yeni hasat haberleri fiyatları bastırabilir
-- Küresel emtia borsalarında dolar kuru etkili olmaya devam edecek
-- Bitkisel yağ alternatifleri (palmiye, soya) ile rekabet devam edecek
+**Rafine RBDW ayçiçek yağı CoA için şunları talep edin:**
 
-**Uzun vadeli stratejiler:**
-Sabit tedarik güvenliği için, UB Market ile 6-12 aylık tedarik anlaşmaları yapmanız önerilir. Bu şekilde, pazar dalgalanmalarına karşı korunabilir ve işletme maliyetlerinizi daha iyi tahmin edebilirsiniz.
+- SYA içeriği — ≤ %0,3 olmalı (tercihen ≤ %0,1)
+- Peroksit değeri — ≤ 5 meq/kg olmalı
+- Nem — ≤ %0,05
+- Lovibond rengi — standart kalite için maksimum 12Y / 1,2R
+- Duman noktası — kızartma uygulamaları için minimum 220°C
+- Soğuk test (kışlatma) — 0°C'de 5,5 saat bulanıklık olmadan geçmeli
+- Trans yağ içeriği — AB Yönetmeliği 2019/649'a göre ≤ %1
+- Polisiklik aromatik hidrokarbonlar (PAH) — AB Yönetmeliği 2015/1933 limitleri
+- Pestisit kalıntıları — tümü AB MRL'nin altında
+
+## Spesifik işletmeniz için doğru seçimi nasıl yaparsınız?
+
+**Ham satın alın eğer:** Ton başına $150'nın altında maliyetle rafinasyon kapasitesine sahipsiniz veya sözleşmeli erişiminiz varsa. Ya da yağı kendileri işleyecek rafinerilere, biyodizel üreticilerine veya oleokimyasal üreticilerine satıyorsanız.
+
+**Rafine satın alın eğer:** Gıda işletmelerine, perakendeye, HoReCa operatörlerine veya gıda kaliteli yağa ihtiyaç duyan gıda üreticilerine dağıtım yapıyorsanız. Rafinasyon kapasitesi yoksa. 6 aydan fazla raf ömrü gerekiyorsa. Tüketici güvenliği standartlarının uygulandığı AB pazarlarında satış yapıyorsanız.
+
+**High-oleic rafine satın alın eğer:** Müşterileriniz yoğun kızartma ihtiyacı olan restoranlar ve yemek hizmetleri ise. High-oleic yağın 2–3 kat daha uzun kızartma döngüsü, daha yüksek ton başına fiyata rağmen toplam kızartma maliyetlerinde %30–40 tasarruf sağlar.
+
+---
+
+Ham, rafine veya high-oleic ayçiçek yağı için fiyat mı arıyorsunuz? **[Teklif isteyin](/tr/quote)** — ürün tipi, hacim, ambalaj ve teslimat hedefini bildirin; 24 saat içinde güncel fiyatlar ve tam CoA belgeleriyle yanıt verelim.
+
+_Kaynaklar: FOSFA ayçiçek yağı ticaret standartları, trans yağ asitleri hakkında AB Yönetmeliği 2019/649, UB Market fiyat verileri Q1 2026, Codex Alimentarius ayçiçek yağı standartları._

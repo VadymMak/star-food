@@ -13,6 +13,7 @@ const FLAGS: Record<string, string> = {
   ro: "🇷🇴",
   de: "🇩🇪",
   ua: "🇺🇦",
+  el: "🇬🇷",
 };
 
 const LABELS: Record<string, string> = {
@@ -22,6 +23,7 @@ const LABELS: Record<string, string> = {
   ro: "Română",
   de: "Deutsch",
   ua: "Українська",
+  el: "Ελληνικά",
 };
 
 export default function LanguageSwitcher() {

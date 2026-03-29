@@ -1,98 +1,189 @@
 ---
-title: "FOB, CIF und DAP — Incoterms für den Lebensmittelhandel einfach erklärt"
-date: "2026-03-15"
-description: "Was bedeuten FOB, CIF und DAP im internationalen Lebensmittelhandel? Verständliche Erklärung der wichtigsten Handelsklauseln für Großeinkäufer."
+title: "FOB, CIF oder DAP — Welchen Incoterm sollten Lebensmittelkäufer in Europa 2026 wählen?"
+description: "Praktischer Leitfaden zu FOB, CIF und DAP für B2B-Lebensmittelkäufer in Europa — reale Kostenvergleiche, versteckte Gebühren und welcher Incoterm am meisten spart."
+date: "2026-02-12"
+category: "trading"
 image: "/images/our-location.webp"
-tags: ["Incoterms", "FOB", "CIF", "DAP", "Handel"]
-readingTime: 7
+readingTime: 11
+ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
-## Incoterms — Die Sprache des internationalen Handels
 
-Die Incoterms (International Commercial Terms) der Internationalen Handelskammer (ICC) regeln die Verantwortlichkeiten und Risiken zwischen Käufer und Verkäufer im internationalen Handel. Für den Lebensmittelgroßhandel sind drei Klauseln besonders relevant: **FOB**, **CIF** und **DAP**.
+**TL;DR:** FOB, CIF und DAP sind die drei Incoterms, die in den meisten europäischen Lebensmittelhandelsgeschäften verwendet werden. Für die meisten DACH-Käufer unter 100 Tonnen pro Bestellung liefert DAP per LKW aus Bulgarien direkt ans Lager — schneller und oft günstiger als Seefracht über Rotterdam. Varna nach München dauert per LKW nur 14 Stunden.
 
-## FOB — Free on Board (Frei an Bord)
+---
 
-Bei FOB liefert der Verkäufer die Ware an den vereinbarten Verschiffungshafen und lädt sie auf das Transportmittel. Ab diesem Punkt gehen alle Kosten und Risiken auf den Käufer über.
+### Schnellantwort: FOB vs CIF vs DAP für Sonnenblumenöl 2026
 
-**Verantwortung des Verkäufers:**
-- Produktion und Qualitätskontrolle
-- Transport zum Hafen/Verladeort
-- Exportzollformalitäten
-- Verladung auf den LKW/das Schiff
+- **FOB Schwarzes Meer:** Grundpreis ~$1.100–1.200/t — Sie verwalten den gesamten Fracht
+- **CIF Rotterdam:** ~$1.180–1.300/t — Verkäufer zahlt Fracht bis Hafen
+- **DAP Ihr Lager:** ~$1.250–1.380/t — Verkäufer liefert bis zu Ihrer Tür
+- **Beste Wahl für die meisten DACH-Käufer:** DAP per LKW — alles inklusive
+- **Lieferzeiten ab Varna:** München 14h · Wien 12h · Zürich 15h · Hamburg 20h
+- **Versteckte Kosten bei FOB:** addieren Sie $80–150/t für Fracht + Versicherung + Hafengebühren
 
-**Verantwortung des Käufers:**
-- Haupttransport (Fracht)
-- Transportversicherung
-- Importzollformalitäten
-- Entladung und Zustellung
+---
 
-**Vorteil:** Niedrigster Einkaufspreis — Sie kontrollieren Transport und Versicherung selbst.
+## Was sind Incoterms und warum sind sie für Lebensmittelkäufer wichtig?
 
-FOB ist besonders beliebt bei etablierten Importeuren, die über eigene Logistikpartner und Frachtverbindungen verfügen. Dies ermöglicht es Ihnen, Transportkosten zu optimieren und mehrere Bestellungen zu konsolidieren. Allerdings müssen Sie selbst die Transportversicherung organisieren — ein wichtiger Punkt für den Lebensmittelgroßhandel, wo Frische und richtige Lagerbedingungen entscheidend sind. Die Kosten für eine adäquate Transportversicherung für Sonnenblumenöl, Zucker und andere Grundnahrungsmittel sollten in Ihre Gesamtkalkulation einbezogen werden.
+Ein mittelständischer Lebensmittelhändler aus München schilderte mir seine erste Erfahrung mit dem Import von Sonnenblumenöl. Er erhielt ein FOB-Angebot über $1.120 pro Tonne und akzeptierte es — weil es günstiger klang als die DAP-Alternative. Drei Wochen später, nachdem er Spedition, Versicherung, Hafengebühren und Zollspediteur addiert hatte, betrug der tatsächliche Preis $1.298 pro Tonne. Das DAP-Angebot lag bei $1.290 pro Tonne. "Ich hätte einfach DAP nehmen sollen," sagte er. "Der Aufpreis wäre deutlich geringer gewesen und ich hätte mir die ganze Koordination gespart."
 
-## CIF — Cost, Insurance and Freight (Kosten, Versicherung und Fracht)
+Diese Geschichte höre ich regelmäßig von deutschen, österreichischen und Schweizer Lebensmitteleinkäufern, die zum ersten Mal aus Osteuropa importieren. Das FOB-Angebot sieht auf den ersten Blick günstiger aus — doch wenn man alle tatsächlichen Kosten zusammenrechnet, ist es das meist nicht.
 
-Bei CIF übernimmt der Verkäufer zusätzlich die Frachtkosten und die Transportversicherung bis zum Bestimmungshafen. Das Risiko geht jedoch bereits bei der Verladung auf den Käufer über.
+Incoterms — International Commercial Terms — sind standardisierte Regeln der Internationalen Handelskammer (ICC), die seit 1936 regelmäßig aktualisiert werden. Die aktuelle Version ist Incoterms 2020. Sie definieren ein zentrales Element jedes internationalen Handelsvertrags: wer bezahlt was und wer trägt das Risiko an welchem Punkt einer Lieferung.
 
-**Verantwortung des Verkäufers:**
-- Alle FOB-Leistungen
-- Hauptfracht bis zum Bestimmungshafen
-- Transportversicherung (Mindestdeckung nach ICC-C)
+UB Market LTD liefert Sonnenblumenöl, Frittieröl, Zucker und andere Lebensmittelprodukte unter allen drei Hauptincoterms in 12+ EU-Länder. Unser Logistikzentrum befindet sich in Varna, Bulgarien. Für DACH-Kunden ist DAP mit LKW-Lieferung ab Varna in der Regel die optimale Wahl — kürzere Lieferzeiten, transparente Preisgestaltung und kein Koordinationsaufwand.
 
-**Verantwortung des Käufers:**
-- Entladung am Bestimmungshafen
-- Importzollformalitäten
-- Zustellung zum Endlager
+## Was bedeutet FOB im Lebensmittelhandel und für wen ist es geeignet?
 
-**Vorteil:** Weniger Koordinationsaufwand — Fracht und Versicherung sind im Preis enthalten.
+FOB steht für Free on Board — auf Deutsch "Frei Schiff". Unter FOB ist der Verkäufer für die Waren verantwortlich, bis sie im Ursprungshafen auf das Schiff oder den LKW verladen sind. Ab diesem Punkt gehen alle Kosten und Risiken auf den Käufer über.
 
-Bei CIF-Lieferungen erhalten Sie einen festgelegten Gesamtpreis ab dem Versandhafen — typischerweise Constanța, Varna oder andere östliche europäische Häfen für bulgarische Exporte. Dies bietet eine bessere Preissicherheit und vereinfacht Ihre Budgetplanung. Allerdings sollten Sie beachten, dass das Risiko des Verlusts oder der Beschädigung bereits bei der Verladung auf Sie übergeht, auch wenn der Verkäufer die Versicherung zahlt. Dies ist ein wichtiger Punkt für verderbliche Waren wie Speiseöl, wo Temperaturkontrolle während des Transports kritisch ist. Die ICC-C-Versicherung (allgemeine Bedingungen) ist das Minimum — für Lebensmittel kann eine umfassendere Abdeckung sinnvoll sein.
+**Verkäufer übernimmt unter FOB:** Produktion, Transport zum Ursprungshafen, Verladen, Exportzollabfertigung.
 
-## DAP — Delivered at Place (Geliefert an den benannten Ort)
+**Käufer übernimmt unter FOB:** Seefracht oder Straßenfracht ab Ursprungshafen, Frachtversicherung für die gesamte Strecke, Importzollabfertigung, Transport vom Zielort zum eigenen Lager.
 
-Bei DAP liefert der Verkäufer die Ware bis zum vereinbarten Bestimmungsort. Nur die Entladung und Importzollformalitäten verbleiben beim Käufer.
+| FOB im Detail               | Realität für DACH-Käufer                                                 |
+| --------------------------- | ------------------------------------------------------------------------ |
+| Angebotspreis               | Niedrigster Einstiegspreis                                               |
+| Zusatzkosten DACH           | LKW €85–100/t + Hafengebühren €17/t + Versicherung €12/t + Zollspediteur |
+| Typische Gesamtzusatzkosten | +$95–155/t je nach Zielort                                               |
+| Risikoübergang              | Bei Verladung im Ursprungshafen                                          |
+| Verwaltungsaufwand          | Hoch                                                                     |
+| Am besten für               | Großkäufer (100+ t) mit Logistikverträgen                                |
 
-**Verantwortung des Verkäufers:**
-- Alle CIF-Leistungen
-- Transport bis zum Bestimmungsort (Ihr Lager)
-- Alle Transitrisiken
+Ein Lebensmittelproduzent aus Hamburg, der regelmäßig 150–200 Tonnen pro Quartal ordert, nutzt FOB erfolgreich: Er hat einen Langzeitvertrag mit einer polnischen Spedition abgeschlossen und zahlt nur €72 pro Tonne für den Transport von Varna nach Hamburg. Bei diesem Volumen und dieser Konstellation spart er €15–20 pro Tonne gegenüber DAP. Das ist der Anwendungsfall, für den FOB gedacht ist.
 
-**Verantwortung des Käufers:**
-- Entladung
-- Importzollformalitäten (falls nicht innerhalb der EU)
+**Wann FOB die richtige Wahl ist:**
 
-**Vorteil:** Maximale Bequemlichkeit — „frei Haus" bis zu Ihrer Rampe.
+- Sie importieren regelmäßig mindestens 100 Tonnen und haben etablierte Speditionen
+- Sie möchten volle Kontrolle über Versandrouten und Carrier
+- Sie haben intern ein Logistikteam oder einen festen Spediteur
+- Sie befinden sich in Hafennähe und können Waren direkt übernehmen
 
-DAP ist die sicherste Option für Käufer und wird oft bei Beziehungen zwischen etablierten Partnern gewählt. Der Verkäufer trägt das volle Transportrisiko bis zur vereinbarten Lieferadresse, was bei temperaturempfindlichen Produkten wie Sonnenblumenöl von großem Vorteil ist. In der EU vereinfacht DAP auch die Zollformalitäten, da diese normalerweise bereits beim Verkäufer erledigt werden. Dies ist besonders relevant, wenn Sie in Deutschland, Polen, Rumänien oder anderen EU-Ländern basiert sind und die volle Sendung bereits auf EU-Territorium benötigen.
+## Was bedeutet CIF und wann macht dieser Incoterm Sinn?
 
-## Vergleichstabelle
+CIF steht für Cost, Insurance, and Freight — auf Deutsch "Kosten, Versicherung und Fracht". Unter CIF organisiert und bezahlt der Verkäufer den Haupttransport und die Mindestversicherung bis zum genannten Bestimmungshafen.
 
-| Klausel | Verkäufer-Verantwortung | Käufer-Verantwortung | Preisniveau |
-|---------|------------------------|---------------------|-------------|
-| FOB | Bis Verladeort + Export | Fracht + Versicherung + Import | Niedrigster |
-| CIF | + Fracht + Versicherung | Entladung + Import + Zustellung | Mittel |
-| DAP | Bis zu Ihrem Lager | Nur Entladung | Höchster |
+**Verkäufer übernimmt unter CIF:** alles aus FOB, plus Seefracht oder Haupttransport zum Bestimmungshafen, Mindestversicherung in Höhe von 110% des Rechnungswerts.
 
-## Praktische Überlegungen für Lebensmittelimporte
+**Käufer übernimmt unter CIF:** Importzollabfertigung am Zielhafen, Transport vom Zielhafen zum eigenen Lager, eventuelle Zusatzversicherung.
 
-Beim Großhandel mit Lebensmitteln spielen zusätzliche Faktoren eine Rolle, die über die reinen Incoterms hinausgehen. **Temperaturkontrolle** ist essentiell — Speiseöl muss in kontrollierten Bedingungen transportiert werden, um Qualität und Haltbarkeit zu gewährleisten. **Zertifizierungen und Konformitätserklärungen** müssen vorliegen und sollten klar regeln, wer diese bereitstellt. Bei **FOB-Lieferungen** sollten Sie sicherstellen, dass der Verkäufer EU-Standard-Transportbehälter oder spezielle Lebensmittelcontainer nutzt. Bei **CIF und DAP** ist dies normalerweise bereits im Angebot enthalten.
+| CIF im Detail         | Realität für DACH-Käufer                                               |
+| --------------------- | ---------------------------------------------------------------------- |
+| Angebotspreis         | Mittelpreis — enthält Haupttransport und Versicherung                  |
+| Zusatzkosten          | Hafenabfertigung €12–25/t + lokaler Transport €40–80/t + Zollspediteur |
+| Typische Zusatzkosten | +$55–110/t                                                             |
+| Risikoübergang        | Bei Verladung im Ursprungshafen                                        |
+| Verwaltungsaufwand    | Mittel                                                                 |
+| Am besten für         | Hafennahe Importeure                                                   |
 
-Die **Lagerhaltungszeit** ist auch relevant — bei DAP erhalten Sie die Ware schneller einsatzbereit, bei FOB müssen Sie mit längeren Transitzeiten rechnen, besonders wenn Schiffe von Häfen wie Constanța nach Westeuropa fahren (oft 10-14 Tage). Kalkulieren Sie diese Zeit in Ihre Lagerbestände ein.
+CIF Rotterdam ist der wichtigste Preisreferenzpunkt für europäische Pflanzenölmärkte. Wenn Fachpublikationen "Sonnenblumenöl $1.250/t CIF Rotterdam" zitieren, ist das der Preis bis Rotterdam — ohne letzten Kilometer zu Ihrem Lager in Frankfurt, Stuttgart oder München. Dieser kostet typischerweise €45–70 pro Tonne extra.
 
-## EU-Regulatorische Aspekte
+Für einen Importeur in Hamburg oder Bremen, der direkt am Hafen über Lagerkapazitäten verfügt, ist CIF Hamburg eine effiziente Lösung. Das Schiff kommt an, die Ware wird übernommen, der Käufer handhabt nur noch Zollabfertigung und ggf. Weitertransport.
 
-Als EU-basierte Käufer profitieren Sie von vereinfachten Zollformalitäten bei Importen aus Bulgarien — UB Market als EU-registriertes Unternehmen erleichtert dies erheblich. Bei DAP-Lieferungen innerhalb der EU fallen keine zusätzlichen Einfuhrzölle an. Bei FOB müssen Sie sich selbst um die EU-Importabwicklung kümmern, was bei etablierten Importeuren kein Problem darstellt, aber für neue Käufer zeitaufwändig sein kann.
+**Wann CIF die richtige Wahl ist:**
 
-Besonders wichtig sind auch die **FSSC 22000-Zertifizierungen** und **HACCP-Dokumentationen**, die bei allen Incoterm-Klauseln vorliegen sollten. UB Market als bulgarischer Lieferant unterliegt den strengen EU-Lebensmittelsicherheitsstandards (Verordnung (EG) Nr. 178/2002). Diese Standards müssen bei der Auswahl der Transportmittel und -bedingungen berücksichtigt werden, besonders bei FOB-Lieferungen, wo Sie selbst Verantwortung für die Einhaltung tragen.
+- Sie sind in direkter Hafennähe — Hamburg, Bremen, Rotterdam
+- Sie haben Zollspediteur und lokale Transportlogistik bereits eingerichtet
+- Sie kaufen Mengen, bei denen Schiffstransport wirtschaftlich ist (50+ Tonnen)
 
-## Transportlogistik und Lieferketten-Optimierung
+## Was bedeutet DAP und warum ist es für die meisten DACH-Käufer die beste Wahl?
 
-Bei der Auswahl zwischen FOB, CIF und DAP sollten Sie auch Ihre gesamte Lieferkette betrachten. Wenn Sie regelmäßig Waren von mehreren bulgarischen Lieferanten beziehen, kann FOB kostengünstiger sein, da Sie Sendungen konsolidieren können. Dies reduziert die Frachtkosten pro Einheit erheblich. Allerdings benötigen Sie dann ein etabliertes Netzwerk von Spediteuren und einen zuverlässigen Logistikpartner vor Ort.
+DAP steht für Delivered at Place — auf Deutsch "Geliefert benannter Ort". Unter DAP liefert der Verkäufer die Waren direkt zu dem von Ihnen genannten Bestimmungsort. Der Verkäufer trägt sämtliche Kosten und alle Risiken bis zu dem Moment, an dem der LKW vor Ihrer Einfahrt steht.
 
-Für kleinere Bestellungen oder sporadische Käufe ist DAP meist wirtschaftlicher, da die höheren Transportkosten auf eine kleinere Menge verteilt werden und der Aufwand für die Logistik-Koordination entfällt. **CIF stellt einen Kompromiss dar** — Sie zahlen die Fracht, haben aber nicht die volle Verantwortung für das Risiko während des Transports.
+**Verkäufer übernimmt unter DAP:** Produktion, Verpackung, gesamter Transport bis zu Ihrer Adresse, Frachtversicherung, alle Transitdokumentationen, Exportzollabfertigung.
 
-## Welche Klausel empfehlen wir?
+**Käufer übernimmt unter DAP:** Importzollabfertigung (im EU-Binnenmarkt keine Zölle), Entladung des LKW.
 
-Für Neukunden empfehlen wir in der Regel **DAP** — Sie erhalten eine klare Gesamtpreisgarantie, minimalen administrativen Aufwand und maximale Sicherheit. Für etablierte Importeure mit eigenen Logistik-Ressourcen ist **FOB** interessant, wenn sie regelmäßig große Mengen beziehen. **CIF** eignet sich für mittlere Volumina, wenn Sie Transportverhandlungen unterstützen möchten, aber nicht die volle logistische Verantwortung tragen wollen.
+| DAP im Detail         | Realität für DACH-Käufer                         |
+| --------------------- | ------------------------------------------------ |
+| Angebotspreis         | Höchster Listenpreis — aber vollständig inklusiv |
+| Zusatzkosten          | Nur Entladung, oft inklusive                     |
+| Typische Zusatzkosten | Nahezu null                                      |
+| Risikoübergang        | An Ihrem genannten Bestimmungsort                |
+| Verwaltungsaufwand    | Minimal                                          |
+| Am besten für         | Die meisten B2B-Käufer, KMU, Erstimporteure      |
 
-Sprechen Sie mit unserem Team bei UB Market — wir beraten Sie gerne zur optimalen Incoterm-Wahl basierend auf Ihrem Geschäftsmodell, Ihrer Größe und Ihren logistischen Kapazitäten.
+Lieferzeiten per LKW ab Varna, Bulgarien für den DACH-Raum:
+
+- Varna → Wien: ca. 12 Stunden
+- Varna → München: ca. 14 Stunden
+- Varna → Frankfurt: ca. 16 Stunden
+- Varna → Stuttgart: ca. 14 Stunden
+- Varna → Hamburg: ca. 20 Stunden
+- Varna → Zürich: ca. 15 Stunden
+- Varna → Berlin: ca. 17 Stunden
+- Varna → Nürnberg: ca. 14 Stunden
+
+Ein Lebensmitteldistributor aus Wien bestellte 24 Tonnen raffiniertes Sonnenblumenöl und verglich alle drei Optionen sorgfältig. FOB Varna $1.120/t — nach Hinzurechnung von LKW-Fracht Varna–Wien €78/t, Hafengebühren €17/t, Versicherung €12/t, Zollspediteur €15/t — ergab sich ein FOB-Gesamtpreis von ca. $1.278/t. DAP Wien war $1.315/t. Für €37/t mehr erhielt er die Ware direkt im Lager, ohne einen einzigen Anruf an einen Spediteur. Die Zeitersparnis und das geringere administrative Risiko haben ihn überzeugt.
+
+## Wie vergleichen sich FOB, CIF und DAP in den realen Gesamtkosten?
+
+Konkretes Rechenbeispiel: 24 Tonnen raffiniertes RBDW Sonnenblumenöl, Varna nach München.
+
+| Kostenelement               | FOB Varna    | CIF Rotterdam | DAP München  |
+| --------------------------- | ------------ | ------------- | ------------ |
+| Produktpreis                | $1.120/t     | $1.210/t      | $1.330/t     |
+| LKW Varna–München           | €92/t        | —             | inklusive    |
+| Hafengebühren (THC)         | €18/t        | €22/t         | —            |
+| Frachtversicherung          | €12/t        | inklusive     | inklusive    |
+| Zollspediteur (pauschal)    | €15/t        | €15/t         | —            |
+| Transport Rotterdam–München | —            | €58/t         | —            |
+| **Gesamtkosten je Tonne**   | **~$1.293**  | **~$1.360**   | **~$1.330**  |
+| **Gesamtkosten 24 Tonnen**  | **~$31.032** | **~$32.640**  | **~$31.920** |
+
+Das Ergebnis: DAP München ist günstiger als CIF Rotterdam und die Ware kommt direkt ans Lager. FOB ist nur günstiger, wenn Sie Frachtkonditionen unter €92/t aushandeln können.
+
+## Welche versteckten Kosten überraschen Erstkäufer am häufigsten?
+
+**Versteckte Kosten bei FOB:**
+
+- Mindestgebühr des Spediteurs für kleine Partien: €300–600 pauschal pro Sendung
+- Treibstoffzuschlag: €8–15 pro Tonne bei Seefracht, täglich variabel
+- Hafenumschlagsgebühren: €15–25 pro Tonne
+- Wartegebühren bei Verzögerungen: €500–2.000 pro Tag
+- Dokumente und Zertifikate falls nicht im FOB-Preis enthalten
+
+**Versteckte Kosten bei CIF:**
+
+- Terminal Handling Charge (THC) am Zielhafen: €12–25 pro Tonne
+- Lagergebühren falls nicht sofort entladen: €50–200 pro Tag
+- Lokaler Transport Hafen–Lager: €40–80 pro Tonne
+- Zollspediteur am Zielort: €200–500 pauschal
+
+**Versteckte Kosten bei DAP:**
+
+- Praktisch keine — das ist der entscheidende Vorteil
+- Entladung: meist inklusive, maximal €100–200 Pauschale
+- Zeitfenster-Aufpreis wenn Sie nur zu bestimmten Zeiten annehmen können
+
+## Welche Dokumentation ist für den Lebensmittelhandel zwingend erforderlich?
+
+Unabhängig vom Incoterm liefert UB Market mit jeder Sendung:
+
+- **Analysezertifikat (CoA)** vom akkreditierten Drittlabor — Fettsäureprofil, Peroxidzahl, Pestizidrückstände
+- **Ursprungszeugnis EUR.1** — präferenzieller Zollstatus im EU-Binnenmarkt
+- **Phytosanitäres Zeugnis** — für pflanzliche Lebensmittelprodukte Pflicht
+- **Handelsrechnung und Packliste** — auf Anfrage auf Deutsch
+- **Konformitätserklärung** gemäß Verordnung (EU) Nr. 1169/2011
+- **Non-GMO-Erklärung** — auf Anfrage, für Naturkost und Biohändler relevant
+- **ISO 22000 und HACCP Zertifikat** des Lieferwerks
+- **Halal-Zertifikat** — auf Anfrage
+
+## Wie fordern Sie den richtigen Incoterm in Ihrer Anfrage an?
+
+Geben Sie bei jeder Anfrage folgende Informationen an:
+
+1. **Produkt und Qualitätsstufe:** Raffiniertes RBDW / Hoher Ölsäuregehalt / Rohöl
+2. **Menge:** genaue Tonnen oder Liter
+3. **Lieferbedingung:** DAP [Ihre Stadt], oder CIF [Hafen], oder FOB [Ursprungshafen]
+4. **Lieferzeitraum:** gewünschtes Datum oder Zeitfenster
+5. **Verpackung:** Schüttgut Flexitank / IBC 1.000L / PET-Flaschen + Größe
+6. **Zertifizierungen:** ISO 22000, Non-GMO, Halal, Organic
+
+UB Market antwortet auf alle B2B-Anfragen innerhalb von 24 Stunden mit einer detaillierten Preisliste inklusive aller Incoterm-Optionen und aktuellem Kostenvergleich für Ihren spezifischen Lieferort.
+
+---
+
+Bereit, die optimalen Lieferbedingungen für Ihre Bestellung zu besprechen? **[Angebot anfordern](/de/quote)** — nennen Sie uns Ihren Lieferort und wir empfehlen den kostengünstigsten Incoterm für Ihr Volumen.
+
+_Quellen: ICC Incoterms 2020 Regelwerk, UB Market Logistikdaten 2025–2026, europäische Frachtratindizes Q1 2026._

@@ -1,106 +1,201 @@
 ---
-title: "Avrupa'da Toptan Pancar Şekeri — Pazar Analizi ve Tedarik"
-date: "2026-05-01"
-description: "Avrupa pancar şekeri pazarına genel bakış — türler, fiyatlar, tedarikçiler, lojistik ve toptan sipariş."
+title: "Avrupa'da Toptan Pancar Şekeri — B2B Alıcılar için Kapsamlı Tedarik Rehberi 2026?"
+description: "B2B alıcıların Avrupa'da toptan pancar şekeri tedariki hakkında bilmesi gereken her şey — ICUMSA dereceleri, güncel fiyatlar, AB yönetmelikleri, mevsimsel faktörler ve güvenilir tedarikçiler nasıl bulunur."
+date: "2026-03-25"
 category: "products"
 image: "/images/sugar.webp"
-readingTime: 7
-tags: ["şeker", "pancar şekeri", "toptan ticaret", "Avrupa"]
+readingTime: 9
+ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
 ---
-## Pazara Genel Bakış
 
-Avrupa, dünyanın en büyük pancar şekeri üreticilerinden biridir. Başlıca üreticiler: Fransa, Almanya, Polonya, Hollanda ve Birleşik Krallık. Pancar şekeri dünya şeker üretiminin yaklaşık %20'sini oluşturur.
+**TL;DR:** Avrupa, dünyanın en büyük pancar şekeri üretim bölgesidir — küresel üretimin %50'si. B2B alıcılar için Avrupa pancar şekeri, ithal kamış şekere kıyasla daha kısa tedarik zincirleri, daha düşük nakliye maliyetleri ve tam AB uyumu sunmaktadır. ICUMSA 45 (beyaz rafine) €650–750/ton'da işlem görüyor; ICUMSA 100–150 (endüstriyel derece) €580–650/ton'da. UB Market, Varna, Bulgaristan lojistik üssümüzden 1–2 hafta içinde tüm AB'ye teslimat ile ICUMSA 45 ve ICUMSA 100–150'yi 50 kg çuvallarda ve 1 tonluk büyük çuvallarda tedarik ediyor.
 
-Türkiye de önemli bir şeker pancarı üreticisi ve tüketicisi konumunda olup, Avrupa'dan yapılan ithalatla iç pazardaki talebi desteklemektedir.
+---
 
-Avrupa Birliği'ndeki şeker pazarı, tarihsel olarak koruma ve üretim kotaları altında işlem görmüştür. Ancak 2017'den itibaren kotalar kaldırılmış, pazar daha liberal hale gelmiştir. Bu durum, Avrupa'daki üretim kapasitesini artırmış ve ihracat fırsatlarını genişletmiştir. Günümüzde, AB pancar şekeri üreticileri, Türkiye, Orta Doğu ve Afrika gibi bölgelere aktif olarak ihracat yapmaktadır.
+### Hızlı Cevap: Avrupa Pancar Şekeri Fiyatları ve Dereceleri 2026
 
-## Şeker Türleri
+| Derece          | Fiyat Aralığı (FOB) | ICUMSA Rengi    | En iyi kullanım                    |
+| --------------- | ------------------- | --------------- | ---------------------------------- |
+| ICUMSA 45       | €650–750/ton        | Saf beyaz       | Perakende, gıda üretimi, şekerleme |
+| ICUMSA 100–150  | €580–650/ton        | Kırık beyaz     | Endüstriyel gıda üretimi           |
+| ICUMSA 600–1200 | €500–580/ton        | Ham/Kahverengi  | Bira yapımı, özel gıdalar          |
+| Dökme tanker    | Talep üzerine       | Herhangi derece | Endüstriyel kullanıcılar 200+ ton  |
 
-### Beyaz Kristal (ICUMSA 45)
+---
 
-En yüksek kalitede standart rafine şeker. ICUMSA 45, uluslararası renk standardıdır.
+## Avrupa pancar şekeri nedir ve B2B alıcılar için neden önemlidir?
 
-**Özellikleri:**
-- Renk: maksimum 45 ICUMSA
-- Polarizasyon: minimum %99,8
-- Nem: maksimum %0,04
+İstanbul'dan bir gıda üreticisi, Kızıldeniz gemi seferlerindeki aksaklıklar nedeniyle lojistik müdürü erken 2025'te bir sorun tespit edene kadar Brezilya tedarikçisinden kamış şekeri tedarik ediyordu: Santos'tan Hamburg'a deniz navlunu %40 artmış ve teslim süreleri 5 haftadan 9 haftaya uzamıştı. Üretim programı bu gecikmeyi kaldıramazdı.
 
-**Kullanım:** Perakende, gıda endüstrisi, içecekler, şekerleme.
+Bizi arayarak alternatif olarak Avrupa pancar şekerini sordu. Cevabımız onu şaşırttı: Avrupa pancar şekeri ve Brezilya kamış şekeri rafine formlarında kimyasal olarak identiktir. Her ikisi de %99,9+ sakaroz içerir. Her ikisi de aynı tadı taşır. Her ikisi de gıda üretim süreçlerinde identik performans gösterir. İşletmesi için tek anlamlı fark, Avrupa pancar şekerinin Varna üssümüzden DAP İstanbul'a 5–6 saatte — deniz navlusu riski olmaksızın Brezilya sevkiyatından daha düşük toplam maliyetle — teslim edilebilmesiydi.
 
-ICUMSA 45 standardı, Uluslararası Şeker Teknik Komitesi tarafından belirlenmiş ve dünya çapında kabul görmüş bir kalite göstergesidir. Bu standart, şekerin rengi, saflığı ve nem içeriğini kesin parametrelerle tanımlar. Perakende tüketicilerin yanı sıra, içecek üreticileri, fırın ve şekerleme fabrikaları için tercih edilen kalite seviyesidir. AB'de satılan tüm rafine şeker, minimum ICUMSA 45 standartında olmalıdır.
+İlk siparişini ertesi gün verdi. Üç ay içinde şeker tedarikinin %60'ını dönen üç aylık sözleşmelerle Avrupa pancar şekerine taşımıştı.
 
-### Ham (Rafine Edilmemiş) Şeker
+Bu değişim tüm Avrupa gıda üretiminde yaşanıyor. Tedarik zinciri riski farkındalığı arttıkça, yerel kaynaklı Avrupa pancar şekerinin avantajları gerçek bir satın alma argümanına dönüştü — yalnızca çevresel değil.
 
-Son rafinasyondan geçmemiş şeker. Kahverengi ton ve hafif karamel tadı.
+Türk alıcılar için özel bir not: Türkiye, AB üyesi olmasa da, Türkiye-AB Gümrük Birliği kapsamında Bulgaristan gibi AB ülkelerinden ithal edilen ürünlerde bazı tarife avantajları söz konusu olabilir. Ayrıca Varna'dan İstanbul'a karayoluyla yalnızca 5–6 saat mesafe, rekabetçi DAP teslimatı anlamına gelir.
 
-**Kullanım:** Şekerleme endüstrisi, zanaat üretimi, premium ürünler.
+## Pancar şekeri ile kamış şekeri arasındaki fark nedir?
 
-Ham şeker, endüstriyel uygulamalar için maliyetli ve esnek bir seçenektir. Özellikle, kendi rafinasyon tesislerine sahip büyük gıda üreticileri için uygun maliyetli bir çözüm sunmaktadır. Kahverengi renginin verdiği doğal ve organik görünüm nedeniyle, premium ve craft işletmeler tarafından da değerli görülmektedir. Rafinasyon maliyetlerini kontrol etmek isteyen işletmeler için, hammadde olarak cazip bir seçenektir.
+Her yeni alıcının sorduğu soru, pancar ve kamış şekerinin gerçekten birbiriyle değiştirilebilir olup olmadığıdır. Kısa cevap: Evet, pratikte tüm gıda üretimi, perakende ve HoReCa uygulamaları için.
 
-### Pudra Şekeri
+| Özellik             | Pancar Şekeri        | Kamış Şekeri                      |
+| ------------------- | -------------------- | --------------------------------- |
+| Sakaroz içeriği     | %99,9+               | %99,9+                            |
+| Tat                 | İdentik              | İdentik                           |
+| Kimyasal bileşim    | İdentik              | İdentik                           |
+| Üretim yeri         | Avrupa (yerel)       | Tropikal (ithalat)                |
+| AB uyumu            | Tam                  | İthalat belgesi gerektirir        |
+| AB'ye teslim süresi | 1–2 hafta (karayolu) | 4–6 hafta (okyanus)               |
+| Karbon ayak izi     | Daha düşük           | Daha yüksek (uzun mesafe nakliye) |
+| Fiyat oynaklığı     | Orta                 | Yüksek (kur + navlun riski)       |
 
-İnce öğütülmüş beyaz şeker. Şekerleme endüstrisinde kullanılır.
+**En iyi kullanım:** Rafine beyaz şeker (ICUMSA 45) — hiçbir işlevsel fark yok. Her ikisi de fırıncılık, şekerleme, içecekler, soslar ve konserveler için identik performans gösterir.
 
-Pudra şekeri, ince tanecik yapısı nedeniyle hızlı çözünürlüğü sağlar. Pastane, kek, dondurmacılık ve tatlı üretiminde ideal bir seçenektir. Ayrıca, dekorasyon amaçlı da kullanılabilmektedir. Ambalajlama ve depolama açısından, beyaz kristal şekerle benzer gereksinimleri taşır.
+Kökenin zaman zaman önem taşıdığı tek uygulamalar, özellikle "kamış şekeri" olarak pazarlanan özel ürünler (etiketleme gerekçesiyle) veya melas özelliklerinin aromayı etkilediği ham şeker uygulamalarıdır (bira yapımı, rom, el sanatı şekerlemeler). Standart gıda üretimi için Avrupa pancar şekeri tam bir ikamedir.
 
-## Ambalajlama
+Türk gıda üreticileri için önemli bir not: Türkiye kendi önemli pancar şekeri üretimine sahiptir — yaklaşık 2,5 milyon ton yıllık. Ancak belirli ICUMSA sınıflandırmalarında veya Avrupa menşeli belgelendirme gerektiren ihracat odaklı ürünler için Avrupa kaynaklı şeker tercih edilebilir.
 
-| Format | Hacim | Kime Uygun |
-|--------|-------|-----------|
-| Kağıt çuvallar | 25 kg, 50 kg | Perakende, HORECA |
-| Big-bag (FIBC) | 1.000 kg | Gıda endüstrisi |
-| Dökme | 20-40 ton | Büyük işlemciler |
+## ICUMSA şeker dereceleri nelerdir ve hangisine ihtiyacınız var?
 
-Ambalajlama seçimi, alıcının işletme ölçeği, depolama kapasitesi ve son tüketicisinin gereksinimlerine bağlıdır. 25 kg çuvallı şeker, restoran zincirleri, yerel distribütörler ve perakende satış noktaları için idealidir. 50 kg çuvallar, orta ölçekli gıda üreticileri ve toptan satıcılar tarafından tercih edilmektedir. 1.000 kg'lık big-bag formatı, fabrika tipi üreticiler, şekerleme fabrikaları ve yüksek hacimli işlemciler için ekonomik çözüm sunmaktadır.
+ICUMSA (Uluslararası Şeker Analizi Yöntemleri Komisyonu) dereceleri, standart bir uluslararası test kullanarak rafine şekerin rengini ölçer. Daha düşük ICUMSA sayıları = daha beyaz, daha rafine şeker.
 
-Dökme (kargo şekeri) formatında, şeker direkt silo kamyonlarıyla veya konteyner içinde taşınır. Bu format, en düşük ambalajlama maliyetini sağlarken, alıcının uygun depolama ve işleme tesislerine sahip olmasını gerektirir.
+**ICUMSA 45 — Beyaz Rafine Şeker**
 
-## Depolama ve Lojistik Gereksinimleri
+Perakende ve premium gıda üretimi için uluslararası referans standardı. Kristal beyaz, düzgün tane boyutu, renk yok, koku yok. Süpermarket ambalajlarında ve yüksek görünürlüklü gıda ürünlerinde bulunan derece — şekerlemeler, içecekler, süt ürünleri.
 
-Şeker, doğru koşullarda depolanırsa uzun süre kalitesini korur. Ancak, nem ve sıcaklık kontrollü ortamlar gereklidir. İdeal depolama koşulları, sıcaklık 15-25°C aralığında ve nisbi nem %50-60 aralığında olmalıdır. Yüksek nemli ortamlarda, şeker nem çekebilir ve yapışkanlık sorunu ortaya çıkabilir.
+ICUMSA 45 belirtme zamanı:
 
-AB'de şeker ticareti, gıda güvenliği mevzuatı (EC 1169/2011, EC 767/2009) ile düzenlenmiştir. Tüm şeker sevkiyatları, uygun belgeler ve sertifikalarla eşlik edilmelidir. Bulgaristan'dan yapılan ihracatlar için, EUR-1 menşe belgesi veya tercihi uygulayan ülkelerin talep ettiği diğer belgeler gerekli olabilir.
+- Tüketici satışı için perakende şeker ürünleri
+- Beyaz şekerlemeler (marshmallow, fondant, beyaz çikolata)
+- Görünür rengin önemli olduğu berrak içecekler ve şuruplar
+- Farmasötik ve nutrasötik uygulamalar
 
-Lojistik maliyetleri, sevkiyat mesafesine ve seçilen taşıma moduna göre değişir. Karayolu, deniz ve demiryolu taşımacılığı, farklı maliyetler ve teslimat süreleri sunar. Bulgaristan'dan Türkiye'ye yada Orta Doğu'ya yapılan sevkiyatlar, tipik olarak 7-14 gün içinde tamamlanır. Denbez taşımacılığı, büyük hacimlerde maliyetli ancak uzun mesafelerde ekonomiktir.
+Güncel fiyat: **€650–750/ton FOB**
 
-## Kalite Kontrol ve Sertifikasyon
+**ICUMSA 100–150 — Endüstriyel Derece Şeker**
 
-Kalite kontrol, işletme uzunluğundan başlar. Üretim aşamasında, ICUMSA standartlarına uygunluk kontrol edilir. Her sevkiyat, sertifikalı laboratuvar analizi ile doğrulanmalıdır. Alıcılar, kendi kontrollerini yapma hakkına sahiptir ve sözleşmede bu madde yer almalıdır.
+Ürünlere dahil edildikten sonra görünmez olan çok hafif krem rengiyle biraz daha az rafine. Gıda üretimi için ICUMSA 45 ile işlevsel olarak identik — renk farkı pişirme, pişirme veya karıştırma sonrasında algılanamaz. Ana akım gıda üretiminde kullanılır.
 
-AB'deki şeker ithalatçıları, HACCP (Tehlike Analizi ve Kritik Kontrol Noktaları) sistemi uygulamalıdır. Bulgaristan merkezli ihracatçılar, ISO 22000 veya BRC (British Retail Consortium) sertifikasına sahip olmalıdır. Bu sertifikalar, iş ortağı tarafından talep edilebilir ve müzakereye konu olabilir.
+ICUMSA 100–150 belirtme zamanı:
 
-Tüm sevkiyatlar, fit for human consumption (insan tüketimi için uygun) belgesi ile yapılmalıdır. Gümrük değerlendirmesi ve fitosanitari kontroller, standart prosedürler olarak hızlı şekilde tamamlanır.
+- Endüstriyel ekmek ve fırın ürünleri üretimi
+- Sos, ketçap ve çeşni üretimi
+- Reçel ve konserve üretimi
+- Koruyucu olarak şeker içeren konserve gıdalar
+- Şekerin ısıtıldığı, çözündürüldüğü veya bir ürüne karıştırıldığı herhangi bir uygulama
 
-## Fiyatlandırma
+Güncel fiyat: **€580–650/ton FOB** — çoğu uygulamada identik işlevsel performans için tipik olarak ICUMSA 45'ten %10–15 daha az. ICUMSA 45'in gerçekte gerekli olmadığı yerlerde ICUMSA 100–150 belirlemek, gıda içeriği satın alımında en basit maliyet optimizasyonlarından biridir.
 
-**Mevsimsellik.** Fiyatlar, pancar hasadından sonra (ekim-aralık) en düşük seviyededir.
+**ICUMSA 600–1200 — Ham/Kahverengi Şeker**
 
-**AB Kotaları.** AB şeker üretimini düzenler, bu da arz ve fiyatı etkiler.
+Önemli melas içeriğine sahip minimum işlenmiş şeker. Karakteristik karamel aroması. Zanaat bira yapımında (el yapımı bira, rom, geleneksel fermente ürünler) ve melas aromasının istendiği el yapımı şekerlemelerde kullanılır.
 
-**Dünya fiyatları.** Avrupa fiyatları Londra (LIFFE) ve New York (ICE) borsalarıyla bağlantılıdır.
+Güncel fiyat: **€500–580/ton FOB**
 
-Şeker fiyatlaması, küresel arz-talep dengesine büyük ölçüde bağımlıdır. Hindistan, Brezilya ve Tayland gibi şeker üretim devi ülkelerin mahsul sezonları, Avrupa fiyatlarını da etkilemektedir. Son yıllarda, bitkisel yakıt üretimine yönelik mısır ve şeker pancarı gibi ürünlerin artan talebesi, fiyat volatilitesini artırmıştır. Avrupa'daki fiyatlar, tipik olarak Londra Uluslararası Finansal Vadeli İşlemler Borsası (ICE) tarafından belirtilen dünya referans fiyatının %5-15 üzerinde işlem görmektedir.
+## Hangi Avrupa ülkeleri pancar şekeri üretiyor?
 
-Sezon dışında (ocak-eylül), fiyatlar daha yüksek seviyelerde seyretmektedir. Bu dönemde, ithalatçılar stratejik olarak stok yapmış pazarlamacılardan veya AB üreticilerinin rezerv stokları gibi sınırlı kaynaklardan tedarik etmek zorundadır.
+**Fransa** — Yıllık yaklaşık 5 milyon tonla AB'nin en büyük üreticisi. Kuzey Fransa'nın pancar yetiştirme bölgeleri (Picardya, Şampanya) Avrupa'nın en kaliteli ICUMSA 45'ini üretmektedir.
 
-**Tahmini fiyatlar (Q1 2026):**
+**Almanya** — Yıllık yaklaşık 4 milyon tonla ikinci büyük. AB'nin en büyük şeker grubu Südzucker'in merkezi Almanya'dadır.
 
-| Tür | FOB Fiyat ($/ton) |
-|-----|------------------|
-| Beyaz ICUMSA 45 | $550-650 |
-| Ham şeker | $450-500 |
-| Pudra şekeri | $700-800 |
+**Polonya** — Yıllık yaklaşık 2 milyon tonla önemli Doğu Avrupa üreticisi. Polonya pancar şekeri, Batı Avrupa'dan daha düşük üretim maliyetleri nedeniyle fiyatlandırmada rekabetçidir — doğrudan tedarik ağımızda önemli bir etken.
 
-Bu fiyatlar, Bulgaristan ve Türkiye'deki rafinerilerden FOB (Serbest Gemi) teslimat için geçerlidir. Taşıma, sigorta ve gümrük maliyetleri, alıcıya aittir.
+**Hollanda ve Belçika** — Önemli rafineri ve işleme merkezleri.
 
-## Alıcı İçin Önemli Hususlar
+**Türkiye** — AB dışında yıllık yaklaşık 2,5 milyon tonluk önemli üretici. Güneydoğu Avrupa alıcıları için rekabetçi.
 
-Şeker satın almadan önce, aşağıdaki noktaları kontrol etmelisiniz:
+**Bulgaristan ve Romanya** — Daha küçük yurt içi üretim, ancak doğrudan tedarik ağımızda önemli. Varna'dan İstanbul'a karayoluyla 5–6 saat mesafe, Türk alıcılar için son derece rekabetçi DAP teslimat seçenekleri sunmaktadır.
 
-- **Minimum sipariş miktarı (MOQ).** Çoğu tedarikçi, 20 tonlık konteyner (20ft) veya 40 tonlık konteyner (40ft) minimum sipariş talep eder.
-- **Ödeme şartları.** Uluslararası ticarette, L/C (Akreditif) veya T/T (Telegrafik Transfer) yaygındır. Riskleri anlamak önemlidir.
-- **Teslimat koşulları.** Incoterms 2020'e göre, FOB, CIF veya DDP seçenekleri kullanılır.
-- **Sözleşme şartları.** Kalite standartları, analiz prosedürleri ve uyuşmazlık çözümü yöntemini açıkça belirtiniz.
+## Toptan şeker için hangi ambalaj formatları mevcuttur?
 
-Bulgaristan merkezli tedarikçiler, AB içinde hızlı ve güvenilir tedarik sağlayabilir. UB Market gibi saygın işletmeler, uygun fiyatlar, tutarlı kalite ve profesyonel hizmet sunmaktadır.
+| Format                         | Net Ağırlık           | En iyi kullanım                   | Notlar                      |
+| ------------------------------ | --------------------- | --------------------------------- | --------------------------- |
+| 25 kg çuvallar                 | 25 kg                 | Küçük distribütörler, perakende   | Paletlenmiş, kolay kullanım |
+| 50 kg çuvallar                 | 50 kg                 | Standart toptan                   | En yaygın format            |
+| 1 tonluk büyük çuvallar (FIBC) | 1.000 kg              | Büyük alıcılar, sürekli üretim    | Forklift gerektirir         |
+| Dökme (serbest)                | Kamyon veya konteyner | Endüstriyel kullanıcılar 200+ ton | Silo depolama gerektirir    |
+
+UB Market, ICUMSA 45 ve ICUMSA 100–150'yi 50 kg çuvallarda ve 1 tonluk büyük çuvallarda tedarik eder. 200+ ton serbest dökme gerektiren alıcılar için tanker teslimatı talep üzerine mevcuttur.
+
+## AB yönetmelikleri toptan şeker ticareti için ne gerektiriyor?
+
+**AB Şeker Pazarlama Standartları**
+AB'de satılan şeker için saflık gereksinimlerini, etiketleme standartlarını ve izlenebilirliği tanımlar. Tüm şeker, akredite bir laboratuvardan doğrulanabilir kaynak belgesi ve ICUMSA sertifikasyonuna sahip olmalıdır.
+
+**AB Yönetmeliği 2019/1381 — Gıda Zinciri Şeffaflığı**
+Gıda zinciri risk değerlendirme sürecinde şeffaflık gerektiriyor.
+
+**Her şeker sevkiyatına eşlik etmesi gereken belgeler:**
+
+- ICUMSA derecesini, nem içeriğini ve saflığı onaylayan Analiz Sertifikası (CoA)
+- Üretim tesisinden ISO 22000 veya FSSC 22000 sertifikasyonu
+- Sınır ötesi AB taşımacılığı için fitosanitere sertifikası
+- AB menşeli ürün olarak pazarlanıyorsa AB menşe belgesi
+- Gıda ile temas eden ambalaj sertifikasyonu
+
+Türk alıcılar için ek not: Türkiye'nin kendi gıda güvenliği standartları ve Tarım ve Orman Bakanlığı düzenlemeleri AB'den farklılık gösterebilir. İhracat odaklı Türk gıda üreticileri için AB uyumlu belgelendirme sunuyoruz.
+
+UB Market, tüm AB üye devletlerinin uyum gereksinimlerine göre preverifiye edilmiş her sevkiyatla tam belgelendirme paketleri sağlar.
+
+## Avrupa şeker fiyatlarını etkileyen mevsimsel faktörler nelerdir?
+
+Avrupa pancar şekeri üretimi, tarım takvimine uygun predictable mevsimsel fiyat ve arz kalıpları oluşturur:
+
+**Ağustos–Aralık: Hasat ve işleme sezonu**
+Şeker pancarı bu pencerede hasat edilir ve işlenir. Rafineriler tam kapasitede çalışır. Stok seviyeleri sonbahar boyunca birikir.
+
+**Ocak–Mart: En iyi fiyat penceresi**
+Hasat sonrası depolar tamamen stokludur ve tedarikçiler ürün taşımaya motive. Bu tipik olarak büyük ileri sözleşmeler için en uygun satın alma penceresidir.
+
+**Nisan–Temmuz: Hasat öncesi sıkışma**
+Stok seviyeleri azalır. Ağustos'ta yeni hasat başlamadan önce arz sıkılaşır ve fiyatlar yükselir. İleri sözleşmesi olmayan alıcılar bu pencerede en yüksek fiyatlarla karşılaşır.
+
+**Pratik sonuç:** Yıllık tedarik planlaması Q4–Q1 ileri sözleşmelerini önceliklendirmelidir. Öngörülebilir yıl boyu şeker tüketimi olan gıda üreticileri, hasat sonrası pencerede yıllık fiyatları kilitlemekten en fazla fayda sağlar.
+
+İstanbul'dan bir şekerleme üreticisi planlama döngülerini şöyle anlattı: "Eskiden şekeri üç aylık spot fiyatlarla satın alıyorduk ve her yıl korkunç Q2 maliyetleri yaşıyorduk. Artık her yıl bir Q4 sözleşmesine yıllık hacmimizin %80'ini kilitleriz. Tedarikçi veya ürün kalitesinde herhangi bir değişiklik olmaksızın ortalama yıllık şeker maliyetimiz %12 düştü."
+
+## Güvenilir bir Avrupa şeker tedarikçisini nasıl değerlendirirsiniz?
+
+Beş kriter güvenilir toptan şeker tedarikçilerini güvenilmezlerden ayırır:
+
+**1. Doğrulanmış ICUMSA sertifikasyonu**
+Akredite üçüncü taraf laboratuvardan CoA talep edin — dahili test değil. SGS, Bureau Veritas ve ulusal AB akredite laboratuvarları kabul edilebilir. CoA ICUMSA renk skoru, nem yüzdesi ve sakaroz içeriğini içermelidir.
+
+**2. AB kaydı ve gıda güvenliği sertifikasyonu**
+Her meşru AB şeker tedarikçisi ISO 22000 veya FSSC 22000 sertifikasyonuna ve ulusal gıda güvenliği kurumuna kaydına sahip olacaktır.
+
+**3. Yıl boyu tedarik kapasitesi**
+Bazı daha küçük tüccarlar hasat döneminde fırsatçı alım yapar ve yıl boyu teslimatı garanti edemez. Q2 kullanılabilirliklerini özellikle sorun — tam o zaman güvenilmez tedarikçiler stok tükeniyor.
+
+**4. Tutarlı ambalaj kalitesi**
+Gıda sınıfı şeker çuvalları depolama ve taşıma sırasında bütünlüğünü korumalıdır. Büyük sipariş öncesi numune çuvallar talep edin.
+
+**5. Gizli ücret olmaksızın şeffaf fiyatlandırma**
+Güvenilir tedarikçi FOB fiyatını, ambalaj primini, teslimat maliyetini ve belgelendirme ücretini ayrı kalemler olarak sağlar.
+
+## UB Market toptan şeker için ne sunuyor?
+
+UB Market, Varna, Bulgaristan lojistik üssümüzden Avrupa gıda üreticilerini, distribütörleri ve perakende alıcıları pancar şekeri en-gros ile tedarik etmektedir. Tedarik ağımız Polonyalı ve Bulgarca pancar şekeri üreticileriyle tam AB uyum belgesiyle bağlantı kurmaktadır.
+
+**Mevcut ürünler:**
+
+- ICUMSA 45 beyaz rafine şeker — **50 kg çuvallar ve 1 tonluk büyük çuvallar**
+- ICUMSA 100–150 endüstriyel derece — **50 kg çuvallar ve 1 tonluk büyük çuvallar**
+- Teslimat: Her yerde AB'de DAP, veya Varna'dan FOB/CIF
+
+**Minimum sipariş:** Standart siparişler için 1 palet. Dökme fiyat kademeleri için minimum 20 ton.
+
+**Teslim süreleri:**
+
+- İstanbul: 5–6 saat (karayolu)
+- Ankara: 10–11 saat
+- İzmir: 12–13 saat
+
+**Sağlanan belgeler:** Akredite laboratuvardan CoA, ISO 22000 sertifikasyonu, fitosanitere sertifikası, Menşe Sertifikası ve ticari fatura. Türk gıda düzenlemelerine uyumlu belgeler de talep üzerine.
+
+---
+
+Toptan şeker mi arıyorsunuz? **[Gereksinimlerinizi bize gönderin](/tr/quote)** — derece, hacim, ambalaj formatı ve teslimat destinasyonunu belirtin; 24 saat içinde fiyat sağlayacağız.
+
+_Kaynaklar: Avrupa Komisyonu şeker piyasası raporları 2025, ISO ICUMSA standartları, UB Market tedarik verileri Q1 2026, Südzucker yıllık raporu 2025._

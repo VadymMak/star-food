@@ -1,138 +1,165 @@
 ---
-title: "Wie die Star Food Etiketten entstanden — Design und Markenidentität"
-date: "2026-03-10"
-description: "Ein Blick hinter die Kulissen: Wie wir gemeinsam mit einer professionellen Designerin die Produktetiketten für unsere Marke Star Food entwickelt haben."
+title: "Wie haben wir das Star Food Etikettendesign entwickelt — und was haben wir über EU-Lebensmittelkennzeichnung gelernt?"
+description: "Die Geschichte hinter dem professionellen Etikettendesign von Star Food durch Illustratorin Anastasiia Kolisnyk — vom Brief bis zum Endprodukt, plus alles, was B2B-Lebensmittelunternehmen über die Konformität mit EU-Verordnung 1169/2011 wissen müssen."
+date: "2026-02-18"
+category: "brand"
 image: "/images/star-food-label.webp"
-tags: ["Star Food", "Design", "Markenidentität", "Etiketten"]
-readingTime: 6
+readingTime: 8
+ogImage: "/images/blog/how-we-created-star-food-labels/og.jpg"
 ---
-## Warum professionelles Etikettendesign entscheidend ist
 
-Im hart umkämpften europäischen Lebensmittelmarkt entscheidet die Verpackung oft über den Geschäftserfolg. Studien zeigen, dass B2B-Einkäufer innerhalb von 3–5 Sekunden einen ersten Eindruck von einem Produkt gewinnen. Ein professionell gestaltetes Etikett signalisiert Qualität, Zuverlässigkeit und Marktkenntnis.
+**TL;DR:** Die Star Food Etiketten wurden von Anastasiia Kolisnyk von [akillustrator.com](https://formaink.com)) entworfen — einer professionellen Illustratorin und Markendesignerin aus der Slowakei. Das Projekt lief vom Brief bis zur Produktion in 6 Wochen und umfasste 5 Sprachen (EN, BG, GR, PL, UA) sowie vollständige Konformität mit der EU-Verordnung 1169/2011. Das Etikettendesign für ein europäisches Lebensmittelprodukt ist keine kosmetische Entscheidung — es beeinflusst direkt den Marktzugang, die Wahrnehmung durch Distributoren und die regulatorische Konformität in 27 EU-Mitgliedstaaten.
 
-Für UB Market war es daher selbstverständlich, die Gestaltung der Star Food Etiketten in professionelle Hände zu legen.
+---
 
-## Zusammenarbeit mit einer erfahrenen Designerin
+### Schnellantwort: Star Food Etikett — Schlüsselfakten
 
-Für die Entwicklung unserer Markenidentität haben wir mit [Anastasiia Kolisnyk — AK Illustrator](https://akillustrator.com) zusammengearbeitet. Als erfahrene Illustratorin und Designerin mit Spezialisierung auf Verpackungsdesign und Branding war sie die ideale Partnerin für dieses Projekt.
+- **Designer:** Anastasiia Kolisnyk — [akillustrator.com](https://formaink.com))
+- **Sprachen auf dem Etikett:** Englisch, Bulgarisch, Griechisch, Polnisch, Ukrainisch
+- **EU-Konformität:** EU-Verordnung 1169/2011 Lebensmittelinformationsanforderungen
+- **Abgedeckte Flaschengrößen:** 1L, 3L, 5L PET
+- **Gezeigte Zertifizierungen:** Non-GMO, ISO 22000 HACCP
+- **Design-Timeline:** 6 Wochen vom Brief bis zu produktionsbereiten Dateien
+- **Kernerkenntnis:** Professionelles Etikettendesign erhöht die Konversionsrate bei Distributoren erheblich
 
-## Der Designprozess
+---
 
-### Phase 1: Briefing und Marktanalyse
+## Warum ist das Etikettendesign im europäischen Lebensmittelhandel wichtig?
 
-Zunächst haben wir gemeinsam den Markt analysiert:
-- Wettbewerbsprodukte im europäischen Einzelhandel
-- Gesetzliche Anforderungen an Lebensmitteletiketten in der EU
-- Farbpsychologie im Lebensmittelbereich
-- Zielgruppenanalyse für verschiedene europäische Märkte
+Als wir die Marke Star Food lancierten, war unser erster Instinkt, uns auf das Produkt zu konzentrieren — Beschaffung, Qualität, Logistik. Das Etikettendesign fühlte sich sekundär an. Ein Distributor in München würde sich für die CoA und den Preis interessieren, nicht für das Grafikdesign der Flasche.
 
-### Phase 2: Konzeptentwicklung
+Wir lagen falsch.
 
-Die Designerin hat mehrere Konzepte erarbeitet, die folgende Elemente berücksichtigten:
-- Sonnenblumenfelder als visuelles Hauptelement — natürlich, frisch, vertrauenswürdig
-- Das Star Food Logo prominent platziert
-- Klare Informationshierarchie für die EU-konforme Nährwertkennzeichnung
-- Mehrsprachige Typografie (EN, BG, PL, GR, UA)
+Auf einer Lebensmittelmesse in Plovdiv Anfang 2025 stellten wir unsere ersten Star Food Prototypen neben die Produkte eines Mitbewerbers auf einem Tisch aus. Beide enthielten Sonnenblumenöl identischer Qualität. Die Flasche des Mitbewerbers hatte ein sauberes, professionelles europäisches Etikett mit geprägten Elementen und farbcodierten Nährwertinformationen. Unser erster Prototyp hatte, was ich nur als ein funktionales, aber uninspirierendes Etikett beschreiben kann, das aussah, als wäre es in einer Tabellenkalkulation entworfen worden.
 
-### Phase 3: Verfeinerung und Produktion
+Drei Distributoren gingen an diesem Tisch vorbei. Alle drei griffen zuerst zur Flasche des Mitbewerbers. Einer von ihnen — ein Einkäufer für eine rumänische Lebensmittelkette — sah unsere an und sagte: "Das Produkt könnte ausgezeichnet sein, aber Käufer werden sich nicht die Zeit nehmen, das herauszufinden, wenn das Etikett sie nicht einlädt."
 
-Nach mehreren Iterationsrunden entstand das endgültige Design:
-- Warme Farbpalette mit Sonnenblumengelb und natürlichen Grüntönen
-- Klare Typografie für optimale Lesbarkeit auf verschiedenen Flaschengrößen
-- EU-konforme Platzierung aller Pflichtangaben
-- Skalierbarkeit von 0,5-Liter- bis 10-Liter-Gebinden
+Dieses Gespräch veränderte unseren Ansatz zur Verpackung dauerhaft. Im europäischen Lebensmittel-Großhandelsmarkt ist Ihr Etikett Ihre erste Verkaufspräsentation. Distributoren und Einzelhändler bewerten ständig neue Lieferanten. Sie haben keine Zeit, jedes Produkt zu recherchieren. Ein professionelles Etikett kommuniziert sofort: Dieses Unternehmen versteht Qualität, versteht den europäischen Markt und ist bereit, im Regal zu stehen.
 
-## Das Ergebnis
+## Wer ist Anastasiia Kolisnyk und warum haben wir sie gewählt?
 
-Die fertigen Etiketten vermitteln genau das, wofür Star Food steht: europäische Qualität, professionelle Verarbeitung und Verlässlichkeit. Sie werden heute auf allen Star Food Produkten in über 12 europäischen Ländern eingesetzt.
+Den richtigen Designer für Lebensmittelverpackungen in Europa zu finden ist schwieriger als es klingt. Sie brauchen jemanden, der sowohl Ästhetik als auch regulatorische Einschränkungen versteht — das EU-Lebensmittelkennzeichnungsrahmen ist detailliert und nicht verhandelbar, und ein Designer, der ihn nicht kennt, wird schöne Grafiken produzieren, die rechtlich nicht auf den Markt können.
 
-## Warum EU-konforme Etikettengestaltung für B2B-Händler unverzichtbar ist
+Wir fanden Anastasiia Kolisnyk über ihr Portfolio auf [akillustrator.com](https://formaink.com)). Sie ist in der Slowakei ansässig und spezialisiert sich auf Produktverpackungen, Branding und Illustration. Ihr Portfolio umfasste mehrere Lebensmittel- und Getränkeverpackungsprojekte für europäische Marken, und ihre Designsprache — klar, warm, europäisch im Gefühl — entsprach genau dem, was wir für Star Food wollten.
 
-Bei der Vermarktung von Lebensmitteln wie Sonnenblumenöl und Zucker über mehrere europäische Länder ist die Einhaltung EU-Richtlinien nicht nur eine rechtliche Anforderung, sondern auch ein entscheidender Wettbewerbsvorteil. Die Verordnung (EU) Nr. 1169/2011 (LMIV) schreibt strenge Vorgaben für die Kennzeichnung von Lebensmitteln vor, die in allen EU-Mitgliedstaaten gelten.
+Was Anastasiia von anderen Designern, die wir in Betracht zogen, unterschied, war ihr Ansatz zum Brief. Als wir die Herausforderung beschrieben — ein mehrsprachiges Lebensmitteletikett, das fünf verschiedene Sprachanforderungen erfüllen muss, während es die visuelle Kohärenz über 1L-, 3L- und 5L-Flaschengrößen beibehält — begann sie sofort, Fragen zu EU-Kennzeichnungsanforderungen, HACCP-Zertifikatsplatzierung und Barcode-Positionierung zu stellen. Sie war nicht nur eine visuelle Künstlerin. Sie verstand die operative Realität der Lebensmittelverpackung.
 
-Für ein B2B-Handelsunternehmen wie UB Market bedeutet dies: Kunden und Geschäftspartner erwarten vollständig EU-konforme Etiketten, die in mehreren Sprachen verfügbar sind. Unzureichend gekennzeichnete Produkte können zu Rückrufen führen, Vertrauen zerstören und teure Verwaltungsstrafen nach sich ziehen.
+## Was war das Star Food Marken-Brief?
 
-**Folgende Anforderungen waren bei der Etikettengestaltung von Star Food zentral:**
+Bevor irgendwelche Designarbeiten begannen, entwickelten wir einen detaillierten Marken-Brief für Anastasiia. Der Brief definierte alles, was das Etikett kommunizieren und erreichen musste:
 
-- **Nährwertdeklaration:** Alle sieben Nährwertangaben (Brennwert, Fett, gesättigte Fettsäuren, Kohlenhydrate, Zucker, Eiweiß, Salz) müssen deutlich lesbar sein
-- **Allergenkennzeichnung:** Besonders bei Verarbeitungsprodukten erforderlich
-- **Herkunftsangaben:** Transparente Informationen zum Produktionsort
-- **Mindesthaltbarkeitsdatum:** Korrekt platziert und gut lesbar
-- **Chargenangaben:** Für Rückverfolgbarkeit und Qualitätssicherung
-- **Sprachliche Anforderungen:** Mindestens in der offiziellen Sprache des Verkaufslandes
+**Anforderungen an die Markenidentität:**
 
-Besonders wichtig für unseren Fall als in Bulgarien ansässiges Unternehmen mit europäischer Ausrichtung war die konsistente Darstellung dieser Informationen in mindestens vier bis fünf verschiedenen Sprachen, ohne dabei die visuelle Klarheit des Designs zu beeinträchtigen.
+- Markenname: Star Food — evoziert Qualität, Zuverlässigkeit, europäischen Standard
+- Farbpalette: Blau (Vertrauen, Professionalität, EU-Marktvertrautheit) + Gelb (Sonnenblume, Wärme, natürlicher Ursprung)
+- Visuelle Sprache: Sauber und professionell, premium aber zugänglich
+- Zielgruppe: Europäische B2B-Käufer — Distributoren, Einzelhändler, HoReCa-Betreiber
 
-## Logistische und praktische Aspekte des Etikettendesigns
+**Technische Anforderungen:**
 
-Ein often unterschätzter Aspekt des professionellen Etikettendesigns ist die Berücksichtigung logistischer und produktionstechnischer Anforderungen. Bei der Gestaltung der Star Food Etiketten mussten wir mehrere praktische Herausforderungen bewältigen:
+- Muss die Pflichtbestandteile gemäß EU-Verordnung 1169/2011 für alle 5 Sprachen aufnehmen
+- Muss über 1L-, 3L- und 5L-PET-Flaschen skalieren ohne Neugestaltung
+- Barcode-Platzierung für Einzelhandels-Scanning optimiert
+- Chargenummer und Produktionsdatum-Platz ins Layout integriert
+- Zertifikatslogos (Non-GMO, ISO 22000) integriert ohne visuellen Aufwand
 
-**Produktvariabilität und Skalierbarkeit**
+**Marktanforderungen:**
 
-Sonnenblumenöl wird von UB Market in verschiedenen Gebindegrößen angeboten — von 0,5-Liter-Flaschen für den Endkundenhandel bis zu 10-Liter-Kanistern für Großabnehmer und Einzelhandelsketten. Das Etikett musste so gestaltet sein, dass es optisch konsistent wirkt, ob es auf einer kleinen Plastikflasche oder einem großen Stahlkanister angebracht ist.
+- Bereit für sofortige Distribution auf den bulgarischen, griechischen, polnischen, ukrainischen Märkten
+- Professionell genug, um neben etablierten europäischen Lebensmittelmarken im Einzelhandel zu stehen
+- Designsprache, die Qualität vergleichbar mit westeuropäischen Verpackungsstandards signalisiert
 
-Dies erforderte:
-- Flexible Typografie, die auch bei kleineren Größen lesbar bleibt
-- Skalierbare Vektorillustrationen statt Rastergrafikken
-- Ausreichende Abstände zwischen Elementen
-- Berücksichtigung der Druckgenauigkeit bei verschiedenen Substrattypen
+## Wie verlief der Designprozess?
 
-**Produktionsfreundliche Gestaltung**
+Anastasiia strukturierte das Projekt in vier Phasen — ein nützlicher Rahmen für jeden, der Lebensmittelverpackungsdesign für den europäischen Markt in Auftrag gibt.
 
-Die Zusammenarbeit mit professionellen Druckereien zeigte: Ein schönes Design nützt nichts, wenn es in der Serienfertigung zu Problemen führt. Die Designerin hat daher berücksichtigt:
+**Phase 1 — Regulatorisches Mapping (Woche 1)**
 
-- **Schnittmarken und Bleedbereich:** Korrekte Platzierung für präzise Schnitte
-- **Farbseparation:** Optimierung für Druck mit Standardfarben (CMYK)
-- **Haftung:** Design-Elemente, die auf verschiedenen Materialien (Papier, Kunststoff, Folie) gut haften
-- **Lagerfähigkeit:** Etikett-Design, das bei längerer Lagerung nicht verblasst oder vergilbt
+Bevor sie irgendeine Designsoftware berührte, kartierte Anastasiia alle Pflichtelemente der EU-Verordnung 1169/2011 gegen unsere fünf Zielsprachen. Das ist die Phase, die die meisten Designer überspringen — und der Grund, warum viele Lebensmitteletiketten nach der regulatorischen Überprüfung teure Nachdrucke erfordern.
 
-**Lagerkennzeichnung für B2B-Partner**
+Die EU-Verordnung 1169/2011 verlangt folgende Pflichtelemente auf jedem vorverpackten Lebensmittelprodukt:
 
-Besonderheit bei B2B-Geschäften: Großmengen-Gebinde werden oft mit zusätzlichen Lagerkennzeichnungen versehen. Das Design berücksichtigt daher Raum für:
-- Chargennummern-Stempel
-- QR-Codes für digitale Rückverfolgbarkeit
-- Importeur- und Händler-Angaben
-- Zusätzliche Zertifizierungen (Bio, Halal, Koscher, etc.)
+| Pflichtelement                           | Anforderung                      | Star Food Umsetzung                               |
+| ---------------------------------------- | -------------------------------- | ------------------------------------------------- |
+| Bezeichnung des Lebensmittels            | Klar und genau                   | "Raffiniertes Sonnenblumenöl" in allen 5 Sprachen |
+| Nettomenge                               | Liter/ml für Flüssigkeiten       | Prominente Platzierung auf dem Vorderpanel        |
+| Mindesthaltbarkeitsdatum                 | Klares Datumsformat              | Laser-aufgedruckt auf dem Rückenpanel             |
+| Aufbewahrungshinweise                    | Temperaturbedingungen            | Rückenpanel, unter der Nährwerttabelle            |
+| Verantwortlicher Lebensmittelunternehmer | Name + Adresse                   | Rückenpanel, unterer Abschnitt                    |
+| Ursprungsland                            | Erforderlich für pflanzliche Öle | "Erzeugnis Bulgariens/der Ukraine"                |
+| Nährwertdeklaration                      | Mindestens je 100 ml             | Vollständige Nährwerttabelle, Rückenpanel         |
+| Allergeninformation                      | Hervorhebung in der Zutatenliste | Separate Allergenangabe                           |
 
-## Marktanforderungen und Kundenerwartungen in verschiedenen Ländern
+"Das regulatorische Mapping am Anfang ersparte uns mindestens zwei Überarbeitungsrunden," erklärte Anastasiia während unseres Projekt-Debriefings. "Die meisten Etikettenüberarbeitungen passieren, weil der Kunde das Artwork visuell genehmigt, es dann an sein Rechtsteam schickt und entdeckt, dass Pflichtinformationen fehlen oder falsch positioniert sind."
 
-Ein wichtiges Learning aus der Zusammenarbeit mit Anastasiia Kolisnyk war die Erkenntnis, dass Etikettendesign nicht einfach „one-size-fits-all" funktioniert. Verschiedene europäische Märkte haben unterschiedliche Erwartungen und Anforderungen:
+Für DACH-Kunden ist zu beachten: Das BVL (Bundesamt für Verbraucherschutz und Lebensmittelsicherheit) führt regelmäßige Kontrollen der Kennzeichnungskonformität durch. Die Schriftgröße von 1,2mm x-height ist das europäische Minimum — ein Etikett, das diese Grenze gerade erfüllt, kann bei deutschen Behördenprüfungen trotzdem als unzureichend beanstandet werden.
 
-**Polen und Osteuropa:** Großer Fokus auf Herkunftsangaben und Transparenz zur Produktqualität. Käufer in dieser Region legen besonderen Wert auf Bio-Zertifizierungen und Information zum Anbaugebiet.
+**Phase 2 — Konzeptentwicklung (Wochen 2–3)**
 
-**Deutschland und Skandinavien:** Hohe Anforderungen an Detailinformationen und Nachhaltigkeit. Labels für FSC-zertifizierte Verpackungen oder Angaben zum CO₂-Fußabdruck werden zunehmend erwartet.
+Mit dem etablierten regulatorischen Rahmen entwickelte Anastasiia drei verschiedene visuelle Konzepte. Alle drei verwendeten die blau-gelbe Palette aus dem Brief, unterschieden sich jedoch in ihrem Ansatz zum zentralen visuellen Element.
 
-**Südeuropa (Griechenland, Spanien):** Stärkerer Fokus auf visuelle Elemente und kulturelle Authentizität. Das Sonnenblumen-Motiv verbindet sich hier besonders gut mit Vorstellungen von Natürlichkeit und mediterranem Lifestyle.
+Das Gewinnerkonzept platzierte das runde Star Food Logo als dominierendes Vorderelement, umgeben von einer sanften Sonnenblumenfeldillustration, die den natürlichen Ursprung des Produkts repräsentiert. Die Typografie war in einer klaren Hierarchie strukturiert: Produktname groß und aus Regalentfernung lesbar, Sekundärinformationen in kompakten, aber lesbaren Blöcken.
 
-Die Star Food Etiketten wurden mit dieser Vielfalt im Hinterkopf konzipiert — das zentrale Design funktioniert überall, kann aber je nach Zielmarkt leicht variiert werden.
+Eine Designentscheidung, die sich als unerwartet wichtig herausstellte: Anastasiia bestand darauf, Schriftgrößen leicht über den EU-Mindestanforderungen für mehrsprachigen Text zu verwenden. "Das EU-Minimum für die meisten Pflichttexte ist 1,2mm x-height," bemerkte sie. "Das ist technisch legal, aber praktisch unlesbar für ältere Käufer in Lagerhausbeleuchtung. Wir gingen auf mindestens 1,5mm. Das hilft auch bei Fotografie und digitalem Katalogdisplay."
 
-## Digitale Integration und Rückverfolgbarkeit
+**Phase 3 — Verfeinerung und mehrsprachige Tests (Wochen 4–5)**
 
-Moderne B2B-Etikettengestaltung geht über reines Design hinaus. Im Zeitalter der Digitalisierung mussten wir auch folgende technische Aspekte berücksichtigen:
+Diese Phase konzentrierte sich auf eine spezifische Herausforderung, die leicht unterschätzt wird: Die Textlänge variiert dramatisch zwischen Sprachen. Die Phrase "Raffiniertes Sonnenblumenöl" läuft auf Griechisch und Ukrainisch erheblich länger als auf Englisch oder Deutsch. Anastasiia entwarf Textfelder mit genug Flexibilität, um die längste Sprachangabe aufzunehmen, ohne dass das Layout neu gesetzt werden muss.
 
-**QR-Codes und digitale Inhalte**
+Das Design wurde in tatsächlichem Flaschenmaßstab getestet — im Maßstab 1:1 auf Papier gedruckt und um jedes Flaschenformat gewickelt — bevor irgendwelche digitalen Genehmigungen erfolgten. Dies deckte zwei Probleme auf: Die Nährwerttabelle war auf der 1L-Flasche leicht zu klein für komfortables Lesen, und die Platzierung eines Zertifikatslogos erzeugte einen visuellen Konflikt mit dem Barcode auf dem Rückenpanel. Beide wurden behoben, bevor die abschließenden Dateien geliefert wurden.
 
-Die Star Food Etiketten enthalten QR-Codes, die auf digitale Produktinformationen verlinken. Dies ermöglicht Geschäftspartnern und Endkunden:
-- Sofortigen Zugriff auf ausführliche Produktdokumentation
-- Verifizierung der Authentizität des Produkts
-- Direkte Kontaktaufnahme mit UB Market bei Fragen
+**Phase 4 — Produktionsdateien (Woche 6)**
 
-**Rückverfolgbarkeitssysteme**
+Die finale Lieferung umfasste druckfertige Dateien für alle Flaschengrößen in CMYK (für Offsetdruck) und Pantone-gematchte Varianten. Anastasiia lieferte auch Markenrichtlinien, die genaue Farbwerte, minimale Logogrößen und Freiraum-Regeln festlegen.
 
-Für die Zusammenarbeit mit Großhandelsketten und Einzelhandelsketten ist eine sichere Rückverfolgung essentiell. Das Design berücksichtigt ausreichend Platz für Chargennummern und Verfallsdaten, die maschinell lesbar sind (z.B. mittels Barcode-Scannung).
+## Was verlangt die EU-Verordnung 1169/2011 tatsächlich?
 
-**Umweltschutz und nachhaltige Etikettierung**
+Für jedes Lebensmittelunternehmen, das vorverpackte Produkte auf dem europäischen Markt verkaufen möchte, ist das Verständnis dieser Verordnung nicht optional. Sie gilt für alle vorverpackten Lebensmittelprodukte, die an Endverbraucher und Massenverpflegungsbetriebe (einschließlich HoReCa-Betriebe) in der EU verkauft werden.
 
-Ein zunehmend wichtiges Thema für europäische B2B-Partner: Nachhaltigkeit. Die Etiketten von Star Food wurden auf FSC-zertifiziertem Papier gedruckt, und das Design minimiert Tintenverbrauch durch intelligente Farbplatzierung.
+**Die neun Pflichtelemente, die jedes EU-Lebensmitteletikett enthalten muss:**
 
-## Professionelles Design als geschäftliche Investition
+1. **Bezeichnung des Lebensmittels** — Muss die wahre Natur des Produkts genau beschreiben. "Premium-Öl" ist nicht akzeptabel; "Raffiniertes Sonnenblumenöl" ist es.
 
-Die Zusammenarbeit mit einer professionellen Designerin wie Anastasiia Kolisnyk war eine bewusste Investition in die Markenidentität von UB Market und Star Food. Dies hat sich mehrfach bewährt:
+2. **Zutatenverzeichnis** — In absteigender Reihenfolge nach Gewicht. Bei Einzutatenprodukten wie reinem Sonnenblumenöl kann dies vereinfacht werden.
 
-**Kundenvertrauen und Marktakzeptanz:** Mit professionell gestalteten Etiketten konnten wir neue Geschäftspartner in anspruchsvollen Märkten gewinnen.
+3. **Menge bestimmter Zutaten** — Wenn eine Zutat im Namen oder in der Bildsprache hervorgehoben wird, muss ihr Prozentsatz angegeben werden.
 
-**Kosteneinsparungen durch Fehlerminimierung:** Durch gründliche EU-Compliance-Checks im Design-Prozess entstanden später keine kostspieligen Nachbesserungen oder Rückrufe.
+4. **Nettomenge** — In metrischen Einheiten. Für Flüssigkeiten: Milliliter oder Liter.
 
-**Wettbewerbsvorteil:** In einem Markt, wo viele Anbieter ähnliche Rohstoffe verkaufen, ist ein starkes visuelles Branding entscheidend für die Differenzierung.
+5. **Mindesthaltbarkeitsdatum oder "Verbrauchen bis" Datum** — "Mindestens haltbar bis" wird für die meisten lagerstabilen Produkte verwendet. Das Format muss klar und standardisiert sein.
 
-Für B2B-Händler anderer Lebensmittel (Zucker, Mehl, Gewürze, etc.) gilt dasselbe Prinzip: Professionelle Etikettengestaltung ist kein Luxus, sondern eine notwendige Voraussetzung für langfristigen Erfolg in Europa.
+6. **Aufbewahrungsbedingungen und/oder Verwendungsbedingungen** — Wo die sichere Verwendung des Produkts spezifische Lagerbedingungen erfordert.
+
+7. **Name und Adresse des verantwortlichen Lebensmittelunternehmers** — Der Hersteller, Verpacker oder in der EU registrierte Importeur.
+
+8. **Ursprungsland oder -ort** — Pflicht für bestimmte Kategorien einschließlich pflanzlicher Öle, Honig, Olivenöl, Fisch und frischem Fleisch.
+
+9. **Gebrauchsanweisung** — Wo das Weglassen eine angemessene Verwendung des Produkts erschweren würde.
+
+**Zusätzlich seit Dezember 2016 vorgeschrieben:**
+
+Eine **Nährwertdeklaration** je 100ml oder 100g, einschließlich: Energie (in kJ und kcal), Fett, gesättigte Fettsäuren, Kohlenhydrate, Zucker, Eiweiß und Salz. Für Sonnenblumenöl ist dies unkompliziert — die Erklärung ist im Wesentlichen der Fettgehalt und die Energie.
+
+## Was kostete das Star Food Etikettprojekt und was hat es uns gelehrt?
+
+Wir investierten ca. €2.800 in das vollständige Star Food Etikettendesignprojekt — alle Flaschengrößen, alle Sprachen, Produktionsdateien, Markenrichtlinien und zwei Überarbeitungsrunden.
+
+Die Rendite war unmittelbar. Innerhalb von drei Monaten nach dem Start mit den neuen Etiketten stieg unsere Distributor-Anfragerate aus Handelsverzeichnis-Listings spürbar. Konkreter: Bei einem B2B-Meeting in Bukarest Ende 2025 sagte uns ein Einzelhandelskäufer direkt: "Ihre Verpackung sieht vergleichbar mit dem aus, was ich von westeuropäischen Marken sehe. Das ist für meinen Kategorieleiter wichtig."
+
+Die fünf Lektionen aus dem Projekt:
+
+**1. Regulatorisches Mapping vor dem Design, nicht danach.** Beginnen Sie mit jedem Pflichtelement, das Ihr Etikett in jeder Zielmarktsprache enthalten muss. Entwerfen Sie um den Inhalt herum, nicht umgekehrt.
+
+**2. Im tatsächlichen Maßstab testen.** Digitale Mockups sind irreführend. Drucken Sie Ihr Etikett in realer Größe, wickeln Sie es um Ihre tatsächliche Flasche und betrachten Sie es bei schlechter Beleuchtung.
+
+**3. Für die längste Sprachvariante entwerfen.** Wenn Ihr Etikett auf Griechisch funktioniert (das dazu neigt, die Textlängen zu erweitern), wird es auf Deutsch oder Englisch funktionieren. Das Umgekehrte gilt nicht immer.
+
+**4. In Markenrichtlinien investieren.** Das Etikett selbst ist eine Lieferung. Die Markenrichtlinien sind das, was Ihnen ermöglicht, die Konsistenz beim Hinzufügen von Produkten, Größen oder Märkten aufrechtzuerhalten.
+
+**5. Professionelle Verpackung ist ein Distributor-Konversionswerkzeug.** Jeder in professionelles Etikettendesign investierte Euro kehrt in weniger Gesprächen zurück, in denen erklärt werden muss, warum Ihr Produkt genauso gut ist wie die bekanntere Marke daneben im Regal.
+
+---
+
+Interessiert an der Distribution von Star Food Produkten? **[Partner werden](/de/partners)** oder **[Preisliste anfordern](/de/quote)**. Das vollständige Portfolio von Anastasiia Kolisnyk finden Sie unter [akillustrator.com](https://formaink.com).
+
+_Quellen: EU-Verordnung 1169/2011 über die Information der Verbraucher über Lebensmittel, UB Market Markenentwicklungsdokumentation 2025, Anastasiia Kolisnyks Design-Projekt-Brief und Lieferunterlagen._
