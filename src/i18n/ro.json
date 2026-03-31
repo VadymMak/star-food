@@ -205,7 +205,21 @@
     "mapTitle": "Ne Găsiți în Varna, Bulgaria"
   },
   "footer": {
-    "copyright": "UB Market LTD. Toate drepturile rezervate."
+    "copyright": "UB Market LTD. Toate drepturile rezervate.",
+    "tagline": "Comerț en-gros cu alimente în Europa. Furnizor B2B de uleiuri vegetale, maioneză, ketchup și zahăr.",
+    "products": "Produse",
+    "sunflowerOil": "Ulei de floarea-soarelui",
+    "highOleicOil": "Ulei high-oleic",
+    "deepFryingOil": "Ulei pentru prăjit",
+    "mayonnaise": "Maioneză",
+    "ketchup": "Ketchup",
+    "sugar": "Zahăr din sfeclă",
+    "company": "Companie",
+    "about": "Despre noi",
+    "blog": "Blog",
+    "quote": "Solicitare ofertă",
+    "contacts": "Contacte",
+    "contactTitle": "Contact"
   },
   "aboutPage": {
     "label": "Despre Noi",

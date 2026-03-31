@@ -205,7 +205,21 @@
     "mapTitle": "Finden Sie Uns in Varna, Bulgarien"
   },
   "footer": {
-    "copyright": "UB Market LTD. Alle Rechte vorbehalten."
+    "copyright": "UB Market LTD. Alle Rechte vorbehalten.",
+    "tagline": "Europäischer Großhandel mit Lebensmitteln. B2B-Lieferant für Pflanzenöle, Mayonnaise, Ketchup und Zucker.",
+    "products": "Produkte",
+    "sunflowerOil": "Sonnenblumenöl",
+    "highOleicOil": "High-Oleic-Öl",
+    "deepFryingOil": "Frittieröl",
+    "mayonnaise": "Mayonnaise",
+    "ketchup": "Ketchup",
+    "sugar": "Rübenzucker",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "blog": "Blog",
+    "quote": "Angebot anfragen",
+    "contacts": "Kontakt",
+    "contactTitle": "Kontakt"
   },
   "aboutPage": {
     "label": "Über Uns",
