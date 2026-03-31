@@ -241,6 +241,44 @@
   }
 }
 
+.certificateBlock {
+  margin-top: 32px;
+  padding: 24px;
+  border: 1px solid rgba(212, 168, 67, 0.25);
+  border-radius: 8px;
+  background: rgba(212, 168, 67, 0.04);
+}
+
+.certificateTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--gold, #d4a843);
+  margin-bottom: 12px;
+}
+
+.certificateText {
+  font-size: 0.85rem;
+  color: var(--text-muted, #999);
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.certificateBtn {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid var(--gold, #d4a843);
+  color: var(--gold, #d4a843);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.certificateBtn:hover {
+  background: var(--gold, #d4a843);
+  color: #000;
+}
+
 @media (max-width: 600px) {
   .productSection {
     padding: 16px 0 50px;

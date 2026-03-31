@@ -331,6 +331,28 @@ export default function ProductPage() {
                   </span>
                 ))}
               </div>
+
+              {slug === "sunflower-oil" && (
+                <div className={styles.certificateBlock}>
+                  <h3 className={styles.certificateTitle}>
+                    📄 Supplier Quality Certificate
+                  </h3>
+                  <p className={styles.certificateText}>
+                    This product is supplied with a Certificate of Quality and Non-GMO
+                    issued by LLC "Green Light" (Ukraine). The certificate confirms:
+                    no GMO detected, no aflatoxins, no pesticides, heavy metals and
+                    radioactivity within EU allowable levels.
+                  </p>
+                  <a
+                    href="/certificates/sunflower-oil-non-gmo-certificate.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.certificateBtn}
+                  >
+                    Download Certificate (PDF)
+                  </a>
+                </div>
+              )}
             </div>
           </div>
         </div>
