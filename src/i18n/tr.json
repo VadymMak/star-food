@@ -205,7 +205,21 @@
     "mapTitle": "Varna, Bulgaristan'da Bulun"
   },
   "footer": {
-    "copyright": "UB Market LTD. Tüm hakları saklıdır."
+    "copyright": "UB Market LTD. Tüm hakları saklıdır.",
+    "tagline": "Avrupa toptan gıda ticareti. Bitkisel yağlar, mayonez, ketçap ve şeker B2B tedarikçisi.",
+    "products": "Ürünler",
+    "sunflowerOil": "Ayçiçek Yağı",
+    "highOleicOil": "Yüksek Oleik Yağ",
+    "deepFryingOil": "Kızartma Yağı",
+    "mayonnaise": "Mayonez",
+    "ketchup": "Ketçap",
+    "sugar": "Pancar Şekeri",
+    "company": "Şirket",
+    "about": "Hakkımızda",
+    "blog": "Blog",
+    "quote": "Teklif İste",
+    "contacts": "İletişim",
+    "contactTitle": "İletişim"
   },
   "aboutPage": {
     "label": "Hakkımızda",
