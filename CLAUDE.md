@@ -8,18 +8,19 @@ Stack: Next.js 15, TypeScript, CSS Modules, next-intl, Vercel
 
 ## Current Locales
 
-- en, bg, ua, tr, ro, de (6 languages)
+- en, bg, ua, tr, ro, de, el (7 languages)
 - Routing config: src/i18n/routing.ts
 - Translation files: src/i18n/[lang].json
 - Default locale: en
 - Locale prefix: always (/en/, /bg/, etc.)
 - ua locale uses hreflang "uk" (ISO 639-1 standard)
+- el locale uses hreflang "el" (Greek)
 
 ## Key File Locations
 
 - Routing: src/i18n/routing.ts
 - Middleware: src/middleware.ts
-- Translations: src/i18n/[lang].json (en/bg/ua/tr/ro/de)
+- Translations: src/i18n/[lang].json (en/bg/ua/tr/ro/de/el)
 - Blog content: src/content/blog/[slug]/[locale].md
 - Products data: src/data/products.ts
 - Blog lib: src/lib/blog.ts
@@ -59,7 +60,7 @@ Stack: Next.js 15, TypeScript, CSS Modules, next-intl, Vercel
 
 ## Blog Structure
 
-- 12 blog slugs × 6 locales = 72 blog pages
+- 12 blog slugs × 7 locales = 84 blog pages
 - Frontmatter required: title, description, date, category, image, readingTime
 - Images: /images/[name].webp (stored in public/images/)
 - Blog images map: each slug has assigned image from existing /images/ folder
@@ -71,10 +72,10 @@ Maps product slug → array of {slug, title, image} for Related Articles section
 
 ## i18n Translation Keys — Critical Sections
 
-- productPage.relatedArticles — "Related Articles" (all 6 languages done)
-- blogPost.youMightAlsoEnjoy — "You might also enjoy" (all 6 languages done)
-- blogPost.writtenBy — "Written by" (all 6 languages done)
-- blogPost.authorBio — author bio text (all 6 languages done)
+- productPage.relatedArticles — "Related Articles" (all 7 languages done)
+- blogPost.youMightAlsoEnjoy — "You might also enjoy" (all 7 languages done)
+- blogPost.writtenBy — "Written by" (all 7 languages done)
+- blogPost.authorBio — author bio text (all 7 languages done)
 
 ## Prices (from prices.json — March 2026)
 
