@@ -138,7 +138,7 @@ const contactItems = [
             <span className={styles.profileDesc}>{t("contacts.linkedinDesc")}</span>
           </a>
           <a
-            href="https://www.europages.co.uk/en/pg/ub-market-ltd-00000009061433-p001.html"
+            href="https://www.europages.co.uk/en/company/ub-market-ltd-22384280"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.profileCard}
