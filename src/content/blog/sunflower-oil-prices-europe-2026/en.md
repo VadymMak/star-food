@@ -1,6 +1,6 @@
 ---
-title: "Sunflower Oil Prices in Europe 2026 — What Are Buyers Actually Paying?"
-description: "Current wholesale sunflower oil prices for Europe Q1 2026 — FOB Black Sea, CIF Rotterdam, CIF Turkey. Market trends, price drivers, quarterly forecast, and how to lock in competitive pricing."
+title: "Sunflower Oil Prices Europe 2026: €900–1,450/ton — Current Wholesale Rates"
+description: "Live wholesale sunflower oil prices for Europe 2026: refined €900–1,100/ton, high-oleic €1,300–1,450/ton. FOB Black Sea, CIF Rotterdam, CIF Turkey. Updated Q2 2026 with price forecast and supplier checklist."
 date: "2026-02-20"
 category: "sunflower-oil"
 image: "/images/our-products.webp"

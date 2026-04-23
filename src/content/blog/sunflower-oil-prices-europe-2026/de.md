@@ -1,6 +1,6 @@
 ---
-title: "Sonnenblumenöl Preise in Europa 2026 — Was zahlen Käufer wirklich?"
-description: "Aktuelle Großhandelspreise für Sonnenblumenöl in Europa Q1 2026 — FOB Schwarzes Meer, CIF Rotterdam, CIF Türkei. Markttrends, Preistreiber, Quartalsforecast und wie Sie wettbewerbsfähige Preise sichern."
+title: "Sonnenblumenöl Preise Europa 2026: €900–1.450/Tonne — Aktuelle Großhandelspreise"
+description: "Aktuelle Sonnenblumenöl Großhandelspreise Europa 2026: raffiniert €900–1.100/Tonne, High-Oleic €1.300–1.450/Tonne. FOB Schwarzes Meer, CIF Rotterdam. Q2 2026 Update mit Preisprognose und Lieferanten-Checkliste."
 date: "2026-02-20"
 category: "sunflower-oil"
 image: "/images/our-products.webp"
