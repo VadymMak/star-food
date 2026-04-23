@@ -51,3 +51,42 @@ export function generateBreadcrumbSchema(items: { name: string; url: string }[])
     })),
   };
 }
+
+export function generateOrganizationSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "UB Market LTD",
+    "alternateName": "Star Food",
+    "url": "https://ub-market.com",
+    "logo": "https://ub-market.com/icons/logo.webp",
+    "email": "ubmarket2022@gmail.com",
+    "telephone": "+359884469860",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Sirma Voivoda St., b.1, ap. 21",
+      "addressLocality": "Varna",
+      "postalCode": "9010",
+      "addressCountry": "BG"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/company/ub-market-ltd",
+      "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
+      "https://www.instagram.com/ub_market_ltd"
+    ],
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "Varna, Bulgaria"
+    },
+    "areaServed": {
+      "@type": "Place",
+      "name": "Europe"
+    },
+    "knowsAbout": [
+      "Sunflower Oil Wholesale",
+      "Vegetable Oil Trading",
+      "Food Commodities Europe",
+      "B2B Food Supply"
+    ]
+  };
+}
