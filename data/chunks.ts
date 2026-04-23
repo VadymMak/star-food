@@ -242,4 +242,24 @@ export const chunks: ContentChunk[] = [
     content:
       "All products are quality-checked before shipment. In case of quality issues, UB Market handles claims promptly. Detailed terms are agreed upon in the sales contract.",
   },
+
+  // ===== ONLINE PROFILES =====
+  {
+    id: "profile-linkedin",
+    category: "contact",
+    content:
+      "UB Market LTD is present on LinkedIn at linkedin.com/company/ub-market-ltd. Follow the company page for product updates, market news, and wholesale offers.",
+  },
+  {
+    id: "profile-europages",
+    category: "contact",
+    content:
+      "UB Market LTD is listed on Europages — Europe's leading B2B marketplace. Company profile: europages.co.uk/en/company/ub-market-ltd-22384280. Buyers can view all products and contact the supplier directly.",
+  },
+  {
+    id: "profile-certificate",
+    category: "certifications",
+    content:
+      "UB Market supplies sunflower oil with Certificate of Quality and Non-GMO issued by LLC Green Light (Ukraine). The certificate confirms no GMO, no aflatoxins, no pesticides, heavy metals and radioactivity within EU allowable levels. Certificate available for download on the sunflower oil product page.",
+  },
 ];
