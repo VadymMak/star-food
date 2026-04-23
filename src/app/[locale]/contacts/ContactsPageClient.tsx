@@ -9,6 +9,8 @@ import {
   FaInstagram,
   FaTelegram,
   FaWhatsapp,
+  FaLinkedin,
+  FaGlobe,
 } from "react-icons/fa";
 import ContactForm from "@/components/ContactForm/ContactForm";
 import styles from "./contacts.module.css";
@@ -118,6 +120,33 @@ const contactItems = [
               </a>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Business Profiles */}
+      <section className={styles.profilesSection}>
+        <h2 className={styles.profilesTitle}>{t("contacts.findUsOn")}</h2>
+        <div className={styles.profilesGrid}>
+          <a
+            href="https://www.linkedin.com/company/ub-market-ltd"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.profileCard}
+          >
+            <FaLinkedin className={styles.profileIcon} />
+            <span className={styles.profileName}>LinkedIn</span>
+            <span className={styles.profileDesc}>{t("contacts.linkedinDesc")}</span>
+          </a>
+          <a
+            href="https://www.europages.co.uk/en/company/ub-market-ltd-22384280"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.profileCard}
+          >
+            <FaGlobe className={styles.profileIcon} />
+            <span className={styles.profileName}>Europages</span>
+            <span className={styles.profileDesc}>{t("contacts.europagesDesc")}</span>
+          </a>
         </div>
       </section>
 
