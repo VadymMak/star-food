@@ -105,6 +105,9 @@
   color: var(--text, #e8e8e8);
   font-size: 1.02rem;
   line-height: 1.8;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  overflow: hidden;
 }
 
 .article h2 {
@@ -352,5 +355,33 @@
 
   .imageWrap {
     aspect-ratio: 16 / 9;
+  }
+}
+
+@media (max-width: 768px) {
+  .bodyGrid {
+    padding: 0 16px;
+  }
+  .article {
+    overflow: hidden;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    width: 100%;
+    max-width: 100%;
+  }
+  .article table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-size: 0.8rem;
+  }
+  .article pre {
+    overflow-x: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .bodyGrid {
+    padding: 0 12px;
   }
 }
