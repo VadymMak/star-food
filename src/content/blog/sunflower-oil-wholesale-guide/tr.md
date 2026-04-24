@@ -1,6 +1,6 @@
 ---
-title: "Avrupa'da Toptan Ayçiçek Yağı Satın Alma Rehberi 2026"
-description: "Avrupa'da toptan ayçiçek yağı temin etmek isteyen B2B alıcıların bilmesi gereken her şey — çeşitler, kalite, fiyatlar, ambalaj ve güvenilir tedarikçiler."
+title: "Avrupa'da Toptan Bitkisel Yağ ve Ayçiçek Yağı Satın Alma Rehberi 2026"
+description: "B2B alıcıların Avrupa'da toptan bitkisel yağ ve ayçiçek yağı tedariki hakkında bilmesi gereken her şey — çeşitler, toptan yağ fiyatları, ambalaj ve güvenilir yemeklik yağ tedarikçileri."
 date: "2026-02-15"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
@@ -25,7 +25,7 @@ ogImage: "/images/blog/sunflower-oil-wholesale-guide/og.jpg"
 
 ## Toptan ayçiçek yağı nedir ve kimler satın alır?
 
-Toptan ayçiçek yağı, büyük miktarlarda satılan ayçiçek yağıdır — genellikle 1 paletten (600–800 litre) 20.000–24.000 litrelik tam flexitank yüklerine kadar. Alıcılar gıda üreticileri, restoran zincirleri, perakende distribütörler ve Avrupa genelinde özel etiket markalardır.
+Toptan ayçiçek yağı, Avrupa'nın en çok işlem gören toptan bitkisel yağ kategorilerinden biridir — genellikle 1 paletten (600–800 litre) 20.000–24.000 litrelik tam flexitank yüklerine kadar büyük miktarlarda satılır. Alıcılar; güvenilir bir yemeklik yağ toptancısı arayan gıda üreticileri, restoran zincirleri, perakende distribütörler ve Avrupa genelinde özel etiket markalardır.
 
 AB gıda ticaretinde yıllardır çalışıyorum ve bir örüntü sürekli tekrar ediyor: toptan ayçiçek yağı satın almada yeni olan alıcılar, kaliteler, teslimat koşulları ve ambalaj seçenekleri arasındaki farkı anlayamadıkları için ilk yılda %15–25 fazla ödüyor. Bu rehber bunu düzeltiyor.
 
