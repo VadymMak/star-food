@@ -1,6 +1,7 @@
 ---
-title: "Avrupa'da Ayçiçek Yağı Fiyatları 2026 — Alıcılar Gerçekte Ne Ödüyor?"
-description: "Avrupa Q1 2026 için güncel toptan ayçiçek yağı fiyatları — FOB Karadeniz, CIF Rotterdam, CIF Türkiye. Piyasa trendleri, fiyat faktörleri, üç aylık tahmin ve rekabetçi fiyatları nasıl sabitlersiniz."
+title: "Avrupa'da Toptan Ayçiçek Yağı Fiyatları 2026 — Alıcılar Gerçekte Ne Ödüyor?"
+description: "Avrupa Q1 2026 için güncel toptan ayçiçek yağı fiyatları — FOB Karadeniz, CIF Rotterdam, CIF Türkiye. Gıda toptancıları için piyasa trendleri, fiyat faktörleri ve rekabetçi fiyatları nasıl sabitlersiniz."
+keywords: "toptan ayçiçek yağı, toptan gıda, gıda toptancısı, toptan yağ, toptan gıda ürünleri"
 date: "2026-02-20"
 category: "sunflower-oil"
 image: "/images/our-products.webp"
@@ -24,7 +25,7 @@ _Fiyatlar gösterge niteliğindedir ve hacim, ambalaj, ödeme koşulları ve tes
 
 ---
 
-## Avrupa'da ayçiçek yağı fiyatları şu anda nerede?
+## Avrupa'da toptan ayçiçek yağı fiyatları şu anda nerede?
 
 İstanbul'dan bir gıda üreticisi Ocak 2026'da aradı ve olağan tedarikçisinin neden önceden bildirmeksizin rafine RBDW fiyatını ton başına $65 artırdığını sordu. Son alımı $1.080/ton'daydı. Yeni teklif $1.145/ton'du. Bunun gerçek bir piyasa hareketi mi yoksa bir marj artışı mı olduğunu bilmek istedi.
 
@@ -36,7 +37,7 @@ Bu senaryo — piyasa hareketi yanlışlıkla fiyat artışı olarak yorumlanıy
 
 Türk alıcılar için önemli bir coğrafi bağlam: CIF İstanbul fiyatları, Karadeniz'e yakınlık sayesinde CIF Rotterdam fiyatlarından ton başına $50–70 daha düşük olma eğilimindedir. Varna'dan İstanbul'a karayoluyla yalnızca 5–6 saat. Bu, UB Market'in Türk alıcılara sunduğu gerçek bir maliyet avantajı anlamına gelir.
 
-## Ayçiçek yağı fiyatları neden 2026'da 2024'ten daha yüksek?
+## Toptan ayçiçek yağı fiyatları neden 2026'da 2024'ten daha yüksek?
 
 Mevcut fiyat seviyesini anlamak arz tarafı bağlamını anlamayı gerektiriyor. Üç faktör Avrupa ayçiçek yağı fiyatlarını 2024 ortalamaları üzerine çıkardı.
 
@@ -86,7 +87,7 @@ Hasat sonrası dönemler, yeni mahsul piyasaya girdikçe tipik olarak geçici fi
 
 **Genel 2026 görünümü: Orta derecede yükselen.** Önemli bir arz sürprizi olmadıkça fiyatların 2024 diplerине dönmesini beklemiyoruz. Baz senaryo rafine RBDW'nin 2026'nın büyük bölümü için $1.100–1.250/ton FOB Karadeniz aralığında işlem görmesi.
 
-## 2026'da ayçiçek yağı fiyatlarını hangi faktörler yönlendiriyor?
+## 2026'da toptan yağ fiyatlarını hangi faktörler yönlendiriyor?
 
 Beş faktör Avrupa pazarlarındaki ayçiçek yağı fiyat hareketlerinin büyük çoğunluğunu açıklıyor:
 
@@ -117,7 +118,7 @@ Incoterms'i anlamak fiyat tekliflerini doğru yorumlamak için şarttır. Kullan
 
 İstanbul'dan bir gıda distribütörü, CIF Rotterdam kaynaklı tedarikten Varna'dan DAP teslimatına geçerek toplam teslim maliyetini ton başına €75 azalttı — orjinde yağ daha ucuz olduğu için değil, daha kısa lojistik zinciri (Varna'dan İstanbul'a = 5–6 saat kamyon) navlun, sigorta ve transit zaman maliyetlerini önemli ölçüde azalttığı için.
 
-## Alıcılar rekabetçi ayçiçek yağı fiyatlarını nasıl sabitleyebilir?
+## Toptan gıda alıcıları rekabetçi ayçiçek yağı fiyatlarını nasıl sabitleyebilir?
 
 2026'da B2B alıcı olarak fiyat riski yönetimi için dört strateji:
 
