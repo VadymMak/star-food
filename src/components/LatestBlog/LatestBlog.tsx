@@ -57,7 +57,7 @@ export default function LatestBlog({ posts }: LatestBlogProps) {
                   </span>
                 </div>
                 <div className={styles.cardBody}>
-                  <time className={styles.date}>{formattedDate}</time>
+                  <time className={styles.date} suppressHydrationWarning>{formattedDate}</time>
                   <h3 className={styles.cardTitle}>{post.title}</h3>
                   <p className={styles.cardDesc}>{post.description}</p>
                   <span className={styles.readMore}>{t("readMore")} →</span>

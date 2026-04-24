@@ -83,7 +83,7 @@ export default function Footer() {
         <hr className={styles.divider} />
 
         <div className={styles.bottom}>
-          <p className={styles.copyright}>
+          <p className={styles.copyright} suppressHydrationWarning>
             &copy; {new Date().getFullYear()} {t("footer.copyright")}
           </p>
           <div className={styles.credits}>
