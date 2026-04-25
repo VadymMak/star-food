@@ -1,427 +1,188 @@
-"use client";
+import type { Metadata } from "next";
+import { getTranslations, setRequestLocale } from "next-intl/server";
+import { notFound } from "next/navigation";
+import { routing } from "@/i18n/routing";
+import { products, getProductBySlug } from "@/data/products";
+import ProductPageClient from "./ProductPageClient";
 
-import { useTranslations } from "next-intl";
-import { useLocale } from "next-intl";
-import Image from "next/image";
-import Link from "next/link";
-import { useParams } from "next/navigation";
-import { FaEnvelope, FaPhone, FaCheckCircle, FaBoxOpen } from "react-icons/fa";
-import { getProductBySlug, products } from "@/data/products";
-import { generateProductSchema, generateBreadcrumbSchema } from "@/lib/schema";
-import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
-import styles from "./product.module.css";
+const BASE_URL = "https://ub-market.com";
 
-const PRODUCT_BLOGS: Record<
-  string,
-  { slug: string; title: string; image: string }[]
-> = {
-  "sunflower-oil": [
-    {
-      slug: "sunflower-oil-wholesale-guide",
-      title: "Complete Guide to Buying Sunflower Oil Wholesale",
-      image: "/images/vegetable-oil.webp",
-    },
-    {
-      slug: "refined-vs-crude-sunflower-oil",
-      title: "Refined vs Crude Sunflower Oil: Full Comparison",
-      image: "/images/vegetable-oil.webp",
-    },
-    {
-      slug: "sunflower-oil-prices-europe-2026",
-      title: "Sunflower Oil Prices in Europe 2026",
-      image: "/images/our-products.webp",
-    },
+// Generate static params for all locale × slug combinations
+export function generateStaticParams() {
+  const params: { locale: string; slug: string }[] = [];
+  for (const locale of routing.locales) {
+    for (const product of products) {
+      params.push({ locale, slug: product.slug });
+    }
+  }
+  return params;
+}
+
+// Hreflang map (ua → uk per ISO 639-1)
+const hreflangMap: Record<string, string> = {
+  en: "en",
+  bg: "bg",
+  ua: "uk",
+  tr: "tr",
+  ro: "ro",
+  de: "de",
+  el: "el",
+};
+
+// Per-locale keyword sets for product pages
+const localeKeywords: Record<string, string[]> = {
+  en: [
+    "wholesale sunflower oil",
+    "bulk vegetable oil",
+    "edible oil wholesale",
+    "sunflower oil supplier Europe",
+    "UB Market LTD",
   ],
-  "high-oleic-sunflower-oil": [
-    {
-      slug: "high-oleic-sunflower-oil-horeca",
-      title: "High-Oleic Sunflower Oil for HoReCa",
-      image: "/images/frying-oil.webp",
-    },
-    {
-      slug: "sunflower-oil-prices-europe-2026",
-      title: "Sunflower Oil Prices in Europe 2026",
-      image: "/images/our-products.webp",
-    },
-    {
-      slug: "best-frying-oil-restaurants",
-      title: "Best Frying Oil for Restaurants 2026",
-      image: "/images/frying-oil.webp",
-    },
+  de: [
+    "sonnenblumenöl großhandel",
+    "pflanzenöl großhandel",
+    "speiseöl großhandel",
+    "sonnenblumenöl lieferant",
+    "UB Market LTD",
   ],
-  "frying-oil": [
-    {
-      slug: "best-frying-oil-restaurants",
-      title: "Best Frying Oil for Restaurants 2026",
-      image: "/images/frying-oil.webp",
-    },
-    {
-      slug: "high-oleic-sunflower-oil-horeca",
-      title: "High-Oleic Sunflower Oil for HoReCa",
-      image: "/images/frying-oil.webp",
-    },
-    {
-      slug: "sunflower-oil-packaging-guide",
-      title: "Sunflower Oil Packaging Guide",
-      image: "/images/vegetable-oil.webp",
-    },
+  bg: [
+    "слънчогледово олио на едро",
+    "хранителни стоки на едро",
+    "олио на едро",
+    "доставчик на олио",
+    "UB Market LTD",
   ],
-  "rapeseed-oil": [
-    {
-      slug: "how-to-choose-food-supplier",
-      title: "How to Choose a Food Supplier in Europe",
-      image: "/images/contact-us.webp",
-    },
-    {
-      slug: "sunflower-oil-packaging-guide",
-      title: "Sunflower Oil Packaging Guide",
-      image: "/images/vegetable-oil.webp",
-    },
-    {
-      slug: "how-food-trading-works-europe",
-      title: "How Food Trading Works in Europe",
-      image: "/images/our-location.webp",
-    },
+  tr: [
+    "toptan ayçiçek yağı",
+    "gıda toptancısı",
+    "toptan gıda",
+    "toptan yağ",
+    "UB Market LTD",
   ],
-  "soybean-oil": [
-    {
-      slug: "how-to-choose-food-supplier",
-      title: "How to Choose a Food Supplier in Europe",
-      image: "/images/contact-us.webp",
-    },
-    {
-      slug: "sunflower-oil-packaging-guide",
-      title: "Sunflower Oil Packaging Guide",
-      image: "/images/vegetable-oil.webp",
-    },
-    {
-      slug: "how-food-trading-works-europe",
-      title: "How Food Trading Works in Europe",
-      image: "/images/our-location.webp",
-    },
+  ro: [
+    "ulei floarea soarelui en-gros",
+    "ulei vegetal en-gros",
+    "furnizor ulei",
+    "comerț alimentar",
+    "UB Market LTD",
   ],
-  mayonnaise: [
-    {
-      slug: "how-food-trading-works-europe",
-      title: "How Food Trading Works in Europe",
-      image: "/images/our-location.webp",
-    },
-    {
-      slug: "how-to-choose-food-supplier",
-      title: "How to Choose a Food Supplier in Europe",
-      image: "/images/contact-us.webp",
-    },
-    {
-      slug: "food-trading-bulgaria-eu-advantage",
-      title: "Bulgaria as EU Food Trading Hub",
-      image: "/images/about-us.webp",
-    },
+  ua: [
+    "соняшникова олія оптом",
+    "рослинна олія оптом",
+    "постачальник олії",
+    "оптова торгівля",
+    "UB Market LTD",
   ],
-  "dairy-products": [
-    {
-      slug: "food-trading-bulgaria-eu-advantage",
-      title: "Bulgaria as EU Food Trading Hub",
-      image: "/images/about-us.webp",
-    },
-    {
-      slug: "how-food-trading-works-europe",
-      title: "How Food Trading Works in Europe",
-      image: "/images/our-location.webp",
-    },
-  ],
-  sugar: [
-    {
-      slug: "wholesale-beet-sugar-europe",
-      title: "Wholesale Beet Sugar in Europe 2026",
-      image: "/images/sugar.webp",
-    },
-    {
-      slug: "how-to-choose-food-supplier",
-      title: "How to Choose a Food Supplier in Europe",
-      image: "/images/contact-us.webp",
-    },
-    {
-      slug: "food-trading-bulgaria-eu-advantage",
-      title: "Bulgaria as EU Food Trading Hub",
-      image: "/images/about-us.webp",
-    },
+  el: [
+    "χονδρική ηλιέλαιο",
+    "χονδρική φυτικό έλαιο",
+    "προμηθευτής λαδιού",
+    "χονδρικό εμπόριο τροφίμων",
+    "UB Market LTD",
   ],
 };
 
-export default function ProductPage() {
-  const params = useParams();
-  const slug = params.slug as string;
-  const locale = useLocale();
-  const t = useTranslations();
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; slug: string }>;
+}): Promise<Metadata> {
+  const { locale, slug } = await params;
 
+  // Find the product
   const product = getProductBySlug(slug);
-  const productItems = t.raw("products.items") as Record<
-    string,
-    { name: string; description: string }
-  >;
-  const translated = productItems?.[product?.id as string];
-
   if (!product) {
-    return (
-      <div className={styles.notFound}>
-        <h1>Product Not Found</h1>
-        <Link href={`/${locale}/products`} className="btn btn-primary">
-          {t("productPage.backToCatalog")}
-        </Link>
-      </div>
-    );
+    return {
+      title: "Product Not Found",
+      description: "The requested product page does not exist.",
+    };
   }
 
-  const productName = translated?.name || product.name;
-  const productDesc = translated?.description || product.description;
+  // Get translated product data
+  let translatedName = product.name;
+  let translatedDesc = product.description;
 
-  const related = products.filter((p) => p.slug !== slug).slice(0, 3);
-  const relatedBlogs = PRODUCT_BLOGS[product.slug] || [];
+  try {
+    const t = await getTranslations({ locale, namespace: "products.items" });
+    const nameKey = `${product.id}.name`;
+    const descKey = `${product.id}.description`;
+    try {
+      translatedName = t(nameKey);
+    } catch {
+      // fallback to English
+    }
+    try {
+      translatedDesc = t(descKey);
+    } catch {
+      // fallback to English
+    }
+  } catch {
+    // Translation namespace not available, use fallbacks
+  }
 
-  const breadcrumbItems = [
-    { label: t("nav.home"), href: `/${locale}` },
-    { label: t("nav.products"), href: `/${locale}/products` },
-    { label: productName },
-  ];
+  // Build hreflang alternates
+  const languages: Record<string, string> = {};
+  for (const loc of routing.locales) {
+    const code = hreflangMap[loc] || loc;
+    languages[code] = `${BASE_URL}/${loc}/products/${slug}`;
+  }
+  languages["x-default"] = `${BASE_URL}/en/products/${slug}`;
 
-  const productSchema = generateProductSchema(
-    product,
-    locale,
-    productName,
-    productDesc,
-  );
-  const breadcrumbSchema = generateBreadcrumbSchema(
-    breadcrumbItems.map((item) => ({
-      name: item.label,
-      url: item.href || `/${locale}/products/${product.slug}`,
-    })),
-  );
+  // Build keywords for this locale
+  const keywords = localeKeywords[locale] || localeKeywords.en;
 
-  return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
+  // Title uses root template "%s | Star Food" automatically
+  const title = `${translatedName} Wholesale Europe`;
+  const description = translatedDesc;
 
-      {/* Breadcrumbs */}
-      <section className={styles.breadcrumbSection}>
-        <div className={styles.inner}>
-          <Breadcrumbs items={breadcrumbItems} />
-        </div>
-      </section>
+  return {
+    title,
+    description,
+    keywords,
+    alternates: {
+      canonical: `${BASE_URL}/${locale}/products/${slug}`,
+      languages,
+    },
+    openGraph: {
+      title: `${translatedName} | Star Food Wholesale`,
+      description,
+      url: `${BASE_URL}/${locale}/products/${slug}`,
+      siteName: "Star Food by UB Market LTD",
+      images: [
+        {
+          url: `${BASE_URL}${product.image}`,
+          width: 1200,
+          height: 630,
+          alt: translatedName,
+        },
+      ],
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${translatedName} | Star Food`,
+      description,
+      images: [`${BASE_URL}${product.image}`],
+    },
+  };
+}
 
-      {/* Product Hero */}
-      <section className={styles.productSection}>
-        <div className={styles.inner}>
-          <div className={styles.productGrid}>
-            <div className={styles.imageWrap}>
-              {product.tag && <span className={styles.tag}>{product.tag}</span>}
-              <Image
-                src={product.image}
-                alt={productName}
-                fill
-                sizes="(max-width: 900px) 100vw, 50vw"
-                style={{ objectFit: "cover" }}
-                priority
-              />
-            </div>
+export default async function ProductPage({
+  params,
+}: {
+  params: Promise<{ locale: string; slug: string }>;
+}) {
+  const { locale, slug } = await params;
 
-            <div className={styles.details}>
-              <h1 className={styles.title}>{productName}</h1>
-              <p className={styles.description}>{productDesc}</p>
+  // Enable static rendering for this locale
+  setRequestLocale(locale);
 
-              {/* Specs Table */}
-              <div className={styles.specsTable}>
-                <h3 className={styles.specsTitle}>
-                  {t("productPage.specifications")}
-                </h3>
-                <table className={styles.table}>
-                  <tbody>
-                    {product.specs.volume && (
-                      <tr>
-                        <td className={styles.specLabel}>
-                          {t("productPage.volume")}
-                        </td>
-                        <td className={styles.specValue}>
-                          {product.specs.volume}
-                        </td>
-                      </tr>
-                    )}
-                    {product.specs.packaging && (
-                      <tr>
-                        <td className={styles.specLabel}>
-                          {t("productPage.packaging")}
-                        </td>
-                        <td className={styles.specValue}>
-                          {product.specs.packaging}
-                        </td>
-                      </tr>
-                    )}
-                    {product.specs.shelfLife && (
-                      <tr>
-                        <td className={styles.specLabel}>
-                          {t("productPage.shelfLife")}
-                        </td>
-                        <td className={styles.specValue}>
-                          {product.specs.shelfLife}
-                        </td>
-                      </tr>
-                    )}
-                    {product.specs.origin && (
-                      <tr>
-                        <td className={styles.specLabel}>
-                          {t("productPage.origin")}
-                        </td>
-                        <td className={styles.specValue}>
-                          {product.specs.origin}
-                        </td>
-                      </tr>
-                    )}
-                    {product.specs.certification && (
-                      <tr>
-                        <td className={styles.specLabel}>
-                          {t("productPage.certifications")}
-                        </td>
-                        <td className={styles.specValue}>
-                          {product.specs.certification}
-                        </td>
-                      </tr>
-                    )}
-                  </tbody>
-                </table>
-              </div>
+  // Validate product exists; if not, return 404
+  const product = getProductBySlug(slug);
+  if (!product) {
+    notFound();
+  }
 
-              {/* Packaging Options */}
-              <div className={styles.packagingSection}>
-                <h3 className={styles.specsTitle}>
-                  {t("productPage.availablePackaging")}
-                </h3>
-                <div className={styles.packagingTags}>
-                  {product.packagingOptions.map((opt) => (
-                    <span key={opt} className={styles.packTag}>
-                      <FaBoxOpen className={styles.packIcon} /> {opt}
-                    </span>
-                  ))}
-                </div>
-              </div>
-
-              {/* CTA Buttons */}
-              <div className={styles.ctas}>
-                <Link
-                  href={`/${locale}/quote?product=${product.slug}`}
-                  className="btn btn-primary"
-                >
-                  <FaEnvelope /> {t("productPage.requestPrice")}
-                </Link>
-                <a href="tel:+359884469860" className="btn btn-outline">
-                  <FaPhone /> {t("productPage.callUs")}
-                </a>
-              </div>
-
-              {/* Quality badges */}
-              <div className={styles.badges}>
-                {(product.specs.certification || "").split(", ").map((cert) => (
-                  <span key={cert} className={styles.badge}>
-                    <FaCheckCircle /> {cert}
-                  </span>
-                ))}
-              </div>
-
-              {slug === "sunflower-oil" && (
-                <div className={styles.certificateBlock}>
-                  <h3 className={styles.certificateTitle}>
-                    📄 Supplier Quality Certificate
-                  </h3>
-                  <p className={styles.certificateText}>
-                    This product is supplied with a Certificate of Quality and Non-GMO
-                    issued by LLC "Green Light" (Ukraine). The certificate confirms:
-                    no GMO detected, no aflatoxins, no pesticides, heavy metals and
-                    radioactivity within EU allowable levels.
-                  </p>
-                  <a
-                    href="/certificates/sunflower-oil-non-gmo-certificate.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={styles.certificateBtn}
-                  >
-                    Download Certificate (PDF)
-                  </a>
-                </div>
-              )}
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Related Products */}
-      <section className={styles.relatedSection}>
-        <div className={styles.inner}>
-          <h2 className={styles.relatedTitle}>
-            {t("productPage.relatedProducts")}
-          </h2>
-          <div className={styles.relatedGrid}>
-            {related.map((rp) => {
-              const rTranslated = productItems?.[rp.id as string];
-              return (
-                <Link
-                  key={rp.slug}
-                  href={`/${locale}/products/${rp.slug}`}
-                  className={styles.relatedCard}
-                >
-                  <div className={styles.relatedImage}>
-                    <Image
-                      src={rp.image}
-                      alt={rTranslated?.name || rp.name}
-                      fill
-                      sizes="33vw"
-                      style={{ objectFit: "cover" }}
-                    />
-                  </div>
-                  <h3 className={styles.relatedName}>
-                    {rTranslated?.name || rp.name}
-                  </h3>
-                </Link>
-              );
-            })}
-          </div>
-        </div>
-      </section>
-
-      {/* Related Blog Posts */}
-      {relatedBlogs.length > 0 && (
-        <section className={styles.relatedSection}>
-          <div className={styles.inner}>
-            <h2 className={styles.relatedTitle}>
-              {t("productPage.relatedArticles") || "Related Articles"}
-            </h2>
-            <div className={styles.relatedGrid}>
-              {relatedBlogs.map((blog) => (
-                <Link
-                  key={blog.slug}
-                  href={`/${locale}/blog/${blog.slug}`}
-                  className={styles.relatedCard}
-                >
-                  <div className={styles.relatedImage}>
-                    <Image
-                      src={blog.image}
-                      alt={blog.title}
-                      fill
-                      sizes="33vw"
-                      style={{ objectFit: "cover" }}
-                    />
-                  </div>
-                  <h3 className={styles.relatedName}>{blog.title}</h3>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-    </>
-  );
+  // Render the client component which handles UI/interactivity
+  return <ProductPageClient />;
 }
