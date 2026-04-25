@@ -329,7 +329,12 @@
     "relatedProducts": "Andere Produkte",
     "relatedArticles": "Verwandte Artikel",
     "backToCatalog": "Zurück zum Katalog",
-    "viewDetails": "Details Ansehen"
+    "viewDetails": "Details Ansehen",
+    "certificateTitle": "Qualitätszertifikat des Lieferanten",
+    "certificateDescription": "Dieses Sonnenblumenöl aus dem Großhandel wird mit einem Qualitäts- und Non-GMO-Zertifikat von LLC \"Green Light\" (Ukraine) geliefert. Das Zertifikat bestätigt: keine GMO nachgewiesen, keine Aflatoxine, keine Pestizide, Schwermetalle und Radioaktivität innerhalb der EU-Grenzwerte.",
+    "certificateDownload": "Zertifikat herunterladen (PDF)",
+    "tagPopular": "Beliebt",
+    "tagHoreca": "HoReCa"
   },
   "blogPost": {
     "minRead": "Min. Lesezeit",

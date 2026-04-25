@@ -329,7 +329,12 @@
     "relatedProducts": "Other Products",
     "relatedArticles": "Related Articles",
     "backToCatalog": "Back to Catalog",
-    "viewDetails": "View Details"
+    "viewDetails": "View Details",
+    "certificateTitle": "Supplier Quality Certificate",
+    "certificateDescription": "This wholesale sunflower oil is supplied with a Certificate of Quality and Non-GMO issued by LLC \"Green Light\" (Ukraine). The certificate confirms: no GMO detected, no aflatoxins, no pesticides, heavy metals and radioactivity within EU allowable levels.",
+    "certificateDownload": "Download Certificate (PDF)",
+    "tagPopular": "Popular",
+    "tagHoreca": "HoReCa"
   },
   "blogPost": {
     "minRead": "min read",
