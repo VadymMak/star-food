@@ -91,35 +91,91 @@
     "items": {
       "sunflower-oil": {
         "name": "Sunflower Oil",
-        "description": "Wholesale sunflower oil supplied by UB Market LTD — unrefined and RBDW grades for bulk vegetable oil buyers across Europe. Reliable edible oil wholesale supply for food distributors, HORECA, and B2B buyers. PET bottles 0.5–10L, plastic canisters 10–20L, IBC containers, and bulk tank trucks. ISO 22000, HACCP, and Non-GMO certified. FOB Varna, CIF Rotterdam and CIF Istanbul delivery available."
+        "description": "Wholesale sunflower oil supplied by UB Market LTD — unrefined and RBDW grades for bulk vegetable oil buyers across Europe. Reliable edible oil wholesale supply for food distributors, HORECA, and B2B buyers. PET bottles 0.5–10L, plastic canisters 10–20L, IBC containers, and bulk tank trucks. ISO 22000, HACCP, and Non-GMO certified. FOB Varna, CIF Rotterdam and CIF Istanbul delivery available.",
+        "specs": {
+          "volume": "0.5L, 1L, 5L, 10L PET / 10L, 20L canister / Bulk tanker",
+          "packaging": "PET bottles, plastic canisters, bulk tank trucks",
+          "shelfLife": "12-18 months",
+          "origin": "Eastern Europe (Ukraine, Bulgaria)",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "high-oleic": {
         "name": "High-Oleic Sunflower Oil",
-        "description": "RBDW high-oleic sunflower oil. PET bottles 5–10L, plastic canisters 10–20L, and bulk tanker."
+        "description": "RBDW high-oleic sunflower oil. PET bottles 5–10L, plastic canisters 10–20L, and bulk tanker.",
+        "specs": {
+          "volume": "5L, 10L PET / 10L, 20L canister / Bulk tanker",
+          "packaging": "PET bottles, plastic canisters, bulk tank trucks",
+          "shelfLife": "18 months",
+          "origin": "Eastern Europe",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "rapeseed-oil": {
         "name": "Rapeseed Oil (Canola)",
-        "description": "Refined and deodorized rapeseed oil. PET bottles 5–10L, 20L canister, and bulk tanker."
+        "description": "Refined and deodorized rapeseed oil. PET bottles 5–10L, 20L canister, and bulk tanker.",
+        "specs": {
+          "volume": "5L, 10L PET / 20L canister / Bulk tanker",
+          "packaging": "PET bottles, plastic canisters, bulk tank trucks",
+          "shelfLife": "12-18 months",
+          "origin": "Eastern Europe",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "soybean-oil": {
         "name": "Soybean Oil",
-        "description": "Refined and deodorized soybean oil. PET bottles 5–10L, 20L canister, and bulk tanker."
+        "description": "Refined and deodorized soybean oil. PET bottles 5–10L, 20L canister, and bulk tanker.",
+        "specs": {
+          "volume": "5L, 10L PET / 20L canister / Bulk tanker",
+          "packaging": "PET bottles, plastic canisters, bulk tank trucks",
+          "shelfLife": "12 months",
+          "origin": "Eastern Europe",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "frying-oil": {
         "name": "Deep-Frying Oil",
-        "description": "High-stability deep-frying oils for HoReCa and industrial use. Sunflower, high-oleic, rapeseed, and soybean varieties."
+        "description": "High-stability deep-frying oils for HoReCa and industrial use. Sunflower, high-oleic, rapeseed, and soybean varieties.",
+        "specs": {
+          "volume": "10L PET",
+          "packaging": "PET bottles",
+          "shelfLife": "12 months",
+          "origin": "Eastern Europe",
+          "certification": "ISO 22000, HACCP"
+        }
       },
       "mayonnaise": {
         "name": "Mayonnaise & Ketchup",
-        "description": "Mayonnaise 30% and 67% fat. Ketchup Lagidny. Plastic buckets 1.8–10kg for food service."
+        "description": "Mayonnaise 30% and 67% fat. Ketchup Lagidny. Plastic buckets 1.8–10kg for food service.",
+        "specs": {
+          "volume": "1.8kg, 4.5kg, 10kg buckets",
+          "packaging": "Plastic buckets",
+          "shelfLife": "6-12 months",
+          "origin": "Eastern Europe",
+          "certification": "ISO 22000, HACCP"
+        }
       },
       "dairy": {
         "name": "Milk UHT",
-        "description": "UHT long-life milk in Tetra Pak 1L. Shelf-stable, suitable for B2B wholesale across Europe."
+        "description": "UHT long-life milk in Tetra Pak 1L. Shelf-stable, suitable for B2B wholesale across Europe.",
+        "specs": {
+          "volume": "1L Tetra Pak",
+          "packaging": "Tetra Pak cartons",
+          "shelfLife": "6-12 months",
+          "origin": "EU (certified producers)",
+          "certification": "ISO 22000, HACCP, EU certified"
+        }
       },
       "sugar": {
         "name": "Beet Sugar",
-        "description": "Premium white beet sugar. Available in 25kg, 50kg bags and big bags."
+        "description": "Premium white beet sugar. Available in 25kg, 50kg bags and big bags.",
+        "specs": {
+          "volume": "25kg, 50kg bags, 1000kg big bags",
+          "packaging": "Polypropylene bags, big bags",
+          "shelfLife": "24 months",
+          "origin": "Eastern Europe (Ukraine, Poland)",
+          "certification": "ISO 22000, HACCP"
+        }
       }
     }
   },
