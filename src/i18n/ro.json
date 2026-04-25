@@ -329,7 +329,12 @@
     "relatedProducts": "Alte Produse",
     "relatedArticles": "Articole Conexe",
     "backToCatalog": "Înapoi la Catalog",
-    "viewDetails": "Vezi Detalii"
+    "viewDetails": "Vezi Detalii",
+    "certificateTitle": "Certificat de Calitate al Furnizorului",
+    "certificateDescription": "Acest ulei de floarea soarelui en-gros este furnizat cu un Certificat de Calitate și Non-GMO emis de LLC \"Green Light\" (Ucraina). Certificatul confirmă: niciun OMG detectat, fără aflatoxine, fără pesticide, metale grele și radioactivitate în limitele admise de UE.",
+    "certificateDownload": "Descarcă Certificat (PDF)",
+    "tagPopular": "Popular",
+    "tagHoreca": "HoReCa"
   },
   "blogPost": {
     "minRead": "min citire",

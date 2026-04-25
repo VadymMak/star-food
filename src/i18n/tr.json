@@ -329,7 +329,12 @@
     "relatedProducts": "Diğer Ürünler",
     "relatedArticles": "İlgili Makaleler",
     "backToCatalog": "Kataloğa Dön",
-    "viewDetails": "Detayları Gör"
+    "viewDetails": "Detayları Gör",
+    "certificateTitle": "Tedarikçi Kalite Sertifikası",
+    "certificateDescription": "Bu toptan ayçiçek yağı, LLC \"Green Light\" (Ukrayna) tarafından düzenlenen Kalite ve Non-GMO Sertifikası ile birlikte tedarik edilmektedir. Sertifika doğrular: GDO tespit edilmemiştir, aflatoksin yoktur, pestisit yoktur, ağır metaller ve radyoaktivite AB tarafından izin verilen seviyelerdedir.",
+    "certificateDownload": "Sertifikayı İndir (PDF)",
+    "tagPopular": "Popüler",
+    "tagHoreca": "HoReCa"
   },
   "blogPost": {
     "minRead": "dk okuma",

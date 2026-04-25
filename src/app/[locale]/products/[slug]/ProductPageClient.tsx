@@ -220,7 +220,15 @@ export default function ProductPageClient() {
         <div className={styles.inner}>
           <div className={styles.productGrid}>
             <div className={styles.imageWrap}>
-              {product.tag && <span className={styles.tag}>{product.tag}</span>}
+              {product.tag && (
+                <span className={styles.tag}>
+                  {product.tag === "Popular"
+                    ? t("productPage.tagPopular")
+                    : product.tag === "HoReCa"
+                    ? t("productPage.tagHoreca")
+                    : product.tag}
+                </span>
+              )}
               <Image
                 src={product.image}
                 alt={productName}
@@ -335,13 +343,10 @@ export default function ProductPageClient() {
               {slug === "sunflower-oil" && (
                 <div className={styles.certificateBlock}>
                   <h3 className={styles.certificateTitle}>
-                    📄 Supplier Quality Certificate
+                    📄 {t("productPage.certificateTitle")}
                   </h3>
                   <p className={styles.certificateText}>
-                    This product is supplied with a Certificate of Quality and Non-GMO
-                    issued by LLC "Green Light" (Ukraine). The certificate confirms:
-                    no GMO detected, no aflatoxins, no pesticides, heavy metals and
-                    radioactivity within EU allowable levels.
+                    {t("productPage.certificateDescription")}
                   </p>
                   <a
                     href="/certificates/sunflower-oil-non-gmo-certificate.pdf"
@@ -349,7 +354,7 @@ export default function ProductPageClient() {
                     rel="noopener noreferrer"
                     className={styles.certificateBtn}
                   >
-                    Download Certificate (PDF)
+                    {t("productPage.certificateDownload")}
                   </a>
                 </div>
               )}
