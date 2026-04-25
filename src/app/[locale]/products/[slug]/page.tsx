@@ -60,10 +60,10 @@ const localeKeywords: Record<string, string[]> = {
     "UB Market LTD",
   ],
   ro: [
-    "ulei floarea soarelui en-gros",
-    "ulei vegetal en-gros",
-    "furnizor ulei",
-    "comerț alimentar",
+    "ulei ieftin en gros",
+    "ulei floarea soarelui en gros",
+    "furnizor ulei floarea soarelui",
+    "pret ulei floarea soarelui en gros",
     "UB Market LTD",
   ],
   ua: [
@@ -74,10 +74,10 @@ const localeKeywords: Record<string, string[]> = {
     "UB Market LTD",
   ],
   el: [
-    "χονδρική ηλιέλαιο",
-    "χονδρική φυτικό έλαιο",
-    "προμηθευτής λαδιού",
-    "χονδρικό εμπόριο τροφίμων",
+    "ηλιέλαιο",
+    "ηλιέλαιο χονδρική",
+    "προμηθευτής ηλιέλαιου",
+    "χονδρική τροφίμων",
     "UB Market LTD",
   ],
 };
