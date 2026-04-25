@@ -91,35 +91,91 @@
     "items": {
       "sunflower-oil": {
         "name": "Ayçiçek Yağı",
-        "description": "UB Market LTD tarafından sunulan toptan ayçiçek yağı — rafine edilmemiş ve RBDW kaliteleri. Avrupa genelinde gıda toptancıları ve B2B alıcılar için güvenilir toptan yağ tedariki. PET şişeler 0,5–10L, plastik bidonlar 10–20L, IBC konteynerler ve dökme tanker ambalaj seçenekleri. ISO 22000, HACCP ve Non-GMO sertifikalı. Varna, Bulgaristan'dan CIF İstanbul teslimatı 1–2 gün içinde. Küçük ve büyük hacimli toptan gıda ürünleri tedariki için ideal."
+        "description": "UB Market LTD tarafından sunulan toptan ayçiçek yağı — rafine edilmemiş ve RBDW kaliteleri. Avrupa genelinde gıda toptancıları ve B2B alıcılar için güvenilir toptan yağ tedariki. PET şişeler 0,5–10L, plastik bidonlar 10–20L, IBC konteynerler ve dökme tanker ambalaj seçenekleri. ISO 22000, HACCP ve Non-GMO sertifikalı. Varna, Bulgaristan'dan CIF İstanbul teslimatı 1–2 gün içinde. Küçük ve büyük hacimli toptan gıda ürünleri tedariki için ideal.",
+        "specs": {
+          "volume": "0,5L, 1L, 5L, 10L PET / 10L, 20L bidon / Dökme tanker",
+          "packaging": "PET şişeler, plastik bidonlar, dökme tankerler",
+          "shelfLife": "12-18 ay",
+          "origin": "Doğu Avrupa (Ukrayna, Bulgaristan)",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "high-oleic": {
         "name": "Yüksek Oleik Ayçiçek Yağı",
-        "description": "RBDW yüksek oleik ayçiçek yağı. PET şişeler 5–10L, plastik bidonlar 10–20L ve dökme tanker."
+        "description": "RBDW yüksek oleik ayçiçek yağı. PET şişeler 5–10L, plastik bidonlar 10–20L ve dökme tanker.",
+        "specs": {
+          "volume": "5L, 10L PET / 10L, 20L bidon / Dökme tanker",
+          "packaging": "PET şişeler, plastik bidonlar, dökme tankerler",
+          "shelfLife": "18 ay",
+          "origin": "Doğu Avrupa",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "rapeseed-oil": {
         "name": "Kolza Yağı (Kanola)",
-        "description": "Rafine edilmiş ve koku giderimi yapılmış kolza yağı. PET şişeler 5–10L, 20L bidon ve dökme tanker."
+        "description": "Rafine edilmiş ve koku giderimi yapılmış kolza yağı. PET şişeler 5–10L, 20L bidon ve dökme tanker.",
+        "specs": {
+          "volume": "5L, 10L PET / 20L bidon / Dökme tanker",
+          "packaging": "PET şişeler, plastik bidonlar, dökme tankerler",
+          "shelfLife": "12-18 ay",
+          "origin": "Doğu Avrupa",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "soybean-oil": {
         "name": "Soya Yağı",
-        "description": "Rafine edilmiş ve koku giderimi yapılmış soya yağı. PET şişeler 5–10L, 20L bidon ve dökme tanker."
+        "description": "Rafine edilmiş ve koku giderimi yapılmış soya yağı. PET şişeler 5–10L, 20L bidon ve dökme tanker.",
+        "specs": {
+          "volume": "5L, 10L PET / 20L bidon / Dökme tanker",
+          "packaging": "PET şişeler, plastik bidonlar, dökme tankerler",
+          "shelfLife": "12 ay",
+          "origin": "Doğu Avrupa",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "frying-oil": {
         "name": "Kızartma Yağı",
-        "description": "HoReCa ve endüstriyel kullanım için yüksek kararlılıklı kızartma yağları. Ayçiçek, yüksek oleik, kolza ve soya çeşitleri."
+        "description": "HoReCa ve endüstriyel kullanım için yüksek kararlılıklı kızartma yağları. Ayçiçek, yüksek oleik, kolza ve soya çeşitleri.",
+        "specs": {
+          "volume": "10L PET",
+          "packaging": "PET şişeler",
+          "shelfLife": "12 ay",
+          "origin": "Doğu Avrupa",
+          "certification": "ISO 22000, HACCP"
+        }
       },
       "mayonnaise": {
         "name": "Mayonez ve Ketçap",
-        "description": "Mayonez sosu %30 ve %67 yağ. Lagidny ketçap. Gıda hizmetleri için 1,8–10 kg plastik kovalar."
+        "description": "Mayonez sosu %30 ve %67 yağ. Lagidny ketçap. Gıda hizmetleri için 1,8–10 kg plastik kovalar.",
+        "specs": {
+          "volume": "1,8kg, 4,5kg, 10kg kovalar",
+          "packaging": "Plastik kovalar",
+          "shelfLife": "6-12 ay",
+          "origin": "Doğu Avrupa",
+          "certification": "ISO 22000, HACCP"
+        }
       },
       "dairy": {
         "name": "UHT Süt",
-        "description": "Tetra Pak 1L'de UHT uzun ömürlü süt. Raf kararlı, Avrupa genelinde B2B toptan satışa uygun."
+        "description": "Tetra Pak 1L'de UHT uzun ömürlü süt. Raf kararlı, Avrupa genelinde B2B toptan satışa uygun.",
+        "specs": {
+          "volume": "1L Tetra Pak",
+          "packaging": "Tetra Pak kartonlar",
+          "shelfLife": "6-12 ay",
+          "origin": "AB (sertifikalı üreticiler)",
+          "certification": "ISO 22000, HACCP, AB sertifikalı"
+        }
       },
       "sugar": {
         "name": "Pancar Şekeri",
-        "description": "Premium beyaz pancar şekeri. 25 kg, 50 kg çuval ve büyük çuvallarda mevcuttur."
+        "description": "Premium beyaz pancar şekeri. 25 kg, 50 kg çuval ve büyük çuvallarda mevcuttur.",
+        "specs": {
+          "volume": "25kg, 50kg çuvallar, 1000kg big bag",
+          "packaging": "Polipropilen çuvallar, big bag",
+          "shelfLife": "24 ay",
+          "origin": "Doğu Avrupa (Ukrayna, Polonya)",
+          "certification": "ISO 22000, HACCP"
+        }
       }
     }
   },

@@ -91,35 +91,91 @@
     "items": {
       "sunflower-oil": {
         "name": "Sonnenblumenöl",
-        "description": "Sonnenblumenöl Großhandel von UB Market LTD — unraffinierte und RBDW Qualitäten für Pflanzenöl Großhandel Käufer in Europa. Zuverlässige Speiseöl Großhandel Lieferung für Lebensmittelhändler, HORECA und B2B Kunden. PET-Flaschen 0,5–10L, Plastikkanister 10–20L, IBC-Container und Tankwagen. ISO 22000, HACCP und Non-GMO zertifiziert. Ihr vertrauenswürdiger Sonnenblumenöl Lieferant aus Varna, Bulgarien. CIF Rotterdam und CIF Hamburg Lieferung verfügbar."
+        "description": "Sonnenblumenöl Großhandel von UB Market LTD — unraffinierte und RBDW Qualitäten für Pflanzenöl Großhandel Käufer in Europa. Zuverlässige Speiseöl Großhandel Lieferung für Lebensmittelhändler, HORECA und B2B Kunden. PET-Flaschen 0,5–10L, Plastikkanister 10–20L, IBC-Container und Tankwagen. ISO 22000, HACCP und Non-GMO zertifiziert. Ihr vertrauenswürdiger Sonnenblumenöl Lieferant aus Varna, Bulgarien. CIF Rotterdam und CIF Hamburg Lieferung verfügbar.",
+        "specs": {
+          "volume": "0,5L, 1L, 5L, 10L PET / 10L, 20L Kanister / Tankwagen",
+          "packaging": "PET-Flaschen, Plastikkanister, Tankwagen",
+          "shelfLife": "12-18 Monate",
+          "origin": "Osteuropa (Ukraine, Bulgarien)",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "high-oleic": {
         "name": "High-Oleic Sonnenblumenöl",
-        "description": "RBDW High-Oleic Sonnenblumenöl. PET-Flaschen 5–10L, Plastikkanister 10–20L und Tankwagen."
+        "description": "RBDW High-Oleic Sonnenblumenöl. PET-Flaschen 5–10L, Plastikkanister 10–20L und Tankwagen.",
+        "specs": {
+          "volume": "5L, 10L PET / 10L, 20L Kanister / Tankwagen",
+          "packaging": "PET-Flaschen, Plastikkanister, Tankwagen",
+          "shelfLife": "18 Monate",
+          "origin": "Osteuropa",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "rapeseed-oil": {
         "name": "Rapsöl (Canola)",
-        "description": "Raffiniertes und desodoriertes Rapsöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen."
+        "description": "Raffiniertes und desodoriertes Rapsöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen.",
+        "specs": {
+          "volume": "5L, 10L PET / 20L Kanister / Tankwagen",
+          "packaging": "PET-Flaschen, Plastikkanister, Tankwagen",
+          "shelfLife": "12-18 Monate",
+          "origin": "Osteuropa",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "soybean-oil": {
         "name": "Sojaöl",
-        "description": "Raffiniertes und desodoriertes Sojaöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen."
+        "description": "Raffiniertes und desodoriertes Sojaöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen.",
+        "specs": {
+          "volume": "5L, 10L PET / 20L Kanister / Tankwagen",
+          "packaging": "PET-Flaschen, Plastikkanister, Tankwagen",
+          "shelfLife": "12 Monate",
+          "origin": "Osteuropa",
+          "certification": "ISO 22000, HACCP, Non-GMO"
+        }
       },
       "frying-oil": {
         "name": "Frittieröl",
-        "description": "Hochstabiles Frittieröl für HoReCa und industriellen Einsatz. Sonnenblumen-, High-Oleic-, Raps- und Sojavarianten."
+        "description": "Hochstabiles Frittieröl für HoReCa und industriellen Einsatz. Sonnenblumen-, High-Oleic-, Raps- und Sojavarianten.",
+        "specs": {
+          "volume": "10L PET",
+          "packaging": "PET-Flaschen",
+          "shelfLife": "12 Monate",
+          "origin": "Osteuropa",
+          "certification": "ISO 22000, HACCP"
+        }
       },
       "mayonnaise": {
         "name": "Mayonnaise & Ketchup",
-        "description": "Mayonnaise-Sauce 30% und 67% Fett. Ketchup Lagidny. Kunststoffeimer 1,8–10 kg für die Gastronomie."
+        "description": "Mayonnaise-Sauce 30% und 67% Fett. Ketchup Lagidny. Kunststoffeimer 1,8–10 kg für die Gastronomie.",
+        "specs": {
+          "volume": "1,8kg, 4,5kg, 10kg Eimer",
+          "packaging": "Kunststoffeimer",
+          "shelfLife": "6-12 Monate",
+          "origin": "Osteuropa",
+          "certification": "ISO 22000, HACCP"
+        }
       },
       "dairy": {
         "name": "UHT-Milch",
-        "description": "UHT-Haltbarmilch in Tetra Pak 1L. Lagerstabil, geeignet für den B2B-Großhandel in ganz Europa."
+        "description": "UHT-Haltbarmilch in Tetra Pak 1L. Lagerstabil, geeignet für den B2B-Großhandel in ganz Europa.",
+        "specs": {
+          "volume": "1L Tetra Pak",
+          "packaging": "Tetra Pak Kartons",
+          "shelfLife": "6-12 Monate",
+          "origin": "EU (zertifizierte Produzenten)",
+          "certification": "ISO 22000, HACCP, EU-zertifiziert"
+        }
       },
       "sugar": {
         "name": "Rübenzucker",
-        "description": "Premium weißer Rübenzucker. Erhältlich in 25-kg-, 50-kg-Säcken und Big Bags."
+        "description": "Premium weißer Rübenzucker. Erhältlich in 25-kg-, 50-kg-Säcken und Big Bags.",
+        "specs": {
+          "volume": "25kg, 50kg Säcke, 1000kg Big Bags",
+          "packaging": "Polypropylensäcke, Big Bags",
+          "shelfLife": "24 Monate",
+          "origin": "Osteuropa (Ukraine, Polen)",
+          "certification": "ISO 22000, HACCP"
+        }
       }
     }
   },

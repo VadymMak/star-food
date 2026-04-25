@@ -157,7 +157,17 @@ export default function ProductPageClient() {
   const product = getProductBySlug(slug);
   const productItems = t.raw("products.items") as Record<
     string,
-    { name: string; description: string }
+    {
+      name: string;
+      description: string;
+      specs?: {
+        volume?: string;
+        packaging?: string;
+        shelfLife?: string;
+        origin?: string;
+        certification?: string;
+      };
+    }
   >;
   const translated = productItems?.[product?.id as string];
 
@@ -174,6 +184,13 @@ export default function ProductPageClient() {
 
   const productName = translated?.name || product.name;
   const productDesc = translated?.description || product.description;
+
+  // Translated specs with fallback to raw products.ts master
+  const specVolume = translated?.specs?.volume || product.specs.volume;
+  const specPackaging = translated?.specs?.packaging || product.specs.packaging;
+  const specShelfLife = translated?.specs?.shelfLife || product.specs.shelfLife;
+  const specOrigin = translated?.specs?.origin || product.specs.origin;
+  const specCertification = translated?.specs?.certification || product.specs.certification;
 
   const related = products.filter((p) => p.slug !== slug).slice(0, 3);
   const relatedBlogs = PRODUCT_BLOGS[product.slug] || [];
@@ -256,7 +273,7 @@ export default function ProductPageClient() {
                           {t("productPage.volume")}
                         </td>
                         <td className={styles.specValue}>
-                          {product.specs.volume}
+                          {specVolume}
                         </td>
                       </tr>
                     )}
@@ -266,7 +283,7 @@ export default function ProductPageClient() {
                           {t("productPage.packaging")}
                         </td>
                         <td className={styles.specValue}>
-                          {product.specs.packaging}
+                          {specPackaging}
                         </td>
                       </tr>
                     )}
@@ -276,7 +293,7 @@ export default function ProductPageClient() {
                           {t("productPage.shelfLife")}
                         </td>
                         <td className={styles.specValue}>
-                          {product.specs.shelfLife}
+                          {specShelfLife}
                         </td>
                       </tr>
                     )}
@@ -286,7 +303,7 @@ export default function ProductPageClient() {
                           {t("productPage.origin")}
                         </td>
                         <td className={styles.specValue}>
-                          {product.specs.origin}
+                          {specOrigin}
                         </td>
                       </tr>
                     )}
@@ -296,7 +313,7 @@ export default function ProductPageClient() {
                           {t("productPage.certifications")}
                         </td>
                         <td className={styles.specValue}>
-                          {product.specs.certification}
+                          {specCertification}
                         </td>
                       </tr>
                     )}
@@ -333,7 +350,7 @@ export default function ProductPageClient() {
 
               {/* Quality badges */}
               <div className={styles.badges}>
-                {(product.specs.certification || "").split(", ").map((cert) => (
+                {(specCertification || "").split(", ").map((cert) => (
                   <span key={cert} className={styles.badge}>
                     <FaCheckCircle /> {cert}
                   </span>
