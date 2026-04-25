@@ -554,5 +554,28 @@
     "findUsOn": "Găsiți-ne pe",
     "linkedinDesc": "Urmăriți actualizările companiei",
     "europagesDesc": "Vizualizați profilul nostru de furnizor B2B"
+  },
+  "productFAQ": {
+    "title": "Întrebări frecvente",
+    "items": {
+      "sunflower-oil": [
+        {
+          "q": "Care este cantitatea minimă de comandă pentru ulei de floarea soarelui en gros?",
+          "a": "Cantitatea minimă este de 1 MT (tonă metrică) pentru livrări în vrac. Formatele îmbuteliate (0,5L–10L) încep de la 1 palet. Pentru IBC și cisterne, contactați-ne pentru prețuri bazate pe volum."
+        },
+        {
+          "q": "Furnizați ulei de floarea soarelui certificat Non-GMO?",
+          "a": "Da. Uleiul nostru de floarea soarelui este certificat Non-GMO, ISO 22000 și HACCP. Un certificat de calitate emis de SRL \"Green Light\" (Ucraina) este disponibil pentru descărcare pe această pagină."
+        },
+        {
+          "q": "În ce țări livrați ulei de floarea soarelui en gros?",
+          "a": "Livrăm în 12+ țări UE și non-UE, inclusiv Germania, România, Turcia, Bulgaria, Grecia și altele. Condiții de livrare DAP, CIF și FOB disponibile."
+        },
+        {
+          "q": "Ce formate de ambalare sunt disponibile pentru uleiul de floarea soarelui?",
+          "a": "Oferim sticle PET de 0,5L, 1L, 5L și 10L, bidoane de plastic de 10L și 20L, containere IBC și livrare cu cisternă pentru comenzi de volum mare."
+        }
+      ]
+    }
   }
 }

@@ -554,5 +554,28 @@
     "findUsOn": "Finden Sie uns auf",
     "linkedinDesc": "Folgen Sie unseren Unternehmensneuigkeiten",
     "europagesDesc": "Sehen Sie unser B2B-Lieferantenprofil"
+  },
+  "productFAQ": {
+    "title": "Häufig gestellte Fragen",
+    "items": {
+      "sunflower-oil": [
+        {
+          "q": "Was ist die Mindestbestellmenge für Sonnenblumenöl Großhandel?",
+          "a": "Die Mindestbestellmenge beträgt 1 MT (metrische Tonne) für Großlieferungen. Abgefüllte Formate (0,5L–10L) beginnen ab 1 Palette. Für IBC oder Tankbestellungen kontaktieren Sie uns für mengenbasierte Preise."
+        },
+        {
+          "q": "Liefern Sie zertifiziertes Non-GMO Sonnenblumenöl?",
+          "a": "Ja. Unser Sonnenblumenöl ist Non-GMO, ISO 22000 und HACCP zertifiziert. Ein Qualitätszertifikat von LLC \"Green Light\" (Ukraine) steht auf dieser Seite als PDF zum Download bereit."
+        },
+        {
+          "q": "In welche Länder liefern Sie Sonnenblumenöl im Großhandel?",
+          "a": "Wir beliefern 12+ EU- und Nicht-EU-Länder, darunter Deutschland, Rumänien, die Türkei, Bulgarien, Griechenland und weitere. Lieferkonditionen DAP, CIF und FOB verfügbar."
+        },
+        {
+          "q": "Welche Verpackungsformate sind erhältlich?",
+          "a": "Wir bieten 0,5L, 1L, 5L und 10L PET-Flaschen, 10L und 20L Kunststoffkanister, IBC-Container sowie Tanklieferungen für Großmengen an."
+        }
+      ]
+    }
   }
 }
