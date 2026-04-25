@@ -9,6 +9,7 @@ import { FaEnvelope, FaPhone, FaCheckCircle, FaBoxOpen } from "react-icons/fa";
 import { getProductBySlug, products } from "@/data/products";
 import { generateProductSchema, generateBreadcrumbSchema } from "@/lib/schema";
 import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
+import ProductFAQ from "@/components/ProductFAQ/ProductFAQ";
 import styles from "./product.module.css";
 
 const PRODUCT_BLOGS: Record<
@@ -444,6 +445,9 @@ export default function ProductPageClient() {
           </div>
         </section>
       )}
+
+      {/* FAQ accordion + FAQPage JSON-LD schema */}
+      <ProductFAQ productSlug={slug} />
     </>
   );
 }

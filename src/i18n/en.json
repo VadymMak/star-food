@@ -554,5 +554,28 @@
     "findUsOn": "Find Us On",
     "linkedinDesc": "Follow our company updates",
     "europagesDesc": "View our B2B supplier profile"
+  },
+  "productFAQ": {
+    "title": "Frequently Asked Questions",
+    "items": {
+      "sunflower-oil": [
+        {
+          "q": "What is the minimum order for wholesale sunflower oil?",
+          "a": "The minimum order is 1 MT (metric ton) for bulk supply. Bottled formats (0.5L–10L) start from 1 pallet. For IBC or tanker orders, contact us for volume-based pricing."
+        },
+        {
+          "q": "Do you supply certified non-GMO sunflower oil?",
+          "a": "Yes. Our sunflower oil is certified Non-GMO, ISO 22000, and HACCP compliant. A Certificate of Quality issued by LLC \"Green Light\" (Ukraine) is available for download on this page."
+        },
+        {
+          "q": "What countries do you deliver wholesale sunflower oil to?",
+          "a": "We supply to 12+ EU and non-EU countries including Germany, Romania, Turkey, Bulgaria, Greece, and beyond. DAP, CIF, and FOB delivery terms available."
+        },
+        {
+          "q": "What packaging formats are available for sunflower oil?",
+          "a": "We offer 0.5L, 1L, 5L, and 10L PET bottles, 10L and 20L plastic canisters, IBC containers, and bulk tanker delivery for large-volume orders."
+        }
+      ]
+    }
   }
 }

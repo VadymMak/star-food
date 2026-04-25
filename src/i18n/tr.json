@@ -554,5 +554,28 @@
     "findUsOn": "Bizi Bulun",
     "linkedinDesc": "Şirket güncellemelerini takip edin",
     "europagesDesc": "B2B tedarikçi profilimizi görüntüleyin"
+  },
+  "productFAQ": {
+    "title": "Sıkça Sorulan Sorular",
+    "items": {
+      "sunflower-oil": [
+        {
+          "q": "Toptan ayçiçek yağı için minimum sipariş miktarı nedir?",
+          "a": "Dökme teslimat için minimum sipariş miktarı 1 MT (metrik ton) dır. 0,5L–10L şişeli formatlar 1 palet ten başlamaktadır. Tanker ve IBC için hacme dayalı fiyatlandırma amacıyla bizimle iletişime geçin."
+        },
+        {
+          "q": "Sertifikalı Non-GMO ayçiçek yağı tedarik ediyor musunuz?",
+          "a": "Evet. Ayçiçek yağımız Non-GMO, ISO 22000 ve HACCP sertifikalıdır. LLC \"Green Light\" (Ukrayna) tarafından düzenlenen kalite sertifikası bu sayfadan PDF olarak indirilebilir."
+        },
+        {
+          "q": "Toptan ayçiçek yağını hangi ülkelere teslim ediyorsunuz?",
+          "a": "Almanya, Romanya, Türkiye, Bulgaristan, Yunanistan dahil 12 den fazla AB ve AB dışı ülkeye teslimat yapıyoruz. DAP, CIF ve FOB teslimat koşulları mevcuttur."
+        },
+        {
+          "q": "Ayçiçek yağı için hangi ambalaj formatları mevcuttur?",
+          "a": "0,5L, 1L, 5L ve 10L PET şişeler, 10L ve 20L plastik bidonlar, IBC konteynerler ve büyük hacimli siparişler için tanker teslimatı sunuyoruz."
+        }
+      ]
+    }
   }
 }
