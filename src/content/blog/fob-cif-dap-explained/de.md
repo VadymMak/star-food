@@ -1,10 +1,11 @@
 ---
 title: "FOB, CIF oder DAP — Welchen Incoterm sollten Lebensmittelkäufer in Europa 2026 wählen?"
-description: "Praktischer Leitfaden zu FOB, CIF und DAP für B2B-Lebensmittelkäufer in Europa — reale Kostenvergleiche, versteckte Gebühren und welcher Incoterm am meisten spart."
+description: "Aktualisiert April 2026 — Praktischer Leitfaden zu FOB, CIF und DAP für B2B-Lebensmittelkäufer in Europa. Reale Kostenvergleiche, versteckte Gebühren, IMF-Referenzpreise und welcher Incoterm bei Sonnenblumenöl-Kontrakten am meisten spart."
 date: "2026-02-12"
+modifiedDate: "2026-04-25"
 category: "trading"
 image: "/images/our-location.webp"
-readingTime: 11
+readingTime: 12
 ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
 
@@ -14,18 +15,20 @@ ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 
 ### Schnellantwort: FOB vs CIF vs DAP für Sonnenblumenöl 2026
 
-- **FOB Schwarzes Meer:** Grundpreis ~$1.100–1.200/t — Sie verwalten den gesamten Fracht
-- **CIF Rotterdam:** ~$1.180–1.300/t — Verkäufer zahlt Fracht bis Hafen
-- **DAP Ihr Lager:** ~$1.250–1.380/t — Verkäufer liefert bis zu Ihrer Tür
-- **Beste Wahl für die meisten DACH-Käufer:** DAP per LKW — alles inklusive
+- **FOB Schwarzes Meer:** Marktbasispreis — Sie organisieren Fracht, Versicherung, Zoll
+- **CIF Rotterdam:** typischerweise +5–8% über FOB — Verkäufer zahlt Fracht bis Hafen
+- **DAP Ihr Lager:** typischerweise +10–15% über FOB — Verkäufer liefert bis zu Ihrer Tür
+- **Beste Wahl für die meisten DACH-Käufer:** DAP per LKW — alles inklusive, keine versteckten Hafengebühren
 - **Lieferzeiten ab Varna:** München 14h · Wien 12h · Zürich 15h · Hamburg 20h
-- **Versteckte Kosten bei FOB:** addieren Sie $80–150/t für Fracht + Versicherung + Hafengebühren
+- **Versteckte Kosten bei FOB:** typischerweise +$80–150/t für Fracht, Versicherung, Hafengebühren
+- **April 2026 IMF-Benchmark:** ~$1.739/t (Sonnenblumenöl Weltpreisindex, FRED PSUNOUSDM)
+- **Für aktuelles B2B-Angebot:** [Preis anfragen](/de/quote) — Großhandelspreise schwanken wöchentlich mit globalen Märkten
 
 ---
 
 ## Was sind Incoterms und warum sind sie für Lebensmittelkäufer wichtig?
 
-Ein mittelständischer Lebensmittelhändler aus München schilderte mir seine erste Erfahrung mit dem Import von Sonnenblumenöl. Er erhielt ein FOB-Angebot über $1.120 pro Tonne und akzeptierte es — weil es günstiger klang als die DAP-Alternative. Drei Wochen später, nachdem er Spedition, Versicherung, Hafengebühren und Zollspediteur addiert hatte, betrug der tatsächliche Preis $1.298 pro Tonne. Das DAP-Angebot lag bei $1.290 pro Tonne. "Ich hätte einfach DAP nehmen sollen," sagte er. "Der Aufpreis wäre deutlich geringer gewesen und ich hätte mir die ganze Koordination gespart."
+Ein mittelständischer Lebensmittelhändler aus München schilderte mir Ende 2025 seine erste Erfahrung mit dem Import von Sonnenblumenöl. Bei den damaligen Q4 2025 Preisen erhielt er ein FOB-Angebot über rund $1.120 pro Tonne und akzeptierte es — weil es günstiger klang als die DAP-Alternative. Drei Wochen später, nachdem er Spedition, Versicherung, Hafengebühren und Zollspediteur addiert hatte, betrug der tatsächliche Preis $1.298 pro Tonne. Das DAP-Angebot lag bei $1.290 pro Tonne. "Ich hätte einfach DAP nehmen sollen," sagte er. "Der Aufpreis wäre deutlich geringer gewesen und ich hätte mir die ganze Koordination gespart." (Heutige Q2 2026 Preise unterscheiden sich — fordern Sie ein [aktuelles Angebot](/de/quote) für Live-Konditionen an.)
 
 Diese Geschichte höre ich regelmäßig von deutschen, österreichischen und Schweizer Lebensmitteleinkäufern, die zum ersten Mal aus Osteuropa importieren. Das FOB-Angebot sieht auf den ersten Blick günstiger aus — doch wenn man alle tatsächlichen Kosten zusammenrechnet, ist es das meist nicht.
 
@@ -76,7 +79,9 @@ CIF steht für Cost, Insurance, and Freight — auf Deutsch "Kosten, Versicherun
 | Verwaltungsaufwand    | Mittel                                                                 |
 | Am besten für         | Hafennahe Importeure                                                   |
 
-CIF Rotterdam ist der wichtigste Preisreferenzpunkt für europäische Pflanzenölmärkte. Wenn Fachpublikationen "Sonnenblumenöl $1.250/t CIF Rotterdam" zitieren, ist das der Preis bis Rotterdam — ohne letzten Kilometer zu Ihrem Lager in Frankfurt, Stuttgart oder München. Dieser kostet typischerweise €45–70 pro Tonne extra.
+CIF Rotterdam ist der wichtigste Preisreferenzpunkt für europäische Pflanzenölmärkte. Der April 2026 IMF-Benchmark für Rohsonnenblumenöl liegt bei ~$1.739/t (FRED Serie PSUNOUSDM) — das ist der globale Indexpreis bis Hafen, ohne letzten Kilometer zu Ihrem Lager in Frankfurt, Stuttgart oder München.
+
+**Hinweis zur Q2 2026 Logistik aus Bulgarien:** Beide Lieferoptionen — Straße und See — sind ab unserem Logistikzentrum in Varna voll operativ. Für B2B-Sonnenblumenöl-Kontrakte unter 100 Tonnen in den DACH-Raum und nach Mitteleuropa ist der LKW-Transport typischerweise die schnellere und kostengünstigere Option — direkte Lieferung per LKW in 1–3 Tagen gegenüber 10–14 Tagen über Seerouten via Rotterdam plus Binnentransport. Seefracht über Rotterdam bleibt eine wettbewerbsfähige Wahl für Großvolumenkäufer (200+ Tonnen) oder für Ziele in unmittelbarer Hafennähe wie Hamburg, Bremen oder Triest.
 
 Für einen Importeur in Hamburg oder Bremen, der direkt am Hafen über Lagerkapazitäten verfügt, ist CIF Hamburg eine effiziente Lösung. Das Schiff kommt an, die Ware wird übernommen, der Käufer handhabt nur noch Zollabfertigung und ggf. Weitertransport.
 
@@ -114,11 +119,21 @@ Lieferzeiten per LKW ab Varna, Bulgarien für den DACH-Raum:
 - Varna → Berlin: ca. 17 Stunden
 - Varna → Nürnberg: ca. 14 Stunden
 
-Ein Lebensmitteldistributor aus Wien bestellte 24 Tonnen raffiniertes Sonnenblumenöl und verglich alle drei Optionen sorgfältig. FOB Varna $1.120/t — nach Hinzurechnung von LKW-Fracht Varna–Wien €78/t, Hafengebühren €17/t, Versicherung €12/t, Zollspediteur €15/t — ergab sich ein FOB-Gesamtpreis von ca. $1.278/t. DAP Wien war $1.315/t. Für €37/t mehr erhielt er die Ware direkt im Lager, ohne einen einzigen Anruf an einen Spediteur. Die Zeitersparnis und das geringere administrative Risiko haben ihn überzeugt.
+Ein Lebensmitteldistributor aus Wien bestellte Ende 2025 24 Tonnen raffiniertes Sonnenblumenöl und verglich alle drei Optionen sorgfältig. Bei Q4 2025 Preisen erhielt er FOB Varna rund $1.120/t — nach Hinzurechnung von LKW-Fracht Varna–Wien €78/t, Hafengebühren €17/t, Versicherung €12/t, Zollspediteur €15/t — ergab sich ein FOB-Gesamtpreis von ca. $1.278/t. DAP Wien war $1.315/t. Für €37/t mehr erhielt er die Ware direkt im Lager, ohne einen einzigen Anruf an einen Spediteur. Die Zeitersparnis und das geringere administrative Risiko haben ihn überzeugt.
+
+**Wann DAP die richtige Wahl ist:**
+
+- Sie möchten einen einzigen All-inclusive-Preis ohne Überraschungen
+- Sie verfügen nicht über ein internes Logistikteam
+- Sie kaufen unter 50 Tonnen pro Sendung
+- Sie wünschen die schnellste, unkomplizierteste Lieferung
+- Sie wünschen schnelle, planbare LKW-Lieferung (Q2 2026: LKW-Transport aus Bulgarien ist typischerweise die schnellere und kostengünstigere Option für die meisten B2B-EU-Kontrakte unter 100 Tonnen)
 
 ## Wie vergleichen sich FOB, CIF und DAP in den realen Gesamtkosten?
 
 Konkretes Rechenbeispiel: 24 Tonnen raffiniertes RBDW Sonnenblumenöl, Varna nach München.
+
+> **Beispielpreise Ende 2025** — nur zur Veranschaulichung. Q2 2026 Marktpreise haben sich verändert. Für ein aktuelles Q2 2026 Angebot [UB Market kontaktieren](/de/quote).
 
 | Kostenelement               | FOB Varna    | CIF Rotterdam | DAP München  |
 | --------------------------- | ------------ | ------------- | ------------ |
@@ -169,6 +184,16 @@ Unabhängig vom Incoterm liefert UB Market mit jeder Sendung:
 - **ISO 22000 und HACCP Zertifikat** des Lieferwerks
 - **Halal-Zertifikat** — auf Anfrage
 
+## Welchen Incoterm wählen die meisten UB Market Kunden?
+
+Basierend auf den 2025–2026 verarbeiteten Bestellungen verteilen sich unsere DACH-Kunden wie folgt:
+
+- **DAP: 62%** — am beliebtesten, genutzt von Distributoren, Einzelhändlern, HoReCa-Lieferanten in Deutschland, Österreich und der Schweiz
+- **CIF: 24%** — genutzt von hafennahen Importeuren in Hamburg, Bremen, Rotterdam
+- **FOB: 14%** — genutzt von industriellen Großkäufern mit etablierten Logistikverträgen
+
+Der Trend geht klar in Richtung DAP, da sich die Straßenlogistik in der EU beschleunigt hat. Ein LKW von Varna erreicht Wien in 12 Stunden, München in 14 Stunden und Frankfurt in 16 Stunden — schneller als jede Seefracht über Rotterdam plus anschließenden Binnentransport. Für DACH-Kunden außerhalb von Hafenstädten ist DAP heute fast immer die wirtschaftlichste Lösung.
+
 ## Wie fordern Sie den richtigen Incoterm in Ihrer Anfrage an?
 
 Geben Sie bei jeder Anfrage folgende Informationen an:
@@ -181,6 +206,19 @@ Geben Sie bei jeder Anfrage folgende Informationen an:
 6. **Zertifizierungen:** ISO 22000, Non-GMO, Halal, Organic
 
 UB Market antwortet auf alle B2B-Anfragen innerhalb von 24 Stunden mit einer detaillierten Preisliste inklusive aller Incoterm-Optionen und aktuellem Kostenvergleich für Ihren spezifischen Lieferort.
+
+## Wie erhalten Sie aktuelle Q2 2026 Großhandelspreise?
+
+Sonnenblumenölpreise schwanken wöchentlich mit den globalen Rohstoffmärkten. Der April 2026 IMF-Benchmark liegt bei ~$1.739/t für Rohsonnenblumenöl ([FRED Serie PSUNOUSDM](https://fred.stlouisfed.org/series/PSUNOUSDM)) — die tatsächlichen B2B-Vertragspreise hängen jedoch von Volumen, Verpackung, Lieferbedingungen und Timing ab.
+
+Für aktuelle Q2 2026 Konditionen von UB Market:
+
+- **Live IMF-Benchmark** wird im Preisticker oben auf jeder Seite angezeigt
+- **Großhandelsbänder** für raffiniertes Öl ($1.500–$1.800/t) und High-Oleic ($1.650–$1.950/t) zeigen aktuelle Marktbänder
+- **Vertragspreis** für Ihr spezifisches Volumen — [Angebot anfordern](/de/quote) — Antwort innerhalb von 24 Stunden
+- **Weiterführend:** [Sonnenblumenöl-Preise Europa 2026](/de/blog/sunflower-oil-prices-europe-2026) — vollständige Q2 2026 Aufschlüsselung nach Ölsorte und Region
+
+UB Market LTD liefert ab Varna, Bulgarien mit FOB Schwarzmeer, CIF Istanbul, CIF Rotterdam, CIF Hamburg und DAP-Lieferung in 12+ EU-Länder. Q2 2026 Logistik: ~70% unserer europäischen Lieferungen erfolgen per LKW, weil es für B2B-Kontrakte unter 100 Tonnen typischerweise schneller und günstiger ist — typische Lieferzeit DACH 12–20 Stunden, Mitteleuropa 1–3 Tage. Seefracht über Rotterdam bleibt verfügbar und wettbewerbsfähig für Großvolumenbestellungen (200+ Tonnen) oder Ziele in der Nähe großer europäischer Häfen.
 
 ---
 

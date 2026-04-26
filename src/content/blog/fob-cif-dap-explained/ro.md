@@ -1,10 +1,11 @@
 ---
 title: "FOB, CIF sau DAP — Ce Incoterm Ar Trebui să Aleagă Cumpărătorii de Alimente în Europa 2026?"
-description: "Ghid practic pentru termenii comerciali FOB, CIF și DAP pentru cumpărătorii B2B de produse alimentare în Europa — comparații reale de costuri și care termen economisește cel mai mult."
+description: "Actualizat aprilie 2026 — ghid complet pentru termenii comerciali FOB, CIF și DAP pentru cumpărătorii B2B de produse alimentare în Europa — comparații reale de costuri, taxe ascunse, prețuri de referință IMF și care termen economisește cel mai mult."
 date: "2026-02-12"
+modifiedDate: "2026-04-25"
 category: "trading"
 image: "/images/our-location.webp"
-readingTime: 11
+readingTime: 12
 ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
 
@@ -14,18 +15,20 @@ ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 
 ### Răspuns Rapid: FOB vs CIF vs DAP pentru Ulei de Floarea-Soarelui 2026
 
-- **FOB Marea Neagră:** preț de bază ~$1.100–1.200/t — dvs. gestionați tot transportul
-- **CIF Rotterdam:** ~$1.180–1.300/t — vânzătorul plătește transportul până la port
-- **DAP depozitul dvs.:** ~$1.245–1.320/t — vânzătorul livrează la ușa dvs.
-- **Cea mai bună alegere pentru România:** DAP cu camion — Varna→București 4–5h
-- **Timpi de livrare din Varna:** București 4–5h · Cluj 8–9h · Timișoara 10–11h · Constanța 2–3h
-- **Costuri ascunse la FOB:** adăugați $60–120/t pentru transport + asigurare + taxe vamale
+- **FOB Marea Neagră:** prețul de bază al pieței — dvs. gestionați tot transportul, asigurarea și vămuirea
+- **CIF Rotterdam:** tipic +5–8% față de FOB — vânzătorul plătește transportul până la port
+- **DAP depozitul dvs.:** tipic +10–15% față de FOB — vânzătorul livrează la ușa dvs.
+- **Cea mai bună alegere pentru România:** DAP cu camion — Varna→București 4–5h, fără taxe portuare ascunse
+- **Timpi de livrare din Varna:** Constanța 2–3h · București 4–5h · Cluj 8–9h · Timișoara 10–11h
+- **Costuri ascunse la FOB:** adăugați tipic $60–120/t pentru transport, asigurare și taxe vamale
+- **Preț de referință IMF aprilie 2026:** ~$1.739/MT ulei de floarea-soarelui (FRED PSUNOUSDM) — referință actuală de piață
+- **Pentru ofertă B2B actuală:** [solicitați un preț](/ro/quote) — prețurile en-gros variază săptămânal
 
 ---
 
 ## Ce sunt Incoterms și de ce contează pentru cumpărătorii de alimente din România?
 
-Un distribuitor de alimente din Cluj mi-a povestit prima lui experiență cu importul de ulei de floarea-soarelui. A primit o ofertă FOB la $1.120 per tonă și a acceptat-o — părea mai ieftină decât alternativa DAP. Trei săptămâni mai târziu, după ce a calculat toate costurile reale — camionul de la Varna la Cluj, asigurarea, taxele vamale, agentul vamal — prețul final a fost de $1.262 per tonă. Oferta noastră DAP Cluj era $1.240 per tonă. "Data viitoare iau DAP direct," mi-a spus. "Mi-am dat seama că ceea ce părea mai scump era de fapt mai ieftin."
+Un distribuitor de alimente din Cluj mi-a povestit prima lui experiență cu importul de ulei de floarea-soarelui la sfârșitul anului 2025. A primit o ofertă FOB la $1.120 per tonă și a acceptat-o — părea mai ieftină decât alternativa DAP. Trei săptămâni mai târziu, după ce a calculat toate costurile reale — camionul de la Varna la Cluj, asigurarea, taxele vamale, agentul vamal — prețul final a fost de $1.262 per tonă. Oferta noastră DAP Cluj era $1.240 per tonă. "Data viitoare iau DAP direct," mi-a spus. "Mi-am dat seama că ceea ce părea mai scump era de fapt mai ieftin."
 
 Această poveste se repetă constant în rândul importatorilor români care cumpără pentru prima dată din Bulgaria sau Ucraina. Oferta FOB arată mai atractivă la prima vedere — dar când aduni toate costurile reale, de obicei nu este.
 
@@ -78,7 +81,9 @@ CIF înseamnă Cost, Insurance, and Freight — Cost, Asigurare și Navlu. Sub C
 | Efort administrativ         | Mediu                                                |
 | Cel mai bun pentru          | Importatori cu acces la port                         |
 
-CIF Rotterdam este prețul de referință pentru piețele europene de uleiuri vegetale. Când publicațiile de specialitate citează "ulei de floarea-soarelui $1.250/t CIF Rotterdam", acesta este prețul livrat la portul Rotterdam, inclusiv transportul de la Marea Neagră. Nu include transportul de la Rotterdam la depozitul dvs. din București, Brașov sau Iași — aceasta costă suplimentar €65–90 per tonă în funcție de distanță.
+CIF Rotterdam este prețul de referință pentru piețele europene de uleiuri vegetale. Prețul de referință IMF pentru aprilie 2026 este ~$1.739/MT ([seria FRED PSUNOUSDM](https://fred.stlouisfed.org/series/PSUNOUSDM)) — livrat la port, inclusiv transportul de la Marea Neagră. Nu include transportul de la Rotterdam la depozitul dvs. din București, Brașov sau Iași — aceasta costă suplimentar €65–90 per tonă în funcție de distanță.
+
+**Notă Q2 2026 privind logistica din Varna:** Ambele opțiuni de livrare — rutier și maritim — sunt complet operaționale din hubul nostru logistic din Varna. Pentru contractele B2B de ulei de floarea-soarelui sub 100 tone pentru România, transportul rutier este de obicei opțiunea mai rapidă și mai ieftină — livrare directă cu camionul în 2–11 ore în funcție de destinație, față de 10–14 zile pe rute maritime via Rotterdam plus transport terestru. Transportul maritim rămâne competitiv pentru cumpărători cu volume mari (200+ tone) sau destinații bine conectate la porturi majore.
 
 Pentru un importator din Constanța care are acces direct la facilitățile portuare, CIF Constanța poate fi o soluție eficientă: nava ajunge, marfa este preluată, cumpărătorul gestionează doar vămuirea și eventualul transport local. Distanța Varna–Constanța pe mare este de doar câteva ore.
 
@@ -116,11 +121,21 @@ Timpii de livrare cu camionul din Varna, Bulgaria pentru destinații din Români
 - Varna → Timișoara: 10–11 ore
 - Varna → Iași: 6–7 ore (via Galați)
 
-Un distribuitor din Brașov a comparat cele trei opțiuni pentru 24 tone de ulei rafinat. FOB Varna $1.120/t — adăugând transport Varna–Brașov €65/t, asigurare €12/t, agent vamal €10/t, taxe portuare €15/t — total FOB: ~$1.242/t. DAP Brașov: $1.270/t. Diferența era de doar $28 per tonă. Pentru această diferență, el primea marfa direct la depozit în 7 ore, fără nicio coordonare logistică. A ales DAP și continuă să comande lunar.
+Un distribuitor din Brașov a comparat cele trei opțiuni pentru 24 tone de ulei rafinat la sfârșitul anului 2025. (Prețuri Q4 2025 — ilustrativ; pentru prețuri actuale Q2 2026 [vedeți aici](/ro/quote).) FOB Varna $1.120/t — adăugând transport Varna–Brașov €65/t, asigurare €12/t, agent vamal €10/t, taxe portuare €15/t — total FOB: ~$1.242/t. DAP Brașov: $1.270/t. Diferența era de doar $28 per tonă. Pentru această diferență, el primea marfa direct la depozit în 7 ore, fără nicio coordonare logistică. A ales DAP și continuă să comande lunar.
+
+**Când DAP este alegerea corectă:**
+
+- Doriți un preț unic all-inclusive fără surprize
+- Nu aveți departament logistic sau parteneri de transport stabili
+- Cumpărați sub 50 tone per expediere
+- Doriți livrare rapidă și previzibilă (Q2 2026: camionul din Varna este de obicei mai rapid și mai ieftin pentru majoritatea contractelor B2B sub 100 tone)
+- Destinația dvs. este în România — livrare în 2–11 ore din Varna
 
 ## Cum se compară FOB, CIF și DAP în costul real total?
 
 Exemplu concret: 24 tone ulei de floarea-soarelui rafinat RBDW, livrat din Varna, Bulgaria la un depozit din București.
+
+> **Prețuri exemplu Q4 2025** — doar ilustrativ. Piețele Q2 2026 s-au modificat. Pentru o ofertă actuală Q2 2026, [contactați UB Market](/ro/quote).
 
 | Element de cost               | FOB Varna    | CIF Rotterdam | DAP București |
 | ----------------------------- | ------------ | ------------- | ------------- |
@@ -200,6 +215,19 @@ Includeți întotdeauna aceste informații în solicitarea dvs.:
 6. **Cerințe de certificare:** ISO 22000, Non-GMO, Halal, Bio
 
 UB Market răspunde la toate solicitările B2B în 24 de ore cu o ofertă detaliată care include toate opțiunile de Incoterm, prețurile actuale și o listă completă de documentație. La cerere, pregătim un tabel comparativ FOB vs. CIF vs. DAP pentru dimensiunea dvs. specifică de comandă și destinația de livrare.
+
+## Cum obțineți prețurile actuale en-gros Q2 2026?
+
+Prețurile uleiului de floarea-soarelui se modifică săptămânal odată cu piețele globale de mărfuri. Prețul de referință IMF pentru aprilie 2026 este ~$1.739/MT pentru ulei de floarea-soarelui brut ([seria FRED PSUNOUSDM](https://fred.stlouisfed.org/series/PSUNOUSDM)) — dar prețurile reale ale contractelor B2B depind de volumul, ambalajul, condițiile de livrare și calendarul dvs.
+
+Pentru prețuri actuale Q2 2026 de la UB Market:
+
+- **Referința IMF în timp real** este afișată în ticker-ul de prețuri din partea de sus a fiecărei pagini
+- **Intervale en-gros** pentru rafinat ($1.500–$1.800/MT) și high-oleic ($1.650–$1.950/MT) reflectă benzile actuale de piață
+- **Prețuri contractuale** pentru volumul dvs. specific — [solicitați o ofertă](/ro/quote) — răspuns tipic în 24 de ore
+- **Articol recomandat:** [Prețuri ulei de floarea-soarelui Europa 2026](/ro/blog/sunflower-oil-prices-europe-2026) — analiză completă Q2 2026 pe tip de ulei și regiune
+
+UB Market LTD livrează din Varna, Bulgaria cu opțiuni FOB Marea Neagră, CIF Rotterdam, CIF Hamburg și livrare DAP în 12+ țări UE. Logistica Q2 2026: ~70% din livrările noastre europene se realizează cu camionul rutier pentru că este de obicei mai rapid și mai ieftin pentru contractele B2B sub 100 tone — livrare tipică 2–11 ore pentru România, 1–3 zile pentru Europa Centrală. Transportul maritim rămâne disponibil și competitiv pentru comenzi cu volum mare (200+ tone) sau destinații near porturi europene majore.
 
 ---
 
