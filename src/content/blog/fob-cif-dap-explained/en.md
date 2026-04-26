@@ -4,7 +4,7 @@ description: "Updated April 2026 guide to FOB, CIF and DAP trade terms for whole
 date: "2026-02-12"
 modifiedDate: "2026-04-25"
 category: "trading"
-image: "/images/our-location.webp"
+image: "/images/fob-cif-dap-incoterms.webp"
 readingTime: 11
 ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
