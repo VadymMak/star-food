@@ -4,7 +4,7 @@ description: "Ενημερώθηκε Απρίλιο 2026 — πλήρης οδη
 date: "2026-02-12"
 modifiedDate: "2026-04-25"
 category: "trading"
-image: "/images/our-location.webp"
+image: "/images/fob-cif-dap-incoterms.webp"
 readingTime: 12
 ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
