@@ -1,10 +1,11 @@
 ---
 title: "FOB, CIF mi yoksa DAP mı — Avrupa'da Gıda Alıcıları 2026'da Hangi Incoterm'i Seçmeli?"
-description: "Avrupa'da toptan gıda alıcıları için FOB, CIF ve DAP ticaret koşullarına pratik rehber — gerçek maliyet karşılaştırmaları, gizli ücretler ve hangi koşulun en çok tasarruf sağladığı."
+description: "Nisan 2026 güncellemesi — Avrupa'da toptan gıda alıcıları için FOB, CIF ve DAP ticaret koşullarına pratik rehber. Gerçek maliyet karşılaştırmaları, gizli ücretler, IMF referans fiyatları ve Türk B2B ayçiçek yağı kontratları için hangi koşul en çok tasarruf sağlar."
 date: "2026-02-12"
+modifiedDate: "2026-04-25"
 category: "trading"
 image: "/images/our-location.webp"
-readingTime: 11
+readingTime: 12
 ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 ---
 
@@ -14,18 +15,20 @@ ogImage: "/images/blog/fob-cif-dap-explained/og.jpg"
 
 ### Hızlı Cevap: Ayçiçek Yağı için FOB vs CIF vs DAP 2026
 
-- **FOB Karadeniz:** temel fiyat ~$1.100–1.200/ton — tüm nakliyeyi siz yönetirsiniz
-- **CIF Türkiye:** ~$1.150–1.230/ton — satıcı Türkiye limanına kadar nakliye öder
-- **DAP deponuz:** ~$1.200–1.290/ton — satıcı kapınıza kadar teslim eder
-- **Türk alıcılar için önemli not:** Türkiye AB dışı olduğundan gümrük vergisi + KDV eklenir
+- **FOB Karadeniz:** piyasa baz fiyatı — nakliye, sigorta, gümrük işlemlerini siz yönetirsiniz
+- **CIF Türkiye:** tipik olarak FOB'un +5–8% üzerinde — satıcı Türkiye limanına kadar nakliye öder
+- **DAP deponuz:** tipik olarak FOB'un +8–12% üzerinde — satıcı kapınıza kadar teslim eder
+- **Türk alıcılar için önemli not:** Türkiye AB dışı olduğundan tüm Incoterm'lere gümrük vergisi + KDV eklenir
 - **Varna'dan teslimat süreleri:** İstanbul 5–6h · Ankara 10–11h · İzmir 12–13h · Bursa 7–8h
-- **FOB'da gizli maliyetler:** nakliye + sigorta + liman ücretleri için $50–100/ton ekleyin
+- **FOB'da gizli maliyetler:** nakliye + sigorta + liman ücretleri için tipik olarak $50–100/ton ekleyin
+- **Nisan 2026 IMF referans fiyatı:** ~$1.739/ton (ayçiçek yağı küresel fiyat endeksi, FRED PSUNOUSDM)
+- **Güncel B2B teklifi için:** [fiyat isteyin](/tr/quote) — toptan fiyatlar küresel piyasalarla haftalık olarak değişir
 
 ---
 
 ## Incoterm nedir ve Türk gıda alıcıları için neden kritiktir?
 
-İstanbul'dan bir gıda distribütörü bana şunu anlattı: "FOB fiyatı daha düşük görünüyordu, bu yüzden kabul ettim. Ancak tüm gerçek maliyetleri topladığımda — nakliye, sigorta, liman ücreti, gümrük müşaviri, gümrük vergisi — gerçek maliyet ton başına $145 daha fazlaydı." Bu hikaye Türk gıda ithalatçıları arasında sık tekrarlanan bir deneyimdir. FOB teklifi ilk bakışta daha cazip görünür — ancak tüm gerçek maliyetler hesaplandığında genellikle öyle değildir.
+İstanbul'dan bir gıda distribütörü 2025 sonunda bana şunu anlattı: "Q4 2025 fiyatlarıyla FOB fiyatı daha düşük görünüyordu, bu yüzden kabul ettim. Ancak tüm gerçek maliyetleri topladığımda — nakliye, sigorta, liman ücreti, gümrük müşaviri, gümrük vergisi — gerçek maliyet ton başına yaklaşık $145 daha fazlaydı." (Bugünkü Q2 2026 fiyatları farklılık gösterir — canlı rakamlar için [güncel teklif](/tr/quote) talep edin.) Bu hikaye Türk gıda ithalatçıları arasında sık tekrarlanan bir deneyimdir. FOB teklifi ilk bakışta daha cazip görünür — ancak tüm gerçek maliyetler hesaplandığında genellikle öyle değildir.
 
 Incoterms — International Commercial Terms kısaltması — Uluslararası Ticaret Odası (ICC) tarafından yayınlanan standart kurallar bütünüdür. Güncel versiyon Incoterms 2020'dir. Her uluslararası ticaret sözleşmesinin temel bir unsurunu tanımlarlar: bir sevkiyatın her aşamasında kimin ne ödediği ve kimin riski taşıdığı.
 
@@ -83,7 +86,9 @@ CIF, Cost, Insurance, and Freight — Maliyet, Sigorta ve Navlu anlamına gelir.
 | İdari yük           | Orta                                           |
 | En iyi              | Liman bazlı ithalatçılar                       |
 
-Türk alıcılar için CIF Türkiye — özellikle CIF İstanbul veya CIF İzmir — en yaygın kullanılan fiyatlandırma terimidir. Varna'dan İstanbul'a deniz yoluyla yaklaşık 1–2 gün sürer. Alternatif olarak karayoluyla E87 üzerinden 5–6 saatte ulaşmak mümkündür.
+Türk alıcılar için CIF Türkiye — özellikle CIF İstanbul veya CIF İzmir — en yaygın kullanılan fiyatlandırma terimidir. Nisan 2026 IMF referans fiyatı ham ayçiçek yağı için ~$1.739/ton (FRED serisi PSUNOUSDM) seviyesindedir — bu küresel endeks fiyatıdır, gerçek B2B kontrat fiyatları hacme, ambalaja ve teslimat koşullarına göre değişir. Varna'dan İstanbul'a deniz yoluyla yaklaşık 1–2 gün sürer. Alternatif olarak karayoluyla E87 üzerinden 5–6 saatte ulaşmak mümkündür.
+
+**Q2 2026 Türkiye lojistiği hakkında not:** Türkiye'nin Bulgaristan'a coğrafi yakınlığı sayesinde her iki teslimat seçeneği de mükemmel çalışır. Karayolu (E87/D100 üzerinden Varna→İstanbul 5–6 saat) çoğu B2B sipariş için en hızlı seçenektir. Deniz yolu (Varna→İstanbul 1–2 gün) büyük hacimler veya İzmir/Mersin gibi liman bazlı alıcılar için rekabetçi kalır. Her iki kanal da operasyoneldir ve müşteriler hacim, ambalaj ve teslimat hedeflerine göre seçim yapabilir.
 
 Türkiye için CIF kullanırken dikkat edilmesi gereken önemli bir nokta: CIF fiyatı limana kadar olan maliyeti kapsar, limandan deponuza olan nakliyeyi kapsamaz. İstanbul içi lojistik, şehrin büyüklüğü nedeniyle €15–30/ton arasında ek maliyet oluşturabilir.
 
@@ -120,11 +125,13 @@ Varna, Bulgaristan'dan Türkiye teslimat süreleri karayoluyla:
 - Varna → Antalya: 14–15 saat
 - Varna → Konya: 12–13 saat
 
-Ankara'dan bir gıda distribütörü 20 ton rafine ayçiçek yağı için üç seçeneği karşılaştırdı. FOB Varna $1.120/ton — karayolu nakliyesi Varna–Ankara €42/ton, sigorta €11/ton, liman ücreti €18/ton, gümrük müşaviri €15/ton eklenince FOB toplam ~$1.233/ton oldu. DAP Ankara $1.265/ton + gümrük müşaviri €15/ton = ~$1.284/ton. Fark ton başına sadece ~$51'di. Bu fark için DAP, tamamen koordinasyonsuz, kapıya teslim aldı. KOBİ ölçeğindeki bir işletme için bu değiş tokuş açıkça DAP lehine.
+Ankara'dan bir gıda distribütörü 2025 sonunda 20 ton rafine ayçiçek yağı için üç seçeneği karşılaştırdı. Q4 2025 fiyatlarıyla FOB Varna yaklaşık $1.120/ton — karayolu nakliyesi Varna–Ankara €42/ton, sigorta €11/ton, liman ücreti €18/ton, gümrük müşaviri €15/ton eklenince FOB toplam ~$1.233/ton oldu. DAP Ankara $1.265/ton + gümrük müşaviri €15/ton = ~$1.284/ton. Fark ton başına sadece ~$51'di. Bu fark için DAP, tamamen koordinasyonsuz, kapıya teslim aldı. KOBİ ölçeğindeki bir işletme için bu değiş tokuş açıkça DAP lehine.
 
 ## FOB, CIF ve DAP gerçek toplam maliyette nasıl karşılaştırılır?
 
 Somut örnek: 24 ton rafine RBDW ayçiçek yağı, Varna'dan İstanbul'daki bir depoya.
+
+> **2025 sonu örnek fiyatlandırma** — sadece açıklayıcıdır. Q2 2026 piyasa fiyatları değişmiştir. Güncel Q2 2026 teklifi için [UB Market ile iletişime geçin](/tr/quote).
 
 | Maliyet unsuru                  | FOB Varna   | CIF İstanbul | DAP İstanbul |
 | ------------------------------- | ----------- | ------------ | ------------ |
@@ -203,6 +210,19 @@ Sorgularınızda her zaman şunları belirtin:
 6. **Sertifikasyon gereksinimleri:** Helal, GDO'suz, Organik
 
 UB Market tüm B2B sorgularına 24 saat içinde, tüm Incoterm seçeneklerini ve güncel fiyatları içeren ayrıntılı bir fiyat listesiyle yanıt verir. Talep üzerine, sipariş boyutunuz ve teslimat hedefiniz için FOB-CIF-DAP karşılaştırmalı maliyet tablosu hazırlıyoruz.
+
+## Güncel Q2 2026 toptan fiyatlarına nasıl ulaşılır?
+
+Ayçiçek yağı fiyatları küresel emtia piyasalarıyla haftalık olarak değişir. Nisan 2026 IMF referans fiyatı ham ayçiçek yağı için ~$1.739/ton seviyesindedir ([FRED serisi PSUNOUSDM](https://fred.stlouisfed.org/series/PSUNOUSDM)) — ancak gerçek B2B kontrat fiyatları hacminize, ambalajınıza, teslimat koşullarına ve zamanlamanıza bağlıdır.
+
+UB Market'in güncel Q2 2026 fiyatları için:
+
+- **Canlı IMF referans fiyatı** her sayfanın üst kısmındaki fiyat çıkartıcıda görüntülenir
+- **Toptan fiyat aralıkları** rafine ($1.500–$1.800/ton) ve yüksek oleik ($1.650–$1.950/ton) için güncel piyasa bantlarını yansıtır
+- **Sözleşme fiyatlandırması** spesifik hacminiz için — [teklif isteyin](/tr/quote) — tipik yanıt 24 saat içinde
+- **İlgili okuma:** [Avrupa'da Ayçiçek Yağı Fiyatları 2026](/tr/blog/sunflower-oil-prices-europe-2026) — yağ türü ve bölgeye göre tam Q2 2026 dökümü
+
+UB Market LTD, Varna, Bulgaristan'dan FOB Karadeniz, CIF İstanbul, CIF İzmir, CIF Mersin ve DAP teslimat seçenekleriyle Türkiye'ye sevkiyat yapar. Q2 2026 Türkiye lojistiği: Türkiye'nin coğrafi yakınlığı sayesinde her iki seçenek de mükemmel çalışır — karayolu (İstanbul 5–6 saat, Ankara 10–11 saat, İzmir 12–13 saat) çoğu B2B sipariş için en hızlı seçenek; deniz yolu (Varna→İstanbul 1–2 gün) büyük hacimler için rekabetçi kalır. Türkiye AB dışı olduğundan tüm Incoterm'lerde gümrük vergisi ve KDV uygulanır.
 
 ---
 
