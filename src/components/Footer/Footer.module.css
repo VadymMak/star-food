@@ -146,6 +146,33 @@
   text-decoration: underline;
 }
 
+.legalBlock {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.78rem;
+  line-height: 1.6;
+  opacity: 0.85;
+}
+
+.legalLine {
+  margin: 0.25rem 0;
+  color: var(--text-muted, #999);
+}
+
+.registryLink {
+  color: var(--text-muted, #999);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+  transition: color 0.2s;
+}
+
+.registryLink:hover {
+  color: var(--gold, #d4a843);
+  text-decoration-style: solid;
+}
+
 @media (max-width: 768px) {
   .footer {
     padding: 48px 32px 80px;

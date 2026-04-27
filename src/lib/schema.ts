@@ -84,15 +84,7 @@ export function generateProductSchema(
       name: "Star Food",
     },
     manufacturer: {
-      "@type": "Organization",
-      name: "UB Market LTD",
-      url: BASE_URL,
-      sameAs: [
-        "https://www.instagram.com/ub_market_ltd",
-        "https://t.me/ub_market_ltd",
-        "https://www.linkedin.com/company/ub-market-ltd",
-        "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
-      ],
+      "@id": `${BASE_URL}/#organization`,
     },
     category: "Food & Beverages",
   };
@@ -108,15 +100,7 @@ export function generateProductSchema(
         priceCurrency: "EUR",
         priceValidUntil,
         seller: {
-          "@type": "Organization",
-          name: "UB Market LTD",
-          url: BASE_URL,
-          sameAs: [
-            "https://www.instagram.com/ub_market_ltd",
-            "https://t.me/ub_market_ltd",
-            "https://www.linkedin.com/company/ub-market-ltd",
-            "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
-          ],
+          "@id": `${BASE_URL}/#organization`,
         },
       };
     } else {
@@ -131,15 +115,7 @@ export function generateProductSchema(
         priceValidUntil,
         offerCount: 1,
         seller: {
-          "@type": "Organization",
-          name: "UB Market LTD",
-          url: BASE_URL,
-          sameAs: [
-            "https://www.instagram.com/ub_market_ltd",
-            "https://t.me/ub_market_ltd",
-            "https://www.linkedin.com/company/ub-market-ltd",
-            "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
-          ],
+          "@id": `${BASE_URL}/#organization`,
         },
       };
     }

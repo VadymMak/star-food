@@ -5,8 +5,18 @@ export const RAG_CHUNKS = [
   // Company overview
   `UB Market LTD is an EU-registered international food trading company based in Varna, Bulgaria.
 We specialize in connecting Eastern European food manufacturers with wholesale buyers across Europe.
-Our registered trademark is Star Food. Company address: Sirma Voivoda St., b.1, ap. 21, Varna 9010, Bulgaria.
+Our registered trademark is Star Food. Company address: Sirma Voyvoda Str. 1, vh. 1, et. 7, ap. 21, Varna 9000, Bulgaria.
 Phone: +359 8844 69860. Email: ubmarket2022@gmail.com.`,
+
+  // Legal entity information
+  `Legal entity information for UB Market:
+Legal name: U B MARKET LTD. (Bulgarian: Ю Би Маркет ЕООД)
+Legal form: Single-member limited liability company (EOOD / ЕООД)
+Company registration number (EIK): 207067808
+VAT number: BG207067808
+Date of registration: 30 August 2022
+Registered address: Sirma Voyvoda Str. 1, vh. 1, et. 7, ap. 21, Varna 9000, Bulgaria
+Official registry: papagal.bg/eik/207067808/3830`,
 
   // Core products
   `Our core product is sunflower oil — we offer refined and crude sunflower oil for wholesale buyers.

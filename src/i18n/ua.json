@@ -250,7 +250,7 @@
   },
   "contact": {
     "address": "Адреса",
-    "addressValue": "Болгарія, Варна 9010\nвул. Сірма Войвода, бл.1, кв. 21",
+    "addressValue": "Болгарія, Варна 9000\nвул. Сірма Войвода 1, вх. 1, пов. 7, кв. 21",
     "email": "Електронна пошта",
     "phone": "Телефон",
     "hours": "Години роботи",
@@ -554,6 +554,21 @@
     "findUsOn": "Знайдіть нас на",
     "linkedinDesc": "Слідкуйте за оновленнями компанії",
     "europagesDesc": "Перегляньте наш профіль постачальника B2B"
+  },
+  "legal": {
+    "sectionTitle": "Юридична інформація",
+    "legalName": "Юридична назва",
+    "legalNameValue": "U B MARKET LTD. (Ю Би Маркет ЕООД)",
+    "legalForm": "Правова форма",
+    "legalFormValue": "Товариство з обмеженою відповідальністю з єдиним учасником (EOOD)",
+    "registrationNumber": "Реєстраційний номер (EIK)",
+    "registrationNumberValue": "207067808",
+    "vatNumber": "Номер ПДВ",
+    "vatNumberValue": "BG207067808",
+    "foundedDate": "Дата реєстрації",
+    "foundedDateValue": "30 серпня 2022",
+    "registryLabel": "Болгарський торговий реєстр",
+    "registryLinkText": "Дивитися в офіційному реєстрі"
   },
   "productFAQ": {
     "title": "Часті запитання",

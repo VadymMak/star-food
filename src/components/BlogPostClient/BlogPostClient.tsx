@@ -87,30 +87,10 @@ export default function BlogPostClient({
     image: ogImageUrl,
     datePublished: post.date,
     author: {
-      "@type": "Organization",
-      name: "UB Market LTD",
-      url: "https://ub-market.com",
-      sameAs: [
-        "https://www.instagram.com/ub_market_ltd",
-        "https://t.me/ub_market_ltd",
-        "https://www.linkedin.com/company/ub-market-ltd",
-        "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
-      ],
+      "@id": "https://ub-market.com/#organization",
     },
     publisher: {
-      "@type": "Organization",
-      name: "UB Market LTD",
-      url: "https://ub-market.com",
-      logo: {
-        "@type": "ImageObject",
-        url: "https://ub-market.com/icons/logo.webp",
-      },
-      sameAs: [
-        "https://www.instagram.com/ub_market_ltd",
-        "https://t.me/ub_market_ltd",
-        "https://www.linkedin.com/company/ub-market-ltd",
-        "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
-      ],
+      "@id": "https://ub-market.com/#organization",
     },
   };
 

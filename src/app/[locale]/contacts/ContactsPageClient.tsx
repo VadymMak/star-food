@@ -1,6 +1,6 @@
 "use client";
 
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import {
   FaMapMarkerAlt,
   FaEnvelope,
@@ -17,6 +17,7 @@ import styles from "./contacts.module.css";
 
 export default function ContactsPage() {
   const t = useTranslations();
+  const locale = useLocale();
 const contactItems = [
     {
       icon: <FaMapMarkerAlt />,
@@ -52,6 +53,20 @@ const contactItems = [
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ContactPage",
+            "@id": `https://ub-market.com/${locale}/contacts#contactpage`,
+            url: `https://ub-market.com/${locale}/contacts`,
+            mainEntity: {
+              "@id": "https://ub-market.com/#organization",
+            },
+          }),
+        }}
+      />
       <section className={styles.hero}>
         <div className={styles.heroOverlay} />
         <div className={styles.heroContent}>
@@ -147,6 +162,47 @@ const contactItems = [
             <span className={styles.profileName}>Europages</span>
             <span className={styles.profileDesc}>{t("contacts.europagesDesc")}</span>
           </a>
+        </div>
+      </section>
+
+      {/* Legal Information */}
+      <section className={styles.legalSection}>
+        <div className={styles.legalInner}>
+          <h2 className={styles.legalTitle}>{t("legal.sectionTitle")}</h2>
+          <div className={styles.legalGrid}>
+            <div className={styles.legalRow}>
+              <span className={styles.legalLabel}>{t("legal.legalName")}</span>
+              <span className={styles.legalValue}>{t("legal.legalNameValue")}</span>
+            </div>
+            <div className={styles.legalRow}>
+              <span className={styles.legalLabel}>{t("legal.legalForm")}</span>
+              <span className={styles.legalValue}>{t("legal.legalFormValue")}</span>
+            </div>
+            <div className={styles.legalRow}>
+              <span className={styles.legalLabel}>{t("legal.registrationNumber")}</span>
+              <span className={styles.legalValue}>{t("legal.registrationNumberValue")}</span>
+            </div>
+            <div className={styles.legalRow}>
+              <span className={styles.legalLabel}>{t("legal.vatNumber")}</span>
+              <span className={styles.legalValue}>{t("legal.vatNumberValue")}</span>
+            </div>
+            <div className={styles.legalRow}>
+              <span className={styles.legalLabel}>{t("legal.foundedDate")}</span>
+              <span className={styles.legalValue}>{t("legal.foundedDateValue")}</span>
+            </div>
+            <div className={styles.legalRow}>
+              <span className={styles.legalLabel}>{t("legal.registryLabel")}</span>
+              <span className={styles.legalValue}>
+                <a
+                  href="https://papagal.bg/eik/207067808/3830"
+                  target="_blank"
+                  rel="noopener external"
+                >
+                  {t("legal.registryLinkText")} →
+                </a>
+              </span>
+            </div>
+          </div>
         </div>
       </section>
 
