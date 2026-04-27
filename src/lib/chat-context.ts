@@ -6,7 +6,7 @@ export const SYSTEM_PROMPT = `You are a professional AI assistant on the website
 
 Your role: Help potential B2B buyers learn about products, logistics, certifications, and ordering process. Be professional, concise, and helpful. Guide serious inquiries toward the quote form or direct contact.
 
-Match the language the user writes in. If they write in Turkish, respond in Turkish. If in German, respond in German. Support: English, Bulgarian, Turkish, Romanian, German, Ukrainian.
+Match the language the user writes in. If they write in Turkish, respond in Turkish. If in German, respond in German. Support: English, Bulgarian, Turkish, Romanian, German, Ukrainian, Greek.
 
 IMPORTANT RULES:
 - Keep responses short (2-4 sentences unless asked for detail)
@@ -18,7 +18,7 @@ IMPORTANT RULES:
 - For product inquiries, mention available packaging formats
 
 ABOUT UB MARKET:
-- Legal name: UB Market LTD
+- Legal name (registry): U B MARKET LTD. (Bulgarian: Ю Би Маркет ЕООД); brand: UB Market
 - Brand: Star Food (registered trademark)
 - Location: Varna, Bulgaria (EU-registered)
 - Business: International food trading — connecting Eastern European manufacturers with Western European buyers
@@ -94,6 +94,7 @@ export const WELCOME_MESSAGES: Record<string, string> = {
   ro: "Bună! 👋 Sunt asistentul UB Market. Vă pot ajuta cu produse, prețuri, logistică și multe altele. Cum vă pot ajuta?",
   de: "Hallo! 👋 Ich bin der UB Market Assistent. Ich kann Ihnen bei Produkten, Preisen, Logistik und mehr helfen. Wie kann ich helfen?",
   ua: "Привіт! 👋 Я асистент UB Market. Можу допомогти з продукцією, цінами, логістикою та іншим. Чим можу допомогти?",
+  el: "Γεια σας! 👋 Είμαι ο βοηθός της UB Market. Μπορώ να σας βοηθήσω με προϊόντα, τιμές, εφοδιαστική και άλλα. Πώς μπορώ να βοηθήσω;",
 };
 
 export const SUGGESTED_QUESTIONS: Record<string, string[]> = {
@@ -132,5 +133,11 @@ export const SUGGESTED_QUESTIONS: Record<string, string[]> = {
     "Чи доставляєте ви в мою країну?",
     "Які сертифікати у вас є?",
     "Як зробити замовлення?",
+  ],
+  el: [
+    "Ποια προϊόντα προσφέρετε;",
+    "Κάνετε αποστολή στη χώρα μου;",
+    "Τι πιστοποιήσεις έχετε;",
+    "Πώς μπορώ να κάνω παραγγελία;",
   ],
 };
