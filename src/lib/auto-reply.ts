@@ -181,7 +181,8 @@ RESPONSE RULES:
           <hr style="border:none;border-top:1px solid #eee;margin:24px 0">
           <p style="color:#888;font-size:12px">
             UB Market LTD | Star Food<br>
-            Sirma Voivoda St., b.1, ap. 21, Varna 9010, Bulgaria<br>
+            Sirma Voyvoda Str. 1, vh. 1, et. 7, ap. 21, Varna 9000, Bulgaria<br>
+            EIK: 207067808 · VAT: BG207067808<br>
             +359 8844 69860 | ubmarket2022@gmail.com<br>
             <a href="https://ub-market.com" style="color:#d4a843">ub-market.com</a>
           </p>

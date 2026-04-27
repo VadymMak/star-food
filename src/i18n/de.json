@@ -250,7 +250,7 @@
   },
   "contact": {
     "address": "Adresse",
-    "addressValue": "Bulgarien, Varna 9010\nSirma Voivoda Str., Bl.1, Ap. 21",
+    "addressValue": "Bulgarien, Varna 9000\nSirma Voyvoda Str. 1, Eingang 1, Etage 7, Wohnung 21",
     "email": "E-Mail",
     "phone": "Telefon",
     "hours": "Geschäftszeiten",
@@ -554,6 +554,21 @@
     "findUsOn": "Finden Sie uns auf",
     "linkedinDesc": "Folgen Sie unseren Unternehmensneuigkeiten",
     "europagesDesc": "Sehen Sie unser B2B-Lieferantenprofil"
+  },
+  "legal": {
+    "sectionTitle": "Rechtliche Informationen",
+    "legalName": "Firmenname",
+    "legalNameValue": "U B MARKET LTD. (Ю Би Маркет ЕООД)",
+    "legalForm": "Rechtsform",
+    "legalFormValue": "Einpersonen-Gesellschaft mit beschränkter Haftung (EOOD)",
+    "registrationNumber": "Handelsregisternummer (EIK)",
+    "registrationNumberValue": "207067808",
+    "vatNumber": "USt-IdNr.",
+    "vatNumberValue": "BG207067808",
+    "foundedDate": "Gründungsdatum",
+    "foundedDateValue": "30. August 2022",
+    "registryLabel": "Bulgarisches Handelsregister",
+    "registryLinkText": "Im offiziellen Register ansehen"
   },
   "productFAQ": {
     "title": "Häufig gestellte Fragen",

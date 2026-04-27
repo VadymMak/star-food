@@ -250,7 +250,7 @@
   },
   "contact": {
     "address": "Adres",
-    "addressValue": "Bulgaristan, Varna 9010\nSirma Voivoda Cd., b.1, d. 21",
+    "addressValue": "Bulgaristan, Varna 9000\nSirma Voyvoda Cd. 1, giriş 1, kat 7, daire 21",
     "email": "E-posta",
     "phone": "Telefon",
     "hours": "Çalışma Saatleri",
@@ -554,6 +554,21 @@
     "findUsOn": "Bizi Bulun",
     "linkedinDesc": "Şirket güncellemelerini takip edin",
     "europagesDesc": "B2B tedarikçi profilimizi görüntüleyin"
+  },
+  "legal": {
+    "sectionTitle": "Yasal Bilgiler",
+    "legalName": "Şirket adı",
+    "legalNameValue": "U B MARKET LTD. (Ю Би Маркет ЕООД)",
+    "legalForm": "Şirket türü",
+    "legalFormValue": "Tek ortaklı limited şirket (EOOD)",
+    "registrationNumber": "Şirket numarası (EIK)",
+    "registrationNumberValue": "207067808",
+    "vatNumber": "KDV numarası",
+    "vatNumberValue": "BG207067808",
+    "foundedDate": "Tescil tarihi",
+    "foundedDateValue": "30 Ağustos 2022",
+    "registryLabel": "Bulgaristan Ticaret Sicili",
+    "registryLinkText": "Resmi sicilde görüntüle"
   },
   "productFAQ": {
     "title": "Sıkça Sorulan Sorular",

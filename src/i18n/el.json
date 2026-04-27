@@ -250,7 +250,7 @@
   },
   "contact": {
     "address": "Διεύθυνση",
-    "addressValue": "Βουλγαρία, Βάρνα 9010\nΟδός Σίρμα Βοΐβοδα, κτ.1, διαμ.21",
+    "addressValue": "Βουλγαρία, Βάρνα 9000\nΟδός Σίρμα Βοΐβοδα 1, είσοδος 1, όροφος 7, διαμ. 21",
     "email": "Email",
     "phone": "Τηλέφωνο",
     "hours": "Ώρες Γραφείου",
@@ -554,6 +554,21 @@
     "findUsOn": "Βρείτε μας στο",
     "linkedinDesc": "Ακολουθήστε τις ενημερώσεις της εταιρείας",
     "europagesDesc": "Δείτε το προφίλ μας B2B προμηθευτή"
+  },
+  "legal": {
+    "sectionTitle": "Νομικές πληροφορίες",
+    "legalName": "Νομική επωνυμία",
+    "legalNameValue": "U B MARKET LTD. (Ю Би Маркет ЕООД)",
+    "legalForm": "Νομική μορφή",
+    "legalFormValue": "Μονοπρόσωπη εταιρεία περιορισμένης ευθύνης (EOOD)",
+    "registrationNumber": "Αριθμός μητρώου (EIK)",
+    "registrationNumberValue": "207067808",
+    "vatNumber": "Αριθμός ΦΠΑ",
+    "vatNumberValue": "BG207067808",
+    "foundedDate": "Ημερομηνία ίδρυσης",
+    "foundedDateValue": "30 Αυγούστου 2022",
+    "registryLabel": "Εμπορικό Μητρώο Βουλγαρίας",
+    "registryLinkText": "Προβολή στο επίσημο μητρώο"
   },
   "productFAQ": {
     "title": "Συχνές Ερωτήσεις",

@@ -26,20 +26,49 @@ export default function SchemaOrg({ locale }: { locale: string }) {
   const orgSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "UB Market LTD",
-    alternateName: "Star Food",
+    "@id": `${baseUrl}/#organization`,
+
+    name: "UB Market",
+    legalName: "U B MARKET LTD.",
+    alternateName: [
+      "UB Market LTD",
+      "U B MARKET LTD.",
+      "Ю Би Маркет",
+      "Ю Би Маркет ЕООД",
+      "Star Food",
+    ],
+
     url: baseUrl,
     logo: `${baseUrl}/icons/logo-no-background.webp`,
     image: `${baseUrl}/og-image.jpg`,
+
     description:
-      "EU-registered international food trading company specializing in sunflower oil export and import.",
+      "EU-registered international food trading company specializing in wholesale sunflower oil, vegetable oils, and food commodities supply across Europe.",
+
+    identifier: {
+      "@type": "PropertyValue",
+      propertyID: "EIK",
+      value: "207067808",
+    },
+    vatID: "BG207067808",
+    foundingDate: "2022-08-30",
+
+    founder: {
+      "@type": "Person",
+      name: "Sergiy Kurichev",
+      nationality: "UA",
+      jobTitle: "Director",
+    },
+
     address: {
       "@type": "PostalAddress",
-      streetAddress: "Sirma Voivoda St., b.1, ap. 21",
+      streetAddress: "Sirma Voyvoda Str. 1, vh. 1, et. 7, ap. 21",
       addressLocality: "Varna",
-      postalCode: "9010",
+      addressRegion: "Primorski",
+      postalCode: "9000",
       addressCountry: "BG",
     },
+
     contactPoint: {
       "@type": "ContactPoint",
       telephone: "+359-8844-69860",
@@ -52,13 +81,16 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         "Turkish",
         "Romanian",
         "German",
+        "Greek",
       ],
     },
+
     sameAs: [
       "https://www.instagram.com/ub_market_ltd",
       "https://t.me/ub_market_ltd",
       "https://www.linkedin.com/company/ub-market-ltd",
       "https://www.europages.co.uk/en/company/ub-market-ltd-22384280",
+      "https://papagal.bg/eik/207067808/3830",
     ],
   };
 

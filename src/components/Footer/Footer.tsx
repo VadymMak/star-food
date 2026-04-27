@@ -44,13 +44,32 @@ export default function Footer() {
           {/* Col 4 — Contact */}
           <div className={styles.colContact}>
             <h4 className={styles.colTitle}>{t("footer.contactTitle")}</h4>
-            <p>
-              Sirma Voivoda St., b.1, ap. 21
-              <br />
-              Varna 9010, Bulgaria
+            <p style={{ whiteSpace: "pre-line" }}>
+              {t("contact.addressValue")}
             </p>
             <p>ubmarket2022@gmail.com</p>
             <p>+359 8844 69860</p>
+            <div className={styles.legalBlock}>
+              <p className={styles.legalLine}>
+                {t("legal.legalName")}: <strong>{t("legal.legalNameValue")}</strong>
+              </p>
+              <p className={styles.legalLine}>
+                {t("legal.registrationNumber")}: <strong>{t("legal.registrationNumberValue")}</strong>
+              </p>
+              <p className={styles.legalLine}>
+                {t("legal.vatNumber")}: <strong>{t("legal.vatNumberValue")}</strong>
+              </p>
+              <p className={styles.legalLine}>
+                <a
+                  href="https://papagal.bg/eik/207067808/3830"
+                  target="_blank"
+                  rel="noopener external"
+                  className={styles.registryLink}
+                >
+                  {t("legal.registryLinkText")} →
+                </a>
+              </p>
+            </div>
             <div className={styles.social}>
               <a
                 href="https://www.instagram.com/ub_market_ltd"

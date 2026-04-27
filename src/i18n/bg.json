@@ -250,7 +250,7 @@
   },
   "contact": {
     "address": "Адрес",
-    "addressValue": "България, Варна 9010\nул. Сирма Войвода, бл.1, ап. 21",
+    "addressValue": "България, Варна 9000\nул. Сирма Войвода 1, вх. 1, ет. 7, ап. 21",
     "email": "Имейл",
     "phone": "Телефон",
     "hours": "Работно време",
@@ -554,6 +554,21 @@
     "findUsOn": "Намерете ни в",
     "linkedinDesc": "Следвайте актуализациите на компанията",
     "europagesDesc": "Вижте нашия B2B профил"
+  },
+  "legal": {
+    "sectionTitle": "Правна информация",
+    "legalName": "Наименование",
+    "legalNameValue": "Ю Би Маркет ЕООД (U B MARKET LTD.)",
+    "legalForm": "Правна форма",
+    "legalFormValue": "Еднолично дружество с ограничена отговорност (ЕООД)",
+    "registrationNumber": "ЕИК",
+    "registrationNumberValue": "207067808",
+    "vatNumber": "ДДС номер",
+    "vatNumberValue": "BG207067808",
+    "foundedDate": "Дата на регистрация",
+    "foundedDateValue": "30 август 2022",
+    "registryLabel": "Търговски регистър на България",
+    "registryLinkText": "Виж в официалния регистър"
   },
   "productFAQ": {
     "title": "Често задавани въпроси",
