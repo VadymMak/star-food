@@ -98,7 +98,16 @@
           "shelfLife": "12-18 ay",
           "origin": "Doğu Avrupa (Ukrayna, Bulgaristan)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0,5L PET — €1,50",
+          "1L PET — €1,80",
+          "5L PET",
+          "10L PET — €16,50",
+          "10L Bidon",
+          "20L Bidon",
+          "Dökme Tanker"
+        ]
       },
       "high-oleic": {
         "name": "Yüksek Oleik Ayçiçek Yağı",
@@ -109,7 +118,14 @@
           "shelfLife": "18 ay",
           "origin": "Doğu Avrupa",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23,40",
+          "10L Bidon",
+          "20L Bidon",
+          "Dökme Tanker"
+        ]
       },
       "rapeseed-oil": {
         "name": "Kolza Yağı (Kanola)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 ay",
           "origin": "Doğu Avrupa",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Bidon",
+          "Dökme Tanker"
+        ]
       },
       "soybean-oil": {
         "name": "Soya Yağı",
@@ -131,7 +153,13 @@
           "shelfLife": "12 ay",
           "origin": "Doğu Avrupa",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Bidon",
+          "Dökme Tanker"
+        ]
       },
       "frying-oil": {
         "name": "Kızartma Yağı",
@@ -142,7 +170,13 @@
           "shelfLife": "12 ay",
           "origin": "Doğu Avrupa",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Ayçiçek 10L PET — €21,00",
+          "Yüksek Oleik 10L PET — €25,80",
+          "Kanola 10L PET",
+          "Soya 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Mayonez ve Ketçap",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 ay",
           "origin": "Doğu Avrupa",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Mayo %30 — 1,8kg kova",
+          "Mayo %30 — 4,5kg kova",
+          "Mayo %30 — 10kg kova — €18",
+          "Mayo %67 — 1,8kg kova",
+          "Mayo %67 — 4,5kg kova — €15",
+          "Mayo %67 — 10kg kova — €30",
+          "Lagidny ketçap — 2kg kova",
+          "Lagidny ketçap — 5kg kova — €8"
+        ]
       },
       "dairy": {
         "name": "UHT Süt",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 ay",
           "origin": "AB (sertifikalı üreticiler)",
           "certification": "ISO 22000, HACCP, AB sertifikalı"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Pancar Şekeri",
@@ -175,7 +222,12 @@
           "shelfLife": "24 ay",
           "origin": "Doğu Avrupa (Ukrayna, Polonya)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "25kg Çuval",
+          "50kg Çuval",
+          "1000kg Big Bag"
+        ]
       }
     }
   },

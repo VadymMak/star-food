@@ -98,7 +98,16 @@
           "shelfLife": "12-18 Monate",
           "origin": "Osteuropa (Ukraine, Bulgarien)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0,5L PET — €1,50",
+          "1L PET — €1,80",
+          "5L PET",
+          "10L PET — €16,50",
+          "10L Kanister",
+          "20L Kanister",
+          "Schüttgut Tanker"
+        ]
       },
       "high-oleic": {
         "name": "High-Oleic Sonnenblumenöl",
@@ -109,7 +118,14 @@
           "shelfLife": "18 Monate",
           "origin": "Osteuropa",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23,40",
+          "10L Kanister",
+          "20L Kanister",
+          "Schüttgut Tanker"
+        ]
       },
       "rapeseed-oil": {
         "name": "Rapsöl (Canola)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 Monate",
           "origin": "Osteuropa",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Kanister",
+          "Schüttgut Tanker"
+        ]
       },
       "soybean-oil": {
         "name": "Sojaöl",
@@ -131,7 +153,13 @@
           "shelfLife": "12 Monate",
           "origin": "Osteuropa",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Kanister",
+          "Schüttgut Tanker"
+        ]
       },
       "frying-oil": {
         "name": "Frittieröl",
@@ -142,7 +170,13 @@
           "shelfLife": "12 Monate",
           "origin": "Osteuropa",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Sonnenblumen 10L PET — €21,00",
+          "High-Oleic 10L PET — €25,80",
+          "Raps 10L PET",
+          "Soja 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Mayonnaise & Ketchup",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 Monate",
           "origin": "Osteuropa",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Mayo 30% — 1,8kg Eimer",
+          "Mayo 30% — 4,5kg Eimer",
+          "Mayo 30% — 10kg Eimer — €18",
+          "Mayo 67% — 1,8kg Eimer",
+          "Mayo 67% — 4,5kg Eimer — €15",
+          "Mayo 67% — 10kg Eimer — €30",
+          "Ketchup Lagidny — 2kg Eimer",
+          "Ketchup Lagidny — 5kg Eimer — €8"
+        ]
       },
       "dairy": {
         "name": "UHT-Milch",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 Monate",
           "origin": "EU (zertifizierte Produzenten)",
           "certification": "ISO 22000, HACCP, EU-zertifiziert"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Rübenzucker",
@@ -175,7 +222,12 @@
           "shelfLife": "24 Monate",
           "origin": "Osteuropa (Ukraine, Polen)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "25kg Sack",
+          "50kg Sack",
+          "1000kg Big Bag"
+        ]
       }
     }
   },

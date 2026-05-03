@@ -98,7 +98,16 @@
           "shelfLife": "12-18 months",
           "origin": "Eastern Europe (Ukraine, Bulgaria)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0.5L PET — €1.50",
+          "1L PET — €1.80",
+          "5L PET",
+          "10L PET — €16.50",
+          "10L Canister",
+          "20L Canister",
+          "Bulk Tank Truck"
+        ]
       },
       "high-oleic": {
         "name": "High-Oleic Sunflower Oil",
@@ -109,7 +118,14 @@
           "shelfLife": "18 months",
           "origin": "Eastern Europe",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23.40",
+          "10L Canister",
+          "20L Canister",
+          "Bulk Tank Truck"
+        ]
       },
       "rapeseed-oil": {
         "name": "Rapeseed Oil (Canola)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 months",
           "origin": "Eastern Europe",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Canister",
+          "Bulk Tank Truck"
+        ]
       },
       "soybean-oil": {
         "name": "Soybean Oil",
@@ -131,7 +153,13 @@
           "shelfLife": "12 months",
           "origin": "Eastern Europe",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Canister",
+          "Bulk Tank Truck"
+        ]
       },
       "frying-oil": {
         "name": "Deep-Frying Oil",
@@ -142,7 +170,13 @@
           "shelfLife": "12 months",
           "origin": "Eastern Europe",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Sunflower 10L PET — €21.00",
+          "High-Oleic 10L PET — €25.80",
+          "Rapeseed 10L PET",
+          "Soybean 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Mayonnaise & Ketchup",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 months",
           "origin": "Eastern Europe",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Mayo 30% — 1.8kg Bucket",
+          "Mayo 30% — 4.5kg Bucket",
+          "Mayo 30% — 10kg Bucket — €18",
+          "Mayo 67% — 1.8kg Bucket",
+          "Mayo 67% — 4.5kg Bucket — €15",
+          "Mayo 67% — 10kg Bucket — €30",
+          "Ketchup Lagidny — 2kg Bucket",
+          "Ketchup Lagidny — 5kg Bucket — €8"
+        ]
       },
       "dairy": {
         "name": "Milk UHT",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 months",
           "origin": "EU (certified producers)",
           "certification": "ISO 22000, HACCP, EU certified"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Beet Sugar",
@@ -175,7 +222,12 @@
           "shelfLife": "24 months",
           "origin": "Eastern Europe (Ukraine, Poland)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "25kg Bag",
+          "50kg Bag",
+          "1000kg Big Bag"
+        ]
       }
     }
   },

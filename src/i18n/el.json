@@ -98,7 +98,16 @@
           "shelfLife": "12-18 μήνες",
           "origin": "Ανατολική Ευρώπη (Ουκρανία, Βουλγαρία)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0,5L PET — €1,50",
+          "1L PET — €1,80",
+          "5L PET",
+          "10L PET — €16,50",
+          "10L Δοχείο",
+          "20L Δοχείο",
+          "Χύμα βυτίο"
+        ]
       },
       "high-oleic": {
         "name": "Υψηλής Ελαϊκής Ηλιέλαιο",
@@ -109,7 +118,14 @@
           "shelfLife": "18 μήνες",
           "origin": "Ανατολική Ευρώπη",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23,40",
+          "10L Δοχείο",
+          "20L Δοχείο",
+          "Χύμα βυτίο"
+        ]
       },
       "rapeseed-oil": {
         "name": "Ελαιόλαδο Κανόλας (Κραμβέλαιο)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 μήνες",
           "origin": "Ανατολική Ευρώπη",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Δοχείο",
+          "Χύμα βυτίο"
+        ]
       },
       "soybean-oil": {
         "name": "Σογιέλαιο",
@@ -131,7 +153,13 @@
           "shelfLife": "12 μήνες",
           "origin": "Ανατολική Ευρώπη",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Δοχείο",
+          "Χύμα βυτίο"
+        ]
       },
       "frying-oil": {
         "name": "Λάδι Τηγανίσματος",
@@ -142,7 +170,13 @@
           "shelfLife": "12 μήνες",
           "origin": "Ανατολική Ευρώπη",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Ηλιέλαιο 10L PET — €21,00",
+          "Υψηλό ολεϊκό 10L PET — €25,80",
+          "Ελαιόκραμβε 10L PET",
+          "Σόγια 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Μαγιονέζα & Κέτσαπ",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 μήνες",
           "origin": "Ανατολική Ευρώπη",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Μαγιονέζα 30% — κάδος 1,8kg",
+          "Μαγιονέζα 30% — κάδος 4,5kg",
+          "Μαγιονέζα 30% — κάδος 10kg — €18",
+          "Μαγιονέζα 67% — κάδος 1,8kg",
+          "Μαγιονέζα 67% — κάδος 4,5kg — €15",
+          "Μαγιονέζα 67% — κάδος 10kg — €30",
+          "Κέτσαπ Lagidny — κάδος 2kg",
+          "Κέτσαπ Lagidny — κάδος 5kg — €8"
+        ]
       },
       "dairy": {
         "name": "Γάλα UHT",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 μήνες",
           "origin": "ΕΕ (πιστοποιημένοι παραγωγοί)",
           "certification": "ISO 22000, HACCP, πιστοποιημένο ΕΕ"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Ζάχαρη Τεύτλων",
@@ -175,7 +222,12 @@
           "shelfLife": "24 μήνες",
           "origin": "Ανατολική Ευρώπη (Ουκρανία, Πολωνία)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Σάκος 25kg",
+          "Σάκος 50kg",
+          "Big Bag 1000kg"
+        ]
       }
     }
   },

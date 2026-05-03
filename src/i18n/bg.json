@@ -98,7 +98,16 @@
           "shelfLife": "12-18 месеца",
           "origin": "Източна Европа (Украйна, България)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0,5L PET — €1,50",
+          "1L PET — €1,80",
+          "5L PET",
+          "10L PET — €16,50",
+          "10L Канистра",
+          "20L Канистра",
+          "Насипен танкер"
+        ]
       },
       "high-oleic": {
         "name": "Високоолеиново слънчогледово масло",
@@ -109,7 +118,14 @@
           "shelfLife": "18 месеца",
           "origin": "Източна Европа",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23,40",
+          "10L Канистра",
+          "20L Канистра",
+          "Насипен танкер"
+        ]
       },
       "rapeseed-oil": {
         "name": "Рапично масло (Канола)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 месеца",
           "origin": "Източна Европа",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Канистра",
+          "Насипен танкер"
+        ]
       },
       "soybean-oil": {
         "name": "Соево масло",
@@ -131,7 +153,13 @@
           "shelfLife": "12 месеца",
           "origin": "Източна Европа",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Канистра",
+          "Насипен танкер"
+        ]
       },
       "frying-oil": {
         "name": "Масло за пържене",
@@ -142,7 +170,13 @@
           "shelfLife": "12 месеца",
           "origin": "Източна Европа",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Слънчогледово 10L PET — €21,00",
+          "Высокоолеиново 10L PET — €25,80",
+          "Рапично 10L PET",
+          "Соево 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Майонеза и кетчуп",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 месеца",
           "origin": "Източна Европа",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Майонеза 30% — 1,8kg кофа",
+          "Майонеза 30% — 4,5kg кофа",
+          "Майонеза 30% — 10kg кофа — €18",
+          "Майонеза 67% — 1,8kg кофа",
+          "Майонеза 67% — 4,5kg кофа — €15",
+          "Майонеза 67% — 10kg кофа — €30",
+          "Кетчуп Лагидни — 2kg кофа",
+          "Кетчуп Лагидни — 5kg кофа — €8"
+        ]
       },
       "dairy": {
         "name": "UHT мляко",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 месеца",
           "origin": "ЕС (сертифицирани производители)",
           "certification": "ISO 22000, HACCP, ЕС сертифициран"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Цвеклова захар",
@@ -175,7 +222,12 @@
           "shelfLife": "24 месеца",
           "origin": "Източна Европа (Украйна, Полша)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "25kg чувал",
+          "50kg чувал",
+          "1000kg биг бег"
+        ]
       }
     }
   },

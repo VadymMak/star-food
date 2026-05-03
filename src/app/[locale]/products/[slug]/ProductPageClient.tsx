@@ -193,6 +193,16 @@ export default function ProductPageClient() {
   const specOrigin = translated?.specs?.origin || product.specs.origin;
   const specCertification = translated?.specs?.certification || product.specs.certification;
 
+  const packagingOptions = (() => {
+    try {
+      const localized = t.raw(`products.items.${product.id}.packagingOptions`) as string[];
+      if (Array.isArray(localized) && localized.length > 0) return localized;
+    } catch {
+      // fallback to products.ts
+    }
+    return product.packagingOptions;
+  })();
+
   const related = products.filter((p) => p.slug !== slug).slice(0, 3);
   const relatedBlogs = PRODUCT_BLOGS[product.slug] || [];
 
@@ -328,7 +338,7 @@ export default function ProductPageClient() {
                   {t("productPage.availablePackaging")}
                 </h3>
                 <div className={styles.packagingTags}>
-                  {product.packagingOptions.map((opt) => (
+                  {packagingOptions.map((opt) => (
                     <span key={opt} className={styles.packTag}>
                       <FaBoxOpen className={styles.packIcon} /> {opt}
                     </span>
