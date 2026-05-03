@@ -128,6 +128,11 @@ export default function SchemaOrg({ locale }: { locale: string }) {
       "@type": "QuantitativeValue",
       value: 10,
     },
+
+    additionalType: [
+      "https://www.wikidata.org/wiki/Q1400827",
+      "https://www.wikidata.org/wiki/Q768148",
+    ],
   };
 
   return (
