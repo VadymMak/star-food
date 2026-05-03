@@ -163,7 +163,7 @@ export default function BlogPostClient({
                     alt="UB Market Trading Team"
                     width={64}
                     height={64}
-                    style={{ borderRadius: "50%", objectFit: "cover" }}
+                    style={{ borderRadius: "50%", objectFit: "contain", padding: "6px", backgroundColor: "rgba(255,255,255,0.08)" }}
                   />
                 </div>
                 <div className={styles.authorInfo}>
