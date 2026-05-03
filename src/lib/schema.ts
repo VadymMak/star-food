@@ -119,18 +119,8 @@ export function generateProductSchema(
         },
       };
     }
-  } else {
-    // Fallback minimal Offer for products without published prices —
-    // signals availability + B2B quote channel without misrepresenting price.
-    schema.offers = {
-      "@type": "Offer",
-      availability: "https://schema.org/InStock",
-      areaServed: "EU",
-      seller: {
-        "@id": `${BASE_URL}/#organization`,
-      },
-    };
   }
+  // No offers field for products without real prices — schema follows reality.
 
   return schema;
 }
