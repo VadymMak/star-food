@@ -575,20 +575,24 @@
     "items": {
       "sunflower-oil": [
         {
-          "q": "Was ist die Mindestbestellmenge für Sonnenblumenöl Großhandel?",
-          "a": "Die Mindestbestellmenge beträgt 1 MT (metrische Tonne) für Großlieferungen. Abgefüllte Formate (0,5L–10L) beginnen ab 1 Palette. Für IBC oder Tankbestellungen kontaktieren Sie uns für mengenbasierte Preise."
+          "q": "Was ist die Mindestbestellmenge für Sonnenblumenöl im Großhandel?",
+          "a": "Mindestbestellmenge ist 1 MT für Schüttgutlieferung. Abgefüllte Formate (PET 0,5L–10L) beginnen ab 1 Palette. Standardlieferung innerhalb der EU: 5–10 Werktage per LKW, keine Zollabfertigung innerhalb der EU erforderlich."
         },
         {
-          "q": "Liefern Sie zertifiziertes Non-GMO Sonnenblumenöl?",
-          "a": "Ja. Unser Sonnenblumenöl ist Non-GMO, ISO 22000 und HACCP zertifiziert. Ein Qualitätszertifikat von LLC \"Green Light\" (Ukraine) steht auf dieser Seite als PDF zum Download bereit."
+          "q": "Was sind die aktuellen Großhandelspreise für Sonnenblumenöl in Europa?",
+          "a": "Raffiniertes RBDW wird in Q2 2026 bei $1.100–1.250/t FOB Schwarzes Meer gehandelt. Der IMF-Referenzwert erreichte im April 2026 ~$1.739/MT. Endpreis hängt von Volumen, Verpackung und Lieferbedingung ab. Angebot für aktuelle Preise anfordern."
+        },
+        {
+          "q": "Wie liefern Sie Sonnenblumenöl im Großhandel quer durch Europa?",
+          "a": "Wir liefern primär per LKW — die schnellste und kostengünstigste Methode innerhalb der EU. Keine Zollstopps zwischen EU-Mitgliedstaaten. Typische Fahrzeiten ab Varna: München 14h, Hamburg 20h, Wien 12h, Warschau 18–19h. Seetransport über Schwarzmeer-Häfen für große Volumina verfügbar."
         },
         {
           "q": "In welche Länder liefern Sie Sonnenblumenöl im Großhandel?",
-          "a": "Wir beliefern 12+ EU- und Nicht-EU-Länder, darunter Deutschland, Rumänien, die Türkei, Bulgarien, Griechenland und weitere. Lieferkonditionen DAP, CIF und FOB verfügbar."
+          "a": "Wir beliefern 12+ EU- und Nicht-EU-Länder, darunter Deutschland, Rumänien, die Türkei, Bulgarien, Griechenland, Polen, Tschechien und weitere. Verfügbare Konditionen: DAP per LKW, CIF und FOB."
         },
         {
-          "q": "Welche Verpackungsformate sind erhältlich?",
-          "a": "Wir bieten 0,5L, 1L, 5L und 10L PET-Flaschen, 10L und 20L Kunststoffkanister, IBC-Container sowie Tanklieferungen für Großmengen an."
+          "q": "Welche Zertifizierungen und Verpackungsformate sind verfügbar?",
+          "a": "ISO 22000 und HACCP zertifiziert. Non-GMO. Analysezertifikat (CoA) pro Lieferung. Verpackungen: PET-Flaschen 0,5L, 1L, 5L, 10L; Kunststoffkanister 10L und 20L; IBC-Container; Schüttgut-Tanker für Großmengen."
         }
       ]
     }
