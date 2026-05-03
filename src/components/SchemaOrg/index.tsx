@@ -94,6 +94,40 @@ export default function SchemaOrg({ locale }: { locale: string }) {
       "https://ensun.io/company/u-b-market-ltd-69f447f68657b15bb2dc7345",
       "https://app.usetorg.com/supplier-profile/u-b-market-ltd",
     ],
+
+    knowsAbout: [
+      "Sunflower oil wholesale",
+      "Bulk vegetable oil trading",
+      "Refined sunflower oil RBDW",
+      "High-oleic sunflower oil",
+      "Rapeseed oil wholesale",
+      "Soybean oil wholesale",
+      "Frying oil HoReCa",
+      "Mayonnaise wholesale",
+      "Beet sugar wholesale",
+      "B2B food trading Europe",
+      "FOB Black Sea shipping",
+      "CIF delivery Europe",
+      "Private label food production",
+      "ISO 22000 food safety",
+      "HACCP certification",
+    ],
+
+    areaServed: [
+      "Bulgaria",
+      "Germany",
+      "Romania",
+      "Turkey",
+      "Greece",
+      "Ukraine",
+      "Czech Republic",
+      "European Union",
+    ],
+
+    numberOfEmployees: {
+      "@type": "QuantitativeValue",
+      value: 10,
+    },
   };
 
   return (
