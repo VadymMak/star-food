@@ -113,7 +113,7 @@
       },
       "rapeseed-oil": {
         "name": "Rapsöl (Canola)",
-        "description": "Raffiniertes und desodoriertes Rapsöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen.",
+        "description": "Rapsöl Großhandel (Canola), geliefert von UB Market LTD — raffiniertes und desodoriertes RBDW-Qualität für Lebensmittelhersteller, Distributoren und HoReCa-Käufer in ganz Europa. Indikative Großhandelspreise: €900–1.100/Tonne. PET-Flaschen 5L und 10L, 20L Kunststoffkanister, IBC-Container und Schüttgut-Tankerlieferung. ISO 22000 und HACCP zertifiziert, Non-GMO. DAP LKW-Lieferung in der EU in 5–10 Werktagen, keine Zollabfertigung innerhalb der EU. 12+ europäische Länder.",
         "specs": {
           "volume": "5L, 10L PET / 20L Kanister / Tankwagen",
           "packaging": "PET-Flaschen, Plastikkanister, Tankwagen",
@@ -124,7 +124,7 @@
       },
       "soybean-oil": {
         "name": "Sojaöl",
-        "description": "Raffiniertes und desodoriertes Sojaöl. PET-Flaschen 5–10L, 20L Kanister und Tankwagen.",
+        "description": "Sojaöl Großhandel, geliefert von UB Market LTD — raffiniertes und desodoriertes RBDW-Qualität für Lebensmittelhersteller, Margarine-Produzenten und B2B-Käufer in ganz Europa. Indikative Großhandelspreise: €950–1.150/Tonne. PET-Flaschen 5L und 10L, 20L Kunststoffkanister, IBC-Container und Schüttgut-Tankerlieferung. ISO 22000 und HACCP zertifiziert, Non-GMO. DAP LKW-Lieferung in der EU in 5–10 Werktagen, keine Zollabfertigung innerhalb der EU. 12+ europäische Länder.",
         "specs": {
           "volume": "5L, 10L PET / 20L Kanister / Tankwagen",
           "packaging": "PET-Flaschen, Plastikkanister, Tankwagen",
@@ -168,7 +168,7 @@
       },
       "sugar": {
         "name": "Rübenzucker",
-        "description": "Premium weißer Rübenzucker. Erhältlich in 25-kg-, 50-kg-Säcken und Big Bags.",
+        "description": "Rübenzucker Großhandel, geliefert von UB Market LTD — premium weißer EU-Zucker für Lebensmittelhersteller, Süßwarenproduzenten und B2B-Käufer in ganz Europa. Indikative Großhandelspreise: €400–550/Tonne. Erhältlich in 25kg-Säcken, 50kg-Säcken und 1.000kg Big Bags. ISO 22000 und HACCP zertifiziert. DAP LKW-Lieferung in der EU in 5–10 Werktagen. 12+ europäische Länder.",
         "specs": {
           "volume": "25kg, 50kg Säcke, 1000kg Big Bags",
           "packaging": "Polypropylensäcke, Big Bags",
