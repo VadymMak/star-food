@@ -133,6 +133,103 @@ export default function SchemaOrg({ locale }: { locale: string }) {
       "https://www.wikidata.org/wiki/Q1400827",
       "https://www.wikidata.org/wiki/Q768148",
     ],
+
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "UB Market Wholesale Food Products",
+      url: "https://ub-market.com/en/products",
+      numberOfItems: 8,
+      itemListElement: [
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Sunflower Oil",
+            description:
+              "Refined RBDW and unrefined sunflower oil, bulk and packaged, ISO 22000 certified",
+            url: "https://ub-market.com/en/products/sunflower-oil",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "High-Oleic Sunflower Oil",
+            description:
+              "High-oleic RBDW sunflower oil for HoReCa and premium food segment",
+            url: "https://ub-market.com/en/products/high-oleic-sunflower-oil",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Rapeseed Oil (Canola)",
+            description:
+              "Refined and deodorized rapeseed oil for food manufacturing and wholesale",
+            url: "https://ub-market.com/en/products/rapeseed-oil",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Soybean Oil",
+            description:
+              "Refined and deodorized soybean oil, wholesale supply for EU food manufacturers",
+            url: "https://ub-market.com/en/products/soybean-oil",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Deep-Frying Oil",
+            description:
+              "Professional deep-frying oil for HoReCa, sunflower and high-oleic grades",
+            url: "https://ub-market.com/en/products/frying-oil",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Mayonnaise and Ketchup",
+            description:
+              "Wholesale mayonnaise sauce 30% and 67% fat, ketchup, bulk buckets for food service",
+            url: "https://ub-market.com/en/products/mayonnaise",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Milk UHT",
+            description:
+              "UHT long shelf life milk, Tetra Pak 1L, wholesale supply for EU distributors",
+            url: "https://ub-market.com/en/products/dairy-products",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Product",
+            name: "Beet Sugar",
+            description:
+              "Premium white beet sugar, 25kg and 50kg bags, 1000kg big bags, EU wholesale",
+            url: "https://ub-market.com/en/products/sugar",
+            brand: { "@id": "https://ub-market.com/#organization" },
+          },
+        },
+      ],
+    },
   };
 
   return (
