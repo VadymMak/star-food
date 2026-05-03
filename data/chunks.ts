@@ -132,7 +132,7 @@ export const chunks: ContentChunk[] = [
     id: "logistics-overview",
     category: "logistics",
     content:
-      "UB Market provides road transport delivery across 12+ EU countries. Standard delivery terms include FOB (Free on Board), CIF (Cost, Insurance, Freight), and DAP (Delivered at Place).",
+      "UB Market delivers primarily by road truck across 12+ EU countries — the fastest and most cost-effective method within the EU. No customs clearance between EU member states. Standard delivery terms: DAP truck delivery, FOB Varna, CIF Rotterdam, CIF Istanbul.",
   },
   {
     id: "logistics-capacity",
@@ -144,7 +144,13 @@ export const chunks: ContentChunk[] = [
     id: "logistics-countries",
     category: "logistics",
     content:
-      "UB Market delivers to countries including Germany, Turkey, Romania, Austria, Czech Republic, Poland, Greece, Italy, and other EU member states. Delivery times vary from 3-10 business days depending on destination.",
+      "UB Market delivers to Germany, Turkey, Romania, Bulgaria, Greece, Poland, Czech Republic, Austria, Italy, and other EU countries. Transit times from Varna by truck: Bucharest 4–5h, Athens 8–9h, Munich 14h, Warsaw 18–19h, Istanbul 5–6h. Standard lead time 5–10 business days.",
+  },
+  {
+    id: "pricing-wholesale-benchmark",
+    category: "pricing",
+    content:
+      "Indicative wholesale sunflower oil prices Q2 2026: refined RBDW $1,100–1,250/ton FOB Black Sea. IMF Primary Commodity Price Index benchmark reached ~$1,739/MT in April 2026. High-oleic RBDW $1,300–1,450/ton. Rapeseed oil €900–1,100/ton. Prices depend on volume, packaging, and delivery term.",
   },
 
   // ===== ORDERING PROCESS =====
@@ -255,6 +261,18 @@ export const chunks: ContentChunk[] = [
     category: "contact",
     content:
       "UB Market LTD is listed on Europages — Europe's leading B2B marketplace. Company profile: europages.co.uk/en/company/ub-market-ltd-22384280. Buyers can view all products and contact the supplier directly.",
+  },
+  {
+    id: "profile-ensun",
+    category: "contact",
+    content:
+      "UB Market LTD is listed on Ensun.io — European B2B supplier directory. Profile: ensun.io/company/u-b-market-ltd-69f447f68657b15bb2dc7345. Buyers can view all products and contact the supplier directly.",
+  },
+  {
+    id: "profile-torg",
+    category: "contact",
+    content:
+      "UB Market LTD is listed on Torg.com — international food trade directory. Supplier profile: app.usetorg.com/supplier-profile/u-b-market-ltd. Full product catalog and contact details available.",
   },
   {
     id: "profile-certificate",

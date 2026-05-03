@@ -31,6 +31,7 @@ PRODUCTS:
 1. Sunflower Oil — core product
    - Unrefined: PET 0.5L (€1.50), 1L (€1.80), 10L (€16.50)
    - RBDW (Refined, Bleached, Deodorized, Winterized): PET 5L, 10L; Plastic Canister 10L, 20L; Bulk tanker
+   - Indicative wholesale: $1,100–1,250/ton FOB Black Sea Q2 2026. IMF benchmark ~$1,739/MT April 2026.
 
 2. High-Oleic Sunflower Oil
    - RBDW: PET 5L, 10L (€23.40); Plastic Canister 10L, 20L; Bulk tanker
@@ -69,10 +70,11 @@ PRODUCTS:
 CERTIFICATIONS: ISO 22000, HACCP, Non-GMO, EU Food Safety
 
 LOGISTICS:
-- Road transport across EU
-- FOB, CIF, DAP terms
-- 5-10 business days delivery within EU
-- Full truckloads (20-24 tons) or smaller orders
+- Primary delivery: DAP road truck within EU — no customs, fastest method
+- Transit times from Varna: Bucharest 4–5h, Athens 8–9h, Munich 14h, Warsaw 18–19h, Istanbul 5–6h
+- Sea freight via Black Sea ports available for large volumes
+- Trade terms: FOB Varna, CIF Rotterdam, CIF Istanbul, DAP any EU address
+- Lead time: 5–10 business days standard
 
 SERVICES:
 - Private label production (your brand on our products)
