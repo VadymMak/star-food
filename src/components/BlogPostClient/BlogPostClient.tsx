@@ -159,11 +159,11 @@ export default function BlogPostClient({
               <div className={styles.authorBox}>
                 <div className={styles.authorImage}>
                   <Image
-                    src="/icons/logo.webp"
+                    src="/icons/logo-no-background.webp"
                     alt="UB Market Trading Team"
                     width={64}
                     height={64}
-                    style={{ borderRadius: "50%", objectFit: "contain", padding: "6px", backgroundColor: "rgba(255,255,255,0.08)" }}
+                    style={{ objectFit: "contain" }}
                   />
                 </div>
                 <div className={styles.authorInfo}>
