@@ -146,7 +146,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Sunflower Oil",
             description:
               "Refined RBDW and unrefined sunflower oil, bulk and packaged, ISO 22000 certified",
@@ -160,7 +160,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "High-Oleic Sunflower Oil",
             description:
               "High-oleic RBDW sunflower oil for HoReCa and premium food segment",
@@ -174,7 +174,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Rapeseed Oil (Canola)",
             description:
               "Refined and deodorized rapeseed oil for food manufacturing and wholesale",
@@ -188,7 +188,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Soybean Oil",
             description:
               "Refined and deodorized soybean oil, wholesale supply for EU food manufacturers",
@@ -202,7 +202,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Deep-Frying Oil",
             description:
               "Professional deep-frying oil for HoReCa, sunflower and high-oleic grades",
@@ -216,7 +216,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Mayonnaise and Ketchup",
             description:
               "Wholesale mayonnaise sauce 30% and 67% fat, ketchup, bulk buckets for food service",
@@ -230,7 +230,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Milk UHT",
             description:
               "UHT long shelf life milk, Tetra Pak 1L, wholesale supply for EU distributors",
@@ -244,7 +244,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
           seller: { "@id": "https://ub-market.com/#organization" },
           businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
-            "@type": "Product",
+            "@type": "Service",
             name: "Beet Sugar",
             description:
               "Premium white beet sugar, 25kg and 50kg bags, 1000kg big bags, EU wholesale",
