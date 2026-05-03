@@ -98,7 +98,16 @@
           "shelfLife": "12-18 місяців",
           "origin": "Східна Європа (Україна, Болгарія)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0,5L PET — €1,50",
+          "1L PET — €1,80",
+          "5L PET",
+          "10L PET — €16,50",
+          "10L Каністра",
+          "20L Каністра",
+          "Насипний танкер"
+        ]
       },
       "high-oleic": {
         "name": "Високоолеїнова соняшникова олія",
@@ -109,7 +118,14 @@
           "shelfLife": "18 місяців",
           "origin": "Східна Європа",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23,40",
+          "10L Каністра",
+          "20L Каністра",
+          "Насипний танкер"
+        ]
       },
       "rapeseed-oil": {
         "name": "Ріпакова олія (Канола)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 місяців",
           "origin": "Східна Європа",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Каністра",
+          "Насипний танкер"
+        ]
       },
       "soybean-oil": {
         "name": "Соєва олія",
@@ -131,7 +153,13 @@
           "shelfLife": "12 місяців",
           "origin": "Східна Європа",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Каністра",
+          "Насипний танкер"
+        ]
       },
       "frying-oil": {
         "name": "Олія для смаження",
@@ -142,7 +170,13 @@
           "shelfLife": "12 місяців",
           "origin": "Східна Європа",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Соняшникова 10L PET — €21,00",
+          "Высокоолеїнова 10L PET — €25,80",
+          "Ріпакова 10L PET",
+          "Соєва 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Майонез і кетчуп",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 місяців",
           "origin": "Східна Європа",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Майонез 30% — 1,8kg відро",
+          "Майонез 30% — 4,5kg відро",
+          "Майонез 30% — 10kg відро — €18",
+          "Майонез 67% — 1,8kg відро",
+          "Майонез 67% — 4,5kg відро — €15",
+          "Майонез 67% — 10kg відро — €30",
+          "Кетчуп Лагідний — 2kg відро",
+          "Кетчуп Лагідний — 5kg відро — €8"
+        ]
       },
       "dairy": {
         "name": "Молоко UHT",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 місяців",
           "origin": "ЄС (сертифіковані виробники)",
           "certification": "ISO 22000, HACCP, сертифіковано ЄС"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Буряковий цукор",
@@ -175,7 +222,12 @@
           "shelfLife": "24 місяці",
           "origin": "Східна Європа (Україна, Польща)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "25kg мішок",
+          "50kg мішок",
+          "1000kg біг бег"
+        ]
       }
     }
   },

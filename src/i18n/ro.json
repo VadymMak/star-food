@@ -98,7 +98,16 @@
           "shelfLife": "12-18 luni",
           "origin": "Europa de Est (Ucraina, Bulgaria)",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "0,5L PET — €1,50",
+          "1L PET — €1,80",
+          "5L PET",
+          "10L PET — €16,50",
+          "10L Canistră",
+          "20L Canistră",
+          "Cisternă vrac"
+        ]
       },
       "high-oleic": {
         "name": "Ulei de Floarea-Soarelui High-Oleic",
@@ -109,7 +118,14 @@
           "shelfLife": "18 luni",
           "origin": "Europa de Est",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET — €23,40",
+          "10L Canistră",
+          "20L Canistră",
+          "Cisternă vrac"
+        ]
       },
       "rapeseed-oil": {
         "name": "Ulei de Rapiță (Canola)",
@@ -120,7 +136,13 @@
           "shelfLife": "12-18 luni",
           "origin": "Europa de Est",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Canistră",
+          "Cisternă vrac"
+        ]
       },
       "soybean-oil": {
         "name": "Ulei de Soia",
@@ -131,7 +153,13 @@
           "shelfLife": "12 luni",
           "origin": "Europa de Est",
           "certification": "ISO 22000, HACCP, Non-GMO"
-        }
+        },
+        "packagingOptions": [
+          "5L PET",
+          "10L PET",
+          "20L Canistră",
+          "Cisternă vrac"
+        ]
       },
       "frying-oil": {
         "name": "Ulei de Prăjit",
@@ -142,7 +170,13 @@
           "shelfLife": "12 luni",
           "origin": "Europa de Est",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Floarea-soarelui 10L PET — €21,00",
+          "High-Oleic 10L PET — €25,80",
+          "Rapiță 10L PET",
+          "Soia 10L PET"
+        ]
       },
       "mayonnaise": {
         "name": "Maioneză și Ketchup",
@@ -153,7 +187,17 @@
           "shelfLife": "6-12 luni",
           "origin": "Europa de Est",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Mayo 30% — găleată 1,8kg",
+          "Mayo 30% — găleată 4,5kg",
+          "Mayo 30% — găleată 10kg — €18",
+          "Mayo 67% — găleată 1,8kg",
+          "Mayo 67% — găleată 4,5kg — €15",
+          "Mayo 67% — găleată 10kg — €30",
+          "Ketchup Lagidny — găleată 2kg",
+          "Ketchup Lagidny — găleată 5kg — €8"
+        ]
       },
       "dairy": {
         "name": "Lapte UHT",
@@ -164,7 +208,10 @@
           "shelfLife": "6-12 luni",
           "origin": "UE (producători certificați)",
           "certification": "ISO 22000, HACCP, certificat UE"
-        }
+        },
+        "packagingOptions": [
+          "1L Tetra Pak"
+        ]
       },
       "sugar": {
         "name": "Zahăr din Sfeclă",
@@ -175,7 +222,12 @@
           "shelfLife": "24 luni",
           "origin": "Europa de Est (Ucraina, Polonia)",
           "certification": "ISO 22000, HACCP"
-        }
+        },
+        "packagingOptions": [
+          "Sac 25kg",
+          "Sac 50kg",
+          "Big Bag 1000kg"
+        ]
       }
     }
   },
