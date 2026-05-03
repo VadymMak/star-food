@@ -159,7 +159,7 @@ export default function BlogPostClient({
               <div className={styles.authorBox}>
                 <div className={styles.authorImage}>
                   <Image
-                    src="/icons/logo-no-background.webp"
+                    src="/icons/logo.svg"
                     alt="UB Market Trading Team"
                     width={64}
                     height={64}
