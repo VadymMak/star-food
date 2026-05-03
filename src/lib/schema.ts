@@ -129,11 +129,6 @@ export function generateProductSchema(
       seller: {
         "@id": `${BASE_URL}/#organization`,
       },
-      priceSpecification: {
-        "@type": "PriceSpecification",
-        priceCurrency: "EUR",
-        description: "Contact for wholesale pricing",
-      },
     };
   }
 
