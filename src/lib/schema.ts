@@ -44,8 +44,15 @@ function getPriceRange(slug: string): { low: number; high: number } | null {
         ...(condiments["Ketchup"] || []),
       ];
       break;
-    // rapeseed-oil, soybean-oil, dairy-products, sugar — no prices in
-    // prices.json → returns null → offers field omitted from schema
+    case "rapeseed-oil":
+      return { low: 900, high: 1100 };
+    case "soybean-oil":
+      return { low: 950, high: 1150 };
+    case "sugar":
+      return { low: 400, high: 550 };
+    case "dairy-products":
+      return { low: 0.65, high: 0.90 };
+    // rapeseed-oil, soybean-oil, dairy-products, sugar — indicative market ranges for Schema only
   }
 
   const validPrices = entries
