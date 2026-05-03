@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__brain__get_active_project",
+      "mcp__brain__ensure_project_indexed",
+      "mcp__brain__get_project_stats",
+      "mcp__brain__hybrid_search_files",
+      "mcp__brain__list_canon_items",
+      "mcp__brain__get_developer_patterns"
+    ]
+  }
+}
