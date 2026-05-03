@@ -102,7 +102,7 @@
       },
       "high-oleic": {
         "name": "Yüksek Oleik Ayçiçek Yağı",
-        "description": "RBDW yüksek oleik ayçiçek yağı. PET şişeler 5–10L, plastik bidonlar 10–20L ve dökme tanker.",
+        "description": "UB Market LTD tarafından tedarik edilen yüksek oleik ayçiçek yağı RBDW toptan — Avrupa genelinde gıda üreticileri, HoReCa ve sağlıklı ürün hatları için premium kalite. Oleik asit içeriği %80+, üstün ısı kararlılığı. Gösterge fiyat: 10L şişe başına €23,40. PET şişe 5L ve 10L, bidon 10–20L, tanker. ISO 22000, HACCP, Non-GMO sertifikalı. AB içinde 5–10 iş günü DAP kamyon teslimatı. 12+ Avrupa ülkesi.",
         "specs": {
           "volume": "5L, 10L PET / 10L, 20L bidon / Dökme tanker",
           "packaging": "PET şişeler, plastik bidonlar, dökme tankerler",
@@ -135,7 +135,7 @@
       },
       "frying-oil": {
         "name": "Kızartma Yağı",
-        "description": "HoReCa ve endüstriyel kullanım için yüksek kararlılıklı kızartma yağları. Ayçiçek, yüksek oleik, kolza ve soya çeşitleri.",
+        "description": "UB Market LTD tarafından tedarik edilen profesyonel kızartma yağı toptan — Avrupa genelinde HoReCa, gıda üreticileri ve endüstriyel kızartma için ayçiçek, yüksek oleik, kanola ve soya çeşitleri. Gösterge fiyatlar: ayçiçek €21,00/10L, yüksek oleik €25,80/10L. Yüksek duman noktası, uzun kızartma ömrü. PET şişe 10L. ISO 22000 ve HACCP. AB içinde 5–10 iş günü DAP kamyon teslimatı. 12+ Avrupa ülkesi.",
         "specs": {
           "volume": "10L PET",
           "packaging": "PET şişeler",
@@ -146,7 +146,7 @@
       },
       "mayonnaise": {
         "name": "Mayonez ve Ketçap",
-        "description": "Mayonez sosu %30 ve %67 yağ. Lagidny ketçap. Gıda hizmetleri için 1,8–10 kg plastik kovalar.",
+        "description": "UB Market LTD'den toptan mayonez ve ketçap — Avrupa genelinde HoReCa, catering ve gıda distribütörleri için. Mayonez %30 yağ (€18/10kg) ve %67 yağ (€15/4,5kg, €30/10kg). Lagidny ketçap €8/5kg. Plastik kova 1,8kg, 4,5kg ve 10kg. ISO 22000 ve HACCP. AB içinde 5–10 iş günü DAP kamyon teslimatı. 12+ Avrupa ülkesi.",
         "specs": {
           "volume": "1,8kg, 4,5kg, 10kg kovalar",
           "packaging": "Plastik kovalar",
@@ -157,7 +157,7 @@
       },
       "dairy": {
         "name": "UHT Süt",
-        "description": "Tetra Pak 1L'de UHT uzun ömürlü süt. Raf kararlı, Avrupa genelinde B2B toptan satışa uygun.",
+        "description": "UB Market LTD tarafından tedarik edilen uzun ömürlü UHT süt toptan — Avrupa genelinde gıda distribütörleri, perakende zincirleri ve B2B alıcıları için Tetra Pak 1L. Gösterge fiyat: €0,65–0,90/litre. Soğutma gerektirmeksizin 6–12 ay raf ömrü. ISO 22000 ve HACCP. AB içinde 5–10 iş günü DAP kamyon teslimatı. 12+ Avrupa ülkesi.",
         "specs": {
           "volume": "1L Tetra Pak",
           "packaging": "Tetra Pak kartonlar",
