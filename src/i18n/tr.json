@@ -576,19 +576,23 @@
       "sunflower-oil": [
         {
           "q": "Toptan ayçiçek yağı için minimum sipariş miktarı nedir?",
-          "a": "Dökme teslimat için minimum sipariş miktarı 1 MT (metrik ton) dır. 0,5L–10L şişeli formatlar 1 palet ten başlamaktadır. Tanker ve IBC için hacme dayalı fiyatlandırma amacıyla bizimle iletişime geçin."
+          "a": "Dökme teslimat için minimum sipariş 1 MT'dir. Şişelenmiş formatlar (PET 0,5L–10L) 1 paletden başlar. AB içi standart teslimat: karayoluyla 5–10 iş günü, AB içinde gümrük işlemi gerekmez."
         },
         {
-          "q": "Sertifikalı Non-GMO ayçiçek yağı tedarik ediyor musunuz?",
-          "a": "Evet. Ayçiçek yağımız Non-GMO, ISO 22000 ve HACCP sertifikalıdır. LLC \"Green Light\" (Ukrayna) tarafından düzenlenen kalite sertifikası bu sayfadan PDF olarak indirilebilir."
+          "q": "Avrupa'da toptan ayçiçek yağının güncel fiyatları nedir?",
+          "a": "Rafine RBDW, Q2 2026'da FOB Karadeniz'de $1.100–1.250/ton seviyesinde işlem görüyor. IMF referans değeri Nisan 2026'da ~$1.739/MT'ye ulaştı. Son fiyat hacim, ambalaj ve teslimat koşuluna bağlıdır. Güncel fiyat için teklif isteyin."
+        },
+        {
+          "q": "Toptan ayçiçek yağını Avrupa genelinde nasıl teslim ediyorsunuz?",
+          "a": "Öncelikle karayolu ile kamyon kullanıyoruz — AB içinde en hızlı ve ekonomik yöntem. AB üye devletleri arasında gümrük durağı yok. Varna'dan tipik transit süreler: İstanbul 5–6s, Ankara 10–12s, Münih 14s, Varşova 18–19s. Büyük hacimler için Karadeniz limanları üzerinden deniz taşımacılığı mevcut."
         },
         {
           "q": "Toptan ayçiçek yağını hangi ülkelere teslim ediyorsunuz?",
-          "a": "Almanya, Romanya, Türkiye, Bulgaristan, Yunanistan dahil 12 den fazla AB ve AB dışı ülkeye teslimat yapıyoruz. DAP, CIF ve FOB teslimat koşulları mevcuttur."
+          "a": "AB ve AB dışı 12+ ülkeye teslimat yapıyoruz: Almanya, Romanya, Türkiye, Bulgaristan, Yunanistan, Polonya, Çek Cumhuriyeti ve daha fazlası. Mevcut koşullar: kamyonla DAP, CIF ve FOB."
         },
         {
-          "q": "Ayçiçek yağı için hangi ambalaj formatları mevcuttur?",
-          "a": "0,5L, 1L, 5L ve 10L PET şişeler, 10L ve 20L plastik bidonlar, IBC konteynerler ve büyük hacimli siparişler için tanker teslimatı sunuyoruz."
+          "q": "Hangi sertifikalar ve ambalaj formatları mevcuttur?",
+          "a": "ISO 22000 ve HACCP sertifikalı. Non-GMO. Her sevkiyat için Analiz Sertifikası (CoA). Ambalajlar: PET şişe 0,5L, 1L, 5L, 10L; plastik bidon 10L ve 20L; IBC konteyner; büyük hacimler için dökme tanker."
         }
       ]
     }

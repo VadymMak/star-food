@@ -575,20 +575,24 @@
     "items": {
       "sunflower-oil": [
         {
-          "q": "Care este cantitatea minimă de comandă pentru ulei de floarea soarelui en gros?",
-          "a": "Cantitatea minimă este de 1 MT (tonă metrică) pentru livrări în vrac. Formatele îmbuteliate (0,5L–10L) încep de la 1 palet. Pentru IBC și cisterne, contactați-ne pentru prețuri bazate pe volum."
+          "q": "Care este comanda minimă pentru ulei de floarea-soarelui en-gros?",
+          "a": "Comanda minimă este 1 MT pentru livrare vrac. Formatele îmbuteliate (PET 0,5L–10L) încep de la 1 paletă. Livrare standard în UE: 5–10 zile lucrătoare cu camionul, fără vămuire în interiorul UE."
         },
         {
-          "q": "Furnizați ulei de floarea soarelui certificat Non-GMO?",
-          "a": "Da. Uleiul nostru de floarea soarelui este certificat Non-GMO, ISO 22000 și HACCP. Un certificat de calitate emis de SRL \"Green Light\" (Ucraina) este disponibil pentru descărcare pe această pagină."
+          "q": "Care sunt prețurile curente en-gros pentru uleiul de floarea-soarelui în Europa?",
+          "a": "RBDW rafinat se tranzacționează la $1.100–1.250/tonă FOB Marea Neagră în Q2 2026. Referința IMF a atins ~$1.739/MT în aprilie 2026. Prețul final depinde de volum, ambalare și termen de livrare. Solicitați o ofertă pentru prețuri actuale."
         },
         {
-          "q": "În ce țări livrați ulei de floarea soarelui en gros?",
-          "a": "Livrăm în 12+ țări UE și non-UE, inclusiv Germania, România, Turcia, Bulgaria, Grecia și altele. Condiții de livrare DAP, CIF și FOB disponibile."
+          "q": "Cum livrați uleiul de floarea-soarelui en-gros în Europa?",
+          "a": "Livrăm în principal cu camionul — metoda cea mai rapidă și rentabilă în UE. Fără opriri vamale între statele membre UE. Timpi de tranzit tipici din Varna: București 4–5h, Atena 8–9h, München 14h, Varșovia 18–19h. Transport maritim disponibil pentru volume mari."
         },
         {
-          "q": "Ce formate de ambalare sunt disponibile pentru uleiul de floarea soarelui?",
-          "a": "Oferim sticle PET de 0,5L, 1L, 5L și 10L, bidoane de plastic de 10L și 20L, containere IBC și livrare cu cisternă pentru comenzi de volum mare."
+          "q": "În ce țări livrați ulei de floarea-soarelui en-gros?",
+          "a": "Livrăm în 12+ țări UE și non-UE, inclusiv Germania, România, Turcia, Bulgaria, Grecia, Polonia, Republica Cehă și altele. Termeni disponibili: DAP cu camionul, CIF și FOB."
+        },
+        {
+          "q": "Ce certificări și formate de ambalare sunt disponibile?",
+          "a": "Certificat ISO 22000 și HACCP. Non-GMO. Certificat de Analiză (CoA) per livrare. Ambalaje: sticle PET 0,5L, 1L, 5L, 10L; canistre plastic 10L și 20L; containere IBC; cisternă vrac pentru volume mari."
         }
       ]
     }

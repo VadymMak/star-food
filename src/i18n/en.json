@@ -576,19 +576,23 @@
       "sunflower-oil": [
         {
           "q": "What is the minimum order for wholesale sunflower oil?",
-          "a": "The minimum order is 1 MT (metric ton) for bulk supply. Bottled formats (0.5L–10L) start from 1 pallet. For IBC or tanker orders, contact us for volume-based pricing."
+          "a": "Minimum order is 1 MT for bulk supply. Bottled formats (0.5L–10L PET) start from 1 pallet. Standard delivery within EU: 5–10 business days by road truck, no customs clearance required within the EU."
         },
         {
-          "q": "Do you supply certified non-GMO sunflower oil?",
-          "a": "Yes. Our sunflower oil is certified Non-GMO, ISO 22000, and HACCP compliant. A Certificate of Quality issued by LLC \"Green Light\" (Ukraine) is available for download on this page."
+          "q": "What are the current wholesale sunflower oil prices in Europe?",
+          "a": "Refined RBDW trades at $1,100–1,250/ton FOB Black Sea in Q2 2026. The IMF Primary Commodity Price Index benchmark reached ~$1,739/MT in April 2026. Final price depends on volume, packaging, and delivery term. Request a quote for current pricing."
+        },
+        {
+          "q": "How do you deliver wholesale sunflower oil across Europe?",
+          "a": "We deliver primarily by road truck — the fastest and most cost-effective method within the EU. No customs stops between EU member states. Typical transit times: Bucharest 4–5h, Athens 8–9h, Munich 14h, Warsaw 18–19h from our Varna base. Sea freight via Black Sea ports available for large volumes."
         },
         {
           "q": "What countries do you deliver wholesale sunflower oil to?",
-          "a": "We supply to 12+ EU and non-EU countries including Germany, Romania, Turkey, Bulgaria, Greece, and beyond. DAP, CIF, and FOB delivery terms available."
+          "a": "We supply to 12+ EU and non-EU countries including Germany, Romania, Turkey, Bulgaria, Greece, Poland, Czech Republic, and beyond. DAP truck delivery, CIF, and FOB terms available."
         },
         {
-          "q": "What packaging formats are available for sunflower oil?",
-          "a": "We offer 0.5L, 1L, 5L, and 10L PET bottles, 10L and 20L plastic canisters, IBC containers, and bulk tanker delivery for large-volume orders."
+          "q": "What certifications and packaging formats are available?",
+          "a": "ISO 22000 and HACCP certified. Non-GMO. Certificate of Analysis (CoA) provided per shipment. Packaging: 0.5L, 1L, 5L, 10L PET bottles; 10L and 20L plastic canisters; IBC containers; bulk tanker for large-volume orders."
         }
       ]
     }
