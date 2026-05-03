@@ -142,6 +142,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
       itemListElement: [
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Sunflower Oil",
@@ -153,6 +156,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "High-Oleic Sunflower Oil",
@@ -164,6 +170,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Rapeseed Oil (Canola)",
@@ -175,6 +184,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Soybean Oil",
@@ -186,6 +198,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Deep-Frying Oil",
@@ -197,6 +212,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Mayonnaise and Ketchup",
@@ -208,6 +226,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Milk UHT",
@@ -219,6 +240,9 @@ export default function SchemaOrg({ locale }: { locale: string }) {
         },
         {
           "@type": "Offer",
+          availability: "https://schema.org/InStock",
+          seller: { "@id": "https://ub-market.com/#organization" },
+          businessFunction: "https://purl.org/goodrelations/v1#Sell",
           itemOffered: {
             "@type": "Product",
             name: "Beet Sugar",
