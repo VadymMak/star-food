@@ -42,6 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${post.title} | UB Market`,
     description: post.description,
+    keywords: post.tags ?? [],
     openGraph: {
       title: post.title,
       description: post.description,

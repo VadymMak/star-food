@@ -17,6 +17,7 @@ export interface BlogPostMeta {
   image: string;
   ogImage: string;
   readingTime: number;
+  tags?: string[];
 }
 
 export interface BlogPost extends BlogPostMeta {
@@ -101,6 +102,7 @@ function getPostMeta(slug: string, locale: string): BlogPostMeta | null {
     image: data.image || "",
     ogImage: data.ogImage || data.image || "",
     readingTime: data.readingTime || 5,
+    tags: Array.isArray(data.tags) ? data.tags : [],
   };
 }
 
