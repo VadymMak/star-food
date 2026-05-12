@@ -93,6 +93,7 @@ export default function SchemaOrg({ locale }: { locale: string }) {
       "https://papagal.bg/eik/207067808/3830",
       "https://ensun.io/company/u-b-market-ltd-69f447f68657b15bb2dc7345",
       "https://app.usetorg.com/supplier-profile/u-b-market-ltd",
+      "https://brra.bg/GetActorInfo.do?EIK=207067808",
     ],
 
     knowsAbout: [
