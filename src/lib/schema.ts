@@ -94,6 +94,29 @@ export function generateProductSchema(
       "@id": `${BASE_URL}/#organization`,
     },
     category: "Food & Beverages",
+    hasCertification: [
+      {
+        "@type": "Certification",
+        name: "ISO 22000",
+        issuedBy: {
+          "@type": "Organization",
+          name: "International Organization for Standardization",
+          sameAs: "https://www.wikidata.org/wiki/Q18288",
+        },
+      },
+      {
+        "@type": "Certification",
+        name: "HACCP",
+        issuedBy: {
+          "@type": "Organization",
+          name: "Food Safety Certification Body",
+        },
+      },
+      {
+        "@type": "Certification",
+        name: "Non-GMO",
+      },
+    ],
   };
 
   if (priceRange) {
@@ -109,6 +132,26 @@ export function generateProductSchema(
         seller: {
           "@id": `${BASE_URL}/#organization`,
         },
+        deliveryLeadTime: {
+          "@type": "QuantitativeValue",
+          minValue: 5,
+          maxValue: 10,
+          unitCode: "DAY",
+        },
+        eligibleQuantity: {
+          "@type": "QuantitativeValue",
+          minValue: 1,
+          unitCode: "TNE",
+          unitText: "metric ton",
+        },
+        eligibleRegion: {
+          "@type": "Place",
+          name: "European Union",
+        },
+        areaServed: {
+          "@type": "Place",
+          name: "European Union",
+        },
       };
     } else {
       // Price range (e.g. sunflower-oil: €1.50 – €16.50)
@@ -123,6 +166,26 @@ export function generateProductSchema(
         offerCount: 1,
         seller: {
           "@id": `${BASE_URL}/#organization`,
+        },
+        deliveryLeadTime: {
+          "@type": "QuantitativeValue",
+          minValue: 5,
+          maxValue: 10,
+          unitCode: "DAY",
+        },
+        eligibleQuantity: {
+          "@type": "QuantitativeValue",
+          minValue: 1,
+          unitCode: "TNE",
+          unitText: "metric ton",
+        },
+        eligibleRegion: {
+          "@type": "Place",
+          name: "European Union",
+        },
+        areaServed: {
+          "@type": "Place",
+          name: "European Union",
         },
       };
     }
