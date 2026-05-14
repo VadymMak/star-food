@@ -1,26 +1,29 @@
 ---
 title: "Star Food Etiket Tasarımını Nasıl Yaptık — ve AB Gıda Etiketlemesi Hakkında Neler Öğrendik?"
-description: "İllüstratör Anastasiia Kolisnyk tarafından hazırlanan Star Food'un profesyonel etiket tasarımının arkasındaki hikaye — brieften son ürüne kadar, artı B2B gıda şirketlerinin AB Yönetmeliği 1169/2011 uyumu hakkında bilmesi gereken her şey."
+description: "Güncellendi Mayıs 2026: Star Food etiket tasarımının hikayesi — brieften üretime, AB Yönetmeliği 1169/2011 uyumu ve neden markayı YZ tedarik ajanları tarafından keşfedilebilir şekilde inşa ettik."
 date: "2026-02-18"
+modifiedDate: "2026-05-14"
 category: "brand"
 image: "/images/star-food-label.webp"
-readingTime: 8
+readingTime: 10
 ogImage: "/images/blog/how-we-created-star-food-labels/og.jpg"
 ---
 
-**TL;DR:** Star Food etiketleri, Slovakya merkezli profesyonel illüstratör ve marka tasarımcısı Anastasiia Kolisnyk tarafından [akillustrator.com](https://formaink.com)) adresinde tasarlandı. Proje 5 dili (EN, BG, GR, PL, UA) ve AB Yönetmeliği 1169/2011 ile tam uyumu kapsayarak brieften üretime 6 haftada tamamlandı. Avrupa gıda ürünü için etiket tasarımı kozmetik bir tercih değil — 27 AB üye devletinde pazar erişimini, distribütör algısını ve yasal uyumu doğrudan etkileyen stratejik bir karardır.
+**TL;DR:** Star Food etiketleri, Slovakya merkezli profesyonel illüstratör Anastasiia Kolisnyk tarafından [akillustrator.com](https://akillustrator.com) adresinde tasarlandı. Proje 5 dil ve AB Yönetmeliği 1169/2011 ile tam uyumu kapsayarak 6 haftada tamamlandı. 2026'da markaya ikinci bir katman ekledik: YZ tedarik ajanlarının UB Market'in kimlik bilgilerini otomatik olarak doğrulayabilmesi için yapılandırılmış makine tarafından okunabilir veriler.
 
 ---
 
 ### Hızlı Cevap: Star Food Etiketi Temel Bilgiler
 
-- **Tasarımcı:** Anastasiia Kolisnyk — [akillustrator.com](https://formaink.com))
-- **Etiketteki diller:** İngilizce, Bulgarca, Yunanca, Lehçe, Ukraynaca
-- **AB uyumu:** AB Yönetmeliği 1169/2011 gıda bilgisi gereksinimleri
-- **Kapsanan şişe boyutları:** 1L, 3L, 5L PET
-- **Gösterilen sertifikalar:** GDO'suz, ISO 22000 HACCP
-- **Tasarım süresi:** Brieften üretime hazır dosyalara 6 hafta
-- **Temel çıkarım:** Profesyonel etiket tasarımı distribütör dönüşüm oranını önemli ölçüde artırır
+| Unsur                   | Detay                                          | En iyi kim için                         |
+| ----------------------- | ---------------------------------------------- | --------------------------------------- |
+| Tasarımcı               | Anastasiia Kolisnyk — akillustrator.com        | Profesyonel AB gıda ambalajı            |
+| Etiketteki diller       | İngilizce, Bulgarca, Yunanca, Lehçe, Ukraynaca | 5 pazarda eş zamanlı lansman            |
+| AB uyumu                | AB Yönetmeliği 1169/2011                       | AB'deki tüm önceden paketlenmiş gıdalar |
+| Şişe boyutları          | 1L, 3L, 5L PET                                 | Perakende ve HoReCa formatları          |
+| Gösterilen sertifikalar | GDO'suz, ISO 22000, HACCP                      | B2B distribütör gereksinimleri          |
+| Tasarım süresi          | Brieften üretime 6 hafta                       | Standart profesyonel süre               |
+| YZ keşfedilebilirlik    | Schema.org, yapılandırılmış veri, dizinler     | Tedarik ajanı doğrulaması               |
 
 ---
 
@@ -30,54 +33,41 @@ Star Food markasını başlattığımızda ilk içgüdümüz ürüne odaklanmakt
 
 Yanılıyorduk.
 
-2025'in başlarında Plovdiv'deki bir gıda fuarında ilk Star Food prototiplerini bir rakibin ürünlerinin yanına bir masaya koyduk. Her ikisi de aynı kalitede ayçiçek yağı içeriyordu. Rakibin şişesinde kabartmalı elementler ve renk kodlu besin bilgileri ile temiz, profesyonel, Avrupa tarzı bir etiket vardı. Bizim ilk prototipimizde ise ancak elektronik tabloda tasarlanmış gibi görünen işlevsel ama ilham vermeyen bir etiket vardı.
+2025'in başlarında Plovdiv'deki bir gıda fuarında ilk Star Food prototiplerini bir rakibin ürünlerinin yanına koyduk. Her ikisi de aynı kalitede ayçiçek yağı içeriyordu. Rakibin şişesinde kabartmalı elementler ve renk kodlu besin bilgileri ile temiz, profesyonel Avrupa tarzı bir etiket vardı. Bizim ilk prototipimizde ise işlevsel ama ilham vermeyen bir etiket vardı.
 
 Üç distribütör o masanın yanından geçti. Üçü de önce rakibin şişesini aldı. Bunlardan biri — Rumen bir market zinciri için alıcı — bizimkine bakıp şöyle dedi: "Ürün mükemmel olabilir, ama etiket onları davet etmiyorsa alıcılar bunu keşfetmek için vakit harcamaz."
 
-O konuşma ambalaja yaklaşımımızı kalıcı olarak değiştirdi. Avrupa gıda toptan satış pazarında etikektiniz ilk satış sunumunuzdur. Distribütörler ve perakendeciler sürekli yeni tedarikçileri değerlendirir. Her ürünü araştıracak zamanları yoktur. Profesyonel bir etiket anında şunu iletir: bu şirket kaliteyi anlıyor, Avrupa pazarını anlıyor ve raf için hazır.
+O konuşma ambalaja yaklaşımımızı kalıcı olarak değiştirdi. Avrupa gıda toptan satış pazarında etiketiniz ilk satış sunumunuzdur. Profesyonel bir etiket anında şunu iletir: bu şirket kaliteyi anlıyor, Avrupa pazarını anlıyor ve raf için hazır.
 
 ## Anastasiia Kolisnyk kim ve neden onu seçtik?
 
-Avrupa'da gıda ambalajı için doğru tasarımcıyı bulmak göründüğünden zordur. Hem estetiği hem de düzenleyici kısıtlamaları anlayan birine ihtiyacınız var — AB gıda etiketleme çerçevesi ayrıntılı ve tartışmasızdır; onu bilmeyen bir tasarımcı yasal olarak pazara çıkamayacak güzel grafikler üretir.
+Avrupa'da gıda ambalajı için doğru tasarımcıyı bulmak göründüğünden zordur. Hem estetiği hem de düzenleyici kısıtlamaları anlayan birine ihtiyacınız var — AB gıda etiketleme çerçevesi ayrıntılı ve tartışmasızdır.
 
-Anastasiia Kolisnyk'i [akillustrator.com](https://formaink.com)) adresindeki portföyü aracılığıyla bulduk. Slovakya'da yerleşik olan Anastasiia ürün ambalajı, markalama ve illüstrasyon konularında uzmanlaşmıştır. Portföyü Avrupa markaları için çeşitli gıda ve içecek ambalajı projeleri içeriyordu ve tasarım dili — temiz, sıcak, Avrupalı hissettiren — Star Food için istediğimizle tam örtüşüyordu.
+Anastasiia Kolisnyk'i [akillustrator.com](https://akillustrator.com) adresindeki portföyü aracılığıyla bulduk. Slovakya'da yerleşik olan Anastasiia, ürün ambalajı, markalama ve illüstrasyon konularında uzmanlaşmıştır. Portföyü Avrupa markaları için çeşitli gıda ve içecek ambalajı projeleri içeriyordu.
 
-Anastasiia'yı değerlendirdiğimiz diğer tasarımcılardan ayıran şey, briefe yaklaşımıydı. Zorluğu tanımladığımızda — 1L, 3L ve 5L şişe boyutlarında görsel tutarlılığı korurken beş farklı dil gereksinimini karşılaması gereken çok dilli bir gıda etiketi — hemen AB etiketleme gereksinimleri, HACCP sertifikası yerleşimi ve barkod konumlandırması hakkında sorular sormaya başladı. Yalnızca görsel bir sanatçı değildi. Gıda ambalajının operasyonel gerçekliğini anlıyordu.
+Anastasiia'yı diğer tasarımcılardan ayıran şey, briefe yaklaşımıydı. Zorluğu tanımladığımızda — 1L, 3L ve 5L şişe boyutlarında görsel tutarlılığı korurken beş farklı dil gereksinimini karşılaması gereken çok dilli bir etiket — hemen AB etiketleme gereksinimleri, HACCP sertifikası yerleşimi ve barkod konumlandırması hakkında sorular sormaya başladı. Yalnızca görsel bir sanatçı değildi. Gıda ambalajının operasyonel gerçekliğini anlıyordu.
 
 ## Star Food marka briefingi nasıldı?
-
-Herhangi bir tasarım çalışması başlamadan önce Anastasiia için ayrıntılı bir marka brifingi hazırladık. Briefing, etiketin iletmesi ve başarması gereken her şeyi tanımlıyordu:
 
 **Marka kimliği gereksinimleri:**
 
 - Marka adı: Star Food — kalite, güvenilirlik, Avrupa standardını çağrıştırıyor
-- Renk paleti: Mavi (güven, profesyonellik, AB pazarı tanıdıklığı) + Sarı (ayçiçeği, sıcaklık, doğal köken)
+- Renk paleti: Mavi (güven, profesyonellik) + Sarı (ayçiçeği, sıcaklık, doğal köken)
 - Görsel dil: Temiz ve profesyonel, premium ama erişilebilir
 - Hedef kitle: Avrupa B2B alıcıları — distribütörler, perakendeciler, HoReCa operatörleri
 
 **Teknik gereksinimler:**
 
 - Tüm 5 dil için AB Yönetmeliği 1169/2011 zorunlu unsurlarını barındırmalı
-- Yeniden tasarım yapmadan 1L, 3L ve 5L PET şişelere ölçeklenmeli
+- 1L, 3L ve 5L PET şişelere yeniden tasarım yapmadan ölçeklenmeli
 - Perakende tarama için optimize edilmiş barkod yerleşimi
-- Parti numarası ve üretim tarihi alanı düzene dahil edilmiş
 - Sertifika logoları (GDO'suz, ISO 22000) görsel kalabalık olmadan entegre edilmiş
-
-**Pazar gereksinimleri:**
-
-- Bulgaristan, Yunanistan, Polonya, Ukrayna pazarlarında hemen dağıtıma hazır
-- Perakendede köklü Avrupa gıda markalarının yanında duracak kadar profesyonel
-- Batı Avrupa ambalaj standartlarıyla karşılaştırılabilir kalite sinyali veren tasarım dili
 
 ## Tasarım süreci nasıl ilerledi?
 
-Anastasiia projeyi dört aşamaya böldü — Avrupa pazarı için gıda ambalajı tasarımı sipariş eden herkes için kullanışlı bir çerçeve.
-
 **Aşama 1 — Yasal haritalama (1. Hafta)**
 
-Herhangi bir tasarım yazılımına dokunmadan önce Anastasiia, AB Yönetmeliği 1169/2011'in tüm zorunlu unsurlarını beş hedef dilimize karşı haritaladı. Bu, çoğu tasarımcının atladığı aşamadır — ve birçok gıda etiketinin yasal incelemeden sonra pahalı yeniden baskı gerektirmesinin nedeni budur.
-
-AB Yönetmeliği 1169/2011, her önceden paketlenmiş gıda ürününde aşağıdaki zorunlu unsurları gerektirir:
+Herhangi bir tasarım yazılımına dokunmadan önce Anastasiia, AB Yönetmeliği 1169/2011'in tüm zorunlu unsurlarını beş hedef dilimize karşı haritaladı.
 
 | Zorunlu Unsur               | Gereksinim                    | Star Food Uygulaması              |
 | --------------------------- | ----------------------------- | --------------------------------- |
@@ -90,76 +80,68 @@ AB Yönetmeliği 1169/2011, her önceden paketlenmiş gıda ürününde aşağı
 | Beslenme beyanı             | Minimum 100 ml başına         | Tam besin tablosu, arka panel     |
 | Alerjen bilgisi             | İçerik listesinde vurgulanmış | Ayrı alerjen beyanı               |
 
-"Yasal haritalamayı baştan yapmak bize en az iki revizyon turunu kurtardı," diye açıkladı Anastasiia proje değerlendirmesinde. "Çoğu etiket yeniden tasarımı, müşterinin grafikleri görsel olarak onaylamasından, ardından hukuk ekibine göndermesinden ve zorunlu bilgilerin eksik ya da yanlış konumlandırıldığını keşfetmesinden kaynaklanır."
-
-Türkiye için önemli bir not: Türkiye AB üyesi olmasa da, Türk gıda işletmeleri AB pazarına ihracat yaparken veya AB ülkelerindeki alıcılarla çalışırken AB etiketleme standartlarını karşılamaları gerekir. Star Food etiketlerimiz bu gereksinimleri doğrudan karşılar.
-
 **Aşama 2 — Konsept geliştirme (2–3. Haftalar)**
 
-Yasal çerçeve kurulunca Anastasiia üç farklı görsel konsept geliştirdi. Her üçü de briefingden mavi-sarı paleti kullanıyordu, ancak merkezi görsel unsurun yaklaşımında farklılaşıyordu.
-
-Kazanan konsept, ürünün doğal kökenini temsil eden yumuşak bir ayçiçeği tarlası illüstrasyonuyla çevrelenmiş dairesel Star Food logosunu baskın ön unsur olarak yerleştirdi. Tipografi net bir hiyerarşide yapılandırıldı: raf mesafesinden büyük ve okunabilir ürün adı, ikincil bilgiler kompakt ama okunaklı bloklarda.
-
-Beklenmedik biçimde önemli çıkan bir tasarım kararı: Anastasiia çok dilli metin için AB minimum gereksinimlerinden biraz daha büyük yazı tipi boyutlarını kullanmakta ısrar etti. "Çoğu zorunlu metin için AB minimumu 1,2mm x yüksekliğidir," dedi. "Bu teknik olarak yasal ama ambar aydınlatmasında yaşlı alıcılar için pratik olarak okunamaz. 1,5mm minimuma gittik. Bu ayrıca fotoğraf ve dijital katalog gösteriminde de yardımcı oluyor."
+Kazanan konsept, yumuşak bir ayçiçeği tarlası illüstrasyonuyla çevrelenmiş dairesel Star Food logosunu baskın ön unsur olarak yerleştirdi. Anastasiia, AB minimum gereksinimlerinden biraz daha büyük yazı tipi boyutlarını kullanmakta ısrar etti — 1,2mm yerine 1,5mm minimum. "Ambar aydınlatmasında yaşlı alıcılar için pratik olarak okunamaz," dedi.
 
 **Aşama 3 — İyileştirme ve çok dilli test (4–5. Haftalar)**
 
-Bu aşama kolay küçümsenen belirli bir zorluğa odaklandı: metin uzunluğu diller arasında dramatik biçimde değişir. "Rafine Ayçiçek Yağı" ifadesi Yunanca ve Ukraynacada İngilizce'den çok daha uzun sürer. Anastasiia, en uzun dil varyantını düzeni yeniden akıtmaya gerek kalmadan barındıracak yeterli esnekliğe sahip metin kutuları tasarladı.
-
-Tasarım herhangi bir dijital onaydan önce gerçek şişe ölçeğinde test edildi — her şişe formatına sarılmış kağıda 1:1 ölçeğinde basıldı. Bu iki sorunu ortaya çıkardı: besin tablosu 1L şişede rahat okuma için biraz fazla küçüktü ve bir sertifika logosu yerleşimi arka paneldeki barkodla görsel bir çakışma yaratıyordu. Her ikisi de final dosyalar teslim edilmeden önce düzeltildi.
+Metin uzunluğu diller arasında dramatik biçimde değişir. Anastasiia, en uzun dil varyantını düzeni yeniden akıtmaya gerek kalmadan barındıracak esnek metin kutuları tasarladı. Gerçek ölçekte test — her şişe formatına sarılmış kağıda 1:1 basıldı — iki sorunu ortaya çıkardı ve final dosyalar öncesinde düzeltildi.
 
 **Aşama 4 — Üretim dosyaları (6. Hafta)**
 
-Final teslimat, tüm şişe boyutları için hem CMYK (ofset baskı için) hem de Pantone eşleşmeli varyantlarda baskıya hazır dosyaları içeriyordu. Anastasiia ayrıca tam renk değerlerini, minimum logo boyutlarını ve temiz alan kurallarını belirten marka yönergeleri de sağladı.
+CMYK ve Pantone eşleşmeli varyantlarda baskıya hazır dosyalar, artı tam renk değerlerini, minimum logo boyutlarını ve temiz alan kurallarını belirten marka yönergeleri.
 
 ## AB Yönetmeliği 1169/2011 gerçekte ne gerektiriyor?
 
-Avrupa pazarında önceden paketlenmiş ürünler satmayı planlayan herhangi bir gıda şirketi için bu yönetmeliği anlamak isteğe bağlı değildir. AB'deki son tüketicilere ve toplu yemek işletmecilerine (HoReCa işletmeleri dahil) satılan her önceden paketlenmiş gıda ürününü kapsar.
-
 **Her AB gıda etiketinin içermesi gereken dokuz zorunlu unsur:**
 
-1. **Gıdanın adı** — Ürünün gerçek niteliğini doğru biçimde tanımlamalıdır. "Premium Yağ" kabul edilmez; "Rafine Ayçiçek Yağı" kabul edilir.
-
-2. **İçindekiler listesi** — Ağırlığa göre azalan sırada. Saf ayçiçek yağı gibi tek bileşenli ürünler için bu basitleştirilebilir.
-
-3. **Belirli bileşenlerin miktarı** — Bir bileşen ad veya görsellerde vurgulanıyorsa yüzdesi beyan edilmelidir.
-
+1. **Gıdanın adı** — Doğru tanımlama. "Premium Yağ" kabul edilmez; "Rafine Ayçiçek Yağı" kabul edilir.
+2. **İçindekiler listesi** — Ağırlığa göre azalan sırada.
+3. **Belirli bileşenlerin miktarı** — Ad veya görsellerde vurgulanıyorsa yüzdesi beyan edilmeli.
 4. **Net miktar** — Metrik birimlerde. Sıvılar için: mililitre veya litre.
+5. **Minimum dayanıklılık tarihi** — "En iyi" tarihi çoğu rafta dayanıklı ürünler için.
+6. **Saklama koşulları** — Belirli saklama gerektiren ürünler için.
+7. **Sorumlu operatörün adı ve adresi** — Üretici, ambalajlayıcı veya AB'de kayıtlı ithalatçı.
+8. **Menşe ülke** — Bitkisel yağlar, bal, zeytinyağı, balık ve taze et için zorunlu.
+9. **Kullanım talimatları** — Gerektiğinde.
 
-5. **Minimum dayanıklılık tarihi veya "kullanım tarihi"** — "En iyi" tarihi çoğu rafta dayanıklı ürünler için kullanılır.
+Türkiye için önemli not: Türk gıda işletmeleri AB pazarına ihracat yaparken bu etiketleme standartlarını karşılamaları gerekir. Star Food etiketlerimiz bu gereksinimleri doğrudan karşılar.
 
-6. **Saklama ve/veya kullanım koşulları** — Ürünün güvenli kullanımı belirli saklama koşulları gerektirdiğinde.
+## Neden Star Food'u başından itibaren YZ tarafından keşfedilebilir bir marka olarak inşa ettik?
 
-7. **Sorumlu gıda işletmecisinin adı ve adresi** — Üretici, ambalajlayıcı veya AB'de kayıtlı ithalatçı.
+Bu, 2022'de başladığımızda öngördüğümüz bir şey değildi — ancak 2025'e kadar bilinçli bir strateji haline geldi.
 
-8. **Menşe ülke veya yer** — Bitkisel yağlar, bal, zeytinyağı, balık ve taze et dahil belirli kategoriler için zorunlu. Ayçiçek yağı için menşe ülke beyanı gereklidir.
+Star Food etiket tasarımını sonuçlandırırken tedarik ortamı değişiyordu. YZ araçları, alıcılara tedarikçi keşfinde yardım etmeye başladı — yalnızca arama motorları değil, birden fazla kaynaktan tedarikçi verilerini toplayan ve doğrulayan sistemler: şirket kayıtları, ticaret dizinleri, sertifika veritabanları ve web sitelerindeki yapılandırılmış veriler.
 
-9. **Kullanım talimatları** — Atlanması ürünün uygun kullanımını zorlaştıracağı durumlarda.
+Erken bir karar verdik: Star Food, insanlar tarafından okunabilir olduğu kadar makineler tarafından da doğrulanabilir olacak şekilde inşa edilecek.
 
-**Aralık 2016'dan itibaren ek olarak zorunlu:**
+Pratikte bu üç anlama geldi. Birincisi, şirket bilgilerimiz — yasal adı, kayıt numarası (EIK 207067808), KDV, kuruluş tarihi, adres — her yerde tutarlıdır: web sitesinde, ticaret dizinlerinde, ulusal iş siciline kadar. Kaynaklar arasındaki tutarsızlık, otomatik tedarikçi doğrulama kontrolünü geçmemenin en hızlı yollarından biridir.
 
-100ml veya 100g başına enerji (kJ ve kcal), yağ, doymuş yağ, karbonhidrat, şeker, protein ve tuzu içeren **beslenme beyanı**.
+İkincisi, ürün verilerimiz yapılandırılmış. Sertifikalar (ISO 22000, HACCP, GDO'suz), teslimat süreleri (AB içinde 5–10 iş günü), minimum sipariş miktarları ve kabul edilen teslimat koşulları (FOB, CIF, DAP) PDF belgelerinde gömülü değil — makine tarafından okunabilir ve tutarlı şekilde biçimlendirilmiş.
+
+Üçüncüsü, tedarik sistemlerinin tedarikçi verilerini aradığı B2B ticaret platformlarında aktif profiller sürdürüyoruz. Bu geleneksel anlamda pazarlama değil. İlk tedarikçi kısa listesinin önemli bir bölümünün, bir insan hiç iletişime geçmeden önce algoritmik olarak yapıldığı bir dünya için altyapı.
+
+2026 ortasına kadar, Avrupa gıda tedarikindeki B2B tedarikçi keşif sorgularının yaklaşık %25–40'ı YZ araçları tarafından destekleniyor veya başlatılıyor. Yalnızca insan tarafından okunabilir bir marka — etiketi ne kadar güzel olursa olsun — satın alma sürecinin ilk aşamasında giderek görünmez hale geliyor.
+
+Anastasiia'nın tasarladığı Star Food etiketi hâlâ rafta anlaşmayı kapatan şeydir. Ancak bir alıcı şişeyi görmeden önce, markanın çoğu gıda şirketinin varlığından bile haberdar olmadığı otomatik bir doğrulama katmanından geçmesi gerekiyor.
 
 ## Star Food etiket projesi ne kadara mal oldu ve bize ne öğretti?
 
-Star Food etiket tasarımı projesine yaklaşık €2.800 yatırım yaptık — tüm şişe boyutları, tüm diller, üretim dosyaları, marka yönergeleri ve iki revizyon turu dahil.
+Yaklaşık €2.800 yatırdık — tüm şişe boyutları, tüm diller, üretim dosyaları, marka yönergeleri ve iki revizyon turu dahil.
 
-Getiri anındaydı. Yeni etiketlerle lansmandan üç ay içinde ticari dizin listelerinden distribütör sorgu oranı fark edilir biçimde arttı. Daha somut olarak, 2025 sonlarında Bükreş'teki bir B2B toplantısında bir perakende alıcısı bize doğrudan şunu söyledi: "Ambalajınız Batı Avrupa markalarından gördüklerimle karşılaştırılabilir görünüyor. Bu kategori yöneticim için önemli."
+Getiri anındaydı. Yeni etiketlerle lansmandan üç ay içinde ticari dizin listelerinden distribütör sorgu oranı fark edilir biçimde arttı. 2025 sonlarında Bükreş'teki bir B2B toplantısında bir perakende alıcısı bize şunu söyledi: "Ambalajınız Batı Avrupa markalarından gördüklerimle karşılaştırılabilir görünüyor. Bu kategori yöneticim için önemli."
 
-Projeden aldığımız beş ders:
+**Beş ders:**
 
-**1. Tasarımdan önce yasal haritalama, sonra değil.** Her hedef pazar dilinde etiketinizin içermesi gereken her zorunlu unsurla başlayın. İçeriğin etrafında tasarlayın, tersi değil.
-
-**2. Gerçek ölçekte test edin.** Dijital maketler yanıltıcıdır. Etiketinizi gerçek boyutta yazdırın, gerçek şişenize sarın ve kötü aydınlatmada inceleyin.
-
-**3. En uzun dil varyantı için tasarlayın.** Etiketiniz Yunancada işe yarıyorsa (metin uzunluklarını genişletme eğilimindedir), İngilizcede veya Türkçede işe yarar. Tersi her zaman doğru değildir.
-
-**4. Marka yönergelerine yatırım yapın.** Etiketin kendisi tek bir teslimat. Marka yönergeleri — tam renkleri, fontları, minimum boyutları ve kullanım kurallarını belirten — ürünler, boyutlar veya pazarlar ekledikçe tutarlılığı korumanızı sağlar.
-
-**5. Profesyonel ambalaj bir distribütör dönüşüm aracıdır.** Profesyonel etiket tasarımına yatırılan her euro, yanındaki daha tanınmış markadan neden sizin ürününüzün en az o kadar iyi olduğunu açıklayan daha az konuşma olarak geri döner.
+1. **Tasarımdan önce yasal haritalama.** Her hedef pazar dilinde zorunlu unsurlarla başlayın.
+2. **Gerçek ölçekte test edin.** Dijital maketler yanıltıcıdır — etiketinizi gerçek boyutta yazdırın ve kötü aydınlatmada inceleyin.
+3. **En uzun dil varyantı için tasarlayın.** Yunancada işe yarıyorsa Türkçede de yarar.
+4. **Marka yönergelerine yatırım yapın.** Ürünler veya pazarlar ekledikçe tutarlılığı sağlar.
+5. **Profesyonel ambalaj bir distribütör dönüşüm aracıdır.** Her euro, daha az açıklama konuşması olarak geri döner.
 
 ---
 
-Star Food ürünlerini dağıtmakla ilgileniyor musunuz? **[Ortak olun](/tr/partners)** veya **[fiyat listesi isteyin](/tr/quote)**. Anastasiia Kolisnyk'in tam portföyünü görmek için [akillustrator.com](https://formaink.com)) adresini ziyaret edin.
+Star Food ürünlerini dağıtmakla ilgileniyor musunuz? **[Ortak olun](/tr/partners)** veya **[fiyat listesi isteyin](/tr/quote)**. Anastasiia Kolisnyk'in tam portföyünü görmek için [akillustrator.com](https://akillustrator.com) adresini ziyaret edin.
 
-_Kaynaklar: Tüketicilere gıda bilgisi hakkında AB Yönetmeliği 1169/2011, UB Market marka geliştirme belgeleri 2025, Anastasiia Kolisnyk tasarım projesi briefing ve teslimat kayıtları._
+_Bu makale, Avrupa gıda ticaretinde YZ destekli tedariki yansıtmak üzere Mayıs 2026'da güncellendi. Kaynaklar: AB Yönetmeliği 1169/2011, UB Market marka geliştirme belgeleri 2025, Anastasiia Kolisnyk tasarım projesi kayıtları._
