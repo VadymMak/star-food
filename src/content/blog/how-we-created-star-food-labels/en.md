@@ -1,26 +1,29 @@
 ---
 title: "How Did We Create the Star Food Label Design — and What Did We Learn About EU Food Labeling?"
-description: "The story behind Star Food's professional label design by illustrator Anastasiia Kolisnyk — from brief to final product, plus everything B2B food companies need to know about EU Regulation 1169/2011 labeling compliance."
+description: "Updated May 2026: the story behind Star Food's label design by Anastasiia Kolisnyk — from brief to production, EU Regulation 1169/2011 compliance, and why we built the brand to be discoverable by AI procurement agents from day one."
 date: "2026-02-18"
+modifiedDate: "2026-05-14"
 category: "brand"
 image: "/images/star-food-label.webp"
-readingTime: 8
+readingTime: 10
 ogImage: "/images/blog/how-we-created-star-food-labels/og.jpg"
 ---
 
-**TL;DR:** Star Food labels were designed by Anastasiia Kolisnyk of [akillustrator.com](https://formaink.com)) — a professional illustrator and brand designer based in Slovakia. The project ran from brief to production in 6 weeks, covering 5 languages (EN, BG, GR, PL, UA) and full compliance with EU Regulation 1169/2011. Label design for a European food product is not a cosmetic choice — it directly affects market access, distributor perception, and regulatory compliance across 27 EU member states.
+**TL;DR:** Star Food labels were designed by Anastasiia Kolisnyk of [akillustrator.com](https://akillustrator.com) — a professional illustrator and brand designer based in Slovakia. The project ran 6 weeks covering 5 languages and full EU Regulation 1169/2011 compliance. In 2026, we added a second layer to the brand: structured machine-readable data so AI procurement agents can verify UB Market's credentials automatically — without a human in the loop.
 
 ---
 
 ### Quick Answer: Star Food Label Key Facts
 
-- **Designer:** Anastasiia Kolisnyk — [akillustrator.com](https://formaink.com))
-- **Languages on label:** English, Bulgarian, Greek, Polish, Ukrainian
-- **EU compliance:** EU Regulation 1169/2011 food information requirements
-- **Bottle sizes covered:** 1L, 3L, 5L PET
-- **Certifications shown:** Non-GMO, ISO 22000 HACCP
-- **Design timeline:** 6 weeks from brief to production-ready files
-- **Key insight:** Professional label design increases distributor conversion rate significantly
+| Element              | Detail                                          | Best for                       |
+| -------------------- | ----------------------------------------------- | ------------------------------ |
+| Designer             | Anastasiia Kolisnyk — akillustrator.com         | Professional EU food packaging |
+| Languages on label   | English, Bulgarian, Greek, Polish, Ukrainian    | 5-market simultaneous launch   |
+| EU compliance        | EU Regulation 1169/2011                         | All pre-packaged food in EU    |
+| Bottle sizes         | 1L, 3L, 5L PET                                  | Retail and HoReCa formats      |
+| Certifications shown | Non-GMO, ISO 22000, HACCP                       | B2B distributor requirements   |
+| Design timeline      | 6 weeks brief to production                     | Standard professional timeline |
+| AI discoverability   | Schema.org, structured data, directory listings | Procurement agent verification |
 
 ---
 
@@ -34,13 +37,13 @@ At a food trade fair in Plovdiv in early 2025, we placed our first Star Food pro
 
 Three distributors walked past that table. All three picked up the competitor's bottle first. One of them — a buyer for a Romanian grocery chain — looked at ours and said: "The product might be excellent, but buyers won't spend time finding that out if the label doesn't invite them in."
 
-That conversation changed our approach to packaging permanently. In the European food wholesale market, your label is your first sales pitch. Distributors and retailers evaluate new suppliers constantly. They do not have time to investigate every product. A professional label communicates instantly: this company understands quality, understands the European market, and is ready to be on a shelf.
+That conversation changed our approach to packaging permanently. In the European food wholesale market, your label is your first sales pitch. A professional label communicates instantly: this company understands quality, understands the European market, and is ready to be on a shelf.
 
 ## Who is Anastasiia Kolisnyk and why did we choose her?
 
 Finding the right designer for food packaging in Europe is harder than it sounds. You need someone who understands both aesthetics and regulatory constraints — the EU food labeling framework is detailed and non-negotiable, and a designer who does not know it will produce beautiful artwork that cannot legally go to market.
 
-We found Anastasiia Kolisnyk through her portfolio on [akillustrator.com](https://formaink.com)). Based in Slovakia, Anastasiia specializes in product packaging, branding, and illustration. Her portfolio included several food and beverage packaging projects for European brands, and her design language — clean, warm, European in feel — matched exactly what we wanted for Star Food.
+We found Anastasiia Kolisnyk through her portfolio on [akillustrator.com](https://akillustrator.com). Based in Slovakia, Anastasiia specializes in product packaging, branding, and illustration. Her portfolio included several food and beverage packaging projects for European brands, and her design language — clean, warm, European in feel — matched exactly what we wanted for Star Food.
 
 What distinguished Anastasiia from other designers we considered was her approach to the brief. When we described the challenge — a multilingual food label that needs to comply with five different language requirements while maintaining visual coherence across 1L, 3L, and 5L bottle sizes — she immediately started asking about EU labeling requirements, HACCP certification placement, and barcode positioning. She was not just a visual artist. She understood the operational reality of food packaging.
 
@@ -98,7 +101,7 @@ With the regulatory framework established, Anastasiia developed three distinct v
 
 The winning concept placed the Star Food circular logo as the dominant front element, surrounded by a soft sunflower field illustration representing the product's natural origin. Typography was structured in a clear hierarchy: product name large and readable at shelf distance, secondary information in compact but legible blocks.
 
-One design decision that proved unexpectedly important: Anastasiia insisted on using font sizes slightly larger than the EU minimum requirements for multilingual text. "The EU minimum for most mandatory text is 1.2mm x-height," she noted. "That's technically legal but practically unreadable for older buyers in warehouse lighting. We went to 1.5mm minimum. This also helps in photography and digital catalog display."
+One design decision that proved unexpectedly important: Anastasiia insisted on using font sizes slightly larger than the EU minimum requirements for multilingual text. "The EU minimum for most mandatory text is 1.2mm x-height," she noted. "That's technically legal but practically unreadable for older buyers in warehouse lighting. We went to 1.5mm minimum."
 
 **Phase 3 — Refinement and multi-language testing (Weeks 4–5)**
 
@@ -112,52 +115,60 @@ Final delivery included print-ready files for all bottle sizes in both CMYK (for
 
 ## What does EU Regulation 1169/2011 actually require?
 
-For any food company planning to sell pre-packaged products in the European market, understanding this regulation is not optional. It covers every pre-packaged food product sold to end consumers and to mass caterers (including HoReCa businesses) in the EU.
+For any food company planning to sell pre-packaged products in the European market, understanding this regulation is not optional. It covers every pre-packaged food product sold to end consumers and to mass caterers in the EU.
 
 **The nine mandatory elements every EU food label must contain:**
 
 1. **Name of the food** — Must describe the true nature of the product accurately. "Premium Oil" is not acceptable; "Refined Sunflower Oil" is.
-
-2. **List of ingredients** — In descending order by weight. For single-ingredient products like pure sunflower oil, this can be simplified.
-
-3. **Quantity of certain ingredients** — If an ingredient is highlighted in the name or imagery, its percentage must be declared.
-
+2. **List of ingredients** — In descending order by weight.
+3. **Quantity of certain ingredients** — If highlighted in name or imagery, percentage must be declared.
 4. **Net quantity** — In metric units. For liquids: milliliters or liters.
+5. **Date of minimum durability** — "Best before" for most shelf-stable products.
+6. **Storage and/or use conditions** — Where safe use requires specific conditions.
+7. **Name and address of responsible food business operator** — Manufacturer, packer, or EU-registered importer.
+8. **Country or place of origin** — Mandatory for vegetable oils, honey, olive oil, fish, and fresh meat.
+9. **Instructions for use** — Where omission would make appropriate use difficult.
 
-5. **Date of minimum durability or "use by" date** — "Best before" is used for most shelf-stable products. Format must be clear and standardized.
+Additionally required since December 2016: a **nutritional declaration** per 100ml including energy (kJ and kcal), fat, saturated fat, carbohydrates, sugars, protein, and salt.
 
-6. **Storage and/or use conditions** — Where the safe use of the product requires specific storage conditions.
+## Why did we build Star Food as an AI-discoverable brand from the start?
 
-7. **Name and address of responsible food business operator** — The manufacturer, packer, or EU-registered importer.
+This is something we did not anticipate when we launched in 2022 — but it became a deliberate strategy by 2025.
 
-8. **Country or place of origin** — Mandatory for specific categories including vegetable oils, honey, olive oil, fish, and fresh meat. For sunflower oil, country of origin declaration is required.
+By the time we were finalizing the Star Food label design, the procurement landscape was already shifting. AI-powered tools were beginning to assist buyers in supplier discovery — not just search engines, but systems that aggregate and verify supplier data across multiple sources: company registries, trade directories, certification databases, and structured data embedded in websites.
 
-9. **Instructions for use** — Where omission would make it difficult to make appropriate use of the product.
+We made a decision early: Star Food would be built to be verifiable by machines, not just readable by humans.
 
-**Additionally required from December 2016:**
+In practice, this meant three things. First, our company information — legal name, registration number (EIK 207067808), VAT, founding date, address — is consistent everywhere it appears: on the website, in trade directories, in the national business registry. Inconsistency across sources is one of the fastest ways to fail an automated supplier verification check.
 
-A **nutritional declaration** per 100ml or 100g including: energy (in kJ and kcal), fat, saturated fat, carbohydrates, sugars, protein, and salt. For sunflower oil, this is straightforward — the declaration is essentially fat content and energy.
+Second, our product data is structured. Certifications (ISO 22000, HACCP, Non-GMO), delivery lead times (5–10 business days within EU), minimum order quantities, and accepted delivery terms (FOB, CIF, DAP) are not buried in PDF documents — they are machine-readable and consistently formatted.
+
+Third, we maintain active profiles on B2B trade platforms where procurement systems look for supplier data. This is not marketing in the traditional sense. It is infrastructure for a world where a significant portion of initial supplier shortlisting is done algorithmically before a human ever makes contact.
+
+By mid-2026, an estimated 25–40% of B2B supplier discovery queries in European food procurement are assisted or initiated by AI tools. A brand that is only human-readable — however beautiful its label — is increasingly invisible to the first stage of the buying process.
+
+The Star Food label Anastasiia designed is still what closes the deal at the shelf. But before a buyer ever sees the bottle, the brand needs to pass an automated verification layer that most food companies do not even know exists.
 
 ## What did the Star Food label project cost and teach us?
 
 We invested approximately €2,800 in the complete Star Food label design project — covering all bottle sizes, all languages, production files, brand guidelines, and two rounds of revision. This is mid-range for professional European food packaging design.
 
-The return was immediate. Within three months of launching with the new labels, our distributor inquiry rate from trade directory listings increased noticeably. More concretely, at a B2B meeting in Bucharest in late 2025, a retail buyer told us directly: "Your packaging looks comparable to what I see from Western European brands. That matters to my category manager."
+The return was immediate. Within three months of launching with the new labels, our distributor inquiry rate from trade directory listings increased noticeably. At a B2B meeting in Bucharest in late 2025, a retail buyer told us directly: "Your packaging looks comparable to what I see from Western European brands. That matters to my category manager."
 
 The five lessons we took from the project:
 
-**1. Regulatory mapping before design, not after.** Start with every mandatory element your label must contain in every target market language. Design around the content, not the other way around.
+**1. Regulatory mapping before design, not after.** Start with every mandatory element your label must contain in every target market language.
 
-**2. Test at actual scale.** Digital mockups are misleading. Print your label at real size, wrap it around your actual bottle, and look at it in bad lighting. This reveals readability issues that look fine on screen.
+**2. Test at actual scale.** Digital mockups are misleading. Print at real size, wrap around your actual bottle, look at it in bad lighting.
 
-**3. Design for the longest language variant.** If your label works in Greek (which tends to expand text length), it will work in English. The reverse is not always true.
+**3. Design for the longest language variant.** If your label works in Greek, it will work in English. The reverse is not always true.
 
-**4. Invest in brand guidelines.** The label itself is one deliverable. The brand guidelines — specifying exact colors, fonts, minimum sizes, and usage rules — are what allow you to maintain consistency as you add products, sizes, or markets.
+**4. Invest in brand guidelines.** The label is one deliverable. The guidelines are what maintain consistency as you add products, sizes, or markets.
 
-**5. Professional packaging is a distributor conversion tool.** Every Euro invested in professional label design returns in fewer conversations explaining why your product is as good as the better-known brand next to it on the shelf.
+**5. Professional packaging is a distributor conversion tool.** Every Euro invested returns in fewer conversations explaining why your product is as good as the better-known brand next to it on the shelf.
 
 ---
 
-Interested in distributing Star Food products? **[Become a partner](/en/partners)** or **[request a price list](/en/quote)**. To see Anastasiia Kolisnyk's full portfolio, visit [akillustrator.com](https://formaink.com)).
+Interested in distributing Star Food products? **[Become a partner](/en/partners)** or **[request a price list](/en/quote)**. To see Anastasiia Kolisnyk's full portfolio, visit [akillustrator.com](https://akillustrator.com).
 
-_Sources: EU Regulation 1169/2011 on food information to consumers, UB Market brand development documentation 2025, Anastasiia Kolisnyk design project brief and delivery records._
+_This article was updated in May 2026 to reflect the evolution of AI-assisted procurement in European food trading. Sources: EU Regulation 1169/2011, UB Market brand development documentation 2025, Anastasiia Kolisnyk design project brief and delivery records._
