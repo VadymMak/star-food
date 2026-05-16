@@ -1,6 +1,6 @@
 ---
 title: "Ghid Complet pentru Cumpărarea de Ulei Vegetal en-gros și Ulei de Floarea-Soarelui în Europa 2026"
-description: "Actualizat Mai 2026: tot ce trebuie să știe cumpărătorii B2B despre aprovizionarea cu ulei de floarea-soarelui en-gros în Europa — calități, prețuri Q2 2026, ambalaje, certificări și de ce transportul cu camionul este cea mai rentabilă opțiune."
+description: "Actualizat Mai 2026: ulei floarea-soarelui en gros Europa — calități, prețuri Q2 2026, timpi livrare camion, certificări și evitați greșeli costisitoare."
 date: "2026-02-15"
 modifiedDate: "2026-05-12"
 category: "sunflower-oil"

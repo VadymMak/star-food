@@ -1,6 +1,6 @@
 ---
 title: "Wie haben wir das Star Food Etikettendesign entwickelt — und was haben wir über EU-Lebensmittelkennzeichnung gelernt?"
-description: "Aktualisiert Mai 2026: die Geschichte hinter dem Star Food Etikettendesign von Anastasiia Kolisnyk — vom Brief bis zur Produktion, EU-Verordnung 1169/2011 und warum wir die Marke von Anfang an als KI-auffindbar aufgebaut haben."
+description: "Aktualisiert Mai 2026: Star Food Etikettendesign von Anastasiia Kolisnyk — EU-Verordnung 1169/2011, 5 Sprachen, von Anfang an KI-auffindbar."
 date: "2026-02-18"
 modifiedDate: "2026-05-14"
 category: "brand"

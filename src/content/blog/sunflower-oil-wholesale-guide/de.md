@@ -1,6 +1,6 @@
 ---
 title: "Vollständiger Leitfaden zum Kauf von Sonnenblumenöl und Pflanzenöl im Großhandel Europa 2026"
-description: "Aktualisiert Mai 2026: alles über Sonnenblumenöl Großhandel in Europa — Qualitätsstufen, Q2 2026 Preise, Verpackung, Zertifizierungen und warum LKW-Transport die rentabelste Option für DACH-Käufer ist."
+description: "Aktualisiert Mai 2026: Sonnenblumenöl Großhandel Europa — Qualitäten, Q2 2026 Preise, LKW-Lieferzeiten, Zertifizierungen und Beschaffungsfehler vermeiden."
 date: "2026-02-15"
 modifiedDate: "2026-05-12"
 category: "sunflower-oil"

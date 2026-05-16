@@ -1,6 +1,6 @@
 ---
 title: "Prețurile Uleiului de Floarea-Soarelui în Europa 2026 — Ce Plătesc Cumpărătorii în Realitate?"
-description: "Actualizat mai 2026: prețuri en-gros ulei floarea-soarelui Q2 2026 — rafinat $1.100–1.250/tonă FOB Marea Neagră. Referință IMF ~$1.739/MT. Prognoză, factori de preț și cum să blocați prețuri competitive."
+description: "Actualizat Mai 2026: prețuri en gros ulei floarea-soarelui Europa Q2 2026 — RBDW rafinat $1.100–1.250/t FOB Marea Neagră. High-oleic $1.300–1.450/t."
 date: "2026-02-20"
 modifiedDate: "2026-05-03"
 category: "sunflower-oil"

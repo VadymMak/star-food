@@ -1,6 +1,6 @@
 ---
 title: "Sonnenblumenöl Preise Europa 2026 — Was Zahlen Großhandelskäufer Wirklich?"
-description: "Aktualisiert Mai 2026: Sonnenblumenöl Großhandelspreise Q2 2026 — raffiniertes RBDW $1.100–1.250/t FOB Schwarzes Meer. IMF-Referenzwert ~$1.739/MT. Preisprognose, Marktfaktoren und wie Sie wettbewerbsfähige Konditionen sichern."
+description: "Aktualisiert Mai 2026: Sonnenblumenöl Großhandelspreise Europa Q2 2026 — raffiniertes RBDW $1.100–1.250/t FOB Schwarzes Meer. High-Oleic $1.300–1.450/t."
 date: "2026-02-20"
 modifiedDate: "2026-05-03"
 category: "sunflower-oil"
