@@ -1,6 +1,6 @@
 ---
 title: "Cum Am Creat Designul Etichetei Star Food — și Ce Am Învățat Despre Etichetarea Alimentelor în UE?"
-description: "Actualizat Mai 2026: povestea etichetei Star Food de Anastasiia Kolisnyk — de la brief la producție, conformitate Regulament UE 1169/2011 și de ce am construit brandul ca să fie descoperit de agenții YI de aprovizionare."
+description: "Actualizat Mai 2026: design etichetă Star Food de Anastasiia Kolisnyk — Regulament UE 1169/2011, 5 limbi, brand descoperibil de IA de la început."
 date: "2026-02-18"
 modifiedDate: "2026-05-14"
 category: "brand"

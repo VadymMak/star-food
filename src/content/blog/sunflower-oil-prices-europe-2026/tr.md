@@ -1,6 +1,6 @@
 ---
 title: "Avrupa'da Toptan Ayçiçek Yağı Fiyatları 2026 — Alıcılar Gerçekte Ne Ödüyor?"
-description: "Mayıs 2026 güncellemesi: Avrupa Q2 2026 toptan ayçiçek yağı fiyatları — rafine €900–1.100/ton, high-oleic €1.300–1.450/ton. FOB Karadeniz, CIF İstanbul, CIF Rotterdam. Piyasa tahmini ve alıcı rehberi."
+description: "Güncellendi Mayıs 2026: Avrupa toptan ayçiçek yağı fiyatları Q2 2026 — rafine RBDW $1.100–1.250/ton FOB Karadeniz. Yüksek oleik $1.300–1.450/ton."
 date: "2026-02-20"
 modifiedDate: "2026-05-03"
 category: "sunflower-oil"

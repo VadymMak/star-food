@@ -1,6 +1,6 @@
 ---
 title: "Complete Guide to Buying Bulk Vegetable Oil & Sunflower Oil Wholesale in Europe 2026"
-description: "Updated May 2026: everything B2B buyers need about sourcing bulk sunflower oil wholesale in Europe — grades, pricing Q2 2026, packaging, certifications, truck delivery times and how to avoid the most expensive mistakes."
+description: "Updated May 2026: bulk sunflower oil wholesale in Europe — grades, Q2 2026 pricing, truck delivery times, certifications and how to avoid costly mistakes."
 date: "2026-02-15"
 modifiedDate: "2026-05-12"
 category: "sunflower-oil"

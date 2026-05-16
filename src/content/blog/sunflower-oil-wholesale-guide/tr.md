@@ -1,6 +1,6 @@
 ---
 title: "Avrupa'da Toptan Ayçiçek Yağı ve Gıda Toptan Tedarik Rehberi 2026"
-description: "Güncellendi Mayıs 2026: B2B alıcıların Avrupa'da toptan ayçiçek yağı tedariki hakkında bilmesi gereken her şey — kaliteler, Q2 2026 fiyatları, ambalaj, sertifikalar ve neden kamyon taşımacılığı en karlı seçenek."
+description: "Güncellendi Mayıs 2026: Avrupa toptan ayçiçek yağı — kaliteler, Q2 2026 fiyatları, kamyon teslimat süreleri, sertifikalar ve pahalı hatalardan kaçının."
 keywords: "toptan ayçiçek yağı, gıda toptancısı, toptan gıda, toptan yağ, toptan gıda ürünleri"
 date: "2026-02-15"
 modifiedDate: "2026-05-12"

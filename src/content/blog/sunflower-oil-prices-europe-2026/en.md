@@ -1,6 +1,6 @@
 ---
 title: "Sunflower Oil Prices Europe 2026: $1,100–1,250/ton FOB — Wholesale Buyers Guide"
-description: "Q2 2026 wholesale sunflower oil prices: refined RBDW $1,100–1,250/ton FOB Black Sea. High-oleic $1,300–1,450/ton. Buy edible oil wholesale at competitive rates."
+description: "Updated May 2026: wholesale sunflower oil prices Europe Q2 2026 — refined RBDW $1,100–1,250/ton FOB Black Sea. High-oleic $1,300–1,450/ton."
 date: "2026-02-20"
 modifiedDate: "2026-05-03"
 category: "sunflower-oil"

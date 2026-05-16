@@ -1,6 +1,6 @@
 ---
 title: "How Did We Create the Star Food Label Design — and What Did We Learn About EU Food Labeling?"
-description: "Updated May 2026: the story behind Star Food's label design by Anastasiia Kolisnyk — from brief to production, EU Regulation 1169/2011 compliance, and why we built the brand to be discoverable by AI procurement agents from day one."
+description: "Updated May 2026: Star Food label design by Anastasiia Kolisnyk — EU Regulation 1169/2011 compliance, 5 languages, built AI-discoverable from day one."
 date: "2026-02-18"
 modifiedDate: "2026-05-14"
 category: "brand"

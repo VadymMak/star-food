@@ -1,6 +1,6 @@
 ---
 title: "Star Food Etiket Tasarımını Nasıl Yaptık — ve AB Gıda Etiketlemesi Hakkında Neler Öğrendik?"
-description: "Güncellendi Mayıs 2026: Star Food etiket tasarımının hikayesi — brieften üretime, AB Yönetmeliği 1169/2011 uyumu ve neden markayı YZ tedarik ajanları tarafından keşfedilebilir şekilde inşa ettik."
+description: "Güncellendi Mayıs 2026: Anastasiia Kolisnyk'in Star Food etiket tasarımı — AB Yönetmeliği 1169/2011, 5 dil ve başından beri YZ keşfedilebilir."
 date: "2026-02-18"
 modifiedDate: "2026-05-14"
 category: "brand"
