@@ -24,6 +24,8 @@ ogImage: "/images/blog/how-food-trading-works-europe/og.jpg"
 | Economii față de importul direct | 10–25% prin comerciant înregistrat în UE                    | Justificarea ROI          |
 | Prețul Q2 2026 RBDW rafinat      | $1.100–1.250/tonă FOB Marea Neagră                          | Referință curentă         |
 
+_Prețurile sunt orientative. Referință IMF: ~$1.739/MT (aprilie 2026). Actualizat mai 2026._
+
 ---
 
 ## Cine sunt jucătorii cheie în comerțul european cu alimente?

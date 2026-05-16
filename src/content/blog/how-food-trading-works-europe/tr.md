@@ -24,6 +24,8 @@ ogImage: "/images/blog/how-food-trading-works-europe/og.jpg"
 | Doğrudan ithalata kıyasla tasarruf | AB'de kayıtlı tüccar aracılığıyla %10–25                | ROI gerekçesi               |
 | Q2 2026 rafine RBDW fiyatı         | FOB Karadeniz $1.100–1.250/ton                          | Güncel referans             |
 
+_Fiyatlar göstergedir. IMF referansı: ~$1.739/MT (Nisan 2026). Güncellendi Mayıs 2026._
+
 ---
 
 ## Avrupa gıda ticaretindeki temel oyuncular kimlerdir?

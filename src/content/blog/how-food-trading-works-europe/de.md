@@ -24,6 +24,8 @@ ogImage: "/images/blog/how-food-trading-works-europe/og.jpg"
 | Kosteneinsparung vs. Direktimport | 10–25% über EU-registrierten Händler                | ROI-Rechtfertigung     |
 | Q2 2026 Preis raffiniertes RBDW   | $1.100–1.250/t FOB Schwarzes Meer                   | Aktuelle Referenz      |
 
+_Preise sind indikativ. IMF-Referenz: ~$1.739/MT (April 2026). Aktualisiert Mai 2026._
+
 ---
 
 ## Wer sind die Schlüsselakteure im europäischen Lebensmittelhandel?

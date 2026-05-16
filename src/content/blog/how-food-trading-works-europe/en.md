@@ -24,6 +24,8 @@ ogImage: "/images/blog/how-food-trading-works-europe/og.jpg"
 | Cost saving vs direct import | 10–25% via EU-registered trader             | ROI justification           |
 | Q2 2026 refined RBDW price   | $1,100–1,250/ton FOB Black Sea              | Current benchmark           |
 
+_Prices are indicative. IMF benchmark: ~$1,739/MT (April 2026). Updated May 2026._
+
 ---
 
 ## Who are the key players in European food trading?
