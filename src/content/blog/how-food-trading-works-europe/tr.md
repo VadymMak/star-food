@@ -1,6 +1,6 @@
 ---
 title: "Avrupa'da Gıda Ticareti Nasıl İşler — B2B Alıcılar için Kapsamlı Rehber 2026?"
-description: "Avrupa'da uluslararası gıda ticareti nasıl işler — 4 temel oyuncu, 8 adımlı ticaret süreci, AB düzenlemeleri, ödeme yöntemleri ve ticaret şirketleri B2B alıcılara neden %10–25 tasarruf sağlar."
+description: "Güncellendi Mayıs 2026: Avrupa'da gıda ticareti nasıl işler — 4 temel oyuncu, 8 adımlı süreç, AB düzenlemeleri ve şirketler neden %10–25 tasarruf sağlar."
 date: "2026-03-12"
 modifiedDate: "2026-05-16"
 category: "trading"
