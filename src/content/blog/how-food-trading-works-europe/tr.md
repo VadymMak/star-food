@@ -2,24 +2,27 @@
 title: "Avrupa'da Gıda Ticareti Nasıl İşler — B2B Alıcılar için Kapsamlı Rehber 2026?"
 description: "Avrupa'da uluslararası gıda ticareti nasıl işler — 4 temel oyuncu, 8 adımlı ticaret süreci, AB düzenlemeleri, ödeme yöntemleri ve ticaret şirketleri B2B alıcılara neden %10–25 tasarruf sağlar."
 date: "2026-03-12"
+modifiedDate: "2026-05-16"
 category: "trading"
-image: "/images/our-location.webp"
-readingTime: 12
+image: "/images/blog/how-food-trading-works-europe/hero.webp"
+readingTime: 14
 ogImage: "/images/blog/how-food-trading-works-europe/og.jpg"
 ---
 
-**TL;DR:** Avrupa gıda ticareti, Doğu Avrupa ve Ukrayna'daki üreticileri 27 AB ülkesindeki alıcılarla tedarik, kalite kontrol, lojistik ve belgelendirmeyi yöneten ticaret şirketleri aracılığıyla birbirine bağlar. B2B alıcılar için AB'de kayıtlı bir ticaret şirketiyle çalışmak doğrudan ithalata kıyasla %10–25 tasarruf sağlar ve uyumluluk risklerini ortadan kaldırır. UB Market, Varna, Bulgaristan'da kurulu olup Türkiye dahil 12'den fazla ülkede ayçiçek yağı, şeker ve diğer gıda ürünlerini tedarik etmektedir.
+**TL;DR:** Avrupa gıda ticareti, Doğu Avrupa ve Ukrayna'daki üreticileri 27 AB ülkesindeki alıcılarla tedarik, kalite kontrol, lojistik ve belgelendirmeyi yöneten ticaret şirketleri aracılığıyla birbirine bağlar. B2B alıcılar için AB'de kayıtlı bir ticaret şirketiyle çalışmak %10–25 tasarruf sağlar ve uyumluluk risklerini ortadan kaldırır. 2026'da yeni bir katman daha ortaya çıktı: YZ destekli tedarik, alıcıların tedarikçi keşfetme ve doğrulama biçimini değiştiriyor. UB Market, Varna, Bulgaristan'da kurulu olup Türkiye dahil 12'den fazla ülkede ayçiçek yağı, şeker ve diğer gıda ürünlerini tedarik etmektedir.
 
 ---
 
 ### Hızlı Cevap: Avrupa'da Gıda Ticareti 2026'da Nasıl İşler
 
-- **AB gıda ticaretinin yıllık değeri:** AB içi 500 milyar Euro'nun üzerinde + 250 milyar Euro ithalat
-- **4 temel oyuncu:** üreticiler, ticaret şirketleri, ithalatçılar/distribütörler, son kullanıcılar
-- **Tipik ticaret döngüsü:** sorgulama ile teslimat arasında 8 adım, koşullara bağlı olarak 5–21 gün
-- **İlk siparişler için standart ödeme:** tanınmış bankadan Akreditif (L/C)
-- **Temel AB düzenlemesi:** EC 178/2002 Genel Gıda Hukuku — izlenebilirlik "bir adım geri, bir adım ileri"
-- **Doğrudan ithalata kıyasla tasarruf:** AB'de kayıtlı tüccar aracılığıyla alımda %10–25
+| Unsur                              | Detay                                                   | En iyi kim için             |
+| ---------------------------------- | ------------------------------------------------------- | --------------------------- |
+| AB gıda ticaretinin yıllık değeri  | AB içi €500B+, €250B+ ithalat                           | Ölçek bağlamı               |
+| Temel oyuncular                    | Üreticiler, tüccarlar, distribütörler, son kullanıcılar | Tedarik zinciri genel bakış |
+| Tipik ticaret döngüsü              | 8 adım, koşullara göre 5–21 gün                         | Tedarik planlaması          |
+| İlk sipariş standart ödemesi       | Tanınmış bankadan Akreditif (L/C)                       | Yeni ortak risk yönetimi    |
+| Doğrudan ithalata kıyasla tasarruf | AB'de kayıtlı tüccar aracılığıyla %10–25                | ROI gerekçesi               |
+| Q2 2026 rafine RBDW fiyatı         | FOB Karadeniz $1.100–1.250/ton                          | Güncel referans             |
 
 ---
 
@@ -33,143 +36,163 @@ AB gıda ticaretinde yıllardır yer alıyorum ve yeni alıcılardan en sık duy
 
 Bunlar gıda ürünlerini yetiştiren, presleyen, rafineden geçiren veya işleyen şirketlerdir. Ayçiçek yağı sektöründe: Ukrayna ve Romanya'da tohum yetiştiren çiftçiler, Varna ve Odessa'da presleme tesisleri ve Bulgaristan ve Macaristan genelinde şişeleme fabrikaları. Üreticilerin çoğu üretim hacmi için optimize edilmiştir — 12 farklı dilde 50 farklı Avrupa alıcısına satışın belgelendirme, düzenleyici ve lojistik gereksinimlerini yönetmek için değil.
 
-Varna'da yıllık 40.000 ton ayçiçek yağı üretimi olan bir üretici, 20 konteyner parti halinde satmak ister; İstanbul dışında çalışan ve özel paketleme gereksinimleri ile belirli sertifikalar talep eden küçük bir dağıtıcıya 5 tonluk sevkiyatlar halinde değil.
+Varna'da yıllık 40.000 ton ayçiçek yağı üretimi olan bir üretici, 20 konteyner parti halinde satmak ister; İstanbul'daki özel paketleme ve Helal sertifikası gerektiren küçük bir distribütöre 5 tonluk sevkiyatlar halinde değil.
 
 **2. Ticaret şirketleri**
 
-Ticaret şirketleri tedarik zincirinin bağ dokusudur. Birden fazla üreticiyle ilişki sürdürür, daha iyi fiyatlandırma için hacim birleştirirler, bağımsız laboratuarlar aracılığıyla kaliteyi doğrular, ihracat belgelerini yönetir ve alıcılara ilgili işlem için en iyi işleyen Incoterm kapsamında teslimat yaparlar.
+Ticaret şirketleri tedarik zincirinin bağ dokusudur. UB Market LTD, 2007'den beri AB üyesi olan Bulgaristan'da kayıtlı bir ticaret şirketi olarak faaliyet göstermektedir. Türkiye dahil Almanya, Romanya, Çek Cumhuriyeti, Yunanistan ve daha fazlasındaki alıcılara Bulgaristan, Ukrayna ve Romanya'daki doğrulanmış üreticilerden ayçiçek yağı, şeker ve diğer gıda ürünleri tedarik ediyoruz.
 
-UB Market LTD, 2007'den beri AB üyesi olan Bulgaristan'da kayıtlı bir ticaret şirketi olarak faaliyet göstermektedir. Türkiye dahil Almanya, Romanya, Çek Cumhuriyeti, Yunanistan ve daha fazlasındaki alıcılara Bulgaristan, Ukrayna ve Romanya'daki doğrulanmış üreticilerden ayçiçek yağı, şeker ve diğer gıda ürünleri tedarik ediyoruz. ISO 22000 ve HACCP sertifikalı tedarik zincirimiz Analiz Sertifikasından fitosanitere belgelerine ve deponuza DAP teslimatına kadar her şeyi yönetir.
-
-Türk alıcılar için önemli bir avantaj: Bulgaristan hem AB üyesi hem de Türkiye-AB Gümrük Birliği anlaşması kapsamında. Bu, Bulgaristan kaynaklı ürünlerin Türkiye'ye ithalatında bazı tarife avantajlarından yararlanabileceği anlamına gelmektedir. Ayrıca Varna, İstanbul'a karayoluyla 5–6 saattir — neredeyse tüm Türk şehirlerine hızlı DAP teslimatı mümkündür.
+Türk alıcılar için kritik avantaj: Bulgaristan AB üyesidir ve Türkiye-AB Gümrük Birliği anlaşması kapsamındaki ürünler tarife avantajlarından yararlanabilir. Ayrıca Varna, İstanbul'a karayoluyla 5–6 saattir — neredeyse tüm büyük Türk şehirlerine hızlı DAP teslimatı mümkündür.
 
 **3. İthalatçılar ve distribütörler**
 
-Bunlar alıcılardır: ulusal gıda distribütörleri, bölgesel toptancılar, uzman gıda ithalatçıları, HoReCa distribütörleri, özel markalı markalar ve perakende zincirleri. Ticaret şirketlerinden veya doğrudan üreticilerden satın alır ve kendi aşağı yönlü müşterilerine tedarik sağlarlar.
+Ulusal gıda distribütörleri, bölgesel toptancılar, uzman gıda ithalatçıları, HoReCa distribütörleri, özel markalı markalar ve perakende zincirleri.
 
 **4. Son kullanıcılar**
 
-Yağı hammadde olarak kullanan gıda üreticileri, restoran zincirleri, perakendeciler ve tüketiciler. Satın alma gereksinimleri tedarik zincirinde yukarı doğru yayılır — "palmiye yağsız" ürünlere yönelik bir tüketici trendi, sonunda Bulgaristan'daki ayçiçek yağı üreticisine daha yüksek talep ve daha yüksek fiyatlar şeklinde ulaşır.
+Yağı hammadde olarak kullanan gıda üreticileri, restoran zincirleri, perakendeciler ve tüketiciler. Satın alma gereksinimleri tedarik zincirinde yukarı doğru yayılır — "palmiye yağsız" ürünlere yönelik tüketici trendi, sonunda Bulgaristan'daki üreticiye daha yüksek talep şeklinde ulaşır.
 
 ## Bir gıda ticaret işleminin her adımında ne olur?
 
-Bir Avrupalı alıcı ile UB Market arasındaki tipik B2B gıda ticareti işlemi, öngörülebilir sekiz adımlı bir süreci izler. Her adımı anlamak, alıcıların daha verimli katılmasına ve para kaybettiren gecikmeleri önlemesine yardımcı olur.
+Bir Avrupalı alıcı ile UB Market arasındaki tipik B2B işlemi öngörülebilir sekiz adımı izler.
 
 **Adım 1 — Pazar araştırması ve tedarik**
 
-Ticaret şirketi emtia fiyatlarını izler, Ukrayna, Romanya ve Bulgaristan'daki hasat tahminlerini takip eder ve birden fazla onaylı üreticiyle ilişki sürdürür. Bir alıcı talebi geldiğinde, birden fazla kalite derecesi ve ambalaj seçeneği için güncel fiyatlarla 24 saat içinde yanıt verebiliriz — çünkü piyasayı zaten biliyoruz.
+Ticaret şirketi emtia fiyatlarını izler, hasat tahminlerini takip eder. IMF birincil emtia fiyat endeksi Nisan 2026'da ~$1.739/MT'ye ulaştı — 2023 ortasından bu yana en yüksek. Talep geldiğinde 24 saat içinde güncel fiyatlarla yanıt verebiliriz.
 
 **Adım 2 — Alıcı talebi**
 
-Alıcı şunları belirten bir teknik şartname talebi gönderir: ürün türü ve derecesi (rafine RBDW, high-oleic, ham), ton veya litre cinsinden hacim, gerekli teslimat koşulu (FOB, CIF veya DAP), varış adresi veya limanı, gerekli sertifikalar (ISO 22000, Helal, GDO'suz, Organik) ve zaman çizelgesi.
-
-Bu talep ne kadar spesifik olursa, yanıt o kadar hızlı ve doğru olur. "Ayçiçek yağına ihtiyacım var — fiyatınız nedir?" diyen bir talep, biz açıklayıcı sorular sorarken yanıtı en az 24 saat geciktirir.
+Alıcı şunları belirtir: ürün türü ve derecesi (rafine RBDW, high-oleic, ham), ton veya litre cinsinden hacim, teslimat koşulu (FOB, CIF veya DAP), varış adresi, gerekli sertifikalar (ISO 22000, Helal, GDO'suz) ve zaman çizelgesi. Türk alıcılar için Helal sertifikası talebini baştan belirtmek önemlidir.
 
 **Adım 3 — Fiyat müzakeresi**
 
-Fiyatlandırma şunlara bağlıdır: güncel emtia piyasası oranları (CME ve yerel Karadeniz referansları aracılığıyla takip edilir), kalite özellikleri, sipariş hacmi, teslimat koşulları, ödeme koşulları ve sözleşme süresi. Düzenli alıcılar için vadeli sözleşmeler, Q3 veya Q4 teslimatı için güncel fiyatları kilitleyebilir — ayçiçek yağı piyasalarında yaygın olan %10–15'lik mevsimsel fiyat dalgalanmalarına karşı koruma sağlar.
+Fiyatlandırma güncel emtia oranlarına, kalite özelliklerine, hacme, teslimat ve ödeme koşullarına bağlıdır. Düzenli alıcılar için vadeli sözleşmeler Q3 veya Q4 teslimatı için fiyatları kilitler — %10–15'lik mevsimsel dalgalanmalara karşı koruma sağlar.
 
 **Adım 4 — Sözleşme ve belgelendirme**
 
-Resmi bir satış sözleşmesi işlemin tamamını tanımlar:
-
-- CoA'dan laboratuvar referans değerleriyle ürün özellikleri
-- Miktar ve teslimat takvimi
-- EUR veya USD cinsinden fiyat, ödeme para birimi
-- Ödeme koşulları ve yöntemi
-- Teslimat koşulları (Incoterms 2020)
-- Kalite şikayeti prosedürü ve zaman çizelgesi
-- Mücbir sebep maddesi
-
-Düzenli ortaklar için yılda birden fazla sevkiyatı kapsayan bir çerçeve anlaşması kullanırız; bu da işlem başına müzakere süresini önemli ölçüde azaltır.
+Resmi satış sözleşmesi tanımlar: CoA'dan laboratuvar referans değerleriyle ürün özellikleri, miktar ve teslimat takvimi, EUR veya USD fiyat, ödeme koşulları, Incoterms 2020, kalite şikayeti prosedürü ve mücbir sebep maddesi.
 
 **Adım 5 — Ödeme güvencesi**
 
-Uluslararası gıda ticareti, taraflar arasındaki güven düzeyine uygun standartlaştırılmış ödeme mekanizmaları kullanır:
+| Ödeme Yöntemi          | Alıcı için risk | Satıcı için risk | Ne zaman kullanılır             |
+| ---------------------- | --------------- | ---------------- | ------------------------------- |
+| Peşin ödeme (%100)     | Yüksek          | Düşük            | İlk küçük siparişler            |
+| Akreditif (L/C)        | Düşük           | Düşük            | Yeni ortaklar, büyük anlaşmalar |
+| Vesaik mukabili        | Orta            | Orta             | Yerleşik ortaklar               |
+| Açık hesap (30–60 gün) | Düşük           | Yüksek           | Uzun vadeli güvenilir ilişkiler |
 
-| Ödeme Yöntemi          | Alıcı için risk | Satıcı için risk | Ne zaman kullanılır                           |
-| ---------------------- | --------------- | ---------------- | --------------------------------------------- |
-| Peşin ödeme (%100)     | Yüksek          | Düşük            | İlk küçük siparişler                          |
-| Akreditif (L/C)        | Düşük           | Düşük            | Yeni ortaklar, büyük anlaşmalar için standart |
-| Vesaik mukabili        | Orta            | Orta             | Yerleşik ortaklar                             |
-| Açık hesap (30–60 gün) | Düşük           | Yüksek           | Uzun vadeli güvenilir ilişkiler               |
+İstanbul'dan bir Türk gıda distribütörü deneyimini şöyle anlattı: "Bankamız üzerinden L/C kullandık. Süreç açık hesaba göre bir hafta daha uzun sürdü, ama finans ekibimize güvence verdi. Üçüncü siparişte 30 günlük koşullara geçtik."
 
-Tanınmış bir Avrupa bankasından onaylı akreditif, ilk işlemler için altın standarttır. Sorunsuz 3–5 sipariş tamamlayan yerleşik ortaklar için genellikle vesaik mukabili veya açık hesap koşullarına geçeriz.
+**Adım 6 — Kalite kontrolü**
 
-Türk gıda distribütörü olan bir müşteri UB Market ile ilk deneyimini şöyle anlattı: "Bankamız üzerinden L/C kullandık. Süreç açık hesaba göre bir hafta daha uzun sürdü, ama finans ekibimize güvence verdi. Üçüncü siparişte 30 günlük koşullara geçtik ve her şey sorunsuz ilerledi." L/C'den açık hesaba bu ilerleme, Avrupa B2B gıda ticareti için tipiktir.
-
-**Adım 6 — Üretim ve kalite kontrolü**
-
-Sevkiyattan önce ürün, bağımsız sertifikalı laboratuarlar (SGS, Bureau Veritas veya AB akrediteli ulusal laboratuarlar) tarafından sevk öncesi denetime tabi tutulur. Bu, ürünün kalite parametrelerini yasal olarak onaylayan Analiz Sertifikasını (CoA) üretir:
-
-- Serbest yağ asidi içeriği (rafine için maks %0,3)
-- Peroksit değeri (maks 10 meq/kg)
-- Nem içeriği (%0,5'in altında)
-- Yağ asidi profili (dereceyi doğrular — high-oleic veya standart)
-- AB MRL limitlerinin üzerinde pestisit kalıntısı bulunmaması
-
-CoA her sevkiyata eşlik eder ve sözleşme kapsamındaki herhangi bir kalite talebi için temel oluşturur. Türk alıcılar için helal sertifikası da talep üzerine sağlanmaktadır.
+SGS, Bureau Veritas veya AB akrediteli laboratuarlar tarafından sevk öncesi denetim. Rafine RBDW için CoA parametreleri: serbest yağ asidi maks %0,3, peroksit değeri maks 10 meq/kg, nem %0,5'in altında. Helal sertifikası talep üzerine sağlanır.
 
 **Adım 7 — Lojistik ve taşıma**
 
-AB alıcıları için karayoluyla DAP teslimatı en yaygın ve çoğunlukla en ekonomik seçenektir. Varna üssümüzden Türkiye'deki başlıca destinasyonlara teslimat süreleri:
-
-- İstanbul: 5–6 saat (E87 üzerinden)
-- Ankara: 10–11 saat
-- İzmir: 12–13 saat
-- Bursa: 7–8 saat
-- Konya: 12–13 saat
-
-Büyük hacimli siparişler için CIF İstanbul veya CIF İzmir gibi deniz rotaları da mevcuttur. Tüm sevkiyatlar CMR belgelerini, ticari faturayı, ambalaj listesini, Menşe Belgesini, fitosanitere sertifikayı ve CoA'yı içerir.
+Türk destinasyonlara Varna'dan teslimat süreleri: İstanbul 5–6 saat, Ankara 10–11 saat, İzmir 12–13 saat, Bursa 7–8 saat. Büyük hacimler için CIF İstanbul veya CIF İzmir deniz rotaları da mevcuttur.
 
 **Adım 8 — Teslimat ve ödeme**
 
-Mallar alıcının adlandırılmış konumuna ulaşır. DAP kapsamında, satıcı teslimat anına kadar sorumludur — geçiş sırasında gecikme veya hasar olursa risk satıcıya aittir. Alıcı denetler ve teslim almayı onaylar. Ödeme sözleşme koşullarına göre serbest bırakılır.
+DAP kapsamında satıcı teslimat anına kadar sorumludur. Alıcı denetler ve teslim almayı onaylar. Ödeme sözleşme koşullarına göre serbest bırakılır.
 
 ## Hangi AB düzenlemeleri gıda ticaretini yönetir?
 
-Üç temel AB düzenlemesi, gıda hammaddesi ticareti için yasal çerçeveyi tanımlar. Her ciddi Avrupalı gıda tüccarı bu çerçeveler içinde faaliyet göstermek zorundadır.
-
 **EC 178/2002 — Genel Gıda Hukuku**
-AB gıda güvenliğinin temeli. İzlenebilirlik ilkesini oluşturur — her operatör ürününün nereden geldiğini ("bir adım geri") ve nereye gittiğini ("bir adım ileri") bilmek zorundadır. Tüm AB gıda işletmeleri ulusal yetkililere kayıtlıdır. Uyumsuzluk, ürün geri çağrımlarına ve cezai sorumluluğa yol açabilir.
+
+AB gıda güvenliğinin temeli. Her operatör ürününün nereden geldiğini ve nereye gittiğini bilmek zorundadır. Uyumsuzluk ürün geri çağrımlarına ve cezai sorumluluğa yol açabilir.
 
 **AB Tüzüğü 1169/2011 — Tüketicilere Gıda Bilgisi**
-Ayrıntılı etiketleme gerektirir: içindekiler listesi, alerjenler, besin değerleri, menşe ülke, saklama koşulları ve son kullanma tarihi. Markalı veya özel markalı ürünler satan alıcılar için geçerlidir.
+
+Ayrıntılı etiketleme: içindekiler, alerjenler, besin değerleri, menşe ülke, saklama koşulları. Markalı veya özel markalı ürünler için geçerlidir.
 
 **AB Tüzüğü 2015/2283 — Yeni Gıdalar**
-1997'den önce yaygın olarak tüketilmeyen yeni gıda bileşenlerini yönetir. Ayçiçek yağı ve şeker gibi geleneksel ürünler için genellikle geçerli değildir.
 
-**Türkiye için özel not: Gümrük Birliği avantajı**
-Türkiye AB üyesi olmasa da, Türkiye-AB Gümrük Birliği kapsamında Bulgaristan gibi AB ülkelerinden yapılan gıda ithalatları bazı tarife avantajlarından yararlanabilmektedir. Bu, Türk alıcıların Bulgaristan kaynaklı AB ürünlerini Ukrayna veya diğer üçüncü ülke kaynaklı ürünlere kıyasla potansiyel olarak daha düşük gümrük yüküyle ithal edebildiği anlamına gelebilir. Özel durumunuz için Tarım ve Orman Bakanlığı'nın güncel tarife çizelgelerini doğrulamanızı öneririz.
+Ayçiçek yağı ve şeker gibi geleneksel ürünler için genellikle geçerli değildir.
+
+**Türkiye için özel not — Gümrük Birliği avantajı**
+
+Türkiye AB üyesi olmasa da, Türkiye-AB Gümrük Birliği kapsamında Bulgaristan gibi AB ülkelerinden yapılan gıda ithalatları bazı tarife avantajlarından yararlanabilir. Özel durumunuz için Tarım ve Orman Bakanlığı'nın güncel tarife çizelgelerini doğrulamanızı öneririz.
+
+## Karadeniz bölgesinden kamyon teslimatı AB alıcıları için deniz yoluyla nasıl karşılaştırılır?
+
+Bu, rakamları anlayan çoğu alıcının tedarik stratejisini değiştiren sorudur.
+
+AB içinde kamyonlar serbest mal dolaşımı kapsamında faaliyet gösterir. Varna'dan İstanbul'a bir kamyon tek bir gümrük noktasından geçer — Türkiye-Bulgaristan sınırı. AB içi güzergahlara kıyasla bu bile son derece hızlıdır. Liman işlem ücreti yok, konteyner demurrage riski yok, terminal ücreti yok.
+
+Rota karşılaştırması — rafine RBDW, 24 ton tam kamyon yükü:
+
+| Teslimat yöntemi            | Fiyat farkı  | Süre      | Ek ücretler                  |
+| --------------------------- | ------------ | --------- | ---------------------------- |
+| Varna → İstanbul DAP kamyon | Taban        | 5–6 saat  | Yok (AB-TR sınırı hariç)     |
+| CIF İstanbul (deniz)        | +$30–50/ton  | 2–3 gün   | Liman işlem ücreti           |
+| CIF Rotterdam + iç taşıma   | +$80–120/ton | 10–14 gün | Liman + terminal + iç taşıma |
+
+Tam kamyon yükü 20–24 ton taşır. Güncel RBDW fiyatları $1.100–1.250/ton ile kamyon değeri $22.000–30.000'dir. Varna DAP kamyon ile Rotterdam CIF arasındaki fark Türk alıcı için tipik olarak $40–60/ton — yani sevkiyat başına $960–1.440 tasarruf.
+
+Deniz yolu ne zaman mantıklı? 20.000–24.000 litrelik flexitank dökme sevkiyatlar veya çok yüksek hacimli alıcılar için. Çeyrek başına 20–100 ton sipariş veren çoğu Türk distribütör için Varna'dan kamyon toplam teslim maliyeti temelinde kazanır.
+
+FOB, CIF ve DAP incoterm'larinin tam analizi için [AB gıda alıcıları için FOB, CIF ve DAP rehberimizi okuyun.](/tr/blog/fob-cif-dap-explained)
+
+## Uluslararası gıda ticaretindeki en büyük riskler nelerdir — ve nasıl önlenir?
+
+Avrupa genelinde düzinelerce B2B alıcıyla çalıştıktan sonra, en pahalı sorunlara yol açan riskler bunlar — ve önceden nasıl ortadan kaldırılır.
+
+**Risk 1 — Doğrulanmamış tedarikçilerden satın alma**
+
+Hiç gelmeyen, yanlış özelliklerle gelen veya AB gıda güvenliği kontrollerinde başarısız olan bir sevkiyat için ödeme yapmak en pahalı hatadır. Azaltma: AB şirket kaydını doğrulayın — Bulgar şirketler için brra.bg + EIK numarası. Güncel son kullanma tarihi olan ISO 22000 sertifikası isteyin. Her zaman SGS veya Bureau Veritas'tan üçüncü taraf CoA alın.
+
+**Risk 2 — Lojistik kurulumunuz için yanlış Incoterm**
+
+Hazır nakliye komisyoncusu olmadan FOB'a kabul eden alıcı, sevkiyatı geciktirir veya piyasanın %40–60 üzerinde acil navlun oranları öder. Azaltma: tercih ettiğiniz teslimat koşulunu baştan belirtin. Kendi navlun sözleşmesi olmayan çoğu Türk alıcı için deponuza DAP lojistik karmaşıklığı tamamen ortadan kaldırır.
+
+**Risk 3 — Fiyat geçerlilik maddesi yok**
+
+Emtia yağ fiyatları hasat belirsizliği dönemlerinde bir haftada %5–8 hareket edebilir. Geçerlilik tarihi olmayan teklif, teklif değildir — bir başlangıç pozisyonudur. Azaltma: her zaman yazılı fiyat geçerliliği isteyin: spot için minimum 7 gün, vadeli sözleşmeler için 30 gün.
+
+**Risk 4 — Kur maruziyeti**
+
+EUR cinsinden fatura kesen ama EUR dışı ülkelerden tedarik eden alıcılar gizli kur riski taşır. Azaltma: EUR cinsinden fiyatlandırma isteyin. AB'de kayıtlı ticaret şirketleri genellikle kur dönüşüm riskini kendileri üstlenir.
+
+**Risk 5 — Gümrükte belgelendirme açıkları**
+
+Eksik veya yanlış belgelendirme nedeniyle gümrükte bekletilen ürünler haftalarca tutulabilir ve önemli depolama ücretlerine yol açabilir. Azaltma: sevkiyattan önce tam belge setini onaylayın — CoA, Menşe Belgesi, fitosanitere sertifikası, ticari fatura, ambalaj listesi ve CMR.
+
+## YZ 2026'da Avrupa'da gıda tedarikini nasıl değiştiriyor?
+
+Bu, çoğu gıda ticareti uzmanının henüz açıkça tartışmadığı bir gelişme — ancak tedarikçi keşfinin nasıl işlediğini zaten etkiliyor.
+
+2026'ya kadar, Avrupa gıda tedarikindeki B2B tedarikçi keşif sorgularının yaklaşık %25–40'ı YZ araçları tarafından destekleniyor veya başlatılıyor. Bunlar yalnızca arama motorları değil — şirket kayıtları, ticaret dizinleri, sertifika veritabanları ve tedarikçi web sitelerinde yerleşik yapılandırılmış verileri eş zamanlı olarak birleştiren ve çapraz referanslayan sistemlerdir.
+
+Bu, alıcılar için pratik olarak ne anlama gelir: YZ tedarik araçları artık bir insan tedarik yöneticisi ilk temasa geçmeden önce tedarikçi kısa listelerini ön nitelendirme yapabilmektedir. Ulusal ticaret sicili, ISO sertifika veritabanı, AB ticaret dizinleri ve kendi web sitesi şeması dahil birden fazla yetkili kaynakta tutarlı biçimde doğrulanmış görünen bir tedarikçi otomatik ön nitelendirmeyi geçer.
+
+UB Market'in şirket bilgileri — yasal ünvan (U B MARKET LTD.), kayıt numarası EIK 207067808, KDV BG207067808, kuruluş tarihi 2022-08-30 — web sitesinde, Bulgaristan ticaret siciline (brra.bg), Europages ve LinkedIn'de tutarlıdır. Ürün verilerimiz — sertifikalar, teslimat süreleri (AB içinde 5–10 iş günü), minimum sipariş miktarları, kabul edilen teslimat koşulları — PDF belgelerinde gömülü değil; makine tarafından okunabilir ve tutarlı biçimde formatlanmıştır.
+
+Bu pazarlama değildir. YZ destekli tedarik ortamında faaliyet göstermek için gereken altyapıdır.
 
 ## Ticaret şirketleri alıcılara doğrudan tedarike kıyasla nasıl para kazandırır?
 
-"Neden doğrudan üreticiden satın almayayım?" sorusunun doğrudan bir finansal cevabı vardır. Ticaret şirketleri alıcılara beş mekanizma aracılığıyla para kazandırır:
+**1. Hacim birleştirme.** 50 alıcıdan gelen siparişleri tek bir alıcının elde edemeyeceği toplu fiyat için birleştirir. Fiyat farkı tipik olarak ton başına %5–12'dir.
 
-**1. Hacim birleştirme.** Bir ticaret şirketi 50 alıcıdan gelen siparişleri birleştirerek hiçbir tek alıcının kendi başına elde edemeyeceği bir toplu fiyat müzakere eder. Fiyat farkı tipik olarak ton başına %5–12'dir.
+**2. Kur riski yönetimi.** Yerel para biriminde alır, EUR'da satar; kur riskini kendileri üstlenir. Alıcılar kur maruziyeti olmadan EUR fiyatlandırması alır.
 
-**2. Kur riski yönetimi.** Ticaret şirketleri yerel para biriminde (Ukrayna hryvniası, Romen leyi) satın alır ve EUR cinsinden satar; kur riskini kendileri üstlenir. Alıcılar kur riskine maruz kalmadan EUR cinsinden fiyatlandırma alır.
+**3. Uyumluluk altyapısı.** ISO 22000 sertifikası, HACCP sistemleri ve birden fazla ülkedeki kayıtlar yıllık €50.000–200.000'e mal olur. Ticaret şirketleri bu maliyeti birçok müşteriye yayar.
 
-**3. Uyumluluk altyapısı.** ISO 22000 sertifikası almak, HACCP sistemlerini sürdürmek, birden fazla ülkedeki gıda güvenliği yetkililerine kayıt olmak — bunlar yıllık 50.000–200.000 Euro'ya mal olur. Ticaret şirketleri bu maliyeti birçok müşteriye yayar.
+**4. Lojistik optimizasyonu.** Birden fazla siparişi birleştirerek kamyonları daha verimli doldurur. Kendi nakliyesini organize eden alıcıya kıyasla tasarruf tipik olarak ton başına %20–35'tir.
 
-**4. Lojistik optimizasyonu.** Ticaret şirketleri birden fazla siparişi birleştirerek kamyonları daha verimli doldurur. Kendi nakliyesini organize eden tek bir alıcıya kıyasla lojistik maliyet tasarrufu tipik olarak ton başına %20–35'tir.
-
-**5. Piyasa istihbaratı.** Ticaret şirketleri emtia fiyatlarını günlük takip eder, hasat tahminlerini izler ve jeopolitik gelişmeleri gözlemler. Piyasa istihbaratına dayalı olarak doğru zamanda vadeli sözleşme kullanan alıcılar, veri olmadan spot piyasa fiyatlarından alım yapan alıcılara göre yıllık %10–15 tasarruf sağlar.
+**5. Piyasa istihbaratı.** Günlük fiyat takibi, hasat tahminleri ve jeopolitik izleme. Doğru zamanda vadeli sözleşme kullanan alıcılar veri olmadan spot alım yapanlara göre yıllık %10–15 tasarruf sağlar.
 
 ## Bir gıda ticaret şirketiyle çalışmayı kimler değerlendirmeli?
 
-UB Market gibi bir ticaret şirketiyle çalışmaktan en fazla yararlanan alıcının optimum profili:
+**Gıda üreticileri ve işleyiciler** yılda 50–500+ ton ayçiçek yağı, rafine bitkisel yağ veya şeker satın alan; doğrudan ithalat yönetimi karmaşıklığı olmadan AB uyumlu belgelendirme isteyen firmalar.
 
-**Gıda üreticileri ve işleyiciler** yılda 50–500+ ton ayçiçek yağı, rafine bitkisel yağ veya şeker satın alan; doğrudan ithalat operasyonu yönetmenin karmaşıklığı olmadan AB uyumlu belgelendirme, güvenilir tedarik ve rekabetçi fiyatlandırma isteyen firmalar.
+**Perakende distribütörler ve özel marka sahipleri** özel etiketleme ile belirli ambalaj formatlarına (1L PET şişeler, 10L bidonlar, IBC) ihtiyaç duyan firmalar.
 
-**Perakende distribütörler ve özel marka sahipleri** özel etiketleme ile belirli ambalaj formatlarında (1L PET şişeler, 10L bidonlar, IBC) ürünlere ihtiyaç duyan firmalar.
+**HoReCa distribütörleri** restoran zincirlerine, otellere ve catering şirketlerine kızartma yağları ve diğer emtialar tedarik edenler.
 
-**HoReCa distribütörleri** bir veya birden fazla ülkede restoran zincirlerine, otellere ve catering şirketlerine kızartma yağları ve diğer ürünleri tedarik edenler.
-
-**Batı Avrupa'daki gıda ticaret şirketleri** AB uyumlu Karadeniz bölgesi kaynaklı güvenilir bir tedarik ortağı arayanlar.
+**Batı Avrupa'daki gıda ticaret şirketleri** AB uyumlu Karadeniz bölgesi kaynaklı güvenilir tedarik ortağı arayanlar.
 
 ---
 
 AB gıda ticaretinin pratikte belirli ürün ve hacminiz için nasıl işlediğini görmek ister misiniz? **[Teklif isteyin](/tr/quote)** veya **[ortak olun](/tr/partners)** — 24 saat içinde yanıt veriyoruz.
 
-_Kaynaklar: Avrupa Komisyonu gıda ticareti istatistikleri 2025, EC 178/2002 Genel Gıda Hukuku, ICC Incoterms 2020 Kuralları, UB Market işlem verileri 2025–2026._
+_Bu makale Q2 2026 emtia fiyatlarını ve Avrupa gıda ticaretinde YZ destekli tedarikçi keşfini yansıtmak üzere Mayıs 2026'da güncellendi. Kaynaklar: Avrupa Komisyonu gıda ticareti istatistikleri 2025, EC 178/2002, ICC Incoterms 2020, IMF PSUNOUSDM Nisan 2026, UB Market işlem verileri 2025–2026._
