@@ -1,6 +1,6 @@
 ---
 title: "Wie funktioniert Lebensmittelhandel in Europa — Ein vollständiger Leitfaden für B2B-Käufer 2026?"
-description: "Wie internationaler Lebensmittelhandel in Europa funktioniert — 4 Schlüsselakteure, 8-stufiger Handelsprozess, EU-Vorschriften, Zahlungsmethoden und warum Handelsunternehmen B2B-Käufern 10–25% sparen."
+description: "Aktualisiert Mai 2026: wie Lebensmittelhandel in Europa funktioniert — 4 Schlüsselakteure, EU-Vorschriften und warum Händler B2B-Käufern 10–25% sparen."
 date: "2026-03-12"
 modifiedDate: "2026-05-16"
 category: "trading"

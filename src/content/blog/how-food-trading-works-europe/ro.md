@@ -1,6 +1,6 @@
 ---
 title: "Cum Funcționează Comerțul cu Alimente în Europa — Ghid Complet pentru Cumpărătorii B2B 2026?"
-description: "Cum funcționează comerțul internațional cu alimente în Europa — 4 jucători cheie, proces comercial în 8 pași, reglementări UE, metode de plată și de ce companiile comerciale economisesc cumpărătorilor B2B 10–25%."
+description: "Actualizat Mai 2026: cum funcționează comerțul cu alimente în Europa — 4 jucători cheie, proces în 8 pași, reglementări UE și comercianții economisesc 10–25%."
 date: "2026-03-12"
 modifiedDate: "2026-05-16"
 category: "trading"
