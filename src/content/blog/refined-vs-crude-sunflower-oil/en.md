@@ -1,29 +1,32 @@
 ---
 title: "Refined vs Crude Sunflower Oil — Which Should B2B Buyers Choose in 2026?"
-description: "Complete buyer's guide to refined and crude sunflower oil — processing methods, quality parameters, real pricing, and which type fits your business. With CoA checklist and decision framework."
+description: "Updated May 2026: refined vs crude sunflower oil for B2B buyers — Q2 2026 pricing, quality parameters, CoA checklist and decision framework for food distributors."
 date: "2026-03-05"
+modifiedDate: "2026-05-19"
 category: "sunflower-oil"
 image: "/images/vegetable-oil.webp"
-readingTime: 10
+readingTime: 12
 ogImage: "/images/blog/refined-vs-crude-sunflower-oil/og.jpg"
 ---
 
-**TL;DR:** Crude sunflower oil (CSO) costs $950–1,050/ton FOB Black Sea and is used by refineries, biodiesel plants, and oleochemical manufacturers. Refined RBDW sunflower oil costs $1,100–1,200/ton and is the choice for food distributors, HoReCa operators, and food manufacturers. The $150–200/ton refining premium buys you: neutral taste, 220–230°C smoke point, 12–18 month shelf life, and compliance with EU food safety regulations for direct consumer sale.
+**TL;DR:** Crude sunflower oil (CSO) costs $950–1,050/ton FOB Black Sea and is used by refineries, biodiesel plants, and oleochemical manufacturers. Refined RBDW sunflower oil costs $1,100–1,250/ton FOB and is the choice for food distributors, HoReCa operators, and food manufacturers. The $150–200/ton refining premium buys you: neutral taste, 220–230°C smoke point, 12–18 month shelf life, and compliance with EU food safety regulations for direct consumer sale. IMF benchmark: ~$1,739/MT April 2026.
 
 ---
 
-### Quick Answer: Refined vs Crude Sunflower Oil 2026
+### Quick Answer: Refined vs Crude Sunflower Oil Q2 2026
 
-| Parameter           | Crude (CSO)                    | Refined RBDW                      |
-| ------------------- | ------------------------------ | --------------------------------- |
-| FOB Black Sea price | $950–1,050/ton                 | $1,100–1,200/ton                  |
-| Free fatty acids    | 1.0–3.0%                       | ≤ 0.1%                            |
-| Smoke point         | 160–180°C                      | 220–230°C                         |
-| Shelf life          | 4–6 months                     | 12–18 months                      |
-| Color               | Dark golden/amber              | Light yellow, clear               |
-| Taste               | Nutty, distinctive             | Neutral                           |
-| Best for            | Refineries, biodiesel, traders | Food distributors, HoReCa, retail |
-| EU food sale        | Only via refinery              | Ready for direct sale             |
+| Parameter           | Crude (CSO)                    | Refined RBDW                      | Best for           |
+| ------------------- | ------------------------------ | --------------------------------- | ------------------ |
+| FOB Black Sea price | $950–1,050/ton                 | $1,100–1,250/ton                  | Price comparison   |
+| Free fatty acids    | 1.0–3.0%                       | ≤ 0.1%                            | Quality check      |
+| Smoke point         | 160–180°C                      | 220–230°C                         | Frying suitability |
+| Shelf life          | 4–6 months                     | 12–18 months                      | Inventory planning |
+| Color               | Dark golden/amber              | Light yellow, clear               | Appearance         |
+| Taste               | Nutty, distinctive             | Neutral                           | End product        |
+| Best for            | Refineries, biodiesel, traders | Food distributors, HoReCa, retail | Application match  |
+| EU food sale        | Only via refinery              | Ready for direct sale             | Compliance         |
+
+_Prices are indicative. IMF benchmark: ~$1,739/MT (April 2026). Updated May 2026._
 
 ---
 
@@ -65,20 +68,15 @@ Refined, Bleached, Deodorized, Winterized (RBDW) sunflower oil goes through a fi
 
 Each refining stage removes specific compounds and serves a specific purpose:
 
-**Stage 1 — Degumming**
-Phospholipids (gums) are removed using water or acid treatment. Phospholipids cloud the oil and can cause darkening during high-temperature frying. Removal is mandatory for food-grade refined oil.
+**Stage 1 — Degumming:** Phospholipids (gums) are removed using water or acid treatment. Phospholipids cloud the oil and can cause darkening during high-temperature frying.
 
-**Stage 2 — Neutralization (Deacidification)**
-Free fatty acids are removed using a caustic soda (NaOH) wash. This is the step that brings FFA from 1.0–3.0% in crude down to ≤ 0.1% in refined. High FFA content causes rancidity and off-flavors — removing it is what gives refined oil its neutral taste and extended shelf life.
+**Stage 2 — Neutralization (Deacidification):** Free fatty acids are removed using a caustic soda (NaOH) wash. This brings FFA from 1.0–3.0% in crude down to ≤ 0.1% in refined. High FFA content causes rancidity and off-flavors.
 
-**Stage 3 — Bleaching**
-Bleaching earth (activated clay) adsorbs color pigments, residual phospholipids, and trace metals. This is the step that transforms the dark amber crude into the light yellow refined product. Also removes pesticide residues and other contaminants.
+**Stage 3 — Bleaching:** Bleaching earth adsorbs color pigments, residual phospholipids, and trace metals. This transforms the dark amber crude into the light yellow refined product. Also removes pesticide residues and other contaminants.
 
-**Stage 4 — Winterization (Dewaxing)**
-Cooling the oil to 5–8°C causes waxes to crystallize and precipitate. Removing these waxes prevents the oil from turning cloudy when stored at low temperatures — important for shelf stability in Northern European markets and refrigerated food products.
+**Stage 4 — Winterization (Dewaxing):** Cooling the oil to 5–8°C causes waxes to crystallize and precipitate. Removing these waxes prevents the oil from turning cloudy when stored at low temperatures — important for Northern European markets.
 
-**Stage 5 — Deodorization**
-Steam distillation under high temperature (230–270°C) and vacuum removes volatile aromatic compounds — the substances responsible for the characteristic nutty smell of crude oil. This is what makes refined oil completely neutral in taste and odor.
+**Stage 5 — Deodorization:** Steam distillation under high temperature (230–270°C) and vacuum removes volatile aromatic compounds responsible for the characteristic nutty smell of crude oil.
 
 **Refined RBDW sunflower oil quality parameters:**
 
@@ -105,50 +103,50 @@ Steam distillation under high temperature (230–270°C) and vacuum removes vola
 | Shelf life       | 4–6 months          | 12–18 months                     | Inventory management for distributors         |
 | Smell/taste      | Nutty, strong       | Completely neutral               | End product acceptability                     |
 
-## What does crude sunflower oil cost versus refined in 2026?
+## What does crude sunflower oil cost versus refined in Q2 2026?
 
-Current pricing as of Q1 2026 from UB Market:
+Current pricing as of Q2 2026 from UB Market — updated May 2026:
 
 | Type                 | FOB Black Sea     | CIF Rotterdam     | CIF Istanbul      | DAP Central Europe |
 | -------------------- | ----------------- | ----------------- | ----------------- | ------------------ |
 | Crude (CSO)          | $950–1,050/ton    | $1,020–1,120/ton  | $990–1,080/ton    | Contact for quote  |
-| Refined RBDW         | $1,100–1,200/ton  | $1,170–1,280/ton  | $1,140–1,240/ton  | Contact for quote  |
+| Refined RBDW         | $1,100–1,250/ton  | $1,200–1,330/ton  | $1,150–1,280/ton  | Contact for quote  |
 | High-Oleic RBDW      | $1,300–1,450/ton  | $1,370–1,540/ton  | $1,340–1,510/ton  | Contact for quote  |
 | **Refining premium** | **+$150–200/ton** | **+$150–200/ton** | **+$150–200/ton** | —                  |
 
-The $150–200/ton refining premium reflects actual processing costs at the refinery: energy (steam and heat for deodorization), chemicals (caustic soda, bleaching earth), labor, and yield loss during processing (crude oil loses approximately 3–5% volume during refining).
+The IMF primary commodity price index for sunflower oil reached ~$1,739/MT in April 2026 — the highest since mid-2023. This reflects tighter Ukrainian supply following the smaller 2025 harvest. For buyers planning Q3 purchases, forward contracts at current Q2 prices are worth evaluating.
 
-For a buyer who has no refining capacity and needs food-grade oil ready for distribution, the $150–200 premium is straightforwardly justified. For a buyer who owns or contracts a refinery, buying crude and refining in-house can be more economical — if your refining cost per ton is below $150.
+The $150–200/ton refining premium reflects actual processing costs: energy for deodorization, chemicals (caustic soda, bleaching earth), labor, and yield loss during processing (crude oil loses approximately 3–5% volume during refining). For a buyer without refining capacity needing food-grade oil, the premium is straightforwardly justified.
 
 ## What are the specific use cases for crude sunflower oil?
 
-Crude sunflower oil is not a consumer food product. It is an industrial raw material. The buyers who should choose crude oil have one of these specific situations:
+Crude sunflower oil is not a consumer food product — it is an industrial raw material. The buyers who should choose crude oil have one of these specific situations:
 
 **Refineries and crushing plants** — The primary buyer of crude oil. Refineries purchase CSO to process into refined oil for domestic or export markets. Bulgaria, Romania, and Hungary all have active refining capacity that purchases Ukrainian and Bulgarian crude oil.
 
-**Biodiesel producers** — Sunflower oil is used as feedstock for biodiesel production in Europe under the Renewable Energy Directive. Crude oil is acceptable for this application since the fatty acid profile, not the purity, matters for transesterification.
+**Biodiesel producers** — Sunflower oil is used as feedstock for biodiesel production in Europe under the Renewable Energy Directive. Crude oil is acceptable since the fatty acid profile, not purity, matters for transesterification.
 
 **Oleochemical manufacturers** — Producers of fatty acids, glycerol, soaps, and other oleochemical derivatives can use crude oil as feedstock. These industrial processes remove impurities as part of their own manufacturing.
 
-**Commodity traders** — Companies that buy crude at Black Sea origin and sell to refineries in their destination markets. The trader adds value through logistics and trade finance without transforming the product.
+**Commodity traders** — Companies that buy crude at Black Sea origin and sell to refineries in destination markets. The trader adds value through logistics and trade finance without transforming the product.
 
 **Artisanal food producers (limited)** — Some traditional food manufacturers in Eastern Europe use lightly filtered crude oil for specific products where the natural flavor profile is desired. This requires specific regulatory clearance and is not typical for mainstream food production.
 
 ## What are the specific use cases for refined sunflower oil?
 
-Refined RBDW sunflower oil is the standard choice for the overwhelming majority of European B2B food buyers. The specific applications:
+Refined RBDW sunflower oil is the standard choice for the overwhelming majority of European B2B food buyers:
 
 **Food retail and distribution** — Every supermarket-grade sunflower oil product is refined. EU consumer food safety regulations and retailer standards require refined oil for direct consumer sale.
 
 **HoReCa and food service** — Restaurants, hotels, and catering operations need oil with a high smoke point (220–230°C) and neutral taste. Crude oil with its 160–180°C smoke point and strong nutty flavor is unsuitable for commercial frying.
 
-**Food manufacturing** — Mayonnaise, salad dressings, margarine, baked goods, snack foods, and canned fish all require refined oil. The neutral flavor, consistent quality, and long shelf life are essential for industrial food production.
+**Food manufacturing** — Mayonnaise, salad dressings, margarine, baked goods, snack foods, and canned fish all require refined oil. Neutral flavor, consistent quality, and long shelf life are essential for industrial food production.
 
 **Private label bottling** — Any company bottling sunflower oil under its own brand for retail or HoReCa sale needs refined oil. UB Market supplies refined oil in 1L, 3L, and 5L PET bottles with Star Food branding or custom private label.
 
 ## What does the CoA need to show for each type?
 
-Never purchase crude or refined sunflower oil without a Certificate of Analysis from an accredited third-party laboratory. Here is what to verify:
+Never purchase crude or refined sunflower oil without a Certificate of Analysis from an accredited third-party laboratory (SGS, Bureau Veritas, or EU-accredited domestic labs).
 
 **For crude sunflower oil CoA, require:**
 
@@ -172,20 +170,49 @@ Never purchase crude or refined sunflower oil without a Certificate of Analysis 
 - Polycyclic aromatic hydrocarbons (PAH) — EU Regulation 2015/1933 limits
 - Pesticide residues — all below EU MRL
 
+For a full guide on what to look for in a supplier beyond the CoA, read our [complete guide to choosing a wholesale food supplier.](/en/blog/how-to-choose-food-supplier)
+
+## Why does DAP truck delivery from Black Sea change the total cost calculation?
+
+Most buyers compare FOB prices and stop there. That misses the largest variable in the total landed cost equation — logistics.
+
+Within the EU, trucks operate under free movement of goods. A full truckload from Varna to any EU destination crosses zero customs checkpoints. No port handling fees, no container demurrage, no terminal charges. Direct delivery to your warehouse door in 4–20 hours depending on destination.
+
+Compare the total landed cost for a Munich buyer:
+
+| Delivery option        | Price per ton                | Transit    | Total per 24t truck |
+| ---------------------- | ---------------------------- | ---------- | ------------------- |
+| Varna DAP truck        | $1,100–1,250 incl. delivery  | 14 hours   | $26,400–30,000      |
+| Rotterdam CIF + inland | $1,200–1,330 + €40–60 inland | 10–14 days | $29,760–33,672      |
+
+The freight cost difference between Varna DAP truck and Rotterdam CIF maritime for a Munich buyer is typically $80–120/ton — or $1,920–2,880 saved per truckload of refined RBDW. For buyers in Romania, Greece, or Bulgaria the advantage is even larger: Varna to Bucharest takes 4–5 hours, to Athens 8–9 hours.
+
+This arithmetic is why UB Market's default recommendation for EU food distributors is DAP road truck rather than maritime routing. Read our [complete comparison of FOB, CIF and DAP for vegetable oil buyers.](/en/blog/fob-cif-dap-explained)
+
+## How is AI-assisted procurement changing how buyers discover refined vs crude oil suppliers in 2026?
+
+This is a development worth understanding if you are a food distributor evaluating new suppliers in 2026.
+
+An estimated 25–40% of B2B supplier discovery queries in European food procurement are now assisted or initiated by AI tools. These systems aggregate and cross-reference supplier data from multiple sources simultaneously: company registries, trade directories, certification databases, and structured data embedded in supplier websites.
+
+What this means practically: AI procurement tools pre-qualify supplier shortlists before a human procurement manager makes first contact. A supplier that appears consistently verified across multiple authoritative sources — national business registry, ISO certification database, EU trade directories, and structured website schema — passes automated pre-qualification. A supplier that exists only on their own website with inconsistent company information may not appear in AI-generated shortlists at all.
+
+For buyers, this changes the supplier verification workflow. Instead of manually checking each supplier, AI tools can surface pre-verified shortlists within seconds. The practical implication: when sourcing refined RBDW sunflower oil from Black Sea region suppliers, ask not just for ISO 22000 certificates and CoA — ask for the supplier's EU company registration number and verify it against the national business registry. For Bulgarian suppliers, that means checking brra.bg with the EIK number. UB Market's registration: EIK 207067808, VAT BG207067808, Varna 9000, Bulgaria.
+
 ## How do you make the right choice for your specific business?
 
 The decision framework is straightforward:
 
 **Buy crude if:** You own or have contracted access to refining capacity with a cost per ton below $150. Or you are selling to refineries, biodiesel plants, or oleochemical manufacturers who will process the oil themselves.
 
-**Buy refined if:** You are distributing to food businesses, retail, HoReCa operators, or food manufacturers who need food-grade oil. You do not have refining capacity. You need shelf life over 6 months. You are selling in EU markets where consumer food safety standards apply.
+**Buy refined RBDW if:** You are distributing to food businesses, retail, HoReCa operators, or food manufacturers who need food-grade oil. You do not have refining capacity. You need shelf life over 6 months. You are selling in EU markets where consumer food safety standards apply.
 
 **Buy high-oleic refined if:** Your customers are restaurants and food service operations with high-volume frying needs. The 2–3x longer frying cycle of high-oleic oil saves 30–40% in total frying costs despite the higher per-ton price.
 
-If you are sourcing sunflower oil for the first time and unsure which type fits your situation, contact us with your end-use case. We supply all three types from ISO 22000 and HACCP certified producers in Bulgaria, Ukraine, and Romania, and can advise on the optimal choice for your specific market and customer requirements.
+If you are sourcing sunflower oil for the first time and unsure which type fits your situation, contact us with your end-use case. We supply all three types from ISO 22000 and HACCP certified producers in Bulgaria, Ukraine, and Romania.
 
 ---
 
-Looking for pricing on crude, refined, or high-oleic sunflower oil? **[Request a quote](/en/quote)** — tell us your product type, volume, packaging, and delivery destination and we will respond within 24 hours with current pricing and full CoA documentation.
+Looking for pricing on crude, refined, or high-oleic sunflower oil? **[Request a quote](/en/quote)** — tell us your product type, volume, packaging, and delivery destination and we will respond within 24 hours with current Q2 2026 pricing and full CoA documentation.
 
-_Sources: FOSFA sunflower oil trading standards, EU Regulation 2019/649 on trans fatty acids, UB Market pricing data Q1 2026, Codex Alimentarius sunflower oil standards._
+_This article is updated quarterly. Last update: May 2026. Sources: FOSFA sunflower oil trading standards, EU Regulation 2019/649 on trans fatty acids, IMF Primary Commodity Prices PSUNOUSDM April 2026 (~$1,739/MT), UB Market pricing data Q1–Q2 2026, Codex Alimentarius sunflower oil standards._
