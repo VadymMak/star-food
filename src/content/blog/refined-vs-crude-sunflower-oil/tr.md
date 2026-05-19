@@ -4,7 +4,7 @@ description: "Güncellendi Mayıs 2026: rafine vs ham ayçiçek yağı B2B alıc
 date: "2026-03-05"
 modifiedDate: "2026-05-19"
 category: "sunflower-oil"
-image: "/images/vegetable-oil.webp"
+image: "/images/blog/refined-vs-crude-sunflower-oil/hero.webp"
 readingTime: 12
 ogImage: "/images/blog/refined-vs-crude-sunflower-oil/og.jpg"
 ---

@@ -4,7 +4,7 @@ description: "Actualizat Mai 2026: ulei de floarea-soarelui rafinat vs brut pent
 date: "2026-03-05"
 modifiedDate: "2026-05-19"
 category: "sunflower-oil"
-image: "/images/vegetable-oil.webp"
+image: "/images/blog/refined-vs-crude-sunflower-oil/hero.webp"
 readingTime: 12
 ogImage: "/images/blog/refined-vs-crude-sunflower-oil/og.jpg"
 ---
