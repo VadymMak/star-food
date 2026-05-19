@@ -1,29 +1,32 @@
 ---
 title: "Raffiniertes vs. Rohes Sonnenblumenöl — Was sollten B2B-Käufer 2026 wählen?"
-description: "Vollständiger Käuferratgeber für raffiniertes und rohes Sonnenblumenöl — Verarbeitungsmethoden, Qualitätsparameter, reale Preise und welcher Typ für Ihr Unternehmen passt. Mit CoA-Checkliste und Entscheidungsrahmen."
+description: "Aktualisiert Mai 2026: raffiniertes vs. rohes Sonnenblumenöl für B2B-Käufer — Q2 2026 Preise, Qualitätsparameter, CoA-Checkliste und Entscheidungsrahmen für Lebensmitteldistributoren."
 date: "2026-03-05"
+modifiedDate: "2026-05-19"
 category: "sunflower-oil"
-image: "/images/vegetable-oil.webp"
-readingTime: 10
+image: "/images/blog/refined-vs-crude-sunflower-oil/hero.webp"
+readingTime: 12
 ogImage: "/images/blog/refined-vs-crude-sunflower-oil/og.jpg"
 ---
 
-**TL;DR:** Rohes Sonnenblumenöl (CSO) kostet $950–1.050/t FOB Schwarzes Meer und wird von Raffinerien, Biodieselproduzenten und Oleochemieherstellern eingesetzt. Raffiniertes RBDW-Sonnenblumenöl kostet $1.100–1.200/t und ist die Wahl für Lebensmitteldistributoren, HoReCa-Betreiber und Lebensmittelhersteller. Die Raffinierungsprämie von $150–200/t bringt: neutralen Geschmack, 220–230°C Rauchpunkt, 12–18 Monate Haltbarkeit und EU-Konformität für den direkten Verbraucherverkauf.
+**TL;DR:** Rohes Sonnenblumenöl (CSO) kostet $950–1.050/t FOB Schwarzes Meer und wird von Raffinerien, Biodieselproduzenten und Oleochemieherstellern eingesetzt. Raffiniertes RBDW-Sonnenblumenöl kostet $1.100–1.250/t FOB und ist die Wahl für Lebensmitteldistributoren, HoReCa-Betreiber und Lebensmittelhersteller. IMF-Referenz: ~$1.739/MT April 2026. LKW-Lieferung Varna nach München in 14 Stunden — keine Zollabfertigung, voller EU-Status.
 
 ---
 
-### Schnellantwort: Raffiniertes vs. rohes Sonnenblumenöl 2026
+### Schnellantwort: Raffiniertes vs. rohes Sonnenblumenöl Q2 2026
 
-| Parameter                | Rohöl (CSO)                     | Raffiniertes RBDW                   |
-| ------------------------ | ------------------------------- | ----------------------------------- |
-| FOB Schwarzes Meer Preis | $950–1.050/t                    | $1.100–1.200/t                      |
-| Freie Fettsäuren         | 1,0–3,0%                        | ≤ 0,1%                              |
-| Rauchpunkt               | 160–180°C                       | 220–230°C                           |
-| Haltbarkeit              | 4–6 Monate                      | 12–18 Monate                        |
-| Farbe                    | Dunkelgold/Bernstein            | Hellgelb, klar                      |
-| Geschmack                | Nussig, charakteristisch        | Neutral                             |
-| Beste Verwendung         | Raffinerien, Biodiesel, Händler | Distributoren, HoReCa, Einzelhandel |
-| EU-Lebensmittelverkauf   | Nur über Raffinerie             | Direkt vermarktungsfähig            |
+| Parameter              | Rohöl (CSO)                     | Raffiniertes RBDW                   | Am besten für    |
+| ---------------------- | ------------------------------- | ----------------------------------- | ---------------- |
+| FOB Schwarzes Meer     | $950–1.050/t                    | $1.100–1.250/t                      | Preisvergleich   |
+| Freie Fettsäuren       | 1,0–3,0%                        | ≤ 0,1%                              | Qualitätsprüfung |
+| Rauchpunkt             | 160–180°C                       | 220–230°C                           | Frittiereignung  |
+| Haltbarkeit            | 4–6 Monate                      | 12–18 Monate                        | Lagerplanung     |
+| Farbe                  | Dunkelgold/Bernstein            | Hellgelb, klar                      | Erscheinungsbild |
+| Geschmack              | Nussig, charakteristisch        | Neutral                             | Endprodukt       |
+| Beste Verwendung       | Raffinerien, Biodiesel, Händler | Distributoren, HoReCa, Einzelhandel | Anwendung        |
+| EU-Lebensmittelverkauf | Nur über Raffinerie             | Direkt vermarktungsfähig            | Konformität      |
+
+_Preise sind indikativ. IMF-Referenz: ~$1.739/MT (April 2026). Aktualisiert Mai 2026._
 
 ---
 
@@ -35,147 +38,157 @@ Drei Wochen später rief er zurück. Sein Kunde — ein Lebensmitteldistributor 
 
 Er musste Sofortlieferung von raffiniertem Öl über einen lokalen Broker zu €1.280/t DAP München arrangieren und bezahlen — €135 mehr pro Tonne als wenn er von Beginn an das richtige Produkt bei uns bestellt hätte. Das günstige Rohöl kostete ihn am Ende deutlich mehr als die raffinierte Option.
 
-Diese Geschichte wiederholt sich regelmäßig bei Erstkäufern. Die Rohöl/Raffiniertes-Entscheidung geht nicht darum, den günstigsten Preis zu finden — sondern darum, die Produktspezifikation mit Ihrer spezifischen Geschäftsanwendung in Einklang zu bringen. Dieser Leitfaden erklärt, wie Sie diese Übereinstimmung korrekt treffen.
+Diese Geschichte wiederholt sich regelmäßig bei Erstkäufern. Die Rohöl/Raffiniertes-Entscheidung geht nicht darum, den günstigsten Preis zu finden — sondern darum, die Produktspezifikation mit Ihrer spezifischen Geschäftsanwendung in Einklang zu bringen.
 
 ## Was ist rohes Sonnenblumenöl und wie wird es produziert?
 
-Rohes Sonnenblumenöl (CSO) ist das direkte Ergebnis des Pressens oder Lösungsmittelextrahierens von Sonnenblumenkernen. Nach der Reinigung, Konditionierung und dem Pressen der Samen durchläuft das resultierende Öl nur eine Grundfiltration zur Entfernung fester Teilchen. Keine chemische Behandlung wird angewendet. Das Öl behält jede Verbindung bei, die natürlich im Sonnenblumenkern vorhanden ist: Phospholipide, Wachse, freie Fettsäuren, Farbpigmente und flüchtige aromatische Verbindungen.
+Rohes Sonnenblumenöl (CSO) ist das direkte Ergebnis des Pressens oder Lösungsmittelextrahierens von Sonnenblumenkernen. Keine chemische Behandlung wird angewendet. Das Öl behält Phospholipide, Wachse, freie Fettsäuren, Farbpigmente und flüchtige aromatische Verbindungen.
 
 **Der Rohölproduktionsprozess in vier Schritten:**
 
-1. **Saatgutvorbereitung** — Reinigung, Trocknung und Entspelzung zur Maximierung des Ölertrags
-2. **Mechanisches Pressen** — Expeller oder Schneckenpresse extrahiert 85–90% des verfügbaren Öls
-3. **Lösungsmittelextraktion** — Hexanextraktion gewinnt die verbleibenden 10–15% aus dem Presskuchen
-4. **Grundfiltration** — Entfernt suspendierte Kernteilchen, keine chemische Behandlung
+1. **Saatgutvorbereitung** — Reinigung, Trocknung und Entspelzung
+2. **Mechanisches Pressen** — Expeller extrahiert 85–90% des verfügbaren Öls
+3. **Lösungsmittelextraktion** — Hexan gewinnt die verbleibenden 10–15%
+4. **Grundfiltration** — Entfernt suspendierte Teilchen, keine chemische Behandlung
 
-Das Ergebnis ist ein dunkelgoldenes bis bernsteinfarbenes Öl mit charakteristischem Nussaroma, hohem natürlichen Vitamin-E-Gehalt und signifikanten Mengen an Phospholipiden und freien Fettsäuren. Dies ist kein Endprodukt für die meisten Lebensmittelanwendungen — es ist ein Zwischenprodukt, das weitere Verarbeitung benötigt.
-
-**Typische Qualitätsparameter für rohes Sonnenblumenöl:**
+**Typische Qualitätsparameter:**
 
 - Freie Fettsäuren (FFA): 1,0–3,0%
 - Peroxidzahl: bis zu 15 meq/kg
 - Feuchtigkeit: bis zu 0,2%
 - Phosphorgehalt: 100–600 ppm
-- Farbe (Lovibond): 35Y / 6R oder dunkler
-- Haltbarkeit: 4–6 Monate in versiegelten Behältern
+- Haltbarkeit: 4–6 Monate
 
 ## Was ist raffiniertes Sonnenblumenöl und was bewirkt der Raffinierungsprozess?
 
-Raffiniertes, gebleichtes, desodoriertes, winterisiertes (RBDW) Sonnenblumenöl durchläuft einen fünfstufigen industriellen Reinigungsprozess, der das dunkle, würzige Rohöl in das hellgefärbte, neutral schmeckende Produkt verwandelt, das in jedem Supermarkt und jeder Gaststättenküche zu finden ist.
+Raffiniertes, gebleichtes, desodoriertes, winterisiertes (RBDW) Sonnenblumenöl durchläuft einen fünfstufigen industriellen Reinigungsprozess:
 
-Jede Raffinierungsstufe entfernt spezifische Verbindungen und dient einem spezifischen Zweck:
+**Stufe 1 — Entschleimung:** Phospholipide werden durch Wasser- oder Säurebehandlung entfernt. Verhindert Trübung und Dunkelfärbung beim Frittieren.
 
-**Stufe 1 — Entschleimung (Degumming)**
-Phospholipide (Schleimstoffe) werden durch Wasser- oder Säurebehandlung entfernt. Phospholipide trüben das Öl und können beim Frittieren bei hoher Temperatur Dunkelfärbung verursachen. Die Entfernung ist für lebensmitteltaugliches raffiniertes Öl obligatorisch.
+**Stufe 2 — Neutralisation:** FFA von 1,0–3,0% auf ≤ 0,1% durch NaOH-Wäsche reduziert. Verleiht neutralen Geschmack und verlängerte Haltbarkeit.
 
-**Stufe 2 — Neutralisation (Desäuerung)**
-Freie Fettsäuren werden durch eine Natronlauge (NaOH) Wäsche entfernt. Dieser Schritt reduziert FFA von 1,0–3,0% im Rohöl auf ≤ 0,1% im raffinierten Öl. Hoher FFA-Gehalt verursacht Ranzigkeit und Fehlaromen — deren Entfernung verleiht raffiniertem Öl seinen neutralen Geschmack und die verlängerte Haltbarkeit.
+**Stufe 3 — Bleichung:** Bleicherde adsorbiert Farbpigmente und Verunreinigungen. Wandelt dunkel bernsteinfarbenes Rohöl in hellgelbes Produkt um. Entfernt auch Pestizidrückstände.
 
-**Stufe 3 — Bleichung**
-Bleicherde (aktivierter Ton) adsorbiert Farbpigmente, restliche Phospholipide und Spurenmetalle. Dieser Schritt wandelt das dunkel bernsteinfarbene Rohöl in das hellgelbe raffinierte Produkt um. Entfernt auch Pestizidrückstände und andere Verunreinigungen.
+**Stufe 4 — Winterisierung:** Abkühlung auf 5–8°C kristallisiert Wachse. Verhindert Kältetrübung — wichtig für DACH-Märkte und gekühlte Lebensmittelprodukte.
 
-**Stufe 4 — Winterisierung (Entwachsung)**
-Abkühlung des Öls auf 5–8°C bewirkt Kristallisierung und Ausfällung von Wachsen. Die Entfernung dieser Wachse verhindert, dass das Öl bei Lagerung bei niedrigen Temperaturen eintrübt — wichtig für Regalstabilität auf nordeuropäischen Märkten und gekühlte Lebensmittelprodukte.
+**Stufe 5 — Desodorierung:** Dampfdestillation bei 230–270°C und Vakuum entfernt flüchtige Aromastoffe. Macht raffiniertes Öl geschmacks- und geruchsneutral.
 
-**Stufe 5 — Desodorierung**
-Dampfdestillation bei hoher Temperatur (230–270°C) und Vakuum entfernt flüchtige aromatische Verbindungen — die Substanzen, die für den charakteristischen Nussgeruch von Rohöl verantwortlich sind. Dieser Schritt macht raffiniertes Öl völlig neutral in Geschmack und Geruch.
+**RBDW Qualitätsparameter:**
 
-**Qualitätsparameter für raffiniertes RBDW-Sonnenblumenöl:**
-
-- Freie Fettsäuren (FFA): ≤ 0,1%
+- FFA: ≤ 0,1%
 - Peroxidzahl: ≤ 5 meq/kg
 - Feuchtigkeit: ≤ 0,05%
-- Farbe (Lovibond): 12Y / 1,2R
 - Rauchpunkt: 220–230°C
 - Haltbarkeit: 12–18 Monate
 
-## Wie vergleichen sich rohes und raffiniertes Sonnenblumenöl bei jedem Qualitätsparameter?
+## Wie vergleichen sich beide Typen bei jedem Qualitätsparameter?
 
-| Parameter        | Rohes Sonnenblumenöl | Raffiniertes RBDW                     | Warum es wichtig ist                               |
-| ---------------- | -------------------- | ------------------------------------- | -------------------------------------------------- |
-| Freie Fettsäuren | 1,0–3,0%             | ≤ 0,1%                                | Hoher FFA = Ranzigkeit, Fehlaromen                 |
-| Peroxidzahl      | Bis zu 15 meq/kg     | ≤ 5 meq/kg                            | Hoher Peroxidwert = Oxidation, kürzere Haltbarkeit |
-| Farbe (Lovibond) | 35Y / 6R+            | 12Y / 1,2R                            | Aussehen in Lebensmittelprodukten                  |
-| Rauchpunkt       | 160–180°C            | 220–230°C                             | Eignung für das Frittieren                         |
-| Phosphorgehalt   | 100–600 ppm          | ≤ 2 ppm                               | Schäumen und Dunkelfärbung in Fritteusen           |
-| Wachsgehalt      | Vorhanden            | Entfernt                              | Kältetrübung in Flaschen                           |
-| Feuchtigkeit     | Bis zu 0,2%          | ≤ 0,05%                               | Stabilität und mikrobielle Sicherheit              |
-| Trans-Fette      | Minimal              | Minimal (bei richtiger Desodorierung) | EU-Verordnung 2019/649-Konformität                 |
-| Vitamin E        | 600–700 mg/kg        | 400–500 mg/kg                         | Durch Verarbeitung reduziert, aber noch erheblich  |
-| Haltbarkeit      | 4–6 Monate           | 12–18 Monate                          | Lagerverwaltung für Distributoren                  |
-| Geruch/Geschmack | Nussig, stark        | Vollständig neutral                   | Endproduktakzeptanz                                |
+| Parameter        | Rohes Öl         | Raffiniertes RBDW   | Warum wichtig                  |
+| ---------------- | ---------------- | ------------------- | ------------------------------ |
+| Freie Fettsäuren | 1,0–3,0%         | ≤ 0,1%              | Ranzigkeit, Fehlaromen         |
+| Peroxidzahl      | Bis zu 15 meq/kg | ≤ 5 meq/kg          | Oxidation, kürzere Haltbarkeit |
+| Farbe (Lovibond) | 35Y / 6R+        | 12Y / 1,2R          | Aussehen in Lebensmitteln      |
+| Rauchpunkt       | 160–180°C        | 220–230°C           | Frittiereignung                |
+| Phosphorgehalt   | 100–600 ppm      | ≤ 2 ppm             | Schäumen in Fritteusen         |
+| Feuchtigkeit     | Bis zu 0,2%      | ≤ 0,05%             | Mikrobielle Sicherheit         |
+| Vitamin E        | 600–700 mg/kg    | 400–500 mg/kg       | Reduziert, aber noch erheblich |
+| Haltbarkeit      | 4–6 Monate       | 12–18 Monate        | Lagerverwaltung                |
+| Geruch/Geschmack | Nussig, stark    | Vollständig neutral | Endproduktakzeptanz            |
 
-## Was kostet rohes versus raffiniertes Öl in Deutschland und der EU 2026?
+## Was kostet rohes versus raffiniertes Öl im DACH-Raum und der EU in Q2 2026?
 
-Aktuelle Preise Q1 2026 von UB Market:
+Aktuelle Preise von UB Market — aktualisiert Mai 2026:
 
-| Typ                     | FOB Schwarzes Meer | CIF Rotterdam   | CIF Istanbul    | DAP DACH-Raum |
-| ----------------------- | ------------------ | --------------- | --------------- | ------------- |
-| Rohöl (CSO)             | $950–1.050/t       | $1.020–1.120/t  | $990–1.080/t    | Auf Anfrage   |
-| Raffiniertes RBDW       | $1.100–1.200/t     | $1.170–1.280/t  | $1.140–1.240/t  | Auf Anfrage   |
-| High-Oleic RBDW         | $1.300–1.450/t     | $1.370–1.540/t  | $1.340–1.510/t  | Auf Anfrage   |
-| **Raffinierungsprämie** | **+$150–200/t**    | **+$150–200/t** | **+$150–200/t** | —             |
+| Typ                     | FOB Schwarzes Meer | CIF Rotterdam   | DAP München/Wien |
+| ----------------------- | ------------------ | --------------- | ---------------- |
+| Rohöl (CSO)             | $950–1.050/t       | $1.020–1.120/t  | Auf Anfrage      |
+| Raffiniertes RBDW       | $1.100–1.250/t     | $1.200–1.330/t  | Auf Anfrage      |
+| High-Oleic RBDW         | $1.300–1.450/t     | $1.370–1.540/t  | Auf Anfrage      |
+| **Raffinierungsprämie** | **+$150–200/t**    | **+$150–200/t** | —                |
 
-Die Raffinierungsprämie von $150–200/t spiegelt tatsächliche Verarbeitungskosten in der Raffinerie wider: Energie (Dampf und Wärme für Desodorierung), Chemikalien (Natronlauge, Bleicherde), Arbeit und Ausbeuteverlust (Rohöl verliert beim Raffinieren ca. 3–5% Volumen).
+Der IMF PSUNOUSDM-Index erreichte ~$1.739/MT im April 2026 — der höchste Stand seit Mitte 2023. Dies spiegelt engere ukrainische Versorgung nach der kleineren Ernte 2025 wider. Für Käufer, die Q3-Einkäufe planen, ist die Bewertung von Terminkontrakten zu aktuellen Q2-Preisen sinnvoll.
 
-Für einen Käufer ohne Raffinierungskapazität, der lebensmitteltaugliches vertriebsfertiges Öl benötigt, ist die Prämie klar gerechtfertigt. Für einen Käufer, der eine Raffinerie besitzt oder kontrahiert, kann Rohöl kaufen und vor Ort raffinieren wirtschaftlicher sein — wenn die Raffinierungskosten pro Tonne unter $150 liegen.
+Die Raffinierungsprämie von $150–200/t spiegelt tatsächliche Raffinieriekosten wider: Energie, Chemikalien (Natronlauge, Bleicherde), Arbeit und Ausbeuteverlust (Rohöl verliert ca. 3–5% Volumen beim Raffinieren).
 
-## Was sind die spezifischen Anwendungsfälle für rohes Sonnenblumenöl?
+## Was sind die spezifischen Anwendungsfälle für Rohöl?
 
-Rohes Sonnenblumenöl ist kein Verbraucher-Lebensmittelprodukt. Es ist ein industrieller Rohstoff. Käufer, die Rohöl wählen sollten, haben eine dieser spezifischen Situationen:
+Rohes Sonnenblumenöl ist ein industrieller Rohstoff, kein Verbraucher-Lebensmittelprodukt:
 
-**Raffinerien und Ölmühlen** — Der Hauptkäufer von Rohöl. Raffinerien kaufen CSO zur Verarbeitung zu raffiniertem Öl für Inlands- oder Exportmärkte. Bulgarien, Rumänien und Ungarn haben aktive Raffinierungskapazitäten, die ukrainisches und bulgarisches Rohöl kaufen.
+**Raffinerien und Ölmühlen** — Der Hauptkäufer. Bulgarien, Rumänien und Ungarn haben aktive Raffinierungskapazitäten, die Schwarzmeer-Rohöl kaufen.
 
-**Biodieselproduzenten** — Sonnenblumenöl wird als Rohstoff für Biodieselproduktion in Europa unter der Erneuerbaren-Energien-Richtlinie verwendet. Rohöl ist für diese Anwendung akzeptabel, da das Fettsäureprofil, nicht die Reinheit, für die Umesterung entscheidend ist.
+**Biodieselproduzenten** — Für Transesterifikation unter der Erneuerbaren-Energien-Richtlinie. Das Fettsäureprofil, nicht die Reinheit, ist entscheidend.
 
-**Oleochemieproduzenten** — Hersteller von Fettsäuren, Glycerin, Seifen und anderen oleochemischen Derivaten können Rohöl als Rohstoff verwenden.
+**Oleochemieproduzenten** — Hersteller von Fettsäuren, Glycerin, Seifen.
 
-**Rohstoffhändler** — Unternehmen, die Rohöl am Schwarzmeer-Ursprung kaufen und an Raffinerien in ihren Zielmärkten verkaufen. Im DACH-Raum kaufen österreichische und süddeutsche Raffinerien regelmäßig Schwarzmeer-Rohöl über EU-registrierte Handelsfirmen wie UB Market.
+**Rohstoffhändler** — Im DACH-Raum kaufen österreichische und süddeutsche Raffinerien regelmäßig Schwarzmeer-Rohöl über EU-registrierte Handelsfirmen wie UB Market.
 
-## Was sind die spezifischen Anwendungsfälle für raffiniertes Sonnenblumenöl?
+## Was sind die spezifischen Anwendungsfälle für raffiniertes Öl?
 
-**Lebensmitteleinzelhandel und Distribution** — Jedes Sonnenblumenöl-Produkt im Supermarkt-Standard ist raffiniert. EU-Verbrauchersicherheitsstandards und Handelsstandards erfordern raffiniertes Öl für direkten Verbraucherverkauf.
+**Lebensmitteleinzelhandel und Distribution** — Jedes Supermarkt-Produkt ist raffiniert. EU-Verbrauchersicherheitsstandards erfordern raffiniertes Öl. Das BVL kontrolliert Lebensmittelqualität in Deutschland.
 
-**HoReCa und Gastronomie** — Restaurants, Hotels und Cateringunternehmen benötigen Öl mit hohem Rauchpunkt (220–230°C) und neutralem Geschmack. Rohöl mit seinem Rauchpunkt von 160–180°C und starkem Nussgeschmack ist für gewerbliches Frittieren ungeeignet. Das BVL (Bundesamt für Verbraucherschutz und Lebensmittelsicherheit) und entsprechende Länderbehörden kontrollieren die Qualität von Frittieröl in deutschen Gastronomiebetrieben.
+**HoReCa und Gastronomie** — Restaurants, Hotels und Cateringunternehmen benötigen 220–230°C Rauchpunkt und neutralen Geschmack. Rohöl mit 160–180°C ist ungeeignet. Das BVL und Länderbehörden kontrollieren die Qualität von Frittieröl in deutschen Gastronomiebetrieben.
 
 **Lebensmittelherstellung** — Mayonnaise, Salatdressings, Margarine, Backwaren, Snacks und Fischkonserven erfordern alle raffiniertes Öl.
 
-**Private-Label-Abfüllung** — Jedes Unternehmen, das Sonnenblumenöl unter eigenem Label für den Einzelhandel oder HoReCa abfüllt, benötigt raffiniertes Öl.
+**Private-Label-Abfüllung** — Jedes Unternehmen, das unter eigenem Label für Einzelhandel oder HoReCa abfüllt, benötigt raffiniertes Öl mit vollständiger BVL-konformer Dokumentation.
 
 ## Was muss die CoA für jeden Typ zeigen?
 
-**Für CoA des Rohöls, verlangen Sie:**
+Kaufen Sie nie ohne Analysezertifikat von einem akkreditierten Drittlabor — SGS, Bureau Veritas oder EU-akkreditierte Inlandslabore.
 
-- Gehalt an freien Fettsäuren — Ziel ≤ 3,0%, ablehnen wenn darüber
-- Feuchtigkeit und flüchtige Substanzen — Ziel ≤ 0,2%
+**Für CoA des Rohöls:**
+
+- FFA-Gehalt — Ziel ≤ 3,0%, ablehnen wenn darüber
+- Feuchtigkeit — Ziel ≤ 0,2%
 - Peroxidzahl — Ziel ≤ 15 meq/kg
-- Phosphorgehalt — wichtig für die nachgelagerte Raffinierung
-- Wachsgehalt — relevant für Winterisierungsplanung
+- Phosphorgehalt — wichtig für nachgelagerte Raffinierung
 - Pestizidrückstände — unter EU-MRL-Grenzwerten
-- Lovibond-Farbe — zur Qualitätsklassifizierung
 
-**Für CoA des raffinierten RBDW-Sonnenblumenöls, verlangen Sie:**
+**Für CoA des raffinierten RBDW:**
 
-- FFA-Gehalt — muss ≤ 0,3% sein (vorzugsweise ≤ 0,1%)
-- Peroxidzahl — muss ≤ 5 meq/kg sein
+- FFA — muss ≤ 0,3% sein (vorzugsweise ≤ 0,1%)
+- Peroxidzahl — ≤ 5 meq/kg
 - Feuchtigkeit — ≤ 0,05%
-- Lovibond-Farbe — maximum 12Y / 1,2R für Standardqualität
-- Rauchpunkt — mindestens 220°C für Frittieranwendungen
-- Kältetest (Winterisierung) — muss 5,5 Stunden bei 0°C ohne Eintrübung bestehen
-- Trans-Fettgehalt — ≤ 1% gemäß EU-Verordnung 2019/649
-- Polyzyklische aromatische Kohlenwasserstoffe (PAK) — EU-Verordnung 2015/1933 Grenzwerte
+- Rauchpunkt — mindestens 220°C
+- Kältetest — 5,5 Stunden bei 0°C ohne Eintrübung
+- Trans-Fette — ≤ 1% gemäß EU-Verordnung 2019/649
 - Pestizidrückstände — alle unter EU-MRL
 
-## Wie treffen Sie die richtige Wahl für Ihr spezifisches Unternehmen?
+Für vollständige Lieferantenbewertungskriterien lesen Sie unseren [vollständigen Leitfaden zur Auswahl eines Großhandels-Lebensmittellieferanten.](/de/blog/how-to-choose-food-supplier)
 
-**Kaufen Sie Rohöl wenn:** Sie eine Raffinerie besitzen oder kontrahierten Zugang zu Raffinierungskapazitäten mit Kosten unter $150/t haben. Oder Sie an Raffinerien, Biodieselproduzenten oder Oleochemiehersteller verkaufen, die das Öl selbst verarbeiten.
+## Warum verändert LKW-Lieferung aus der Schwarzmeerregion die Gesamtkostenrechnung?
 
-**Kaufen Sie raffiniertes Öl wenn:** Sie an Lebensmittelunternehmen, Einzelhandel, HoReCa-Betreiber oder Lebensmittelhersteller verteilen, die lebensmitteltaugliches Öl benötigen. Sie haben keine Raffinierungskapazitäten. Sie benötigen eine Haltbarkeit von mehr als 6 Monaten. Sie auf EU-Märkten verkaufen, auf denen Verbrauchersicherheitsstandards gelten.
+Die meisten Käufer vergleichen FOB-Preise und hören dort auf. Das übersieht die größte Variable in der Gesamtlandungskosten-Gleichung — Logistik.
 
-**Kaufen Sie High-Oleic raffiniertes wenn:** Ihre Kunden Restaurants und Gastronomiebetriebe mit intensiven Frittieranforderungen sind. Der 2–3-fach längere Frittierzyklus von High-Oleic-Öl spart trotz des höheren Preises pro Tonne 30–40% bei den Gesamtfrittierkosten.
+Innerhalb der EU operieren LKWs unter der Warenverkehrsfreiheit. Ein voller LKW von Varna nach München überquert null Zollpunkte. Direkte Lieferung an Ihre Lagertür.
+
+Gesamtkostenvergleich für einen Münchener Käufer (24 Tonnen):
+
+| Lieferoption           | Preis/Tonne                  | Transit    | Gesamt 24t LKW |
+| ---------------------- | ---------------------------- | ---------- | -------------- |
+| Varna DAP LKW          | $1.100–1.250 inkl. Lieferung | 14 Stunden | $26.400–30.000 |
+| Rotterdam CIF + Inland | $1.200–1.330 + €40–60 inland | 10–14 Tage | $29.760–33.672 |
+
+Für Wien: 12 Stunden. Für Hamburg: 20 Stunden. Für Zürich: 15 Stunden. In allen Fällen keine Zollabfertigung, keine Hafengebühren.
+
+Für eine vollständige Analyse der FOB-, CIF- und DAP-Incoterms lesen Sie unseren [vollständigen Leitfaden zu FOB, CIF und DAP für europäische Lebensmittelkäufer.](/de/blog/fob-cif-dap-explained)
+
+## Wie verändert KI-gestützte Beschaffung die Lieferantenentdeckung für Öl in Europa 2026?
+
+Schätzungsweise 25–40% der B2B-Lieferantenentdeckungsanfragen in der europäischen Lebensmittelbeschaffung werden jetzt durch KI-Tools unterstützt. Diese Systeme aggregieren Daten aus Unternehmensregistern, Handelsverzeichnissen, Zertifizierungsdatenbanken und strukturierten Website-Daten gleichzeitig.
+
+Beim Beschaffen von raffiniertem RBDW-Öl aus der Schwarzmeerregion fordern Sie neben ISO 22000 und CoA auch die EU-Firmenregistrierungsnummer an. Für bulgarische Lieferanten: brra.bg + EIK-Nummer. UB Market-Registrierung: EIK 207067808, USt-IdNr. BG207067808, Varna 9000, Bulgarien.
+
+## Wie treffen Sie die richtige Wahl für Ihr Unternehmen?
+
+**Kaufen Sie Rohöl wenn:** Sie Raffinierungskapazitäten mit Kosten unter $150/t besitzen. Oder Sie an Raffinerien, Biodieselproduzenten oder Oleochemiehersteller verkaufen.
+
+**Kaufen Sie raffiniertes RBDW wenn:** Sie an Lebensmittelunternehmen, Einzelhandel, HoReCa oder Lebensmittelhersteller verteilen. Keine Raffinierungskapazitäten vorhanden. Haltbarkeit über 6 Monate erforderlich.
+
+**Kaufen Sie High-Oleic raffiniertes wenn:** Ihre Kunden Restaurants und Gastronomiebetriebe mit intensiven Frittieranforderungen sind. Der 2–3-fach längere Frittierzyklus spart 30–40% bei den Gesamtfrittierkosten.
 
 ---
 
-Suchen Sie Preise für rohes, raffiniertes oder High-Oleic-Sonnenblumenöl? **[Angebot anfordern](/de/quote)** — teilen Sie uns Produkttyp, Volumen, Verpackung und Lieferziel mit und wir antworten innerhalb von 24 Stunden mit aktuellen Preisen und vollständiger CoA-Dokumentation.
+Suchen Sie Preise für rohes, raffiniertes oder High-Oleic-Sonnenblumenöl? **[Angebot anfordern](/de/quote)** — teilen Sie uns Produkttyp, Volumen, Verpackung und Lieferziel mit und wir antworten innerhalb von 24 Stunden mit aktuellen Q2 2026 Preisen und vollständiger CoA-Dokumentation.
 
-_Quellen: FOSFA Sonnenblumenöl-Handelsstandards, EU-Verordnung 2019/649 über Transfettsäuren, UB Market Preisdaten Q1 2026, Codex Alimentarius Sonnenblumenöl-Standards._
+_Dieser Artikel wird vierteljährlich aktualisiert. Letzte Aktualisierung: Mai 2026. Quellen: FOSFA Sonnenblumenöl-Handelsstandards, EU-Verordnung 2019/649 über Transfettsäuren, IMF PSUNOUSDM April 2026 (~$1.739/MT), UB Market Preisdaten Q1–Q2 2026._
