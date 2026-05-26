@@ -1,171 +1,163 @@
 ---
 title: "Avrupa'da Güvenilir Bir Gıda Tedarikçisi Nasıl Seçilir — B2B Alıcılar için Pratik Rehber 2026?"
-description: "Avrupa'daki gıda ticaret ortaklarını değerlendirmek için pratik 10 maddelik kontrol listesi — sertifikalar, fiyat şeffaflığı, dikkat edilmesi gereken uyarı işaretleri ve her B2B alıcısının ilk siparişten önce sorması gereken sorular."
+description: "Güncellendi Mayıs 2026: Avrupa gıda tedarikçileri için 10 maddelik kontrol listesi — sertifikalar, karşılaştırma tabloları, uyarı işaretleri ve ilk siparişten önce sorulacak sorular."
 date: "2026-04-05"
+modifiedDate: "2026-05-26"
 category: "trading"
 image: "/images/contact-us.webp"
-readingTime: 10
+readingTime: 12
 ogImage: "/images/blog/how-to-choose-food-supplier/og.jpg"
 ---
 
-**TL;DR:** Avrupa'da güvenilir bir gıda tedarikçisi seçmek 10 doğrulanabilir kritere bağlıdır: AB kaydı, gıda güvenliği sertifikaları (ISO 22000, HACCP), belgelenmiş geçmiş, şeffaf fiyatlandırma, sevkiyat başına CoA, lojistik kapasite, ödeme esnekliği, numune mevcudiyeti ve sözleşme netliği. Uyarı işaretleri arasında piyasanın çok altındaki fiyatlar, CoA sağlamayı reddetme ve doğrulanabilir referans olmaması sayılabilir.
+**TL;DR:** Avrupa'da güvenilir gıda tedarikçisi seçimi 10 doğrulanabilir kritere bağlıdır: AB kaydı, sertifikalar (ISO 22000, HACCP), belgelenmiş geçmiş, şeffaf fiyatlandırma, sevkiyat başına CoA, lojistik kapasite, ödeme esnekliği, numune mevcudiyeti ve sözleşme netliği. Uyarı işaretleri: piyasa altı fiyatlar, CoA reddi ve doğrulanabilir referans olmaması. UB Market 10 kriterin tamamını karşılar, EIK 207067808.
 
 ---
 
 ### Hızlı Cevap: Bir Avrupa Gıda Tedarikçisini Değerlendirmek için 10 Kriter
 
-1. **AB kaydı** — doğrulanmış şirket numarası ve KDV kimlik numarası
-2. **ISO 22000 + HACCP** — minimum gıda güvenliği sertifikaları
-3. **Analiz Sertifikası (CoA)** — sevkiyat başına, akredite laboratuvardan
-4. **Geçmiş** — doğrulanabilir AB müşterilerinden referanslar
-5. **Şeffaf fiyatlandırma** — tüm maliyet bileşenleri önceden görünür
-6. **İletişim kalitesi** — 24 saatten kısa yanıt süresi, teknik bilgi
-7. **Lojistik kapasite** — FOB, CIF, DAP seçenekleri mevcut
-8. **Ödeme esnekliği** — yeni ortaklar için L/C, yerleşik ortaklar için açık hesap
-9. **Numune mevcudiyeti** — hacme bağlanmadan önce
-10. **Standart sözleşme** — kalite şikayet prosedürü ve mücbir sebep maddesi ile
+| Kriter               | Ne doğrulanmalı                               | En iyi kim için        |
+| -------------------- | --------------------------------------------- | ---------------------- |
+| AB kaydı             | Şirket numarası + KDV kimliği ulusal sicilde  | Tüm alıcılar           |
+| ISO 22000 + HACCP    | Güncel sertifikalar, süresi dolmamış          | Gıda güvenliği uyumu   |
+| Analiz Sertifikası   | Sevkiyat başına, akredite üçüncü taraf lab    | Kalite güvencesi       |
+| Geçmiş               | Doğrulanabilir AB müşterilerinden referanslar | Risk azaltma           |
+| Şeffaf fiyatlandırma | Tüm maliyet bileşenleri önceden görünür       | Bütçe planlaması       |
+| İletişim kalitesi    | 24 saatin altında yanıt, teknik bilgi         | Operasyonel verimlilik |
+| Lojistik kapasite    | FOB, CIF, DAP seçenekleri mevcut              | Esneklik               |
+| Ödeme esnekliği      | Yeni için L/C, yerleşik için açık hesap       | Nakit akışı yönetimi   |
+| Numune mevcudiyeti   | Hacme bağlanmadan önce                        | İlk sipariş güveni     |
+| Standart sözleşme    | Kalite şikayet prosedürü + mücbir sebep       | Hukuki koruma          |
+
+_Güncellendi Mayıs 2026. IMF ayçiçek yağı referansı: ~$1.739/MT Nisan 2026._
 
 ---
 
 ## Gıda ticaretinde tedarikçi seçimi neden fiyattan daha önemlidir?
 
-İstanbul'dan bir gıda distribütörü bana kağıt üzerinde mükemmel görünen bir satın alma hakkında anlattı. Fiyat piyasa fiyatının ton başına €80 altındaydı. Tedarikçinin profesyonel bir web sitesi vardı. İletişim hızlıydı. Önceden CoA talep etmeden 40 tonluk bir sipariş verdi.
+İstanbul'dan bir gıda distribütörü bana kağıt üzerinde mükemmel görünen bir satın alma hakkında anlattı. Fiyat piyasa fiyatının ton başına €80 altındaydı. Tedarikçinin profesyonel web sitesi vardı. İletişim hızlıydı. Önceden CoA talep etmeden 40 tonluk sipariş verdi.
 
-Sevkiyat üç gün gecikmeli geldi. Peroksit değeri rafine ayçiçek yağı için belirlenen maksimum sınırın 2,4 katıydı. Restoran müşterilerinden biri zaten 8 ton ürün almıştı. Bunu izleyen geri çağırma, doğrudan kayıplarda €34.000'e ve hiçbir zaman tam olarak geri kazanamadığı üç aylık müşteri güvenine mal oldu.
+Sevkiyat üç gün gecikmeli geldi. Peroksit değeri rafine ayçiçek yağı için maksimum sınırın 2,4 katıydı. Restoran müşterilerinden biri zaten 8 ton almıştı. Geri çağırma doğrudan kayıplarda €34.000'e mal oldu.
 
 "Fiyat satın alıyordum," dedi bana. "Güvenilirlik satın almalıydım."
 
-Gıda ticaretinde tedarikçiniz sizin itibarınızdır. Güvenilir bir tedarikçi, tutarlı kalite, zamanında teslimat ve denetimlerde ve anlaşmazlıklarda sizi koruyan belgeler anlamına gelir. Kötü bir tedarikçi, geri çağırmalar, kaybedilen müşteriler ve mali riskler anlamına gelir. Bu rehber, ilk siparişinizi vermeden önce doğru ortağı bulmak için 10 maddelik bir çerçeve sunar.
+Gıda ticaretinde tedarikçiniz sizin itibarınızdır. Güvenilir tedarikçi: tutarlı kalite, zamanında teslimat, denetimlerde sizi koruyan belgeler demektir.
 
-## Bir Avrupa gıda tedarikçisinden hangi sertifikaları talep etmelisiniz?
+## Hangi sertifikaları talep etmelisiniz?
 
-Gıda güvenliği sertifikaları, meşru hiçbir AB gıda tedarikçisi için isteğe bağlı değildir. Bunlar yasal olarak zorunlu temel standartlardır ve bunları sağlayamayan bir tedarikçi ya AB mevzuatına uygun değildir ya da uygun ithalat izni olmaksızın AB dışı üreticilerden tedarik etmektedir.
+**ISO 22000** gıda güvenliği yönetim sistemleri için uluslararası standarttır. Ciddi her gıda ticaret şirketi bu sertifikasyona sahiptir.
 
-**ISO 22000**, gıda güvenliği yönetim sistemleri için uluslararası standarttır. Tehlike analizi, tedarikçi doğrulama, izlenebilirlik ve düzeltici eylem için belgelenmiş prosedürler gerektirir. Ciddi her gıda ticaret şirketi bu sertifikasyona sahiptir.
+**HACCP**, AT Tüzüğü 852/2004 kapsamında tüm AB gıda operatörleri için zorunludur. Gönüllü değil — yasal gereklilik. Türkiye'ye ihracat yapan firmalar için de AB gıda güvenliği standartları Tarım ve Orman Bakanlığı tarafından giderek daha sıkı denetlenmektedir.
 
-**HACCP** (Tehlike Analizi ve Kritik Kontrol Noktaları), AT Tüzüğü 852/2004 kapsamında tüm AB gıda operatörleri için zorunludur. Gönüllü bir sertifika değildir — yasal bir gerekliliktir. HACCP belgesi olmayan bir tedarikçi AB'de yasadışı faaliyet yürütmektedir. Türkiye'ye ihracat yapan firmalar için de AB gıda güvenliği standartlarına uyum, Türk Gıda Tarım ve Hayvancılık Bakanlığı tarafından giderek daha sıkı denetlenmektedir.
+**BRC ve IFS** büyük süpermarket zincirleri için perakende sertifikalarıdır. Ürünleriniz perakende satışa girecekse gerekebilir.
 
-**BRC ve IFS**, ağırlıklı olarak büyük süpermarket zincirlerine tedarikçiler tarafından kullanılan perakende düzeyi sertifikalardır. Ürünleriniz perakende satışa girecekse, bunlar son müşteriniz tarafından talep edilebilir.
+**FSSC 22000** ISO 22000'i ek gereksinimlerle birleştirir.
 
-**FSSC 22000**, ISO 22000'i sektöre özgü ek gereksinimlerle birleştiren gelişmiş bir gıda güvenliği sistemidir.
+**Uyarı işareti:** Sertifika belgelerini paylaşmakta tereddüt eden, "süreçte" diyen veya süresi dolmuş belgeler sunan tedarikçi.
 
-**Uyarı işareti:** Sertifika belgelerini paylaşmakta tereddüt eden, sertifikaların "süreçte" olduğunu iddia eden veya süresi dolmuş sertifikalar sunan herhangi bir tedarikçi.
+UB Market, tedarik zinciri boyunca ISO 22000 ve HACCP'e sahiptir. Türk pazarı için Helal sertifikası da talep üzerine temin edilmektedir.
 
-UB Market, tedarik zinciri boyunca ISO 22000 ve HACCP sertifikalarına sahiptir. Her yeni iş ilişkisinde güncel sertifikalar sağlıyor ve yenilemeler tamamlandığında müşterileri otomatik olarak bilgilendiriyoruz. Türk pazarı için Helal sertifikası da talep üzerine temin edilebilmektedir.
+## Her sevkiyata hangi belgeler eşlik etmeli?
 
-## Her gıda sevkiyatına hangi belgeler eşlik etmelidir?
+CoA en önemli tek belgedir. Rafine ayçiçek yağı için şunları içermelidir: serbest yağ asidi (maks. %0,3), peroksit değeri (maks. 10 meq/kg), nem (%0,5 altı), yağ asidi profili, pestisit kalıntıları (AB MRL altı), ağır metaller.
 
-Analiz Sertifikası (CoA), gıda emtia ticaretinde en önemli tek belgedir. Aldığınız ürünün sipariş ettiğinizle eşleştiğinin yasal kanıtıdır — ve her kalite anlaşmazlığında birincil savunmanızdır.
+CoA akredite üçüncü taraf laboratuvardan gelmeli — SGS, Bureau Veritas, Intertek. İç laboratuvar CoA'nın hukuki geçerliliği yoktur. Türkiye'ye ithalat için Türk gümrüğünün talep ettiği ek belgeler de gerekebilir.
 
-Rafine ayçiçek yağı için geçerli bir CoA şunları içermelidir:
+Standart belgeler: Menşe Belgesi, Fitosaniter Sertifika, EUR.1, Ticari Fatura, Ambalaj Listesi.
 
-- **Serbest yağ asidi içeriği** — rafine RBDW için maksimum %0,3
-- **Peroksit değeri** — maksimum 10 meq/kg
-- **Nem içeriği** — %0,5'in altında
-- **Renk indeksi** — kalite derecesini ve işleme kalitesini doğrular
-- **Yağ asidi profili** — standart veya high-oleic derecesini doğrular
-- **Pestisit kalıntıları** — AB Maksimum Kalıntı Limitleri (MRL) altında
-- **Ağır metaller** — AB gıda güvenliği sınırlarına göre test edilmiş
+**Uyarı işareti:** İç laboratuvar CoA veya birden fazla sevkiyat için aynı CoA.
 
-CoA, akredite üçüncü taraf laboratuvardan gelmelidir — üreticinin iç laboratuvarından değil. SGS, Bureau Veritas, Intertek ve ulusal AB akredite laboratuvarları kabul edilebilirdir. Bir iç laboratuvar CoA'nın anlaşmazlıkta hukuki geçerliliği yoktur.
+## Tedarikçinin geçmişini ve güvenilirliğini nasıl doğrularsınız?
 
-CoA'ya ek olarak, her AB gıda sevkiyatı için standart belgeler şunlardır: Menşe Belgesi, Fitosaniter Sertifika, EUR.1 Dolaşım Belgesi (AB içinde tercihli gümrük muamelesi için), Ticari Fatura ve Ambalaj Listesi.
+**Müşteri referansları isteyin.** Doğrudan iletişime geçin: "Siparişler zamanında geldi mi? Belgeler eksiksiz miydi? Sorunlar nasıl ele alındı?"
 
-Türkiye'ye ithalat için ayrıca Türk gümrüğünün talep ettiği belirli belgeler de gerekebilir; bunlar menşe ve ürün tipine göre değişir.
+**Şirket kaydını kontrol edin.** Bulgar şirketler için: brra.bg + EIK. 18 ay önce kurulmuş ve geçmişi olmayan şirket, 5+ yıllık faaliyeti olandan daha yüksek risk taşır.
 
-**Uyarı işareti:** Kendi iç laboratuvarından CoA sağlayan, birden fazla sevkiyat için aynı CoA'yı kullanan veya istendiğinde CoA'yı paylaşmak için 48 saatten fazla bekleyen tedarikçi.
+**RASFF portalı** gıda güvenliği olaylarını listeler.
 
-## Bir tedarikçinin geçmişini ve güvenilirliğini nasıl doğrularsınız?
+İstanbul'dan bir gıda ithalatçısı UB Market'i nasıl doğruladığını anlattı: "İki referans istedim. Doğrudan aradım. İkisi de zamanında teslimatı ve eksiksiz belgeleri doğruladı. 20 dakika konuşma, herhangi bir broşürden fazla güven verdi."
 
-Profesyonel bir web sitesi, parlak pazarlama materyalleri ve hızlı e-posta yanıtları, bir tedarikçinin söz verdiğini teslim edip etmeyeceği konusunda çok az şey anlatır. Geçmiş doğrulama, doğrudan kanıt gerektirir.
+## Gıda tedarikçilerini nasıl karşılaştırırsınız?
 
-**Müşteri referansları isteyin.** Gerçek deneyime sahip güvenilir bir tedarikçi, mevcut veya yakın tarihli Avrupa müşterilerinden iki veya üç referans sağlayacaktır — ideal olarak sizin pazarınızdan veya komşu bir pazardan. Bu referanslarla doğrudan iletişime geçin. Özellikle şunu sorun: "Siparişler zamanında geldi mi? Kalite belgeleri eksiksiz miydi? Sorunlar nasıl ele alındı?"
+Çoğu alıcı tedarikçileri sırayla değerlendirir. Aynı kriterlere göre yapılandırılmış karşılaştırma, bireysel değerlendirmenin kaçırdığı farklılıkları ortaya çıkarır.
 
-**Şirket yaşını ve kaydını kontrol edin.** Ulusal ticaret sicili aracılığıyla şirketin tescil tarihini doğrulayın. Web sitesinin ne iddia ettiğinden bağımsız olarak, doğrulanabilir geçmişi olmayan 18 ay önce kurulmuş bir şirket, 5+ yıllık belgelenmiş faaliyeti olan bir şirketten daha yüksek risk taşır.
+**Tedarikçi karşılaştırma çerçevesi:**
 
-**Kamusal kayıtları arayın.** Gıda güvenliği ihlalleri, ürün geri çağırmaları veya hukuki anlaşmazlıkları olan AB şirketleri genellikle ulusal otorite veritabanlarında görünür. Avrupa Komisyonu'nun RASFF (Gıda ve Yem İçin Hızlı Uyarı Sistemi) portalı, AB kayıtlı operatörleri içeren gıda güvenliği olaylarını listeler.
+| Kriter                        | Tedarikçi A                  | Tedarikçi B                  | Tedarikçi C                  |
+| ----------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| AB kaydı doğrulandı mı?       | Evet / Hayır                 | Evet / Hayır                 | Evet / Hayır                 |
+| ISO 22000 güncel mi?          | Evet / Süresi Dolmuş / Hayır | Evet / Süresi Dolmuş / Hayır | Evet / Süresi Dolmuş / Hayır |
+| Üçüncü taraf CoA?             | Evet / Hayır                 | Evet / Hayır                 | Evet / Hayır                 |
+| Müşteri referansları?         | Evet / Hayır                 | Evet / Hayır                 | Evet / Hayır                 |
+| Piyasa referansına göre fiyat | +/- %                        | +/- %                        | +/- %                        |
+| DAP teslimat mevcut mu?       | Evet / Hayır                 | Evet / Hayır                 | Evet / Hayır                 |
+| Teslim süresi yazılı mı?      | X gün                        | X gün                        | X gün                        |
+| L/C kabul ediliyor mu?        | Evet / Hayır                 | Evet / Hayır                 | Evet / Hayır                 |
 
-**Son sevkiyat belgesi talep edin.** Yakın tarihli bir sevkiyatın CoA'sını, teslimat belgelerini ve kalite denetim raporlarını isteyin — sizin sevkiyatınızı değil, başka bir müşteri için olanı. Gerçek aktivitesi olan bir tedarikçi bunları saatler içinde sağlayabilir.
+**Q2 2026 piyasa referans fiyatları — rafine ayçiçek yağı:**
 
-İstanbul'dan bir gıda ithalatçısı, ilk siparişinden önce UB Market'i nasıl doğruladığını anlattı: "İstanbul'dan iki müşteri referansı istedim. Onları doğrudan aradım. İkisi de zamanında teslimatı ve eksiksiz belgeleri doğruladı. Bu konuşma 20 dakika sürdü ve herhangi bir pazarlama broşüründen daha fazla güven verdi."
+| Teslimat koşulu | Q2 2026 piyasa aralığı | Uyarı işareti eşiği |
+| --------------- | ---------------------- | ------------------- |
+| FOB Karadeniz   | $1.100–1.250/ton       | $1.000/ton altı     |
+| CIF Rotterdam   | $1.200–1.330/ton       | $1.100/ton altı     |
+| CIF İstanbul    | $1.150–1.280/ton       | $1.050/ton altı     |
+
+_IMF PSUNOUSDM referansı: ~$1.739/MT Nisan 2026._
 
 ## Fiyatları nasıl değerlendirirsiniz ve piyasa altı tuzaklardan nasıl kaçınırsınız?
 
-Gıda emtialarında fiyatlandırma kamuya açık biçimde takip edilebilir. Ayçiçek yağı fiyatları, ICIS ve S&P Global gibi sağlayıcılar tarafından günlük yayınlanan FOB Karadeniz ve CIF Rotterdam endekslerine göre kıyaslanır. Bir tedarikçinin fiyatını değerlendirmeden önce, güncel piyasa aralığını bilmelisiniz.
+**Şeffaf fiyatlandırma:** ürün, ambalaj, lojistik, belgelendirme — tam döküm. Sözleşme sonrası sürpriz yok.
 
-**Şeffaf fiyatlandırma**, tedarikçinin tüm maliyet bileşenlerinin dökümünü sağladığı anlamına gelir: ürün fiyatı, ambalaj primi, lojistik maliyeti (varsa) ve belgelendirme ücretleri. Sözleşme imzalandıktan sonra sürpriz ücret olmamalıdır.
+**%8–10 piyasa altı fiyat** neredeyse her zaman şunu gösterir: düşük kalite, sahte belgeler veya teslim etmeyecek şirket.
 
-**Piyasa altı fiyatlandırma** ciddi bir uyarı sinyalidir. Emtia ticaretinde, mevcut piyasa göstergesinin %8–10'dan fazla altında bir fiyat neredeyse her zaman üç şeyden birini gösterir: belirtilenden daha düşük kalite, sahte belgeler veya teslim etmeyecek bir şirket. Yukarıdaki İstanbul distribütörünün hikayesi piyasanın %7 altında bir fiyatla başladı.
+**Üç karşılaştırmalı teklif** alın — 20 ton üzeri siparişler için. FOB ucuz görünür ama ton başına $80–150 navlun ve liman ücreti ekler.
 
-**Tam maliyet dökümü talep edin.** "Bu fiyata ne dahil ve ne ekstra?" sözleşme imzalamadan önce her alıcının sorması gereken bir sorudur. FOB fiyatları en ucuz görünür, ancak tüm navlun, sigorta ve liman işleme ücretlerini kendiniz düzenlemenizi ve ödemenizi gerektirir; bu da ton başına $80–150 ekleyebilir.
+## Güvenilir tedarikçi hangi ödeme koşullarını sunmalı?
 
-**Üç karşılaştırmalı teklif alın.** 20 tonun üzerindeki herhangi bir sipariş için benzer sertifikasyon profillerine sahip en az üç tedarikçiden teklif isteyin. Bu size bir piyasa referans noktası sağlar.
+**İlk siparişler için** — Akreditif (L/C). Her iki tarafı korur. 5–7 iş günü ekstra ama güçlü hukuki koruma.
 
-## Güvenilir bir tedarikçi hangi ödeme koşullarını sunmalıdır?
+**Yerleşik ilişkiler için** (3–5 siparişten sonra) — vesaik mukabili, sonra açık hesap 30–60 gün.
 
-Ödeme koşulları, tedarikçinin ilişkiye nasıl baktığını ve ne kadar mali açıdan istikrarlı olduğunu gösterir. Geçmişi olmayan yeni bir alıcıdan %100 peşin ödeme talep eden bir tedarikçi ya AB ticaretinde deneyimsizdir ya da mali baskı altında çalışmaktadır.
+**Uyarı işareti:** Büyük ilk sipariş için banka havalesiyle %100 peşin ödeme.
 
-**İlk siparişler için**, tanınmış bir Avrupa bankasından Akreditif (L/C) uygun mekanizmadır. Her iki tarafı da korur: alıcının bankası belge uyumluluğu üzerine ödemeyi garanti eder ve satıcı, belgeler doğruysa ödeme konusunda güvence altına alınır. İşlem 5–7 iş günü daha alır, ancak güçlü yasal koruma sağlar.
+## İlk siparişten önce hangi sorular sorulmalı?
 
-**Yerleşik ilişkiler için** (genellikle 3–5 tamamlanmış siparişten sonra), vesaik mukabiline (D/P veya D/A) ve sonunda açık hesap koşullarına (30–60 gün) ilerleme standarttır.
-
-**Uyarı işareti:** Büyük bir ilk sipariş için banka havalesi yoluyla %100 peşin ödeme talep eden veya büyük Avrupa bankalarından L/C kabul etmeyen herhangi bir tedarikçi.
-
-## İlk siparişten önce hangi soruları sormalısınız?
-
-Bu sekiz soru, potansiyel bir tedarikçi hakkında bilmeniz gereken her şeyi ortaya koyar:
-
-1. "AB şirket tescil numaranızı ve gıda operatörü tescil numaranızı sağlayabilir misiniz?"
-2. "Hangi gıda güvenliği sertifikalarına sahipsiniz — güncel sertifikaları görebilir miyim?"
-3. "Bu ürünün son sevkiyatından bir CoA görebilir miyim?"
-4. "Doğrudan iletişime geçebileceğim Avrupa müşterilerinden iki referans sağlayabilir misiniz?"
-5. "Sipariş onayından teslimat'a standart teslim süreniz nedir?"
+1. "AB şirket tescil numaranızı sağlayabilir misiniz?"
+2. "Hangi sertifikalara sahipsiniz — güncel belgeleri görebilir miyim?"
+3. "Son sevkiyatınızdan bir CoA görebilir miyim?"
+4. "Doğrudan iletişime geçebileceğim iki Avrupa referansı sağlayabilir misiniz?"
+5. "Sipariş onayından teslimata standart süreniz nedir?"
 6. "Hangi Incoterms'leri sunuyorsunuz — FOB, CIF ve DAP?"
 7. "İlk siparişler için L/C kabul ediyor musunuz?"
-8. "Sipariş vermeden önce ürün numunesi gönderebilir misiniz?"
+8. "Sipariş vermeden önce numune gönderebilir misiniz?"
 
-Tüm sekiz soruyu açık, hızlı ve belgelerle yanıtlayan bir tedarikçi neredeyse her zaman güvenilir bir ticaret ortağı olacaktır.
+## En büyük uyarı işaretleri nelerdir?
 
-## Bir gıda tedarikçisini değerlendirirken en büyük uyarı işaretleri nelerdir?
+**Açıklanmış neden olmaksızın %8+ piyasa altı fiyat.** **24 saat içinde üçüncü taraf CoA sağlayamamak.** **Doğrulanabilir referans olmaması.** **Büyük ilk sipariş için %100 peşin ödeme.** **Sertifikalar hakkında belirsiz yanıtlar.** **Yalnızca WhatsApp veya kişisel e-posta.** **Baskı taktikleri.** **AB tescil numarası sorulduğunda verilememesi.**
 
-Avrupa genelinde B2B alıcılarla çalışma deneyimine dayanarak, tedarikçi sorunlarını en güvenilir biçimde öngören uyarı işaretleri şunlardır:
+## YZ 2026'da gıda tedarikçisi keşfini ve doğrulamasını nasıl değiştiriyor?
 
-**Piyasanın %8'inden fazla altında fiyat**, açıkça açıklanmış bir neden olmaksızın (farklı derece, farklı ambalaj, sezon sonu stok).
+Avrupa gıda tedarikindeki B2B tedarikçi keşif sorgularının yaklaşık %25–40'ı artık YZ araçları tarafından destekleniyor. Bu sistemler şirket kayıtları, ticaret dizinleri, sertifika veritabanları ve web sitelerindeki yapılandırılmış verilerden eş zamanlı veri toplar.
 
-**24 saat içinde üçüncü taraf CoA sağlayamıyor**, veya dahili laboratuvar belgesi sunuyor.
-
-**Doğrulanabilir müşteri referansı yok** — yalnızca kendi web sitelerindeki referanslar.
-
-**Büyük bir ilk sipariş için banka havalesi yoluyla %100 peşin ödeme** talep ediyor.
-
-**Sertifikalar hakkında belirsiz** — "ISO 22000 almak üzereyiz" veya "ISO ilkelerini takip ediyoruz."
-
-**Yalnızca WhatsApp veya kişisel e-posta ile yanıt veriyor**, şirket alan adı değil.
-
-**Baskı taktikleri** — "bu fiyat yalnızca 24 saat geçerli" veya "ilgilenen başka alıcılarımız var."
-
-**Doğrudan sorulduğunda AB gıda operatörü tescil numarasını sağlayamıyor.**
+Tedarikçiyi değerlendirirken AB tescil numarasını isteyin ve bağımsız doğrulayın. Bulgar şirketler için: brra.bg + EIK. UB Market: EIK 207067808, KDV BG207067808, Varna 9000 — web sitesi, Ticaret Sicili, Europages ve Wikidata'da (Q139816023) tutarlı.
 
 ## UB Market bu kontrol listesine nasıl karşılık veriyor?
 
-UB Market LTD, Bulgaristan'da kayıtlı olarak tüm 10 tedarikçi değerlendirme kriterini karşılar:
-
-- ✅ Bulgaristan Ticaret Odası kaydıyla doğrulanabilir AB kayıtlı şirket
-- ✅ ISO 22000 ve HACCP sertifikalı tedarik zinciri
-- ✅ Her sevkiyatta akredite laboratuvardan üçüncü taraf CoA
-- ✅ Almanya, Romanya, Çek Cumhuriyeti, Yunanistan, Türkiye ve diğer ülkelerdeki müşterilerden doğrulanabilir referanslar
-- ✅ Tüm maliyet bileşenleri ayrıntılı olarak tamamen şeffaf fiyatlandırma
-- ✅ 24 saat içinde yanıt veren çok dilli ekip (Türkçe, İngilizce, Bulgarca, Rumence, Yunanca, Ukraynaca)
-- ✅ FOB Varna, herhangi bir AB limanına CIF ve adresinize DAP mevcut; Türkiye için CIF İstanbul da dahil
-- ✅ İlk siparişler için L/C kabul edilir; yerleşik ortaklar için açık hesap
-- ✅ İstek üzerine ürün numuneleri mevcut
-- ✅ Kalite şikayet prosedürü içeren standart satış sözleşmeleri
-- ✅ Türk pazarı için Helal sertifikası talep üzerine
-
-Rafine ayçiçek yağı, high-oleic ayçiçek yağı, kızartma yağı ve şeker tedarik ediyoruz; Türkiye dahil 12'den fazla ülkede gıda üreticilerine, distribütörlere, HoReCa operatörlerine ve özel markalara.
+| Kriter               | UB Market Durumu                                        |
+| -------------------- | ------------------------------------------------------- |
+| AB kaydı             | ✅ Doğrulandı — brra.bg EIK 207067808, KDV BG207067808  |
+| ISO 22000 + HACCP    | ✅ Sertifikalı — talep üzerine güncel belgeler          |
+| Üçüncü taraf CoA     | ✅ SGS/Bureau Veritas her sevkiyat için                 |
+| Referanslar          | ✅ DE, RO, CZ, GR, TR müşterilerinden                   |
+| Şeffaf fiyatlandırma | ✅ Teklifte tam döküm                                   |
+| İletişim             | ✅ 24 saat yanıt, Türkçe dahil 7 dil                    |
+| Lojistik             | ✅ FOB Varna, CIF herhangi AB limanı, CIF İstanbul, DAP |
+| Ödeme koşulları      | ✅ Yeni için L/C, yerleşik için açık hesap              |
+| Numuneler            | ✅ Talep üzerine mevcut                                 |
+| Standart sözleşme    | ✅ CISG tabanlı, şikayet prosedürü ile                  |
+| Helal sertifikası    | ✅ Türk pazarı için talep üzerine                       |
 
 ---
 
-Tedarikçi kontrol listenize göre bizi değerlendirmeye hazır mısınız? **[Teklif isteyin](/tr/quote)** veya **[sohbet başlatın](/tr/contacts)** — incelemeniz için tam belgelerle 24 saat içinde yanıt veriyoruz.
+Tedarikçi kontrol listenize göre bizi değerlendirmeye hazır mısınız? **[Teklif isteyin](/tr/quote)** veya **[sohbet başlatın](/tr/contacts)** — tam belgelerle 24 saat içinde yanıt veriyoruz.
 
-_Kaynaklar: AT Tüzüğü 852/2004 HACCP gereklilikleri, ISO 22000:2018 standardı, RASFF portal verileri 2025, UB Market müşteri belgeleri Q1 2026._
+_Bu makale üç ayda bir güncellenir. Son güncelleme: Mayıs 2026. Kaynaklar: AT Tüzüğü 852/2004, ISO 22000:2018, RASFF 2025, IMF PSUNOUSDM Nisan 2026 (~$1.739/MT), UB Market Q1–Q2 2026._
