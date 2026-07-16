@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ub-market.com/sitemap.xml
-
-LLM-Allowed: /llms.txt
