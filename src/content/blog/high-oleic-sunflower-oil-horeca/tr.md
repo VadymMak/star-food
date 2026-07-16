@@ -1,14 +1,15 @@
 ---
 title: "HoReCa İşletmeleri Neden 2026'da High-Oleic Ayçiçek Yağına Geçiyor?"
-description: "High-oleic ayçiçek yağı restoranlara 2–3 kat daha uzun kızartma ömrü, 230°C+ duman noktası ve %25–35 yıllık maliyet tasarrufu sağlıyor. HoReCa alıcıları için gerçek maliyet karşılaştırmalı tam rehber."
+description: "Temmuz 2026 güncellendi: High-oleic ayçiçek yağı 2–3 kat daha uzun kızartma ömrü, 230°C+ duman noktası ve %25–35 yıllık tasarruf sağlıyor. HoReCa alıcıları için tam rehber."
 date: "2026-03-08"
+modifiedDate: "2026-07-16"
 category: "sunflower-oil"
 image: "/images/frying-oil.webp"
-readingTime: 9
+readingTime: 10
 ogImage: "/images/blog/high-oleic-sunflower-oil-horeca/og.jpg"
 ---
 
-**TL;DR:** High-oleic ayçiçek yağı 20–30 kızartma saati dayanırken standart rafine sadece 8–12 saat dayanır — ortalama 2,5 kat daha uzun. Ton başına $150–250 daha pahalı olmasına rağmen, tipik bir restoran yıllık €2.000–4.750 tasarruf eder çünkü yağ tüketimi %60 düşer. Bu, 2026'da ticari bir mutfağın kızartma maliyetleri için yapabileceği en etkili tek değişimdir.
+**TL;DR:** High-oleic ayçiçek yağı 20–30 kızartma saati dayanırken standart rafine sadece 8–12 saat dayanır — ortalama 2,5 kat daha uzun. Ton başına daha pahalı olmasına rağmen, tipik bir restoran yıllık €2.000–4.750 tasarruf eder çünkü yağ tüketimi %60 düşer. IMF küresel ayçiçek yağı referans fiyatının Haziran 2026'da 1.795 $/ton'a ulaşmasıyla, high-oleic yağın maliyet avantajı Türk HoReCa operatörleri için hiç bu kadar net olmamıştı.
 
 ---
 
@@ -19,7 +20,7 @@ ogImage: "/images/blog/high-oleic-sunflower-oil-horeca/og.jpg"
 - **Oleik asit içeriği:** %80–90 — zeytinyağına benzer profil, 1/3 fiyatına
 - **Restoran başına yıllık tasarruf:** Standart rafineden €2.000–4.750
 - **Trans yağ oluşumu:** Minimal — AB Yönetmeliği 2019/649 uyumu için önemli
-- **Fiyat:** €1.300–1.450/ton — UB Market'ten 10L bidon €23,40
+- **Temmuz 2026 fiyatı:** €1.380–1.500/ton dökme — UB Market Star Food'dan 10L bidon €23,40
 
 ---
 
@@ -27,13 +28,11 @@ ogImage: "/images/blog/high-oleic-sunflower-oil-horeca/og.jpg"
 
 High-oleic ayçiçek yağı (HOAY), tohumları %80–90 oleik asit içeren özel yetiştirilmiş bir ayçiçeği çeşidinden üretilir — standart ayçiçek yağındaki yalnızca %20–30'a kıyasla. Bu tek kimyasal fark, yağın profesyonel bir mutfakta nasıl performans gösterdiğine dair her şeyi değiştirir.
 
-Avrupa'daki HoReCa işletmelerine yıllardır kızartma yağı tedarik ediyorum ve high-oleic hakkındaki konuşma her zaman aynı şekilde başlıyor. Şef ya da satın alma müdürü fiyatı görüyor — ton başına €1.380, standart için €1.150'ye karşı — ve içgüdüsel olarak "çok pahalı" diyor. Sonra onlara hesabı gösteriyorum.
+Avrupa'daki HoReCa işletmelerine yıllardır kızartma yağı tedarik ediyorum ve high-oleic hakkındaki konuşma her zaman aynı şekilde başlıyor. Şef ya da satın alma müdürü fiyatı görüyor — 2026 ortasında ton başına €1.450, standart için €1.200'e karşı — ve içgüdüsel olarak "çok pahalı" diyor. Sonra onlara hesabı gösteriyorum. Oleik asit bir tekli doymamış yağdır. Standart ayçiçek yağındaki baskın yağ olan linoleik aside kıyasla ısıya ve oksidasyona çok daha dirençlidir. Daha az oksidasyon, daha yavaş bozulma, daha az köpürme, daha az duman ve çok daha uzun süre boyunca tutarlı kızartma sonuçları anlamına gelir.
 
-Oleik asit bir tekli doymamış yağdır. Standart ayçiçek yağındaki baskın yağ olan linoleik aside kıyasla ısıya ve oksidasyona çok daha dirençlidir. Daha az oksidasyon, daha yavaş bozulma, daha az köpürme, daha az duman ve çok daha uzun süre boyunca tutarlı kızartma sonuçları anlamına gelir.
+"High-oleic" etiketi bir pazarlama terimi değildir. Yağınızın fritözde ne kadar süre dayanacağını doğrudan belirleyen gerçek, ölçülebilir bir kimyasal farkı yansıtır.
 
-"High-oleic" etiketi bir pazarlama terimi değildir. Yağınızın fritözde ne kadar süre dayanacağını — ve dolayısıyla kızartma döngüsü başına gerçek maliyetinizin ne olduğunu — doğrudan belirleyen gerçek, ölçülebilir bir kimyasal farkı yansıtır.
-
-UB Market LTD, Bulgaristan, Ukrayna ve Romanya'daki ISO 22000 ve HACCP sertifikalı üreticilerden Türkiye dahil 12'den fazla AB ülkesindeki HoReCa distribütörleri ve restoran zincirlerine high-oleic ayçiçek yağı tedarik etmektedir. High-oleic kızartma yağımız 5L şişeler, 10L ve 18L bidonlar ve IBC konteynerlerde mevcuttur. Lojistik merkezimiz olan Varna'dan İstanbul'a 5–6 saatte karayoluyla ulaşılmaktadır.
+UB Market LTD (Star Food markası, Varna Bulgaristan), Bulgaristan, Ukrayna ve Romanya'daki ISO 22000 ve HACCP sertifikalı üreticilerden Türkiye dahil 12'den fazla AB ülkesindeki HoReCa distribütörleri ve restoran zincirlerine high-oleic ayçiçek yağı tedarik etmektedir. High-oleic kızartma yağımız 5L şişeler, 10L ve 18L bidonlar ve IBC konteynerlerde mevcuttur. FOB Varna, CIF İstanbul, CIF Mersin ve DAP teslimat koşullarıyla çalışıyoruz — Varna'dan İstanbul'a karayoluyla 5–6 saatte ulaşım.
 
 ## High-oleic ayçiçek yağının kızartma performansı avantajları nelerdir?
 
@@ -51,7 +50,7 @@ Profesyonel bir mutfak için en önemli sayı, kalite kabul edilebilir seviyeler
 
 **Bütçe odaklı işletmeler için en iyi:** Standart rafine ayçiçek yağı — düşük hacimde ton başına en düşük fiyat
 
-230–240°C duman noktası, high-oleic yağın zararlı dumana dönüşmeden en yüksek ticari kızartma sıcaklıklarına dayanabileceği anlamına gelir. 225°C'deki standart ayçiçek yağı daha dar bir güvenlik marjı sağlar — fritöz sıcaklıklarının dalgalandığı yoğun mutfaklarda bu önemlidir.
+230–240°C duman noktası, high-oleic yağın zararlı dumana dönüşmeden en yüksek ticari kızartma sıcaklıklarına dayanabileceği anlamına gelir.
 
 İstanbul'dan bir otel restoranı, 2025 yılının ortasında standart rafineden high-oleic ayçiçek yağına geçti. Yağları önceden iki tam servis günü dayanıyordu. High-oleic ile aynı kızartma hacminde beş ila altı gün dayanıyor. Baş aşçı, yiyeceklerin — özellikle tavuk ve patates garnitürlerinin — her yağ döngüsünün sonuna doğru kalite düşüşü göstermek yerine tüm servis süresi boyunca tutarlı çıtırlığını koruduğunu belirtti.
 
@@ -61,47 +60,49 @@ Bu, çoğu satın alma müdürünün kaçırdığı hesaplamadır. Ton başına 
 
 **Senaryo: Orta büyüklükte restoran, her biri 15L olan 3 fritöz, haftada 6 servis günü**
 
-**Standart Rafine Ayçiçek Yağı ile:**
+**Standart Rafine Ayçiçek Yağı ile (Temmuz 2026 fiyatları: ~€1.200/ton):**
 
 - Gerekli yağ değişimi: 2 günde bir = fritöz başına haftada 3 değişim
 - Haftalık yağ tüketimi: 3 fritöz × 15L × 3 değişim = 135L/hafta
 - Yıllık tüketim: 135L × 52 = 7.020L ≈ 6,4 ton
-- €1.150/ton'dan yıllık yağ maliyeti: **€7.360**
+- €1.200/ton'dan yıllık yağ maliyeti: **€7.680**
 - İşçilik maliyeti (değişim başına 20 dk × haftada 9 değişim × €10/saat × 52 hafta): **€1.560**
 - Bertaraf maliyetleri: **€520**
-- **Toplam yıllık maliyet: €9.440**
+- **Toplam yıllık maliyet: €9.760**
 
-**High-Oleic Ayçiçek Yağı ile:**
+**High-Oleic Ayçiçek Yağı ile (Temmuz 2026 fiyatları: ~€1.450/ton):**
 
 - Gerekli yağ değişimi: 5 günde bir = fritöz başına haftada 1,2 değişim
 - Haftalık yağ tüketimi: 3 fritöz × 15L × 1,2 değişim = 54L/hafta
 - Yıllık tüketim: 54L × 52 = 2.808L ≈ 2,6 ton
-- €1.380/ton'dan yıllık yağ maliyeti: **€3.588**
+- €1.450/ton'dan yıllık yağ maliyeti: **€3.770**
 - İşçilik maliyeti (değişim başına 20 dk × haftada 3,6 değişim × €10/saat × 52 hafta): **€624**
 - Bertaraf maliyetleri: **€208**
-- **Toplam yıllık maliyet: €4.420**
+- **Toplam yıllık maliyet: €4.602**
 
-**Yıllık tasarruf: €5.020 — toplam kızartma yağı maliyetlerinde %53 azalma.**
+**Yıllık tasarruf: €5.158 — toplam kızartma yağı maliyetlerinde %53 azalma.**
 
-Tek bir fritözü olan küçük bir kafede bile tasarruf genellikle yılda €1.200–2.000 olur. Büyük bir otel mutfağı veya restoran zinciri için rakamlar orantılı olarak ölçeklenir.
+İstanbul'daki bir HoReCa distribütörü 2026 başında bizimle iletişime geçti. Müşterilerinin kızartma yağı toplam maliyeti high-oleic'e geçişle ~€145.000/yıldan ~€68.000/yıla düşebilirdi. Aynı hafta ilk 2 tonluk deneme siparişini CIF İstanbul koşuluyla verdi.
 
-İstanbul'daki bir HoReCa distribütörü 2026 başında bizimle iletişime geçti. Ona toplu hesabı gösterdik: müşterilerinin kızartma yağı toplam maliyeti high-oleic'e geçişle ~€145.000/yıldan ~€68.000/yıla düşebilirdi. Aynı hafta ilk 2 tonluk deneme siparişini verdi.
+## 2026 fiyat ortamı high-oleic yağ talebi için ne anlama geliyor?
+
+Küresel ayçiçek yağı piyasası Temmuz 2026'da tarihsel açıdan yüksek seviyelerde işlem görüyor. IMF küresel ayçiçek yağı referans fiyatı Haziran 2026'da 1.795 $/ton'a ulaştı — 2023 ortasından bu yana en yüksek seviye. Standart rafine ayçiçek yağı FOB Karadeniz 1.100–1.250 $/ton'dan işlem görürken, high-oleic çeşitleri 150–250 $/ton prim komuta ediyor.
+
+Bu fiyat ortamı üç yapısal faktör tarafından yönlendiriliyor. Ukrayna'nın 2025/26 ayçiçeği tohumu hasadı yaklaşık 10,5 milyon ton olarak gerçekleşti — önemli üretim bölgelerinde kuraklık nedeniyle bir önceki sezona göre %8 düşüş. Rusya'nın devam eden ihracat kısıtlamaları arzı daraltmaya devam ediyor. Asya, Orta Doğu ve Afrika'dan gıda üreticilerinin güçlü talebi mevcut hacimleri beklenenden daha hızlı absorbe ediyor.
+
+Türk HoReCa operatörleri için bu fiyat ortamı, high-oleic yağın verimliliğini her zamankinden daha ikna edici kılıyor. Mevcut piyasa fiyat farklarıyla, high-oleic'e geçiş, günde 4 saatten fazla fritöz çalıştıran her mutfak için tartışmasız doğru ekonomik karardır.
 
 ## AB düzenleyici ortamı high-oleic yağ talebi için ne anlama geliyor?
 
-Avrupa gıda güvenliği yönetmelikleri, ticari kızartma için high-oleic yağları giderek daha fazla standart ayçiçek yağına tercih etmektedir.
-
-**AB Yönetmeliği 2019/649 trans yağ asitleri hakkında.** Bu yönetmelik, gıda ürünlerindeki endüstriyel trans yağları 100g yağ başına maksimum 2g ile sınırlamaktadır. Standart ayçiçek yağı, polimetili doymamış linoleik asit oksitlendiğinden uzun süreli yüksek sıcaklıkta kızartma sırasında trans yağ oluşturur. Ağırlıklı olarak tekli doymamış bileşimiyle high-oleic yağı, aynı koşullar altında dramatik biçimde daha az trans yağ oluşturur. Türkiye AB üyesi olmasa da, Türkiye-AB Gümrük Birliği kapsamında gıda güvenliği standartlarında AB mevzuatına önemli ölçüde yakınsama mevcuttur.
+**AB Yönetmeliği 2019/649 trans yağ asitleri hakkında.** Bu yönetmelik, gıda ürünlerindeki endüstriyel trans yağları 100g yağ başına maksimum 2g ile sınırlamaktadır. Standart ayçiçek yağı uzun süreli yüksek sıcaklıkta kızartma sırasında trans yağ oluşturur. High-oleic yağı aynı koşullar altında dramatik biçimde daha az trans yağ oluşturur. Türkiye-AB Gümrük Birliği kapsamında gıda güvenliği standartlarında AB mevzuatına önemli ölçüde yakınsama mevcuttur — ve Tarım ve Orman Bakanlığı denetimlerinde trans yağ uyumu giderek daha fazla incelenmektedir.
 
 **Toplam Polar Madde (TPM) izleme gereklilikleri.** AB ülkelerinin çoğu, %25 TPM'i aşan kızartma yağının atılmasını şart koşmaktadır. High-oleic yağı bu bozunma eşiğine daha yavaş ulaşır — işletmelere zorunlu yağ değişimlerinden önce daha uzun kızartma pencereleri tanır.
 
-**"Palmiye yağı içermez" trendi.** Batı Avrupa'da tüketici baskısının artmasıyla birlikte palmiye yağına karşı oluşan tutum, Türk HoReCa operatörlerini de doğrudan ilgilendirmektedir; özellikle AB ülkelerine ihracat yapan ya da yabancı turistlere hizmet veren işletmeler için. High-oleic ayçiçek yağı ideal alternatiftir — üstün kızartma performansı, temiz tat, sıfır itibar riski.
+**"Palmiye yağı içermez" trendi.** Batı Avrupa'daki tüketici baskısı Türk işletmeleri de etkiliyor — özellikle AB ülkelerine ihracat yapan ya da yabancı turistlere hizmet verenler. High-oleic ayçiçek yağı ideal alternatiftir: üstün kızartma performansı, temiz tat, sıfır itibar riski.
 
 **Helal sertifikası.** Türk pazarı için helal sertifikalı high-oleic ayçiçek yağı temin etmekteyiz. Talepler sırasında belirtmeniz yeterlidir.
 
 ## High-oleic ayçiçek yağının yağ asidi profili nedir?
-
-Beslenmeye duyarlı müşteriler için dokümantasyon sağlaması gereken alıcılar için:
 
 | Yağ asidi                       | Standart ayçiçek yağı | High-Oleic ayçiçek yağı | Zeytinyağı |
 | ------------------------------- | --------------------- | ----------------------- | ---------- |
@@ -110,21 +111,33 @@ Beslenmeye duyarlı müşteriler için dokümantasyon sağlaması gereken alıc�
 | Doymuş yağlar                   | %10–12                | %8–10                   | %12–15     |
 | Trans yağlar (kızartma sonrası) | Önemli oluşum         | Minimal oluşum          | Minimal    |
 
-High-oleic ayçiçek yağının yağ asidi profili zeytinyağına yakından benzer. Temel fark fiyattır: high-oleic ayçiçek yağı yaklaşık €1.380/ton, ticari kızartma için rafine zeytinyağı ise €3.500–5.000/ton'dur. Zeytinyağı performansını zeytinyağı fiyatı ödemeden isteyen bir mutfak için high-oleic ayçiçek yağı açık cevaptır.
+High-oleic ayçiçek yağının yağ asidi profili zeytinyağına yakından benzer — bu nedenle gıda sektöründe bazen "Kuzeyin zeytinyağı" olarak anılır. Temel fark fiyattır: high-oleic ayçiçek yağı Temmuz 2026'da yaklaşık €1.450/ton, ticari kızartma için rafine zeytinyağı ise €3.500–5.000/ton'dur.
+
+## High-oleic yağın Avrupa HoReCa sektöründe benimsenmesi 2026'da nasıl gelişiyor?
+
+AB genelinde benimseme modelleri 2026'da hızlanıyor; bu durum hem düzenleyici baskıdan hem de mevcut fiyat seviyelerinde ikna edici maliyet ekonomisinden kaynaklanıyor.
+
+**Otel zincirleri:** Büyük Avrupa otel grupları en hızlı geçişi yapanlar oldu. Merkezi mutfak operasyonları high-oleic'i standart kızartma yağı olarak belirledi — daha az yağ değişimiyle elde edilen işçilik tasarrufu ölçekte önemlidir.
+
+**Hızlı servis restoranları (QSR):** Günde 12–14 saat fritöz çalıştıran yüksek hacimli operatörler en yüksek mutlak tasarrufu görüyor. Yoğun bir QSR noktası yıllık €4.000–6.000 tasarruf edebilir.
+
+**Premium restoranlar:** Sağlık odaklı konumlandırma, high-oleic yağı Batı Avrupa'da lüks yemek segmentinde standart haline getirdi. Menüde "sıfır trans yağ" ve "GDO'suz ayçiçek yağı" iletişimi tüketicilerde karşılık buluyor.
+
+**Catering ve etkinlik mutfakları:** High-oleic yağın uzun raf ömrü (18–24 ay, standartın 12–15 ayına karşılık), sezonluk talep zirveleri arasında yağ stoklayan catering işletmeleri için idealdir.
+
+UB Market LTD, GDO'suz belgeleme ve HACCP sertifikalı tedarik zinciriyle Türkiye'deki ve 12'den fazla AB ülkesindeki HoReCa distribütörlerine high-oleic ayçiçek yağı tedarik etmektedir. CIF İstanbul, CIF Mersin ve DAP teslimat seçenekleri mevcuttur.
 
 ## High-oleic ayçiçek yağı nasıl depolanmalıdır?
 
-**Açılmamış kaplar:** HOAY, serin ve karanlık koşullarda üretim tarihinden itibaren 18–24 ay stabil kalır — standart ayçiçek yağının 12–15 aylık raf ömründen çok daha uzun. Bu uzatılmış stabilite, stok yönetimi yapan distribütörler ve çok lokasyonlu operatörler için bozulma kayıplarını azaltır.
+**Açılmamış kaplar:** HOAY, serin ve karanlık koşullarda üretim tarihinden itibaren 18–24 ay stabil kalır — standart ayçiçek yağının 12–15 aylık raf ömründen çok daha uzun.
 
-**Depolama sıcaklığı:** 20°C'nin altında, ideal olarak 15–18°C'de muhafaza edin. Doğrudan güneş ışığından kaçının — UV maruziyeti kapalı kaplarda bile oksidasyonu hızlandırır.
+**Depolama sıcaklığı:** 20°C'nin altında, ideal olarak 15–18°C'de muhafaza edin. Doğrudan güneş ışığından kaçının.
 
 **Açıldıktan sonra (IBC kaplar):** İlk açılıştan itibaren 3–4 ay içinde tüketin.
 
-**Günlük fritöz yönetimi:** Gıda parçacıklarını gidermek için yağı günlük filtreleyin. Gıda kalıntıları yağ bozunmasını hızlandırır. Günlük filtreleme, high-oleic yağın ömrünü temel 20–30 saatin üzerinde ek %20–30 oranında uzatabilir.
+**Günlük fritöz yönetimi:** Gıda parçacıklarını gidermek için yağı günlük filtreleyin. Günlük filtreleme, high-oleic yağın ömrünü temel 20–30 saatin üzerinde ek %20–30 oranında uzatabilir.
 
 ## HoReCa için hangi ambalaj formatları mevcuttur?
-
-UB Market, HoReCa sektörü için high-oleic ayçiçek yağını aşağıdaki formatlarda tedarik etmektedir:
 
 | Format        | Hacim      | En iyi                          | Yaklaşık fiyat      |
 | ------------- | ---------- | ------------------------------- | ------------------- |
@@ -134,11 +147,7 @@ UB Market, HoReCa sektörü için high-oleic ayçiçek yağını aşağıdaki fo
 | IBC konteyner | 1.000L     | Büyük zincirler, distribütörler | Fiyat için iletişim |
 | Flexitank     | 20.000L    | HoReCa distribütörleri          | Fiyat için iletişim |
 
-10L bidon, bireysel restoran işlemleri için en popüler formattır — pompa ekipmanı gerektirmeden kolayca kullanılır ve standart ticari fritözlerle uyumludur.
-
 ## Mutfak operasyonlarını bozmadan high-oleic yağa nasıl geçilir?
-
-Geçiş basittir ve minimum risk taşır. Çoğu mutfak geçişi tek bir yağ döngüsü içinde tamamlar.
 
 **Adım 1 — Deneme siparişi:** Bir palet 10L bidon ile başlayın. En yoğun fritözünüzde 2–4 hafta test edin. Yağ değişim sıklığını mevcut yağınızla karşılaştırarak belgeleyin.
 
@@ -154,7 +163,7 @@ Bize şu bilgilerle ulaşın:
 
 1. **Hacim:** litre veya tahmini yıllık tonaj olarak aylık tüketim
 2. **Ambalaj:** 5L şişeler / 10L bidonlar / 18L bidonlar / IBC
-3. **Teslimat koşulu:** mutfağınıza veya dağıtım deponuza DAP; Türkiye için CIF İstanbul da mümkün
+3. **Teslimat koşulu:** mutfağınıza veya dağıtım deponuza DAP; Türkiye için CIF İstanbul veya CIF Mersin
 4. **Gerekli sertifikalar:** GDO'suz, Helal, Organik, ISO 22000
 
 Tam fiyat listesi ve güncel CoA belgeleriyle 24 saat içinde yanıt veriyoruz. Birden fazla lokasyona hizmet veren HoReCa distribütörleri için konsolide teslimat programlaması ve hacim fiyatlandırması sunuyoruz.
@@ -163,4 +172,4 @@ Tam fiyat listesi ve güncel CoA belgeleriyle 24 saat içinde yanıt veriyoruz. 
 
 Spesifik mutfağınız için tasarrufu hesaplamaya hazır mısınız? **[Teklif isteyin](/tr/quote)** — fritöz sayınızı, mevcut yağ türünüzü ve haftalık yağ değişim sıklığını bize bildirin; tam yıllık maliyet karşılaştırmasını göstereceğiz.
 
-_Kaynaklar: EFSA kızartma yağı kılavuzları 2025, trans yağ asitleri hakkında AB Yönetmeliği 2019/649, UB Market HoReCa satış verileri 2025–2026, ISO 22000 uyumluluk belgeleri._
+_Kaynaklar: IMF Küresel Ayçiçek Yağı Fiyatı FRED/St. Louis Fed (Haziran 2026: 1.795 $/ton), EFSA kızartma yağı kılavuzları 2025, trans yağ asitleri hakkında AB Yönetmeliği 2019/649, UB Market HoReCa satış verileri 2025–2026._
