@@ -1,21 +1,22 @@
 ---
 title: "Welches Frittieröl ist das Beste für Restaurants in Europa 2026?"
-description: "Vollständiger Vergleich von Frittierölen für professionelle Küchen — High-Oleic Sonnenblumenöl, Palmöl, Rapsöl und Standard-Raffiniertes. Echte Kostenanalyse pro Frittierzyklus für HoReCa-Käufer."
+description: "Aktualisiert Juli 2026: Vollständiger Vergleich von Frittierölen für professionelle Küchen — High-Oleic, Palmöl, Rapsöl. Echte Kostenanalyse pro Frittierzyklus für HoReCa-Käufer im DACH-Raum."
 date: "2026-03-20"
+modifiedDate: "2026-07-18"
 category: "products"
 image: "/images/frying-oil.webp"
-readingTime: 10
+readingTime: 11
 ogImage: "/images/blog/best-frying-oil-restaurants/og.jpg"
 ---
 
-**TL;DR:** High-Oleic Sonnenblumenöl ist das beste Frittieröl für die meisten europäischen Restaurants im Jahr 2026 — 20–30 Frittierzyklen vor dem Wechsel gegenüber 8–12 bei Standard-Raffiniertem. Trotz des höheren Preises pro Tonne sind die Gesamtkosten pro Zyklus 30–40% niedriger. Für budgetbewusste Betriebe bleibt Standard-Raffiniertes Sonnenblumenöl die wirtschaftlichste Wahl.
+**TL;DR:** High-Oleic Sonnenblumenöl ist das beste Frittieröl für die meisten europäischen Restaurants im Jahr 2026 — 20–30 Frittierzyklen vor dem Wechsel gegenüber 8–12 bei Standard-Raffiniertem. Trotz des höheren Preises pro Tonne sind die Gesamtkosten pro Zyklus 30–40% niedriger. Mit Sonnenblumenöl-Futures von $1.630/t im März 2026 und dem IMF-Benchmark bei $1.795/MT im Juni 2026 war die Öleffizienz noch nie wichtiger für die Restaurantrentabilität.
 
 ---
 
 ### Schnellantwort: Bestes Frittieröl für Restaurants 2026
 
-- **Bestes Gesamtöl:** High-Oleic Sonnenblumenöl — €1.300–1.450/t, 20–30 Zyklen
-- **Bestes Budgetöl:** Raffiniertes Sonnenblumenöl — €1.100–1.200/t, 8–12 Zyklen
+- **Bestes Gesamtöl:** High-Oleic Sonnenblumenöl — €1.380–1.500/t, 20–30 Zyklen
+- **Bestes Budgetöl:** Raffiniertes Sonnenblumenöl — €1.200–1.300/t, 8–12 Zyklen
 - **Rauchpunkt High-Oleic:** 230°C+ — hält Fritteusen ohne Abbau stand
 - **Kosten pro Zyklus:** High-Oleic ist 30–40% günstiger pro Zyklus trotz höherem Preis
 - **Mindestbestellung HoReCa:** 5L oder 10L Kanister, ab 1 Palette
@@ -25,133 +26,131 @@ ogImage: "/images/blog/best-frying-oil-restaurants/og.jpg"
 
 ## Warum ist die Wahl des richtigen Frittieröls entscheidend für die Rentabilität eines Restaurants?
 
-Ein Restaurantbesitzer aus München schilderte mir eine Frage, die ich regelmäßig höre: "Warum soll ich €300 mehr pro Tonne für High-Oleic Öl bezahlen, wenn ich Standard-Raffiniertes günstiger bekomme?" Drei Monate später rief er zurück. Seine Küche hatte auf High-Oleic Sonnenblumenöl für die Fritteusen umgestellt. Die Ölwechsel sanken von zweimal wöchentlich auf einmal alle 12 Tage. Die Arbeitskosten für Ölwechsel gingen zurück. Die Lebensmittelqualität verbesserte sich — Gäste bemerkten knusprigere Ergebnisse. "Ich habe die falsche Zahl berechnet," sagte er. "Ich schaute auf den Preis pro Tonne, nicht auf die Kosten pro Frittierzyklus."
+Ein Restaurantbesitzer aus München schilderte mir eine Frage, die ich regelmäßig höre: "Warum soll ich €300 mehr pro Tonne für High-Oleic Öl bezahlen, wenn ich Standard-Raffiniertes günstiger bekomme?" Drei Monate später rief er zurück. Seine Küche hatte auf High-Oleic Sonnenblumenöl umgestellt. Die Ölwechsel sanken von zweimal wöchentlich auf einmal alle 12 Tage. Die Arbeitskosten gingen zurück. Die Lebensmittelqualität verbesserte sich. "Ich habe die falsche Zahl berechnet," sagte er. "Ich schaute auf den Preis pro Tonne, nicht auf die Kosten pro Frittierzyklus."
 
-Genau diese Erkenntnis — Kosten pro Frittierzyklus, nicht Kosten pro Tonne — ist das Wichtigste, was ein Restauranteinkäufer über die Beschaffung von Frittieröl verstehen kann. Dieser Leitfaden beleuchtet jede wichtige Frittieröloption für europäische HoReCa-Käufer im Jahr 2026 mit realen Zahlen.
+Diese Erkenntnis — Kosten pro Frittierzyklus, nicht Kosten pro Tonne — ist 2026 noch kritischer geworden. Sonnenblumenöl-Futures erreichten $1.630/t im März 2026 und der IMF-Benchmark $1.795/MT im Juni — Niveaus, die seit 2022 nicht mehr gesehen wurden. Die ukrainische Sonnenblumensaaternte 2025/26 kam bei ca. 10,5 Millionen Tonnen ein, 8% unter der Vorsaison. Bei erhöhten Basisölpreisen ist die Effizienzlücke zwischen High-Oleic und Standard-Raffiniertem noch bedeutsamer als zuvor.
 
 UB Market LTD liefert Frittieröle in 5L-, 10L-, 18L- und 1.000L-IBC-Formaten an Restaurants, Hotelketten, Catering-Unternehmen und Food-Service-Distributoren in 12+ EU-Ländern, darunter Deutschland, Österreich und die Schweiz. Wir beziehen direkt von ISO 22000 und HACCP zertifizierten Produzenten in Bulgarien, der Ukraine und Rumänien.
 
 ## Was macht ein gutes Frittieröl für professionelle Küchen aus?
 
-Bevor wir spezifische Öle vergleichen, hilft es, zu verstehen, was professionelles Frittieren von einem Öl verlangt. In einer Restaurantfritteuse, die 6–10 Stunden täglich läuft, ist das Öl kontinuierlicher Hitze, wiederholtem Kontakt mit Lebensmittelpartikeln und Oxidation durch Luftkontakt ausgesetzt. Das Öl degradiert mit der Zeit — und wie schnell es degradiert, bestimmt Ihre tatsächlichen Betriebskosten.
+In einer Restaurantfritteuse, die 6–10 Stunden täglich läuft, ist das Öl kontinuierlicher Hitze, wiederholtem Kontakt mit Lebensmittelpartikeln und Oxidation ausgesetzt. Vier Parameter sind entscheidend:
 
-Vier Parameter sind für professionelles Frittieren am wichtigsten:
+**1. Rauchpunkt** — Fritteusen arbeiten typischerweise bei 170–185°C. Öle mit Rauchpunkten über 220°C bieten komfortablen Sicherheitspuffer und langsamere Degradation.
 
-**1. Rauchpunkt** — Die Temperatur, bei der das Öl zu zersetzen beginnt und zu rauchen anfängt. Fritteusen arbeiten typischerweise bei 170–185°C. Öle mit Rauchpunkten über 220°C bieten einen komfortablen Sicherheitspuffer und langsamere Degradation.
+**2. Oxidative Stabilität** — High-Oleic Sonnenblumenöl enthält 80–90% Ölsäure gegenüber nur 20–30% in Standard-Sorten — deutlich widerstandsfähiger gegen Hitze und Oxidation.
 
-**2. Oxidative Stabilität** — Wie widerstandsfähig das Öl gegen Abbau durch Hitze und Sauerstoff ist. Öle mit hohem Gehalt an einfach ungesättigten Fettsäuren (wie High-Oleic Sonnenblumenöl) sind deutlich stabiler als Öle mit hohem Gehalt an mehrfach ungesättigten Fettsäuren (wie Standard-Sonnenblumenöl).
+**3. Frittierzyklen** — Die Schlüsselkennzahl für die tatsächlichen Kosten pro Nutzung.
 
-**3. Frittierzyklen** — Wie viele vollständige Frittiersitzungen das Öl aushalten kann, bevor es ausgetauscht werden muss. Dies ist die Schlüsselkennzahl für die Berechnung der tatsächlichen Kosten pro Nutzung.
-
-**4. Bildung polarer Verbindungen** — Wenn Öl degradiert, bildet es schädliche polare Verbindungen. Viele EU-Länder regulieren nun maximale Gehalte polarer Verbindungen in Frittieröl (typischerweise 25% TPM). In Deutschland gilt ein strengerer Grenzwert von 24%. Öle mit hoher Stabilität erreichen diese Grenze deutlich langsamer.
+**4. Bildung polarer Verbindungen** — Deutschland schreibt 24% TPM-Grenzwert vor (EU-Standard: 25%). Öle mit hoher Stabilität erreichen diese Grenze deutlich langsamer — weniger erzwungene Entsorgungen, weniger HACCP-Dokumentationsaufwand.
 
 ## Wie vergleichen sich die wichtigsten Frittieröle im professionellen Einsatz?
 
-| Ölsorte                              | Rauchpunkt | Frittierzyklen | Preis/t      | Am besten für                              |
-| ------------------------------------ | ---------- | -------------- | ------------ | ------------------------------------------ |
-| High-Oleic Sonnenblumenöl            | 230°C+     | 20–30          | €1.300–1.450 | Intensives Frittieren, qualitätsorientiert |
-| Standard Raffiniertes Sonnenblumenöl | 225°C      | 8–12           | €1.100–1.200 | Allgemeines Frittieren, budgetorientiert   |
-| Palmöl (RBD)                         | 230°C      | 15–20          | €800–950     | Industriell, preissensibel                 |
-| Rapsöl (Canola)                      | 205°C      | 8–12           | €1.000–1.150 | Leichtes Frittieren, nordeuropäische Küche |
-| Raffiniertes Olivenöl                | 210°C      | 10–15          | €3.500–5.000 | Mediterrane Restaurants, Premium           |
-| Frittier-Mischöl                     | 220–230°C  | 12–18          | €1.050–1.200 | Ausgewogene Leistung und Kosten            |
+| Ölsorte                              | Rauchpunkt | Frittierzyklen | Preis/t Juli 2026 | Am besten für                              |
+| ------------------------------------ | ---------- | -------------- | ----------------- | ------------------------------------------ |
+| High-Oleic Sonnenblumenöl            | 230°C+     | 20–30          | €1.380–1.500      | Intensives Frittieren, qualitätsorientiert |
+| Standard Raffiniertes Sonnenblumenöl | 225°C      | 8–12           | €1.200–1.300      | Allgemeines Frittieren, budgetorientiert   |
+| Palmöl (RBD)                         | 230°C      | 15–20          | €800–950          | Industriell, preissensibel                 |
+| Rapsöl (Canola)                      | 205°C      | 8–12           | €1.000–1.150      | Leichtes Frittieren, nordeuropäische Küche |
+| Raffiniertes Olivenöl                | 210°C      | 10–15          | €3.500–5.000      | Mediterrane Restaurants, Premium           |
+| Frittier-Mischöl                     | 220–230°C  | 12–18          | €1.050–1.200      | Ausgewogene Leistung und Kosten            |
 
 **Am besten für intensives Frittieren:** High-Oleic Sonnenblumenöl
 
 **Am besten für budgetorientierte Betriebe:** Standard Raffiniertes Sonnenblumenöl
 
-**Am besten für mediterrane Restaurants:** Raffiniertes Olivenöl (wenn Premium-Positionierung die Kosten rechtfertigt)
-
 **Am besten für norddeutsches und skandinavisches leichtes Frittieren:** Rapsöl
 
-## Was sind die tatsächlichen Kosten pro Frittierzyklus?
+## Was sind die tatsächlichen Kosten pro Frittierzyklus im Juli 2026?
 
-Hier werden die meisten Restauranteinkäufer überrascht. Lassen Sie mich die Mathematik mit realen Zahlen für eine typische Restaurantfritteuse mit 15 Litern Öl zeigen.
+Lassen Sie mich die Mathematik mit realen Juli 2026 Preisen für eine typische Restaurantfritteuse mit 15 Litern Öl zeigen.
 
 **Standard Raffiniertes Sonnenblumenöl:**
 
-- Preis: €1.150/t = €1,15/Liter
-- 15L Befüllung: €17,25
+- Preis: €1.250/t = €1,25/Liter
+- 15L Befüllung: €18,75
 - Frittierzyklen vor Wechsel: 10 (Durchschnitt)
-- Kosten pro Zyklus: **€1,73**
+- Kosten pro Zyklus: **€1,88**
 
 **High-Oleic Sonnenblumenöl:**
 
-- Preis: €1.380/t = €1,38/Liter
-- 15L Befüllung: €20,70
+- Preis: €1.450/t = €1,45/Liter
+- 15L Befüllung: €21,75
 - Frittierzyklen vor Wechsel: 25 (Durchschnitt)
-- Kosten pro Zyklus: **€0,83**
+- Kosten pro Zyklus: **€0,87**
 
-High-Oleic ist 52% günstiger pro Frittierzyklus, obwohl es 20% teurer pro Liter ist. Für ein Restaurant, das mit Standard-Öl zweimal wöchentlich wechselt, gegenüber einmal alle 10 Tage mit High-Oleic, beträgt die jährliche Einsparung an einer einzelnen Fritteuse ca. €400–600 allein bei den Ölkosten — ohne Berücksichtigung der Arbeitszeit und Entsorgungskosten.
+High-Oleic ist **54% günstiger pro Frittierzyklus** trotz 16% höherem Preis pro Liter. Bei aktuellen Juli 2026 Preisen wird der €200/t Aufpreis innerhalb der ersten zwei Wochen Nutzung bei jeder Fritteuse mit mehr als 4 Stunden Tagesbetrieb amortisiert.
 
-Ein Hotelbetrieb in Wien machte diesen Wechsel im Herbst 2025. Die monatlichen Ölausgaben sanken von €720 auf €430 bei gleichem Frittiervolumen. Der Küchenchef berichtete auch, dass frittierte Speisen ihre Textur länger unter Wärmelampen behielten — ein Qualitätsvorteil, der für Buffet- und Cateringbetriebe wichtig ist. Dies entspricht den Anforderungen der deutschen und österreichischen Lebensmittelüberwachung, die regelmäßige Kontrollen der Ölqualität vorschreibt.
+Ein Hotelbetrieb in Wien machte diesen Wechsel im Herbst 2025. Die monatlichen Ölausgaben sanken von €720 auf €430 bei gleichem Frittiervolumen. Der Küchenchef berichtete, dass frittierte Speisen ihre Textur länger unter Wärmelampen behielten — wichtig für Buffet- und Cateringbetriebe. Das entspricht auch den Erwartungen der Lebensmittelüberwachung, die regelmäßige Ölqualitätskontrollen vorschreibt.
+
+## Was bedeutet das Preisumfeld 2026 für die Frittierölbeschaffung?
+
+Das erhöhte Preisumfeld 2026 verändert, wie Restauranteinkäufer die Frittierölstrategie denken sollten.
+
+**Auf High-Oleic umstellen wenn noch nicht geschehen.** Die Mathematik hat immer funktioniert; bei aktuellen Preisniveaus ist Standard-Raffiniertes für jede Küche mit mehr als 4 Stunden Fritteusennutrieb täglich nicht zu rechtfertigen.
+
+**Öllebensdauer durch tägliche Filtration verlängern.** Ein täglicher Filter, der Lebensmittelrückstände entfernt, kann die Lebensdauer jedes Frittieröls um 20–30% verlängern. Bei einem Restaurant in München oder Hamburg mit 120L/Monat High-Oleic: €35–52/Monat zusätzliche Einsparung ohne zusätzliche Kosten. Dies entspricht auch der HACCP-Eigenkontrolle nach §4 LMHV.
+
+**Ölqualität mit TPM-Teststreifen überwachen.** Bei €15–30 pro Packung mit 50 Streifen ermöglicht TPM-Testing den Küchen, das Öl bis zum maximal zulässigen Grenzwert (24% TPM in Deutschland) zu nutzen, ohne es vorzeitig zu entsorgen.
 
 ## Warum verliert Palmöl Marktanteile in europäischen Restaurants?
 
-Vor fünf Jahren war Palmöl das dominierende Frittieröl im europäischen Gastgewerbe. Im Jahr 2026 hat es sich weitgehend in die industrielle Lebensmittelproduktion zurückgezogen. Die Gründe sind eindeutig.
+Der Trend zur Kennzeichnung "palmölfrei", besonders stark in Deutschland, Österreich, den Niederlanden und Skandinavien, hat Palmöl zu einem Reputationsrisiko gemacht. DEHOGA berichtet, dass die Nachfrage nach Transparenz bei Speisefetten erheblich gestiegen ist. Die EU hat Vorschriften zu Entwaldungs-assoziierten Rohstoffen verschärft. RBD-Palmöl erzeugt zudem einen leicht süßlichen Nachgeschmack, den viele Köche als unerwünscht empfinden.
 
-**Verbraucherdruck:** Der Trend zur Kennzeichnung "palmölfrei", besonders stark in Deutschland, Österreich, den Niederlanden und Skandinavien, hat Palmöl zu einem Reputationsrisiko für Restaurantmarken gemacht. Viele Ketten werben aktiv mit palmölfreien Speisekarten. Der Deutsche Hotel- und Gaststättenverband (DEHOGA) berichtet, dass die Nachfrage nach Transparenz bei Speisefetten in deutschen Restaurants erheblich gestiegen ist.
+Für DACH-Einkäufer ist die Empfehlung klar: High-Oleic Sonnenblumenöl bietet bessere Leistung, saubereren Geschmack und kein Reputationsrisiko — bei wettbewerbsfähigen Gesamtkosten.
 
-**EU-Verordnungen:** Die EU hat die Vorschriften zu Palmöl und Entwaldungs-assoziierten Rohstoffen verschärft. Compliance-Anforderungen erhöhen den Verwaltungsaufwand und die Komplexität.
+## Wie entwickelt sich die HoReCa-Adoption von Frittierölen 2026?
 
-**Geschmack:** RBD-Palmöl schneidet in Fritteusen gut ab, erzeugt aber einen leicht süßlichen Nachgeschmack, den viele Köche vor allem bei herzhaften Gerichten als unerwünscht empfinden.
+Der HoReCa-Sektor im DACH-Raum beschleunigt den Übergang zu High-Oleic Frittierölen in 2026.
 
-Für Restauranteinkäufer in DACH-Ländern ist die praktische Empfehlung klar: High-Oleic Sonnenblumenöl bietet bessere Leistung, saubereren Geschmack und kein Reputationsrisiko gegenüber Palmöl — und das bei wettbewerbsfähigen Gesamtkosten.
+**Hotelketten** haben am schnellsten umgestellt. Betriebe mit zentralen Commis-Küchen haben High-Oleic als Standard-Frittieröl festgelegt — die Arbeitseinsparung durch weniger Ölwechsel im Maßstab ist erheblich.
+
+**Schnellrestaurants (QSR)** mit 12–14 Stunden Fritteusennutrieb täglich sehen die höchste absolute Einsparung. Ein gut besuchter QSR-Standort in München oder Hamburg spart €4.000–6.000 jährlich.
+
+**Premium-Restaurants** in ganz Deutschland, Österreich und der Schweiz haben weitgehend umgestellt. Menükommunikation über "null Transfette" und "Non-GMO Sonnenblumenöl" resoniert mit Verbrauchern, die Etiketten lesen.
+
+**Catering und Eventküchen** profitieren von High-Oleics verlängerter Haltbarkeit (18–24 Monate gegenüber 12–15 beim Standard) — ideal für Betriebe, die zwischen saisonalen Nachfragespitzen Öl einlagern.
 
 ## Welche Verpackungsformate sind für Frittieröl verfügbar?
 
-Für HoReCa-Betriebe hängt die Wahl der Verpackung vom Kühlraumangebot, dem Verbrauchsvolumen und der Lieferantenlogistik ab.
-
-| Format             | Volumen           | Am besten für                       | Hinweise                                            |
-| ------------------ | ----------------- | ----------------------------------- | --------------------------------------------------- |
-| PET-Flaschen       | 5L                | Kleine Restaurants, Cafés           | Einfache Handhabung, keine Pumpenausrüstung         |
-| Kunststoffkanister | 10L, 18L          | Mittelgroße Restaurants             | Beliebtestes HoReCa-Format in der EU                |
-| IBC-Container      | 1.000L            | Große Hotels, Catering              | Erfordert Pumpenausrüstung, niedrigster Preis/Liter |
-| Schüttlieferung    | 20.000L Flexitank | Industrielle Lebensmittelproduktion | Nicht praktisch für einzelne Restaurants            |
-
-Für die meisten Restaurants sind 10L-Kanister die praktische Ideallösung: einfach ohne Spezialausrüstung zu handhaben, kompatibel mit Standard-Gastronomiefritteusen und ohne nennenswerten Verpackungsaufpreis.
-
-Hotelketten und große Cateringunternehmen mit zentralisierten Küchenanlagen setzen zunehmend auf IBC-Container in Kombination mit Öldosiersystemen. Die anfängliche Geräteinvestition von €500–1.500 amortisiert sich schnell durch niedrigere Kosten pro Liter und reduzierten Handlingsaufwand.
+| Format             | Volumen           | Am besten für             | Hinweise                                 |
+| ------------------ | ----------------- | ------------------------- | ---------------------------------------- |
+| PET-Flaschen       | 5L                | Kleine Restaurants, Cafés | Einfache Handhabung                      |
+| Kunststoffkanister | 10L, 18L          | Mittelgroße Restaurants   | Beliebtestes HoReCa-Format               |
+| IBC-Container      | 1.000L            | Große Hotels, Catering    | Erfordert Pumpenausrüstung               |
+| Schüttlieferung    | 20.000L Flexitank | Industrielle Produktion   | Nicht praktisch für einzelne Restaurants |
 
 ## Welche EU-Vorschriften gelten für Frittieröl in Restaurants?
 
-Professionelle Küchen in der EU unterliegen Lebensmittelsicherheitsvorschriften, die das Management von Frittieröl betreffen:
+**TPM-Grenzwerte:** Deutschland: 24% TPM. EU-Standard: 25%. Regelmäßige Tests mit TPM-Streifen (€15–30 pro 50er-Packung) sind Bestandteil der HACCP-Eigenkontrollen nach §4 LMHV. Das BVL (Bundesamt für Verbraucherschutz und Lebensmittelsicherheit) überprüft Compliance bei Betriebskontrollen.
 
-**Gesamtpolare Verbindungen (TPM-Grenzwerte):** Deutschland schreibt vor, dass Frittieröl mit mehr als 24% TPM entsorgt werden muss (EU-Standard liegt bei 25%). Professionelle Küchen sollten das Öl regelmäßig mit TPM-Teststreifen prüfen (€15–30 für eine Packung mit 50 Stück). Dies ist Bestandteil der HACCP-Eigenkontrollen nach §4 LMHV.
+**Rückverfolgbarkeitsdokumentation:** Lieferantendokumentationen — Analysezertifikat, Ursprungszeugnis — müssen aufbewahrt werden. UB Market liefert vollständige BVL-konforme Dokumentation mit jeder Lieferung.
 
-**Rückverfolgbarkeitsdokumentation:** Lebensmittelsicherheitsvorschriften verlangen, dass Restaurantbetreiber Herkunft und Qualität ihrer Speiseöle nachweisen können. Lieferantendokumentationen müssen aufbewahrt werden.
-
-**Entsorgungsvorschriften:** Gebrauchtes Frittieröl muss in den meisten EU-Ländern von lizenzierten Entsorgern abgeholt werden. Illegale Entsorgung kann zu erheblichen Bußgeldern führen. In Deutschland kaufen Biodiesel-Produzenten gebrauchtes Frittieröl oft an — dies kann die Ölkosten teilweise ausgleichen.
-
-UB Market liefert mit jeder Lieferung vollständige Dokumentation: Analysezertifikat (CoA), Ursprungszeugnis und HACCP/ISO 22000-Konformitätsnachweise für EU-Lebensmittelüberwachungsprüfungen.
+**Entsorgungsvorschriften:** Gebrauchtes Frittieröl muss von lizenzierten Entsorgern abgeholt werden. In Deutschland kaufen Biodiesel-Produzenten oft gebrauchtes Frittieröl an — dies kann die Ölkosten teilweise ausgleichen.
 
 ## Wie berechnen Sie den monatlichen Frittierölbedarf Ihres Restaurants?
 
-Eine einfache Formel zur Schätzung des monatlichen Frittierölverbrauchs:
+**Anzahl Fritteusen × Ölfüllmenge (Liter) × Ölwechsel pro Monat = Monatlicher Verbrauch**
 
-**Anzahl Fritteusen × Ölfüllmenge pro Fritteuse (Liter) × Ölwechsel pro Monat = Monatlicher Verbrauch**
+Beispiel für ein mittelgroßes Restaurant mit 3 Fritteusen à 15L bei Juli 2026 Preisen:
 
-Beispiel für ein mittelgroßes Restaurant mit 3 Fritteusen à 15L:
+- Standard-Raffiniert: 3 × 15L × 8 Wechsel = **360L/Monat** ≈ €450/Monat
+- High-Oleic: 3 × 15L × 3,2 Wechsel = **144L/Monat** ≈ €209/Monat
 
-- Standard-Raffiniert: 3 × 15L × 8 Wechsel = **360L/Monat** ≈ €414/Monat
-- High-Oleic: 3 × 15L × 3,2 Wechsel = **144L/Monat** ≈ €199/Monat
-
-Der High-Oleic-Betrieb verbraucht 60% weniger Ölvolumen pro Monat — was auch 60% weniger Entsorgungskosten und 60% weniger Arbeitszeit für Ölwechsel bedeutet.
+Jährliche Einsparung für diese Küche: ca. **€5.300**.
 
 ## Wie bestellen Sie Frittieröl für Ihr Restaurant?
 
-Wenn Sie UB Market oder einen anderen Frittieröllieferanten kontaktieren, geben Sie diese Informationen für ein genaues Angebot an:
-
-1. **Ölsorte:** High-Oleic Sonnenblumenöl / Standard Raffiniertes Sonnenblumenöl / Rapsöl / Mischöl
+1. **Ölsorte:** High-Oleic Sonnenblumenöl / Standard Raffiniertes / Rapsöl / Mischöl
 2. **Volumen:** monatlicher Verbrauch in Litern oder Kilogramm
 3. **Verpackung:** 5L / 10L / 18L Kanister oder IBC
-4. **Lieferbedingung:** DAP an Ihre Küche oder Ihr Distributionszentrum
-5. **Zertifizierungen:** Non-GMO, Halal, Bio falls erforderlich
+4. **Lieferbedingung:** DAP an Ihre Küche oder Distributionszentrum, FOB Varna
+5. **Zertifizierungen:** Non-GMO, Halal, Bio, BVL-konform falls erforderlich
 
-UB Market liefert an Restaurants und Food-Service-Betriebe in der EU mit Lieferzeiten von 5–10 Werktagen. Für Restaurantketten mit mehreren Standorten bieten wir konsolidierte Lieferpläne und Mengenpreise an.
+Wir antworten innerhalb von 24 Stunden mit aktueller Preisliste und CoA-Dokumentation.
 
 ---
 
-Bereit, das richtige Frittieröl für Ihre Küche zu berechnen? **[Angebot anfordern](/de/quote)** — teilen Sie uns Ihre Fritteusenanzahl und das aktuelle Ölprodukt mit und wir zeigen Ihnen den vollständigen Kostenvergleich.
+Bereit, das richtige Frittieröl für Ihre Küche zu berechnen? **[Angebot anfordern](/de/quote)** — teilen Sie uns Ihre Fritteusenanzahl und das aktuelle Ölprodukt mit und wir zeigen Ihnen den vollständigen Kostenvergleich zu aktuellen Juli 2026 Preisen.
 
-_Quellen: EFSA-Leitlinien für Frittieröl, UB Market HoReCa-Verkaufsdaten 2025–2026, ISO 22000 Konformitätsdokumentation, DEHOGA Branchenberichte 2025._
+_Quellen: IMF Weltmarktpreis Sonnenblumenöl FRED/St. Louis Fed (Juni 2026: $1.795/MT), Trading Economics Sonnenblumenöl-Futures (März 2026 Peak: $1.630/t), UB Market HoReCa-Verkaufsdaten Q2 2026, EFSA-Leitlinien für Frittieröl, DEHOGA Branchenberichte 2025._
