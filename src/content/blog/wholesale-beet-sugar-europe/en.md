@@ -1,196 +1,153 @@
 ---
-title: "Wholesale Beet Sugar in Europe — Complete Sourcing Guide for B2B Buyers 2026?"
-description: "Everything B2B buyers need to know about sourcing wholesale beet sugar in Europe — ICUMSA grades, current pricing, EU regulations, seasonal factors, and how to find reliable suppliers."
+title: "Wholesale Beet Sugar in Europe 2026: Prices, Suppliers, and B2B Buying Guide"
+description: "Updated July 2026: EU white sugar wholesale €480–570/t bulk, ICE No.5 futures ~458 USD/t. Complete guide for B2B buyers sourcing beet sugar in 25kg, 50kg bags and 1,000kg big bags."
 date: "2026-03-25"
+modifiedDate: "2026-07-18"
 category: "products"
 image: "/images/sugar.webp"
 readingTime: 9
 ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
 ---
+TL;DR: EU wholesale white beet sugar is trading at €480–570/ton (FCA Central Europe) in July 2026, with ICE No.5 white sugar futures at approximately 458–460 USD/ton for October 2026. Physical prices in Poland, Czech Republic, and Lithuania have risen 8–12% over the past month in EUR terms, driven by drought risk to the 2026/27 beet crop and tight regional supply. For B2B buyers, locking in Q4 2026 volumes now is advisable — further price increases are possible if European beet yields deteriorate.
 
-**TL;DR:** Europe is the world's largest beet sugar producing region — 50% of global output. For B2B buyers, European beet sugar offers shorter supply chains, lower transport costs, and full EU compliance versus imported cane sugar. ICUMSA 45 (white refined) trades at €650–750/ton; ICUMSA 100–150 (industrial grade) at €580–650/ton. UB Market supplies ICUMSA 45 and ICUMSA 100–150 in 50kg bags and 1-ton big bags with delivery across the EU within 1–2 weeks from our Varna, Bulgaria logistics base.
+### Quick Answer: Wholesale Beet Sugar Europe 2026
+EU wholesale price (bulk, FCA): €480–570/ton — Central Europe (PL, CZ, LT) July 2026
+ICE No.5 futures: ~458–460 USD/ton — October 2026 contract
+Germany wholesale: ~€600/ton — consumer-country reference price
+Packaging: 25kg, 50kg, 1,000kg big bags
+Minimum order UB Market: 1 pallet (25kg or 50kg bags)
+Standard grade: ICUMSA 45 white granulated sugar, EU food safety compliant
+Delivery: FOB Varna, CIF, DAP across Europe
+## What is driving beet sugar prices in Europe in July 2026?
+The European beet sugar market in July 2026 is caught between two opposing forces. ICE No.5 white sugar futures have softened slightly from earlier peaks — the October 2026 contract closed around 456.8 USD/ton on 28 July — yet physical wholesale prices in Central Europe have moved firmly higher, with Polish and Czech granulated sugar trading between €0.48 and €0.57/kg FCA (€480–570/ton). This divergence between softer global futures and firmer regional physical prices tells an important story: European beet sugar supply is tight enough that local buyers cannot simply access global price levels.
 
----
+Three structural factors are driving this in 2026. First, European beet area for the 2026/27 campaign has contracted compared to the prior year, following the already significant cuts in 2025/26. Fewer planted hectares mean less sugar to sell. Second, a June 2026 heatwave across Western and Central Europe introduced significant weather risk to beet yields — early assessments point to soil moisture deficits that could reduce sugar content and overall beet yield if July and August remain dry. Third, rising input costs — energy, fertilizers, and labor — are compressing processor margins and reducing willingness to offer below prevailing market prices.
 
-### Quick Answer: European Beet Sugar Prices and Grades 2026
+For B2B buyers, this environment points to one clear action: establish Q4 2026 and Q1 2027 supply contracts sooner rather than later. The forward curve offers limited carry incentive to wait, and further weather deterioration could push physical prices above current levels.
 
-| Grade           | Price Range (FOB) | ICUMSA Color | Best For                                  |
-| --------------- | ----------------- | ------------ | ----------------------------------------- |
-| ICUMSA 45       | €650–750/ton      | Pure white   | Retail, food manufacturing, confectionery |
-| ICUMSA 100–150  | €580–650/ton      | Off-white    | Industrial food production                |
-| ICUMSA 600–1200 | €500–580/ton      | Raw/brown    | Brewing, specialty foods                  |
-| Bulk tanker     | Contact           | Any grade    | Industrial users 200+ tons                |
+UB Market LTD sources beet sugar directly from EU-registered producers in Romania, Bulgaria, and Poland, supplying food manufacturers, HoReCa distributors, retail chains, and confectionery producers across 12+ EU countries. We supply sugar in 25kg bags, 50kg bags, and 1,000kg big bags with FOB, CIF, and DAP delivery options.
 
----
+## What are current wholesale beet sugar prices in Europe by region?
+Regional price variation in July 2026 is significant — buyers need to understand not just the price level but which pricing basis applies to their specific procurement.
 
-## What is European beet sugar and why does it matter for B2B buyers?
+Region / Basis Price Range Notes
+Poland FCA (granulated, standard) €0.41–0.52/kg Eased from 0.43 to 0.41 in March, recovered to 0.52 by late July
+Czech Republic FCA €0.48–0.57/kg Firm, ICUMSA 45 quality
+Lithuania FCA €0.48–0.51/kg Stable supply, competitive pricing
+Germany wholesale ~€0.60/kg Consumer-country reference, higher logistics cost
+EU average (ICE No.5 EUR equiv.) ~€0.42/kg Global benchmark — below physical levels
+DAP delivery Central Europe €0.52–0.58/kg Including transport from origin
+FOB Black Sea (Bulgaria/Romania) €0.44–0.50/kg Competitive for sea freight routes
+The gap between ICE futures (approximately €0.42/kg converted) and Central European physical prices (€0.48–0.57/kg) reflects processing costs, logistics, energy, and local supply tightness. For EU buyers, the physical price is what matters — and it has been trending upward through July 2026.
 
-A food manufacturer from Vienna was sourcing cane sugar from a Brazilian supplier when her logistics manager flagged a problem in early 2025: ocean freight from Santos to Hamburg had increased 40% due to Red Sea shipping disruptions, and lead times had stretched from 5 weeks to 9 weeks. Her production schedule could not accommodate that delay.
+## What grades of beet sugar are available for wholesale buyers?
+Not all white sugar is the same — grade, purity, and packaging specifications matter for food manufacturing, confectionery, and HoReCa applications.
 
-She called us asking about European beet sugar as an alternative. Our answer surprised her: European beet sugar and Brazilian cane sugar are chemically identical in their refined form. Both are 99.9%+ sucrose. Both taste the same. Both perform identically in food manufacturing processes. The only meaningful difference for her business was that European beet sugar could be delivered DAP Vienna in 12 hours from our Varna base — at a lower total cost than the Brazilian shipment, without the ocean freight risk.
+### ICUMSA 45 — Standard EU White Sugar
 
-She placed her first order the next day. Within three months she had moved 60% of her sugar sourcing to European beet sugar on a rolling quarterly contract.
+The most widely used grade for food manufacturing and HoReCa. ICUMSA 45 refers to the sugar's color/purity measurement — lower numbers indicate whiter, purer sugar. This grade meets EU food safety standards and is suitable for virtually all food and beverage applications. Available in: 25kg bags, 50kg bags, 1,000kg big bags (bulk).
 
-That shift is happening across European food manufacturing. As supply chain risk awareness has grown, the advantages of locally-sourced European beet sugar have become a genuine purchasing argument — not just an environmental one.
+### ICUMSA 100–150 — Plantation White / Industrial Grade
 
-## What is the difference between beet sugar and cane sugar?
+Slightly lower purity than ICUMSA 45, with a light yellowish tint. Used in some industrial confectionery and bakery applications where color is less critical. Priced approximately 5–8% below ICUMSA 45.
 
-The question every new buyer asks is whether beet and cane sugar are truly interchangeable. The short answer is yes, for virtually all food manufacturing, retail, and HoReCa applications.
+### Icing Sugar (Powdered Sugar)
 
-| Feature                  | Beet Sugar       | Cane Sugar                      |
-| ------------------------ | ---------------- | ------------------------------- |
-| Sucrose content          | 99.9%+           | 99.9%+                          |
-| Taste                    | Identical        | Identical                       |
-| Chemical composition     | Identical        | Identical                       |
-| Production location      | Europe (local)   | Tropical (imported)             |
-| EU regulatory compliance | Full             | Requires import documentation   |
-| Lead time to EU          | 1–2 weeks (road) | 4–6 weeks (ocean)               |
-| Carbon footprint         | Lower            | Higher (long-distance shipping) |
-| Price volatility         | Moderate         | High (currency + freight risk)  |
+Finely ground white sugar used in confectionery, bakeries, and pastry applications. Produced from ICUMSA 45 base sugar. Available in standard fineness or extra-fine grades.
 
-**Best for:** Refined white sugar (ICUMSA 45) — no functional difference whatsoever. Both perform identically in baking, confectionery, beverages, sauces, and preserves.
+### Caster / Fine Granulated Sugar
 
-The only applications where origin sometimes matters are specialty products marketed specifically as "cane sugar" (for labeling reasons) or raw sugar applications where molasses characteristics affect flavor (brewing, rum production, some artisanal confectionery). For standard food manufacturing, European beet sugar is a complete substitute.
+Finer grain than standard granulated, dissolves faster. Used in beverage manufacturing, premium confectionery, and bakery applications that require rapid dissolution.
 
-## What are ICUMSA sugar grades and which do you need?
+For most food manufacturers and HoReCa distributors, ICUMSA 45 standard white granulated is the correct specification. If you have specific technical requirements — color number, grain size, flow characteristics, moisture content — request a Certificate of Analysis before ordering.
 
-ICUMSA (International Commission for Uniform Methods of Sugar Analysis) grades measure the color of refined sugar using a standardized international test. Lower ICUMSA numbers = whiter, more refined sugar.
+## What packaging options are available for wholesale sugar in Europe?
+Sugar packaging choice depends on your end use, storage capacity, and handling equipment.
 
-**ICUMSA 45 — White Refined Sugar**
+Format Weight Best for Notes
+25kg bag 25kg HoReCa, small manufacturers Manual handling, widely compatible
+50kg bag 50kg Mid-size food manufacturers Standard EU palletization
+1,000kg big bag (FIBC) 1,000 MT Large manufacturers, processors Requires forklift, lowest cost/kg
+Bulk tanker 20–25 tons Industrial sugar refiners For very large scale only
+For HoReCa buyers, 25kg bags on standard EUR pallets (approx. 40 bags = 1 ton/pallet) are the most practical. For food manufacturers with silo or hopper storage, 1,000kg big bags reduce handling cost significantly — one big bag replaces 40 manual 25kg bag lifts.
 
-The international benchmark grade for retail and premium food manufacturing. Crystal white, uniform grain size, no color, no odor. This is the grade found in supermarket packaging and used in high-visibility food products where white color is visible to end consumers — confectionery, beverages, dairy products.
+UB Market supplies all formats with the option of custom pallet quantities to match your storage capacity and delivery schedule.
 
-When to specify ICUMSA 45:
+## How has the 2026 sugar market changed from previous years?
+Understanding the multi-year price context helps buyers make better procurement decisions.
 
-- Retail sugar products for consumer sale
-- White confectionery (marshmallows, fondant, white chocolates)
-- Clear beverages and syrups where visible color matters
-- Pharmaceutical and nutraceutical applications
-- Any product where the end consumer sees the sugar directly
+2023–2024: Sugar prices surged globally due to El Niño-related production shortfalls in India and Thailand, the world's largest cane sugar exporters. ICE No.5 reached multi-year highs above 700 USD/ton in late 2023, pulling European beet sugar prices sharply higher.
 
-Current price: **€650–750/ton FOB**
+2025: Prices moderated as Indian production recovered and global supply improved. European beet area expanded slightly, adding supply. EU FCA prices settled in the €0.40–0.45/kg range for most of 2025.
 
-**ICUMSA 100–150 — Industrial Grade Sugar**
+2026 (current): The market has re-tightened. European beet area has contracted again, heat and drought risk has returned, and physical FCA prices have risen to €0.48–0.57/kg through July. ICE No.5 futures at 458–460 USD/ton for October 2026 are elevated by historical standards but below 2023 peaks. The forward curve through 2028 remains in a tight 465–479 USD/ton range, suggesting the market does not expect a dramatic return to pre-2023 low price levels.
 
-Slightly less refined with a very faint cream color that is invisible once incorporated into products. Functionally identical to ICUMSA 45 for food manufacturing — the difference in color is imperceptible after baking, cooking, or mixing. Used in mainstream food manufacturing where the sugar is processed into a final product.
+For buyers building multi-year supply strategies, the current environment favors forward contracts and established supplier relationships over spot purchasing.
 
-When to specify ICUMSA 100–150:
+## What are the key regulations for importing sugar into the EU?
+Sugar traded within the EU benefits from the single market — no customs duties, no border delays between member states. For buyers importing from non-EU origins (e.g. Ukraine, Moldova), EU import duties and phytosanitary requirements apply.
 
-- Industrial bread and bakery production
-- Sauces, ketchup, and condiment manufacturing
-- Jam and preserve production
-- Canned food with sugar as a preservative ingredient
-- Any application where sugar is cooked, dissolved, or mixed into a product
+Traceability requirements: EU food law requires that buyers can demonstrate the origin of all food ingredients including sugar. Suppliers must provide Certificate of Analysis, Certificate of Origin, and documentation of HACCP-compliant production.
 
-Current price: **€580–650/ton FOB** — typically 10–15% less than ICUMSA 45 for identical functional performance in most applications. Specifying ICUMSA 100–150 where ICUMSA 45 is not actually required is one of the simplest cost optimizations in food ingredient purchasing.
+Labeling requirements: Sugar for retail sale must comply with EU food information regulations (EU 1169/2011) — ingredients label, nutritional information, country of origin. For bulk industrial supply, standard commercial documentation applies.
 
-**ICUMSA 600–1200 — Raw/Brown Sugar**
+Sugar subsidy rules: EU sugar production is no longer subject to production quotas (removed in 2017), but market management measures remain through import tariffs. Buyers sourcing from within the EU avoid these complications entirely.
 
-Minimally processed sugar with significant molasses content. Distinct caramel flavor. Used in specialty brewing (craft beer, rum, traditional fermented products), artisanal confectionery where molasses flavor is desired, and some industrial applications.
+UB Market sources all sugar from EU-registered producers, ensuring full compliance with EU food safety regulations and eliminating import duty exposure for buyers within the single market.
 
-Current price: **€500–580/ton FOB**
+## What should B2B buyers check before signing a sugar supply contract?
+Sugar procurement involves several quality and commercial verification steps that many first-time buyers overlook.
 
-## Which European countries produce beet sugar?
+### 1. Request a Certificate of Analysis (CoA)
 
-The European beet sugar industry is concentrated in northern and central Europe, where the climate supports high-yield sugar beet cultivation:
+Every batch of sugar should come with a CoA specifying ICUMSA color number, moisture content, ash content, sulfur dioxide level, and grain size. Compare these to your product specification requirements before accepting a price.
 
-**France** — EU's largest producer at approximately 5 million tons per year. Northern French beet growing regions (Picardy, Champagne) produce some of Europe's highest-quality ICUMSA 45. Brands include Cristal Union and Tereos.
+### 2. Verify HACCP/ISO 22000 certification of the production facility
 
-**Germany** — Second largest at approximately 4 million tons per year. Südzucker, the EU's largest sugar group, is headquartered in Germany and operates refineries across multiple European countries.
+The sugar producer — not just the trading company — should hold current HACCP or ISO 22000 certification. Request the certificate number and verify it is current. Expired or missing certifications are a red flag.
 
-**Poland** — Major Eastern European producer and the largest producer in our immediate supply region. Polish beet sugar has grown rapidly since EU accession and now accounts for approximately 2 million tons per year. Competitive pricing driven by lower production costs than Western Europe.
+### 3. Confirm EU origin documentation
 
-**Netherlands and Belgium** — Important refining and processing hubs, also handling imported raw cane sugar for EU distribution. Rotterdam and Antwerp are key European sugar trading points.
+For buyers who need to label their products with EU origin claims, confirm that the sugar is genuinely EU-origin (beet sugar from Bulgaria, Romania, Poland, Czech Republic, etc.) rather than third-country cane sugar that has been processed in the EU.
 
-**Turkey** — Major producer at approximately 2.5 million tons per year outside the EU. Turkish beet sugar is competitive for buyers in Southeastern Europe and the Middle East, though EU tariff structures apply for EU market entry.
+### 4. Check packaging integrity specifications
 
-**Bulgaria and Romania** — Smaller domestic production but important in our direct supply network. Our Varna base provides efficient logistics access to both domestic Bulgarian production and Polish/German sugar for our EU client base.
+For 25kg and 50kg bags, confirm bag material (food-grade polypropylene), moisture barrier (required for long-term storage), and pallet configuration. Sugar absorbs moisture and odors — storage and packaging quality matters.
 
-## What packaging formats are available for wholesale sugar?
+### 5. Agree delivery terms clearly
 
-| Format                | Net Weight              | Best For                            | Notes                                     |
-| --------------------- | ----------------------- | ----------------------------------- | ----------------------------------------- |
-| 25kg bags             | 25 kg                   | Small distributors, retail supply   | Palletized, easy handling                 |
-| 50kg bags             | 50 kg                   | Standard wholesale                  | Most common format for food manufacturers |
-| 1-ton big bags (FIBC) | 1,000 kg                | Large buyers, continuous production | Requires forklift for handling            |
-| Bulk (loose)          | Truck or container load | Industrial users 200+ tons          | Requires silo storage at destination      |
+FOB (buyer arranges transport), CIF (seller arranges sea freight and insurance), and DAP (seller delivers to your named address) have very different risk and cost profiles. For most EU buyers receiving DAP deliveries, confirm the exact address and contact person for unloading.
 
-UB Market supplies ICUMSA 45 and ICUMSA 100–150 in 50kg bags and 1-ton big bags. For buyers requiring 200+ tons in loose bulk, tanker delivery is available on request.
+## How does sugar fit into a diversified food commodity procurement strategy?
+Most food manufacturers and distributors do not source sugar in isolation — they procure multiple commodity inputs simultaneously. The advantage of working with a multi-product food trading company like UB Market is consolidated procurement.
 
-## What do EU regulations require for wholesale sugar trading?
+A typical food manufacturer buying from UB Market might source:
 
-Two key EU frameworks govern sugar trading for European buyers:
+Refined sunflower oil (for frying and dressings)
+High-oleic sunflower oil (for premium product lines)
+Beet sugar (for confectionery, beverages, sauces)
+Mayonnaise (for retail and HoReCa private label)
+Consolidated procurement from a single EU-registered supplier simplifies documentation, reduces logistics coordination, and often improves commercial terms through combined volume. All UB Market products come from the same certified supply chain with consistent documentation standards.
 
-**EU Marketing Standards for Sugar**
-Define purity requirements, labeling standards, and traceability for sugar sold within the EU. All sugar must have verifiable origin documentation and ICUMSA certification from an accredited laboratory. Sugar marketed as "EU-origin" must have production traceability to a European beet processing facility.
+## What is the typical lead time for wholesale sugar delivery in Europe?
+Lead times vary by origin, volume, and delivery term:
 
-**EU Regulation 2019/1381 — Food Chain Transparency**
-Requires transparency in the food chain risk assessment process. Affects supply chain documentation requirements, particularly for processed food manufacturers incorporating sugar as an ingredient.
+DAP delivery from Bulgaria (Varna): 5–10 business days to Central Europe, 3–5 days to Romania and Greece
+DAP delivery from Poland/Czech Republic: 3–7 business days within Central Europe
+CIF delivery via Black Sea: 7–14 days to Western European ports
+FOB (buyer collects): Available from Varna, Bulgaria with 3–5 days loading preparation
+For urgent requirements, contact us with your specification, volume, and delivery address — we will confirm the fastest available route.
 
-**What documentation must accompany every wholesale sugar shipment:**
+## How to order wholesale beet sugar from UB Market?
+Contact us with:
 
-- Certificate of Analysis (CoA) confirming ICUMSA grade, moisture content, and purity
-- ISO 22000 or FSSC 22000 certification from the producing facility
-- Phytosanitary certificate for cross-border EU transport
-- EU origin documentation if marketed as EU-origin product
-- Food-grade packaging certification
+Grade: ICUMSA 45 standard / Icing sugar / Caster sugar
+Volume: monthly or quarterly tons required
+Packaging: 25kg bags / 50kg bags / 1,000kg big bags
+Delivery term: DAP your warehouse / CIF port / FOB Varna
+Documentation: ISO 22000, Halal, Non-GMO, organic if required
+We respond within 24 hours with current pricing, availability, and a full documentation package. For first-time buyers, we offer a sample pallet option to verify quality before committing to a larger contract.
 
-UB Market provides complete documentation packages with every shipment, pre-verified for compliance with the regulatory requirements of all EU member states.
+Ready to secure your Q4 2026 sugar supply at current prices before further weather-related increases? Request a quote or contact us directly — we respond within 24 hours with firm pricing and full documentation.
 
-## What are the seasonal factors affecting European sugar prices?
-
-European beet sugar production follows the agricultural calendar, creating predictable seasonal price and supply patterns:
-
-**August–December: Harvest and processing season**
-Sugar beet is harvested and processed during this window. Refineries run at full capacity. Stock levels build throughout the autumn. This is when the annual sugar supply enters the market.
-
-**January–March: Best pricing window**
-Post-harvest, warehouses are fully stocked, and suppliers are motivated to move product. This is typically the most favorable buying window for large forward contracts. Buyers who secure Q1 contracts can lock in post-harvest pricing for the full year.
-
-**April–July: Pre-harvest tightening**
-Stock levels deplete as the previous harvest is consumed. Before the new harvest begins in August, supply tightens and prices rise. Buyers without forward contracts face the highest prices and worst availability during this window.
-
-**Practical implication:** Annual procurement planning should prioritize Q4–Q1 forward contracts. Food manufacturers with predictable year-round sugar consumption benefit most from locking in annual pricing during the post-harvest window.
-
-A confectionery manufacturer from Prague described their planning cycle: "We used to buy sugar quarterly at spot prices and had terrible Q2 costs every year. Now we lock in 80% of our annual volume on a Q4 contract each year. Our average annual sugar cost has dropped 12% with zero change in supplier or product quality."
-
-## How do you evaluate a reliable European sugar supplier?
-
-Five criteria distinguish reliable wholesale sugar suppliers from unreliable ones:
-
-**1. Verified ICUMSA certification**
-Ask for the CoA from an accredited third-party laboratory — not an internal test. SGS, Bureau Veritas, and national EU-accredited laboratories are all acceptable. The CoA must include ICUMSA color score, moisture percentage, and sucrose content.
-
-**2. EU registration and food safety certification**
-Any legitimate EU sugar supplier will have ISO 22000 or FSSC 22000 certification and be registered with their national food safety authority. Ask for current certificates — not just a claim.
-
-**3. Year-round supply capability**
-Some smaller traders buy opportunistically during harvest and cannot guarantee supply year-round. Ask specifically about their Q2 availability — this is when unreliable suppliers run out of stock.
-
-**4. Consistent packaging quality**
-Food-grade sugar bags must maintain integrity during storage and transport. Ask for sample bags before placing a large order. Poorly sealed or low-quality bags allow moisture ingress and can cause caking or contamination.
-
-**5. Transparent pricing with no hidden charges**
-A reliable supplier provides FOB price, packaging premium, delivery cost, and documentation fee as separate line items. A single "all-in" price without breakdown is a common source of invoice disputes.
-
-## What does UB Market offer for wholesale sugar?
-
-UB Market supplies wholesale beet sugar to European food manufacturers, distributors, and retail buyers from our Varna, Bulgaria logistics base. Our supply network connects to Polish and Bulgarian beet sugar producers with full EU compliance documentation.
-
-**Available products:**
-
-- ICUMSA 45 white refined sugar — **50kg bags and 1-ton big bags**
-- ICUMSA 100–150 industrial grade — **50kg bags and 1-ton big bags**
-- Delivery: DAP anywhere in EU, or FOB/CIF from Varna
-
-**Minimum order:** 1 pallet (typically 25 bags × 50kg = 1,250kg) for standard orders. 20-ton minimum for bulk pricing tiers.
-
-**Documentation provided:** CoA from accredited laboratory, ISO 22000 certification, phytosanitary certificate, Certificate of Origin, and commercial invoice. All documentation ready for EU customs clearance.
-
-**Lead times:** 5–7 days for standard orders from existing stock. 2–3 weeks for large-volume orders requiring production scheduling.
-
----
-
-Looking for wholesale beet sugar? **[Send us your requirements](/en/quote)** — specify grade, volume, packaging format, and delivery destination and we will provide pricing within 24 hours.
-
-_Sources: European Commission sugar market reports 2025, ISO ICUMSA standards, UB Market supply data Q1 2026, Südzucker annual report 2025._
+Sources: Commodity Board (CMB News) EU sugar market reports July 2026, ICE White Sugar No.5 futures data July 28–29 2026, UB Market commercial pricing data Q3 2026, EU sugar market outlook European Commission.
