@@ -201,6 +201,16 @@
   position: relative;
 }
 
+/* Collapse empty sidebar (when TableOfContents returns null — no headings in post) */
+.sidebar:empty {
+  display: none;
+}
+
+/* Expand article to full width when sidebar is empty */
+.bodyGrid:has(> .sidebar:empty) {
+  grid-template-columns: 1fr;
+}
+
 /* ===== BACK LINK ===== */
 .backLink {
   margin-top: 40px;
