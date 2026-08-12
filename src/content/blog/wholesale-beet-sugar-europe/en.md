@@ -1,27 +1,13 @@
-Description
-Updated July 2026: EU white sugar wholesale €480–570/t bulk, ICE No.5 futures ~458 USD/t. Complete guide for B2B buyers sourcing beet sugar in 25kg, 50kg bags and 1,000kg big bags.
-
-Title
-Wholesale Beet Sugar in Europe 2026: Prices, Suppliers, and B2B Buying Guide
-
-Date
-2026-03-25
-
-Modifieddate
-2026-07-18
-
-Category
-products
-
-Image
-/images/sugar.webp
-
-Readingtime
-11
-
-Ogimage
-/images/blog/wholesale-beet-sugar-europe/og.jpg
-
+---
+title: "Wholesale Beet Sugar in Europe 2026: Prices, Suppliers, and B2B Buying Guide"
+description: "Updated July 2026: EU white sugar wholesale €480–570/t bulk, ICE No.5 futures ~458 USD/t. Complete guide for B2B buyers sourcing beet sugar in 25kg, 50kg bags and 1,000kg big bags."
+date: "2026-03-25"
+modifiedDate: "2026-07-18"
+category: "products"
+image: "/images/sugar.webp"
+readingTime: 9
+ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
+---
 TL;DR: EU wholesale white beet sugar is trading at €480–570/ton (FCA Central Europe) in July 2026, with ICE No.5 white sugar futures at approximately 458–460 USD/ton for October 2026. Physical prices in Poland, Czech Republic, and Lithuania have risen 8–12% over the past month in EUR terms, driven by drought risk to the 2026/27 beet crop and tight regional supply. For B2B buyers, locking in Q4 2026 volumes now is advisable — further price increases are possible if European beet yields deteriorate.
 
 Quick Answer: Wholesale Beet Sugar Europe 2026
