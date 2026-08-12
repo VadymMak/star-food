@@ -10,7 +10,7 @@ ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
 ---
 TL;DR: Zahărul alb din sfeclă UE se tranzacționează la €480–570/tonă FCA Europa Centrală în iulie 2026. Futures ICE No.5 la ~458 USD/tonă pentru octombrie 2026 — prețurile fizice în Polonia și Cehia au crescut cu 8–12% luna trecută în EUR din cauza riscului de secetă pentru recolta 2026/27. Pentru cumpărătorii B2B din România: asigurarea volumelor Q4 2026 acum este strategia corectă — prin portul Constanța sau DAP direct.
 
-## Răspuns Rapid: Zahăr din Sfeclă en-gros Europa Iulie 2026
+### Răspuns Rapid: Zahăr din Sfeclă en-gros Europa Iulie 2026
 Cel mai bun general: ICUMSA 45 zahăr alb — €480–570/t FCA, 25kg/50kg/1.000kg
 UE en-gros FCA (vrac): €480–570/t — Polonia, Cehia, Lituania iulie 2026
 Referință Germania: ~€600/t — prima de țară consumatoare

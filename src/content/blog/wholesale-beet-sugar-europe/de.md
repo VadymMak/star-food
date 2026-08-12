@@ -10,7 +10,7 @@ ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
 ---
 TL;DR: EU-Weißzucker aus Rüben wird im Juli 2026 bei €480–570/Tonne FCA Mitteleuropa gehandelt. ICE No.5-Futures liegen bei ~458 USD/Tonne für Oktober 2026 — physische Preise in Polen und Tschechien stiegen im letzten Monat um 8–12% in EUR aufgrund von Dürrerisiken für die 2026/27-Ernte. Für B2B-Einkäufer: Q4-Volumina jetzt absichern ist die richtige Strategie.
 
-## Schnellantwort: Rübenzucker Großhandel Europa Juli 2026
+### Schnellantwort: Rübenzucker Großhandel Europa Juli 2026
 Bestes Gesamtprodukt: ICUMSA 45 Weißzucker — €480–570/t FCA, 25kg/50kg/1.000kg
 EU Großhandel FCA (Schüttgut): €480–570/t — Polen, Tschechien, Litauen Juli 2026
 Deutschland Referenzpreis: ~€600/t — Verbraucherland-Aufschlag

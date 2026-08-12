@@ -10,7 +10,7 @@ ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
 ---
 TL;DR: AB beyaz pancar şekeri Temmuz 2026'da Orta Avrupa'da €480–570/ton FCA'dan işlem görüyor. ICE No.5 vadeli işlemleri Ekim 2026 sözleşmesi için ~458 USD/ton seviyesinde — Polonya ve Çekya'daki fiziksel fiyatlar geçen ay EUR bazında yüzde 8–12 yükseldi. Türk B2B alıcılar için: CIF İstanbul veya CIF Mersin teslimatıyla Q4 2026 hacimlerini şimdi güvence altına almak doğru stratejidir.
 
-## Hızlı Cevap: Avrupa Toptan Pancar Şekeri Temmuz 2026
+### Hızlı Cevap: Avrupa Toptan Pancar Şekeri Temmuz 2026
 En iyi genel: ICUMSA 45 beyaz şeker — €480–570/ton FCA, 25kg/50kg/1.000kg
 AB toptan FCA (dökme): €480–570/ton — Polonya, Çekya, Litvanya Temmuz 2026
 Almanya referans fiyatı: ~€600/ton — tüketici ülke primi
