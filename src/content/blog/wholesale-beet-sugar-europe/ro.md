@@ -1,27 +1,13 @@
-Description
-Actualizat iulie 2026: Zahăr alb UE en-gros €480–570/t FCA, futures ICE No.5 ~458 USD/t. Ghid complet pentru cumpărătorii B2B de zahăr din sfeclă în saci 25kg, 50kg și big bag 1.000kg.
-
-Title
-Zahăr din Sfeclă en-gros în Europa 2026: Prețuri, Furnizori și Ghid B2B
-
-Date
-2026-03-25
-
-Modifieddate
-2026-07-18
-
-Category
-products
-
-Image
-/images/sugar.webp
-
-Readingtime
-11
-
-Ogimage
-/images/blog/wholesale-beet-sugar-europe/og.jpg
-
+---
+title: "Zahăr din Sfeclă en-gros în Europa 2026: Prețuri, Furnizori și Ghid B2B"
+description: "Actualizat iulie 2026: Zahăr alb UE en-gros €480–570/t FCA, futures ICE No.5 ~458 USD/t. Ghid complet pentru cumpărătorii B2B de zahăr din sfeclă în saci 25kg, 50kg și big bag 1.000kg."
+date: "2026-03-25"
+modifiedDate: "2026-07-18"
+category: "products"
+image: "/images/sugar.webp"
+readingTime: 11
+ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
+---
 TL;DR: Zahărul alb din sfeclă UE se tranzacționează la €480–570/tonă FCA Europa Centrală în iulie 2026. Futures ICE No.5 la ~458 USD/tonă pentru octombrie 2026 — prețurile fizice în Polonia și Cehia au crescut cu 8–12% luna trecută în EUR din cauza riscului de secetă pentru recolta 2026/27. Pentru cumpărătorii B2B din România: asigurarea volumelor Q4 2026 acum este strategia corectă — prin portul Constanța sau DAP direct.
 
 Răspuns Rapid: Zahăr din Sfeclă en-gros Europa Iulie 2026

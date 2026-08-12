@@ -1,27 +1,13 @@
-Description
-Temmuz 2026 güncellendi: AB beyaz şeker toptan €480–570/ton FCA, ICE No.5 vadeli ~458 USD/ton. B2B alıcılar için 25kg, 50kg çuval ve 1.000kg büyük çuval pancar şekeri rehberi.
-
-Title
-Avrupa'da Toptan Pancar Şekeri 2026: Fiyatlar, Tedarikçiler ve B2B Alım Rehberi
-
-Date
-2026-03-25
-
-Modifieddate
-2026-07-18
-
-Category
-products
-
-Image
-/images/sugar.webp
-
-Readingtime
-11
-
-Ogimage
-/images/blog/wholesale-beet-sugar-europe/og.jpg
-
+---
+title: "Avrupa'da Toptan Pancar Şekeri 2026: Fiyatlar, Tedarikçiler ve B2B Alım Rehberi"
+description: "Temmuz 2026 güncellendi: AB beyaz şeker toptan €480–570/ton FCA, ICE No.5 vadeli ~458 USD/ton. B2B alıcılar için 25kg, 50kg çuval ve 1.000kg büyük çuval pancar şekeri rehberi."
+date: "2026-03-25"
+modifiedDate: "2026-07-18"
+category: "products"
+image: "/images/sugar.webp"
+readingTime: 11
+ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
+---
 TL;DR: AB beyaz pancar şekeri Temmuz 2026'da Orta Avrupa'da €480–570/ton FCA'dan işlem görüyor. ICE No.5 vadeli işlemleri Ekim 2026 sözleşmesi için ~458 USD/ton seviyesinde — Polonya ve Çekya'daki fiziksel fiyatlar geçen ay EUR bazında yüzde 8–12 yükseldi. Türk B2B alıcılar için: CIF İstanbul veya CIF Mersin teslimatıyla Q4 2026 hacimlerini şimdi güvence altına almak doğru stratejidir.
 
 Hızlı Cevap: Avrupa Toptan Pancar Şekeri Temmuz 2026
