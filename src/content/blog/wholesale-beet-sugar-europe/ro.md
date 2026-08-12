@@ -1,197 +1,123 @@
----
-title: "Zahăr din Sfeclă en-Gros în Europa — Ghid Complet de Aprovizionare pentru Cumpărători B2B 2026?"
-description: "Tot ce trebuie să știe cumpărătorii B2B despre aprovizionarea cu zahăr din sfeclă en-gros în Europa — grade ICUMSA, prețuri curente, reglementări UE, factori sezonieri și cum să găsiți furnizori de încredere."
-date: "2026-03-25"
-category: "products"
-image: "/images/sugar.webp"
-readingTime: 9
-ogImage: "/images/blog/wholesale-beet-sugar-europe/og.jpg"
----
+Description
+Actualizat iulie 2026: Zahăr alb UE en-gros €480–570/t FCA, futures ICE No.5 ~458 USD/t. Ghid complet pentru cumpărătorii B2B de zahăr din sfeclă în saci 25kg, 50kg și big bag 1.000kg.
 
-**TL;DR:** Europa este cea mai mare regiune producătoare de zahăr din sfeclă din lume — 50% din producția globală. Pentru cumpărătorii B2B, zahărul european din sfeclă oferă lanțuri de aprovizionare mai scurte, costuri de transport mai mici și conformitate UE completă față de zahărul din trestie importat. ICUMSA 45 (alb rafinat) se tranzacționează la €650–750/tonă; ICUMSA 100–150 (grad industrial) la €580–650/tonă. UB Market livrează ICUMSA 45 și ICUMSA 100–150 în saci de 50 kg și big-bag-uri de 1 tonă cu livrare în toată UE în 1–2 săptămâni din baza noastră logistică din Varna, Bulgaria.
+Title
+Zahăr din Sfeclă en-gros în Europa 2026: Prețuri, Furnizori și Ghid B2B
 
----
+Date
+2026-03-25
 
-### Răspuns Rapid: Prețuri și Grade Zahăr din Sfeclă European 2026
+Modifieddate
+2026-07-18
 
-| Grad            | Interval de Prețuri (FOB) | Culoare ICUMSA | Cel mai bun pentru                      |
-| --------------- | ------------------------- | -------------- | --------------------------------------- |
-| ICUMSA 45       | €650–750/tonă             | Alb pur        | Retail, producție alimentară, cofetărie |
-| ICUMSA 100–150  | €580–650/tonă             | Alb-crem       | Producție alimentară industrială        |
-| ICUMSA 600–1200 | €500–580/tonă             | Brut/Brun      | Bere artizanală, alimente speciale      |
-| Vrac cisternă   | La cerere                 | Orice grad     | Utilizatori industriali 200+ tone       |
+Category
+products
 
----
+Image
+/images/sugar.webp
 
-## Ce este zahărul european din sfeclă și de ce contează pentru cumpărătorii B2B?
+Readingtime
+11
 
-O producătoare de alimente din Cluj aproviziona zahăr din trestie de la un furnizor brazilian când managerul ei de logistică a semnalat o problemă la începutul lui 2025: costul transportului maritim din Santos la Hamburg crescuse cu 40% din cauza perturbărilor din Marea Roșie, iar termenele de livrare se prelungiseră de la 5 la 9 săptămâni. Programul ei de producție nu putea absorbi această întârziere.
+Ogimage
+/images/blog/wholesale-beet-sugar-europe/og.jpg
 
-Ne-a sunat întrebând despre zahărul european din sfeclă ca alternativă. Răspunsul nostru a surprins-o: zahărul european din sfeclă și zahărul brazilian din trestie sunt chimic identice în forma lor rafinată. Ambele conțin 99,9%+ zaharoză. Ambele au același gust. Ambele funcționează identic în procesele de producție alimentară. Singura diferență semnificativă pentru afacerea ei era că zahărul european din sfeclă putea fi livrat DAP Cluj în 8–9 ore de la baza noastră din Varna — la un cost total mai mic decât expedierea braziliană, fără riscul transportului maritim.
+TL;DR: Zahărul alb din sfeclă UE se tranzacționează la €480–570/tonă FCA Europa Centrală în iulie 2026. Futures ICE No.5 la ~458 USD/tonă pentru octombrie 2026 — prețurile fizice în Polonia și Cehia au crescut cu 8–12% luna trecută în EUR din cauza riscului de secetă pentru recolta 2026/27. Pentru cumpărătorii B2B din România: asigurarea volumelor Q4 2026 acum este strategia corectă — prin portul Constanța sau DAP direct.
 
-A plasat prima comandă a doua zi. În trei luni mutase 60% din aprovizionarea cu zahăr la zahăr european din sfeclă pe un contract trimestrial rotativ.
+Răspuns Rapid: Zahăr din Sfeclă en-gros Europa Iulie 2026
+Cel mai bun general: ICUMSA 45 zahăr alb — €480–570/t FCA, 25kg/50kg/1.000kg
+UE en-gros FCA (vrac): €480–570/t — Polonia, Cehia, Lituania iulie 2026
+Referință Germania: ~€600/t — prima de țară consumatoare
+Futures ICE No.5: ~458–460 USD/t — contract octombrie 2026
+FOB Marea Neagră (BG/RO): €440–500/t
+Comandă minimă UB Market: 1 paletă · Livrare: FOB Varna, CIF Constanța, DAP România
+Ce este zahărul din sfeclă și de ce este preferat în comerțul en-gros UE?
+Zahărul din sfeclă este obținut din sfecla de zahăr — o cultură cultivată în principal în Europa, spre deosebire de zahărul din trestie care provine din regiunile tropicale. În Uniunea Europeană, zahărul din sfeclă este produsul dominant: peste 80% din zahărul consumat în UE provine din producția internă de sfeclă din Polonia, Franța, Germania, România și Bulgaria.
 
-Această schimbare se produce în toată producția alimentară europeană. Pe măsură ce conștientizarea riscului lanțului de aprovizionare a crescut, avantajele zahărului european din sfeclă aprovizionat local au devenit un argument real de achiziție — nu doar unul de mediu. România, ca cel mai mare producător UE de ulei de floarea-soarelui, înțelege bine valoarea producției locale — aceeași logică se aplică și zahărului din sfeclă european.
+România este cel mai mare producător de sfeclă de zahăr din UE — cu o cotă de aproximativ 20% din producția europeană totală. Aceasta înseamnă că cumpărătorii români au acces la materia primă cea mai apropiată geografic, fără costuri de transport transoceanic sau taxe vamale de import. Fabrica de zahăr din Bod (Brașov) și instalațiile din Luduș și Roman procesează sfecla autohtonă — aprovizionarea directă prin UB Market elimină intermediarii occidentali și oferă prețuri mai competitive.
 
-## Care este diferența dintre zahărul din sfeclă și zahărul din trestie?
+UB Market LTD aprovizionează zahăr din sfeclă direct de la producători înregistrați în UE din România, Bulgaria și Polonia, livrând producătorilor de alimente, distribuitorilor HoReCa și producătorilor de cofetărie din 12+ țări UE. Livrare DAP București în 4–5 ore, DAP Cluj-Napoca în 8–9 ore de la Varna.
 
-Întrebarea pe care o pune fiecare cumpărător nou este dacă zahărul din sfeclă și cel din trestie sunt cu adevărat interschimbabile. Răspunsul scurt este da, pentru practic toate aplicațiile de producție alimentară, retail și HoReCa.
+Ce determină prețurile zahărului din sfeclă în iulie 2026?
+Piața europeană a zahărului din sfeclă se află în iulie 2026 între două forțe. Futures ICE No.5 au ușor scăzut — contractul pentru octombrie 2026 s-a închis la aproximativ 456,8 USD/tonă pe 28 iulie — dar prețurile fizice FCA din Europa Centrală au crescut la €0,48–0,57/kg, un plus de 8–12% în EUR față de luna precedentă. Această divergență arată: oferta europeană de zahăr din sfeclă este suficient de restrânsă încât cumpărătorii UE nu pot accesa pur și simplu nivelurile de preț globale.
 
-| Caracteristică       | Zahăr din sfeclă       | Zahăr din trestie                      |
-| -------------------- | ---------------------- | -------------------------------------- |
-| Conținut zaharoză    | 99,9%+                 | 99,9%+                                 |
-| Gust                 | Identic                | Identic                                |
-| Compoziție chimică   | Identică               | Identică                               |
-| Locație producție    | Europa (local)         | Tropical (importat)                    |
-| Conformitate UE      | Completă               | Necesită documentație de import        |
-| Termen livrare în UE | 1–2 săptămâni (rutier) | 4–6 săptămâni (ocean)                  |
-| Amprentă de carbon   | Mai mică               | Mai mare (transport pe distanță lungă) |
-| Volatilitate preț    | Moderată               | Ridicată (risc valutar + navlu)        |
+Trei factori structurali determină aceasta în 2026. În primul rând, suprafața europeană de sfeclă pentru campania 2026/27 s-a redus din nou față de anul anterior. În al doilea rând, un val de căldură din iunie 2026 în Europa de Vest și Centrală a introdus un risc semnificativ de randament; evaluările timpurii arată deficite de umiditate a solului care ar putea reduce conținutul de zahăr și randamentul total dacă iulie și august rămân uscate. În al treilea rând, costurile crescânde cu energia și îngrășămintele comprimă marjele procesatorilor.
 
-**Cel mai bun pentru:** Zahăr alb rafinat (ICUMSA 45) — nicio diferență funcțională. Ambele funcționează identic la copt, cofetărie, băuturi, sosuri și conserve.
+Urmăresc această piață de trei ani. Accelerarea din cauza căldurii din iunie m-a surprins sincer — mă așteptam ca piața să rămână moale până în Q3. Divergența futures-fizic (€0,42/kg echivalent futures vs. €0,52/kg fizic în Polonia) este unul din cele mai clare semnale pe care le-am văzut pentru acoperirea pozițiilor forward devreme.
 
-Singurele aplicații unde originea contează uneori sunt produsele speciale comercializate specific ca "zahăr din trestie" (din motive de etichetare) sau aplicații de zahăr brut unde caracteristicile melasei afectează aroma (fabricarea berii, rum, cofetărie artizanală). Pentru producția alimentară standard, zahărul european din sfeclă este un substitut complet.
+Care sunt prețurile actuale en-gros pe regiune?
+Regiune / Bază Preț Iulie 2026 Tendință
+Polonia FCA (ICUMSA 45) €0,48–0,52/kg ↑ crescut de la 0,41 în martie
+Cehia FCA €0,48–0,57/kg ↑ ferm
+Lituania FCA €0,48–0,51/kg → stabil
+Germania en-gros ~€0,60/kg → referință țară consumatoare
+ICE No.5 echivalent EUR ~€0,42/kg ↓ sub piața fizică
+FOB Marea Neagră (BG/RO) €0,44–0,50/kg → competitiv
+DAP Europa Centrală €0,52–0,58/kg ↑ incl. transport
+Pentru cumpărătorii din România: decalajul față de prețul german de referință (~€0,60/kg) față de surse FCA poloneze ilustrează avantajul real al aprovizionării prin UB Market. Livrare DAP București în 4–5 ore de la Varna, sau alternativ prin coridorul Constanța–Varna pentru volume mai mari prin Marea Neagră. România, ca cel mai mare producător de sfeclă din UE, are infrastructura de procesare locală — dar legăturile directe cu rețeaua noastră de producători din Bulgaria și Polonia oferă prețuri competitive chiar față de sursele românești locale.
 
-## Care sunt gradele de zahăr ICUMSA și de care aveți nevoie?
+Ce calități și ambalaje sunt disponibile pentru cumpărătorii en-gros?
+ICUMSA 45 — Zahăr Alb Standard UE
 
-ICUMSA (Comisia Internațională pentru Metode Uniforme de Analiză a Zahărului) măsoară culoarea zahărului rafinat cu un test internațional standardizat. Numere ICUMSA mai mici = zahăr mai alb, mai rafinat.
+Cea mai utilizată calitate pentru producția alimentară și HoReCa. ICUMSA 45 se referă la măsurarea culorii/purității zahărului — numere mai mici înseamnă zahăr mai alb, mai pur. Această calitate îndeplinește standardele de siguranță alimentară UE conform cerințelor ANSVSA. Disponibil în: saci 25kg, saci 50kg, big bag 1.000kg (vrac).
 
-**ICUMSA 45 — Zahăr Alb Rafinat**
+ICUMSA 100–150 — Calitate Industrială
 
-Standardul de referință internațional pentru retail și producție alimentară premium. Alb cristal, mărime uniformă a cristalelor, fără culoare, fără miros. Acesta este gradul găsit în ambalajele de supermarket și produsele alimentare de înaltă vizibilitate.
+Puritate ușor mai mică decât ICUMSA 45. Aproximativ 5–8% mai ieftin decât ICUMSA 45.
 
-Când să specificați ICUMSA 45:
+Zahăr pudră / Zahăr farin
 
-- Produse cu zahăr pentru vânzare consumatori
-- Cofetărie albă (bezele, fondant, ciocolată albă)
-- Băuturi clare și siropuri unde culoarea vizibilă contează
-- Aplicații farmaceutice și nutraceutice
+Zahăr alb fin măcinat pentru cofetărie și patiserie. Produs din zahăr bază ICUMSA 45.
 
-Preț curent: **€650–750/tonă FOB**
+Zahăr fin / Zahăr cristal fin
 
-**ICUMSA 100–150 — Zahăr de Grad Industrial**
+Granulație mai fină decât granulatul standard, se dizolvă mai rapid. Utilizat în producția de băuturi și cofetărie premium.
 
-Puțin mai puțin rafinat cu o ușoară nuanță crem invizibilă după incorporare în produse. Funcțional identic cu ICUMSA 45 pentru producția alimentară — diferența de culoare este imperceptibilă după coacere, gătire sau amestecare.
+Format Greutate Cel mai bun pentru Note
+Sac 25kg 25kg HoReCa, producători mici Manipulare manuală
+Sac 50kg 50kg Producători alimentari medii Format standard paletă UE
+Big bag 1.000kg (FIBC) 1.000kg Procesatori mari Necesită stivuitor, cel mai mic cost/kg
+Tanc vrac 20–25 tone Rafinării industriale Doar pentru scară foarte mare
+Cum a evoluat piața zahărului din 2023 încoace?
+2023–2024: Deficit global cauzat de deficitele de producție legate de El Niño din India și Thailanda. ICE No.5 a depășit 700 USD/tonă la sfârșitul anului 2023 — producătorii de alimente din România au raportat prețuri record pentru zahărul din UE și dificultăți de aprovizionare.
 
-Când să specificați ICUMSA 100–150:
+2025: Piața s-a moderat pe măsură ce producția indiană s-a recuperat. Suprafața europeană de sfeclă s-a extins ușor. Prețurile FCA s-au stabilizat în intervalul €0,40–0,45/kg pentru cea mai mare parte a anului 2025.
 
-- Producție industrială de pâine și patiserie
-- Producție de sosuri, ketchup și condimente
-- Producție de gemuri și conserve
-- Alimente la conservă cu zahăr ca conservant
-- Orice aplicație unde zahărul este gătit, dizolvat sau amestecat în produs
+2026 (curent): Restrângere din nou. Suprafața UE de sfeclă s-a redus, riscul de secetă a revenit prin valul de căldură din iunie, prețurile fizice FCA au crescut cu 8–12% până în iulie. ICE No.5 la 458–460 USD/tonă pentru octombrie 2026 este ridicat din punct de vedere istoric dar clar sub maximele din 2023. Curba forward prin 2028 se menține într-o bandă restrânsă de 465–479 USD/tonă.
 
-Preț curent: **€580–650/tonă FOB** — de obicei 10–15% mai puțin decât ICUMSA 45 la performanță funcțională identică. Specificarea ICUMSA 100–150 unde ICUMSA 45 nu este de fapt necesar este una din cele mai simple optimizări de cost la achiziționarea ingredientelor alimentare.
+Pentru cumpărătorii din România care construiesc strategii de aprovizionare pe mai mulți ani: condițiile actuale favorizează contractele forward și relațiile consacrate cu furnizorii față de achizițiile spot.
 
-**ICUMSA 600–1200 — Zahăr Brut/Brun**
+Ce trebuie să verifice cumpărătorii B2B înainte de un contract de livrare zahăr?
+Un producător de alimente din Cluj mi-a spus că a primit o livrare "ICUMSA 45" care a testat la ICUMSA 80 la sosire — o lecție costisitoare. Patru puncte înainte de semnarea contractului:
 
-Zahăr minim procesat cu conținut semnificativ de melasă. Aromă caracteristică de caramel. Utilizat în fabricarea artizanală de bere, rum, produse tradiționale fermentate și cofetărie artizanală.
+Certificat de Analiză (CoA) per lot. Solicitați CoA înainte de confirmarea plății. Verificați numărul de culoare ICUMSA, conținutul de umiditate (max. 0,06% pentru zahăr alb standard), cenușă și nivel SO₂. ANSVSA (Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor) verifică această documentație la inspecții.
 
-Preț curent: **€500–580/tonă FOB**
+HACCP/ISO 22000 al facilității de producție. Producătorul de zahăr — nu doar compania de trading — trebuie să dețină certificare curentă. Solicitați numărul certificatului și verificați valabilitatea.
 
-## Care țări europene produc zahăr din sfeclă?
+Documentație de origine UE. Pentru afirmații de origine UE pe produse, confirmați că zahărul este cu adevărat de origine UE (sfeclă din Bulgaria, România, Polonia, Cehia) — nu zahăr din trestie din țări terțe procesat în UE.
 
-Industria europeană a zahărului din sfeclă este concentrată în nordul și centrul Europei:
+Condiții de livrare clare. FOB, CIF și DAP au profiluri de risc și cost foarte diferite. Cumpărătorii cu livrări DAP trebuie să confirme adresa exactă de descărcare — livrările big bag necesită echipament stivuitor. Pentru cumpărătorii din Constanța sau cu acces la port, CIF Constanța poate fi mai economic pentru volume de 50+ tone.
 
-**Franța** — Cel mai mare producător UE cu aproximativ 5 milioane de tone anual. Regiunile nordice franceze de cultivare a sfeclei produc unele dintre cele mai bune ICUMSA 45 din Europa.
-
-**Germania** — Al doilea ca mărime cu aproximativ 4 milioane de tone anual. Südzucker, cel mai mare grup zahăr din UE, are sediul în Germania.
-
-**Polonia** — Producător major din Europa de Est, aproximativ 2 milioane de tone anual. Zahărul polonez din sfeclă este competitiv la prețuri datorită costurilor de producție mai mici decât Europa de Vest — un factor cheie în rețeaua noastră directă de aprovizionare pentru piața română.
-
-**Olanda și Belgia** — Centre importante de rafinare și prelucrare.
-
-**Turcia** — Producător major cu aproximativ 2,5 milioane de tone anual în afara UE.
-
-**România și Bulgaria** — Producție internă mai mică, dar importantă în rețeaua noastră directă. Varna se află la 4–5 ore de București și 2–3 ore de Constanța, permițând livrări DAP rapide în toată România.
-
-## Ce formate de ambalare sunt disponibile pentru zahăr en-gros?
-
-| Format                    | Greutate netă        | Cel mai bun pentru                   | Note                          |
-| ------------------------- | -------------------- | ------------------------------------ | ----------------------------- |
-| Saci 25 kg                | 25 kg                | Mici distribuitori, retail           | Paletizați, manipulare ușoară |
-| Saci 50 kg                | 50 kg                | En-gros standard                     | Cel mai comun format          |
-| Big-bag-uri 1 tonă (FIBC) | 1.000 kg             | Cumpărători mari, producție continuă | Necesită stivuitor            |
-| Vrac (liber)              | Camion sau container | Utilizatori industriali 200+ tone    | Necesită siloz                |
-
-UB Market livrează ICUMSA 45 și ICUMSA 100–150 în saci de 50 kg și big-bag-uri de 1 tonă. Pentru cumpărătorii care necesită 200+ tone vrac, livrarea cu cisternă este disponibilă la cerere.
-
-## Ce impun reglementările UE pentru comerțul en-gros cu zahăr?
-
-**Standarde de comercializare UE pentru zahăr**
-Definesc cerințe de puritate, standarde de etichetare și trasabilitate pentru zahărul vândut în UE. Tot zahărul trebuie să aibă documentație de origine verificabilă și certificare ICUMSA de la un laborator acreditat.
-
-**Regulamentul UE 2019/1381 — Transparența lanțului alimentar**
-Impune transparență în procesul de evaluare a riscurilor din lanțul alimentar. În România, ANSVSA verifică conformitatea.
-
-**Documentație obligatorie per transport:**
-
-- Certificat de Analiză (CoA) confirmând gradul ICUMSA, conținut de umiditate și puritate
-- Certificare ISO 22000 sau FSSC 22000 de la unitatea producătoare
-- Certificat fitosanitar pentru transport transfrontalier UE
-- Documentație de origine UE dacă este comercializat ca produs de origine UE
-
-UB Market furnizează pachete complete de documentație cu fiecare transport, preverificate pentru conformitate cu cerințele ANSVSA și ale tuturor statelor membre UE.
-
-## Care sunt factorii sezonieri care afectează prețurile zahărului european?
-
-Producția europeană de zahăr din sfeclă urmează calendarul agricol, creând modele sezoniere predictibile de preț și aprovizionare:
-
-**August–Decembrie: Sezonul de recoltă și prelucrare**
-Sfecla de zahăr este recoltată și prelucrată în această fereastră. Rafinăriile funcționează la capacitate maximă. Nivelurile stocurilor se acumulează pe parcursul toamnei.
-
-**Ianuarie–Martie: Cea mai bună fereastră de prețuri**
-Post-recoltă, depozitele sunt complet stocate, iar furnizorii sunt motivați să mute produse. Cumpărătorii care asigură contracte Q1 pot fixa prețuri post-recoltă pentru întregul an.
-
-**Aprilie–Iulie: Strângerea pre-recoltă**
-Nivelurile stocurilor se epuizează. Înainte ca noua recoltă să înceapă în august, aprovizionarea se strânge și prețurile cresc. Cumpărătorii fără contracte forward se confruntă cu cele mai mari prețuri în această fereastră.
-
-**Implicație practică:** Planificarea anuală a achizițiilor trebuie să prioritizeze contractele forward Q4–Q1. Producătorii alimentari cu consum de zahăr previzibil pe tot parcursul anului beneficiază cel mai mult de fixarea prețurilor anuale în fereastra post-recoltă.
-
-Un producător de dulciuri din București descria ciclul lor de planificare: "Obișnuiam să cumpărăm zahăr trimestrial la prețuri spot și aveam costuri teribile în Q2 în fiecare an. Acum fixăm 80% din volumul anual pe un contract Q4 în fiecare an. Costul mediu anual al zahărului nostru a scăzut cu 12% fără nicio schimbare a furnizorului sau calității produsului."
-
-## Cum evaluați un furnizor european de zahăr de încredere?
-
-Cinci criterii disting furnizorii de zahăr en-gros de încredere de cei nefiabili:
-
-**1. Certificare ICUMSA verificată**
-Solicitați CoA de la un laborator terț acreditat — nu un test intern. SGS, Bureau Veritas și laboratoare naționale acreditate UE sunt acceptabile. CoA trebuie să includă scorul de culoare ICUMSA, procentul de umiditate și conținutul de zaharoză.
-
-**2. Înregistrare UE și certificare siguranță alimentară**
-Orice furnizor legitim de zahăr din UE va avea certificare ISO 22000 sau FSSC 22000 și va fi înregistrat la autoritatea națională de siguranță alimentară — în România, ANSVSA.
-
-**3. Capacitate de livrare pe tot parcursul anului**
-Unii comercianți mai mici cumpără oportunist în timpul recoltei și nu pot garanta aprovizionarea pe tot parcursul anului. Întrebați specific despre disponibilitatea lor în Q2 — exact atunci furnizorii nefiabili rămân fără stoc.
-
-**4. Calitate constantă a ambalajului**
-Sacii de zahăr alimentar trebuie să-și mențină integritatea în timpul depozitării și transportului. Solicitați saci mostre înainte de o comandă mare. Sacii slab sigilați permit pătrunderea umidității.
-
-**5. Prețuri transparente fără taxe ascunse**
-Un furnizor de încredere furnizează prețul FOB, prima de ambalare, costul de livrare și taxa de documentație ca elemente separate.
-
-## Ce oferă UB Market pentru zahăr en-gros?
-
-UB Market aprovizionează producători alimentari europeni, distribuitori și cumpărători de retail cu zahăr din sfeclă en-gros din baza noastră logistică din Varna, Bulgaria. Rețeaua noastră de aprovizionare conectează producătorii polonezi și bulgari de zahăr din sfeclă.
-
-**Produse disponibile:**
-
-- Zahăr alb rafinat ICUMSA 45 — **saci 50 kg și big-bag-uri 1 tonă**
-- Grad industrial ICUMSA 100–150 — **saci 50 kg și big-bag-uri 1 tonă**
-- Livrare: DAP oriunde în UE, sau FOB/CIF din Varna
-
-**Comandă minimă:** 1 paletă pentru comenzi standard. Minimum 20 tone pentru niveluri de prețuri vrac.
-
-**Timpi de livrare în România:**
-
-- București: 4–5 ore
-- Constanța: 2–3 ore
-- Cluj-Napoca: 8–9 ore
-- Timișoara: 10–11 ore
-
-**Documentație furnizată:** CoA de la laborator acreditat, certificare ISO 22000, certificat fitosanitar, Certificat de Origine și factură comercială. Toate documentele conforme cu cerințele ANSVSA.
-
----
-
-Căutați zahăr en-gros? **[Trimiteți-ne cerințele dvs.](/ro/quote)** — specificați gradul, volumul, formatul de ambalare și destinația de livrare și vom furniza prețuri în 24 de ore.
-
-_Surse: Rapoarte piața zahărului Comisia Europeană 2025, standarde ISO ICUMSA, date aprovizionare UB Market Q1 2026, raport anual Südzucker 2025._
+Cum se integrează zahărul într-o strategie consolidată de aprovizionare cu mărfuri alimentare?
+Cei mai mulți producători de alimente și distribuitori nu aprovizionează zahărul izolat. Un client tipic UB Market ar putea achiziționa într-o singură comandă consolidată: ulei de floarea-soarelui rafinat pentru prăjit și sosuri (€1.100–1.250/t FOB), ulei high-oleic pentru linii premium (€1.300–1.500/t) și zahăr ICUMSA 45 din sfeclă pentru cofetărie sau producție de sosuri (€480–570/t FCA).
+
+Un furnizor, un pachet de documentație, o coordonare logistică. Pentru producătorii sub FSSC 22000 sau BRC — certificate standard în industria alimentară românească — reducerea numărului de furnizori aprobați menținând gama de produse este un avantaj operațional real. UB Market livrează standard: Certificat de Analiză, Certificat de Origine, înregistrări de conformitate HACCP/ISO 22000 — tot ce cer auditurile ANSVSA.
+
+Care sunt termenele tipice de livrare en-gros de zahăr în România?
+DAP din Varna, Bulgaria: București în 4–5 ore. Cluj-Napoca în 8–9 ore. Timișoara în 10–11 ore. Iași în 6–7 ore.
+CIF Constanța (Marea Neagră): 2–3 ore — cea mai scurtă rută pentru volume mari.
+DAP din surse poloneze/cehe: 3–7 zile lucrătoare în România.
+FOB Varna: 3–5 zile pregătire încărcare. Cumpărătorul organizează transportul.
+Pentru cerințe urgente Q4 2026 în contextul tensiunii actuale de piață: recomand să luați legătura cu cel puțin 3–4 săptămâni înainte de data de livrare dorită pentru a asigura disponibilitatea originii.
+
+Cum comandați zahăr din sfeclă en-gros de la UB Market?
+Calitate: ICUMSA 45 / Zahăr pudră / Zahăr fin / Calitate industrială
+Volum: tone necesare lunar sau trimestrial
+Ambalare: saci 25kg / 50kg sau big bag 1.000kg
+Condiție de livrare: DAP depozitul dvs. / CIF Constanța / FOB Varna
+Certificări: ISO 22000, Halal, Non-GMO, ANSVSA-conform dacă este necesar
+Răspundem în 24 de ore cu lista de prețuri curentă, disponibilitate și pachet complet de documentație CoA.
+
+Gata să asigurați aprovizionarea cu zahăr pentru Q4 2026 la prețurile actuale înainte de creșteri suplimentare legate de vreme? Solicitați o ofertă sau contactați-ne direct — răspundem în 24 de ore cu prețuri ferme și documentație completă.
+
+Surse: Commodity Board (CMB News) rapoarte piața zahărului UE iulie 2026; date futures ICE White Sugar No.5 28–29 iulie 2026; date de prețuri comerciale UB Market Q3 2026.
